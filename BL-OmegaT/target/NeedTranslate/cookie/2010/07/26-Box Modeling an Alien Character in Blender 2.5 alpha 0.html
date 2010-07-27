@@ -1,0 +1,1278 @@
+Blender2.5 alpha 0 中基于盒子的外星人物制作
+
+
+
+	<!-- begin #header --><!-- end #header -->
+	
+    <div id="feature"><a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/"><img src="http://www.blendercookie.com/wp-content/themes/bigfeature/library/timthumb/timthumb.php?src=/wp-content/uploads/2009/11/feature_david_ward.jpg&amp;w=846&amp;zc=1" alt="帖子的默认图片 " height="347" width="846"></a></div><!-- begin #content -->
+	
+	<div id="content">
+    <div id="video_wrap"><!-- begin post -->
+    	
+		<div id="page-1184" class="post video feature">
+			            <div class="post-title"><a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/" rel="bookmark" title="Permanent Link to Box Modeling an Alien Character in Blender 2.5 alpha 0">Blender2.5 alpha 0 中基于盒子的外星人物制作</a></div>            <script type="text/javascript"> Cufon.refresh(); </script>			    	<div class="meta">December 1, 2009 &nbsp;|&nbsp; by David Ward &nbsp;|&nbsp; <a href="http://www.blendercookie.com/category/david-ward/" title="View all posts in David Ward" rel="category tag">David Ward</a>,  <a href="http://www.blendercookie.com/category/difficulty/intermediate/" title="View all posts in Intermediate" rel="category tag">Intermediate</a>,  <a href="http://www.blendercookie.com/category/all/tutorials/modeling/" title="查看 建模专栏 里的所有帖子" rel="category tag">Modeling</a>  </div>
+              <div class="tweetmeme_button" style="float: right; height: 50px; padding-bottom: 10px; margin-left: 10px; margin-right: 10px; margin-bottom: 10px; position: relative;"><iframe src="http://api.tweetmeme.com/button.js?url=http%3A%2F%2Fwww.blendercookie.com%2F2009%2F12%2F01%2Fbox-modeling-an-alien-character-in-blender-2-5-alpha-0%2F&amp;style=normal" frameborder="0" height="61" scrolling="no" width="50"></iframe></div>
+<p><!-- Tutorial description here --><br>
+在这个教程里，我会向你展示Blender2.5的一些基本知识，还会包括如何使用box-modeling(盒子建模)技术来创建一个完整的人物。盒子建模技术是个非常好的建模方法，它能帮助你快速建立一个模型的大体形状。而不是一开始就抠细节。<br>
+<!-- End of tutorial description --></p>
+<p><!-- License below --><br>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img style="border-width: 0pt;" src="http://creativecommons.org/images/public/somerights20.png" alt="创作共用许可证"></a><br>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>.<br>
+<!-- End of license --></p>
+<div class="support_box">
+<h6>支持网站 - 下载包内有：</h6>
+<ul class="checklist">
+<li>高分辨率.mov视频</li>
+<li>教程的状态文件 .blend</li>
+</ul>
+<div class="support_purchase"><a class="ec_ejc_thkbx" onclick="javascript:return EJEJC_lc(this);" href="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=568785&amp;cl=82580&amp;ejc=2" target="ej_ejc"><img class="alignnone" title="购买源文件" src="http://cgcookie.com/assets/network/cgc_purchase_4usd.jpg" alt="" height="140" width="180"></a></div>
+<div class="support_or">
+<img alt="" src="http://cgcookie.com/assets/network/cgc_or_text.jpg" title="或" class="alignnone" height="47" width="81">
+</div>
+<div class="support_citizen"><a href="http://www.cgcookiecitizen.com/amember/login.php" target="_blank"><img class="alignnone" title="CG Cookie Citizen" src="http://cgcookie.com/assets/network/cgc_citizenLogin.jpg" alt="" height="140" width="180"></a></div>
+</div>
+<p><!-- End of Support Box --></p>
+<div class="video_box">
+<p><!-- Vimeo embed code below --></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="506" width="900"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=7905406&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff9933&amp;fullscreen=1"><embed type="application/x-shockwave-flash" src="http://vimeo.com/moogaloop.swf?clip_id=7905406&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff9933&amp;fullscreen=1" allowscriptaccess="always" allowfullscreen="true" height="506" width="900"></object></p>
+<p><!-- The Embed code for the Vimeo video ends here --></p></div>
+ 
+   <span class="" style=""><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/&amp;layout=standard&amp;show_faces=false&amp;width=&amp;action=recommend&amp;colorscheme=light&amp;font=" allowtransparency="true" style="border: medium none ; overflow: hidden;" frameborder="0" scrolling="no"></iframe></span>            
+			<div class="pagelink"></div>            
+			<div id="after-article">    	<div class="clear"></div>
+		<div class="adspace clearfix"> 
+		<li id="text-2" class="widget widget_text">			<div class="textwidget">请订阅我们的<a href="http://feeds.feedburner.com/Blendercookiecom">Blender RSS</a> Feed以接受到Blender Cookie的最新文章和培训消息。
+
+<a href="http://www.blendercookie.com/2009/11/20/cg-cookie-citizen-program-created/" target="_blank"><img src="http://cgcookie.com/assets/network/cgc_citizen_graphic.jpg" alt="成为Citizen会员"></a></div>
+		</li>
+        </div>       
+</div>
+		</div><!-- end post -->
+        
+	
+		
+<hr class="comsep">
+	<h4>58Comments</h4><hr>
+			
+	<ol class="commentlist">
+		   	<li class="comment even thread-even depth-1" id="li-comment-327">
+ 	<div id="comment-327" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/49b0c9cd64d4ab6dfb4dcb68bb816fae?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Darth_Gimp</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-327">
+		  		
+		  		December 1, 2009 at 10:32 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>An excellent tutorial!Thanks a bunch for this! </p>
+<p>One thing though.. the view transition thing.. yeah its in 2.49, you can set it in your user preferences at the top of the screen. It is on the first tab “View &amp; Controls”.. look for “smooth view” and set the amount. I have mine set to 700.</p>
+<p>As per your tut, I like how you used the sculpt tool to fix the mouth and such.. great tip!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=327#respond" onclick='return addComment.moveForm("comment-327", "327", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-527">
+ 	<div id="comment-527" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-527">
+		  		
+		  		December 10, 2009 at 9:22 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>yeah i love the sculpt tool <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley">  i’ve also recently gotten into doing really detail modeling for terrains, then using the tangent normal mapping to apply it to a much lower-rez model <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley">  keep an eye out for that in this little series <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=527#respond" onclick='return addComment.moveForm("comment-527", "527", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-328">
+ 	<div id="comment-328" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/9084418e730586a91a053494f8800abc?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Andy P.</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-328">
+		  		
+		  		December 1, 2009 at 1:22 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Wow, I just commented the other day on your YouTube profile.  I said you should do some tuts for Blender Cookie.  I guess you already had that in the works!.</p>
+<p>Cool stuff man, thanks for sharing.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=328#respond" onclick='return addComment.moveForm("comment-328", "328", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-528">
+ 	<div id="comment-528" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-528">
+		  		
+		  		December 10, 2009 at 9:23 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>you’re quite welcome, thanks for watching  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=528#respond" onclick='return addComment.moveForm("comment-528", "528", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-332">
+ 	<div id="comment-332" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/dc0c7c926be44b26f77880a3da4629b9?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://N/a" rel="external nofollow" class="url">Mehmet PINARCI</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-332">
+		  		
+		  		December 1, 2009 at 4:35 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>dude its a great tutorial , and mumblin ait that bad . Greatwork on the lips though .</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=332#respond" onclick='return addComment.moveForm("comment-332", "332", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-529">
+ 	<div id="comment-529" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-529">
+		  		
+		  		December 10, 2009 at 9:24 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>yeah the mumbling part is unintentional, but it does provide “filler sound” <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley">  radio d.j.s will tell you that dead air is the worst thing you can do <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=529#respond" onclick='return addComment.moveForm("comment-529", "529", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-334">
+ 	<div id="comment-334" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/6a876738318f3a75cae3dde396ec2415?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.animandre.blogspot.com" rel="external nofollow" class="url">Animandré</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-334">
+		  		
+		  		December 1, 2009 at 10:12 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Very good!Muito bom!</p>
+<p>Animandré from Paulista-PE/Brasil</p>
+<p>Thank´s!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=334#respond" onclick='return addComment.moveForm("comment-334", "334", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-530">
+ 	<div id="comment-530" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-530">
+		  		
+		  		December 10, 2009 at 9:25 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>você é bem-vindo, senhor  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=530#respond" onclick='return addComment.moveForm("comment-530", "530", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-335">
+ 	<div id="comment-335" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/c7c78a485458ef3e56f445a378ad2640?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.mangagothicmedia.com" rel="external nofollow" class="url">Manga Gothic Media</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-335">
+		  		
+		  		December 1, 2009 at 11:35 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Glad to see you joined the Blender Cookie team Ward. I been thinking of box modeling humans for my War of the Worlds project, you’ve just made it 10x easier, thanks</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=335#respond" onclick='return addComment.moveForm("comment-335", "335", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-531">
+ 	<div id="comment-531" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-531">
+		  		
+		  		December 10, 2009 at 9:25 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>happy to be of service  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=531#respond" onclick='return addComment.moveForm("comment-531", "531", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-344">
+ 	<div id="comment-344" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/6a876738318f3a75cae3dde396ec2415?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.animandre.blogspot.com" rel="external nofollow" class="url">Animandré</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-344">
+		  		
+		  		December 2, 2009 at 10:30 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>OK!It will be really great to see this project.</p>
+<p>Success, friend!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=344#respond" onclick='return addComment.moveForm("comment-344", "344", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-532">
+ 	<div id="comment-532" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-532">
+		  		
+		  		December 10, 2009 at 9:25 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>thank you, and success to you as well  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=532#respond" onclick='return addComment.moveForm("comment-532", "532", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-349">
+ 	<div id="comment-349" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/eb789f2d6cdd1b72f0159d464ecd0143?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://craigps.info/" rel="external nofollow" class="url">Craigsnedeker</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-349">
+		  		
+		  		December 2, 2009 at 4:47 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Cool!I’ve been box modeling some stuff for a music video I’m making. Really works good on more cartoonish characters</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=349#respond" onclick='return addComment.moveForm("comment-349", "349", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-533">
+ 	<div id="comment-533" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-533">
+		  		
+		  		December 10, 2009 at 9:27 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>i agree. box modeling is a quick way to get a nice cartoonish/roundish look without having to get really detailed. for more realistic characters, i’d recommend the plane-modeling technique (ala my johnny blender series)</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=533#respond" onclick='return addComment.moveForm("comment-533", "533", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-355">
+ 	<div id="comment-355" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/21147a16a6c3de7ae8977cfb49412835?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Heke</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-355">
+		  		
+		  		December 3, 2009 at 4:35 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Nice one!<br>Hoping to see a tut on rigging him next <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=355#respond" onclick='return addComment.moveForm("comment-355", "355", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-534">
+ 	<div id="comment-534" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-534">
+		  		
+		  		December 10, 2009 at 9:27 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>patience, young grasshopper  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=534#respond" onclick='return addComment.moveForm("comment-534", "534", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-358">
+ 	<div id="comment-358" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/7ef852eda767fd2084cbb879280cf092?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">verb</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-358">
+		  		
+		  		December 3, 2009 at 6:37 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Thanks for the tutorial!<br>Great new tutor has joined BlenderCookie!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=358#respond" onclick='return addComment.moveForm("comment-358", "358", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-535">
+ 	<div id="comment-535" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-535">
+		  		
+		  		December 10, 2009 at 9:27 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>aww you flatter me <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley">  *blush*</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=535#respond" onclick='return addComment.moveForm("comment-535", "535", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-365">
+ 	<div id="comment-365" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/925c4fe5bdc7e7a12f4ef23479ee4cf9?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.youngandemployed.com" rel="external nofollow" class="url">Frank</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-365">
+		  		
+		  		December 3, 2009 at 12:57 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Thanks a lot… I love my new Alien.  Please post an armature/animation video for it.  I cant wait to make a short movie with a character like him.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=365#respond" onclick='return addComment.moveForm("comment-365", "365", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-536">
+ 	<div id="comment-536" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-536">
+		  		
+		  		December 10, 2009 at 9:28 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>next up is texturing, and i plan to give him a space suit. after that comes the rigging, followed by animation  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=536#respond" onclick='return addComment.moveForm("comment-536", "536", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-366">
+ 	<div id="comment-366" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/cd09c535112e7779b9c63ff71579f09c?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">AlphaSite</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-366">
+		  		
+		  		December 3, 2009 at 12:57 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>To get the add menu just use Shift+A, t will bring it up to the mouse as before.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=366#respond" onclick='return addComment.moveForm("comment-366", "366", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-537">
+ 	<div id="comment-537" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-537">
+		  		
+		  		December 10, 2009 at 9:29 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>awesome!thanks for the tip. i was still trying to use the spacebar :{</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=537#respond" onclick='return addComment.moveForm("comment-537", "537", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even depth-2" id="li-comment-3593">
+ 	<div id="comment-3593" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/0d4a2fe8fb5e3f9c8b22f518977a8ff5?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Chris</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-3593">
+		  		
+		  		May 16, 2010 at 7:24 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>You can still use the space-bar when the menu pops up type What you want like- Add Plane Add UV Sphere</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=3593#respond" onclick='return addComment.moveForm("comment-3593", "3593", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-417">
+ 	<div id="comment-417" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/2c04cf3d5e588d1f96ebe1292db8f640?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Paulo Bardes</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-417">
+		  		
+		  		December 5, 2009 at 8:41 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Great tutorial!I loved the new interface of 2.5 but one thing that was really annoying me in 2.5 was that when I’m rotating, grabbing or doing anything like this, if I hit the edge of the 3D view, the cursor jumps to the opposite side. The way to disable that is going to the user preferences (ctrl+alt+u) in the input tab there is a check box called “Continuous Grab”, just uncheck the box, and now your mouse moves perfectly when grabbing or rotating…</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=417#respond" onclick='return addComment.moveForm("comment-417", "417", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment even depth-2" id="li-comment-538">
+ 	<div id="comment-538" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-538">
+		  		
+		  		December 10, 2009 at 9:29 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>i will give that a try. thanks for the heads up  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=538#respond" onclick='return addComment.moveForm("comment-538", "538", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-435">
+ 	<div id="comment-435" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/49dd5a8465ff486e01d4604b2715ecdf?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.vertexcomplex.com" rel="external nofollow" class="url">Kris</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-435">
+		  		
+		  		December 6, 2009 at 1:46 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>As a modeler, I didn’t need this so much. But I do like that you took the time to show some Blender tips and tricks to those of us who would like to migrate from other packages.  </p>
+<p>I do hope that you do the rigging and such. I animate in Maya and would really like to take advantage of the tools in Blender but I have no clue where to start.  </p>
+<p>Good job and thanks for sharing.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=435#respond" onclick='return addComment.moveForm("comment-435", "435", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment even depth-2" id="li-comment-539">
+ 	<div id="comment-539" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-539">
+		  		
+		  		December 10, 2009 at 9:30 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>you’re quite welcome <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley">  yeah i plan to completely finish this guy, as i mentioned above: next is texturing, then rigging, then animation. so stay tuned <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=539#respond" onclick='return addComment.moveForm("comment-539", "539", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-477">
+ 	<div id="comment-477" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/78dd76d9f0b63b9dc943d21b7071b262?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Luciano Munoz</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-477">
+		  		
+		  		December 8, 2009 at 11:27 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>as ALPHASITE said, you can have your meny with SHIFT A, but the nice thing about the spacebar is that it is a tool search, like spotlight on the mac or something like that, so if you want to add a cube, then type CUBE, and it’ll appear the add cube and just hit enter <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley"> !</p>
+<p>CHeers!!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=477#respond" onclick='return addComment.moveForm("comment-477", "477", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment even depth-2" id="li-comment-540">
+ 	<div id="comment-540" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-540">
+		  		
+		  		December 10, 2009 at 9:31 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>another awesome tip!thanks!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=540#respond" onclick='return addComment.moveForm("comment-540", "540", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-507">
+ 	<div id="comment-507" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/085b02c1559ec44b482e5cfda9bd39e8?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://thiagokolb.wordpress.com" rel="external nofollow" class="url">Thiago Kolb</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-507">
+		  		
+		  		December 10, 2009 at 12:29 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>High resolution</p>
+<p>Thanks  </p>
+<p> <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=507#respond" onclick='return addComment.moveForm("comment-507", "507", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment even depth-2" id="li-comment-541">
+ 	<div id="comment-541" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa749a5cea80bcb2e22456c2c0114be6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://www.davidallenward.com" rel="external nofollow" class="url">Dave Ward</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-541">
+		  		
+		  		December 10, 2009 at 9:31 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>don’t thank me, thank blendercookie <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley">  altho you’re welcome, all the same <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=541#respond" onclick='return addComment.moveForm("comment-541", "541", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-570">
+ 	<div id="comment-570" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/998a0a41708ec577d5aeba97e20fb6d8?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Darrell</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-570">
+		  		
+		  		December 12, 2009 at 3:19 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Great tutorial!Thanks!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=570#respond" onclick='return addComment.moveForm("comment-570", "570", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-641">
+ 	<div id="comment-641" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/8c8e8970cb32e8655a2cf50411a25ac9?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Klesus</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-641">
+		  		
+		  		December 15, 2009 at 10:41 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>When adding a sphere (or any type of object) you can check “view align” to make it orientate to your current viewport. By default everything is oriented by the global x, y, z axis, where x is width, y is depth and z is height. So if you press 1 to turn to frontview and then check “view align” then it will result in a sphere that’s rotated 90 degrees along the x axis.<br>Just my 2c <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=641#respond" onclick='return addComment.moveForm("comment-641", "641", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-642">
+ 	<div id="comment-642" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/6a3f2a76451f57efcb388dfeef024226?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">rafael fontes</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-642">
+		  		
+		  		December 15, 2009 at 10:55 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>PROTUGUESE BRAZIL ~</p>
+<p>Belo tutorial cara, gostei bastante, isso que eu tava precisando de verdade *–*<br>10/10 *</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=642#respond" onclick='return addComment.moveForm("comment-642", "642", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-679">
+ 	<div id="comment-679" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/d0eb49c3b80ec7a9617c044a563b4525?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Milan</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-679">
+		  		
+		  		December 16, 2009 at 1:41 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Great tutorial, are you planning to do more of this…maybe other subjects (lighting, materials, animation…)?</p>
+<p>regards</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=679#respond" onclick='return addComment.moveForm("comment-679", "679", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-705">
+ 	<div id="comment-705" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/e71f0372b20786e163a5130d40f7b270?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">david</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-705">
+		  		
+		  		December 17, 2009 at 11:52 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>hey david, do you still have blender 2.49</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=705#respond" onclick='return addComment.moveForm("comment-705", "705", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-712">
+ 	<div id="comment-712" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/f7510aeb0a5a7722459d1bd54b2c0246?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">filip c</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-712">
+		  		
+		  		December 17, 2009 at 3:47 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Is it possible to maximize the tutorial ?</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=712#respond" onclick='return addComment.moveForm("comment-712", "712", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment byuser comment-author-jonathanwilliamson odd alt depth-2" id="li-comment-715">
+ 	<div id="comment-715" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/676090349a291eaba81209fbe68b13aa?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://blendercookie.com" rel="external nofollow" class="url">Jonathan Williamson</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-715">
+		  		
+		  		December 17, 2009 at 4:08 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Pressing the 4-arrows icon next to the volume slider will maximize the video to full screen.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=715#respond" onclick='return addComment.moveForm("comment-715", "715", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment even depth-3" id="li-comment-724">
+ 	<div id="comment-724" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/f7510aeb0a5a7722459d1bd54b2c0246?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">filip c</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-724">
+		  		
+		  		December 18, 2009 at 3:35 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Thank you, I would not have found it.<br>Saving is not possible, I suppose.<br>I have allready reached my UMTS volume download limit this month.</p>
+
+      <div class="reply">
+               </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+</ul>
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1019">
+ 	<div id="comment-1019" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/7ab04512793517e192835a874769ae9b?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">trixiemay</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-1019">
+		  		
+		  		January 6, 2010 at 5:42 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>“wish we had the UNDO command in real life”</p>
+<p>aint that the truth…lol</p>
+<p>Very inspiring stuff Dave from a C4D to Blender switcher.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=1019#respond" onclick='return addComment.moveForm("comment-1019", "1019", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-1022">
+ 	<div id="comment-1022" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/3cd34b60f56a7aa8e00e1cc8e824b2ed?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">iulian</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-1022">
+		  		
+		  		January 6, 2010 at 2:18 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Can you make a mouth  and eye tutorial ?</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=1022#respond" onclick='return addComment.moveForm("comment-1022", "1022", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1032">
+ 	<div id="comment-1032" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/7c2846a52df132ee3e77f44c85af5da8?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Jahovagis</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-1032">
+		  		
+		  		January 7, 2010 at 12:45 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>thank’s for the great tutorial. that showed me a bunch of stuff on box modeling and the sculpt tool. And now I know what my butt’s for…</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=1032#respond" onclick='return addComment.moveForm("comment-1032", "1032", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-1461">
+ 	<div id="comment-1461" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/5eb12fb73dfa6d77e1676b17cd17fffe?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://therelanoz@blogspot.com" rel="external nofollow" class="url">therealnoz</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-1461">
+		  		
+		  		January 31, 2010 at 3:28 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Um, yeah, I was a little confused when you extruded the top of the wrist then it “magically” became a single finger.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=1461#respond" onclick='return addComment.moveForm("comment-1461", "1461", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1678">
+ 	<div id="comment-1678" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/82b3a954c03c300da332ce0f7abf8bf5?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">William</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-1678">
+		  		
+		  		February 14, 2010 at 2:06 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>I love your tutorials!You can teach absolutely great!No blackout about what you just did, I can learn really fast!致谢</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=1678#respond" onclick='return addComment.moveForm("comment-1678", "1678", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-2269">
+ 	<div id="comment-2269" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/397bf7ffecb77f3cbf19e7aa1eeee87f?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Alf</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-2269">
+		  		
+		  		March 30, 2010 at 1:18 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>When I click on Sculpt Mode, Blender fails and closes. Is this because it’s an Alpha version, or is there something wrong with my computer?</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=2269#respond" onclick='return addComment.moveForm("comment-2269", "2269", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment odd alt depth-2" id="li-comment-3584">
+ 	<div id="comment-3584" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/82cf91f642db5111046cb29a6ccfbdb3?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Jazz</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-3584">
+		  		
+		  		May 16, 2010 at 12:39 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Try reistalling python 2.6 and 3.1. I had same problem and i believe reinstalling python fixed it.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=3584#respond" onclick='return addComment.moveForm("comment-3584", "3584", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-3585">
+ 	<div id="comment-3585" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/82cf91f642db5111046cb29a6ccfbdb3?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Jazz</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-3585">
+		  		
+		  		May 16, 2010 at 12:43 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Btw Mr.Ward your tutorials have helped me more than a could ever say I’ve followed you youtube channel but you mostly only have 2.49 tutorials. I was attempting to understnd them with 2.5 ,but with little luck. Are you switching to 2.5 for good now?</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=3585#respond" onclick='return addComment.moveForm("comment-3585", "3585", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-3641">
+ 	<div id="comment-3641" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/a2f31aa80a0e5fdf02de29d2e048aad4?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Kewl Luser</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-3641">
+		  		
+		  		May 19, 2010 at 9:31 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Positively amazing especially as it is done in Alpha 0!!!XD</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=3641#respond" onclick='return addComment.moveForm("comment-3641", "3641", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-3658">
+ 	<div id="comment-3658" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/51991499cfd9068fc094b47351cb09c3?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">matt</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-3658">
+		  		
+		  		May 19, 2010 at 11:23 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Thank you so much!Watching this video helped me get my topology right for my project and your tutorial on rigging made sure that my rig worked right!!!!!I really appreciate these tutorials, and I will be watching more as soon as I can!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=3658#respond" onclick='return addComment.moveForm("comment-3658", "3658", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-4060">
+ 	<div id="comment-4060" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/476c823541b19a08cd00c9355148cf9a?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://none" rel="external nofollow" class="url">willem Goossens</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-4060">
+		  		
+		  		June 9, 2010 at 3:11 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>I have problems with the scaling???<br>(i’m working in blender 2.5 alpha 0)</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=4060#respond" onclick='return addComment.moveForm("comment-4060", "4060", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-4076">
+ 	<div id="comment-4076" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/0ff22024785a22d5f7255bc55f89a4d5?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Tyler</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-4076">
+		  		
+		  		June 10, 2010 at 2:21 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Make sure to check the “clipping” check box… very important for the mirror modifier.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=4076#respond" onclick='return addComment.moveForm("comment-4076", "4076", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-4098">
+ 	<div id="comment-4098" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/476c823541b19a08cd00c9355148cf9a?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://none" rel="external nofollow" class="url">willem Goossens</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-4098">
+		  		
+		  		June 10, 2010 at 3:29 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Thanks,<br>but i got another problem:<br>when i added a UV sphere, the wireframe of the rest of the face desappered?<br>so i did ctrl+Z and the sphere desappered, but i stil cant get the wireframe…</p>
+<p>Can anybody help me??</p>
+<p>W.G.</p>
+<p>p.s. I use blender 2.5 alpha 2</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=4098#respond" onclick='return addComment.moveForm("comment-4098", "4098", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-4724">
+ 	<div id="comment-4724" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/6d087ee7a6b41e7946b1ddd9b101c278?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">syth406</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-4724">
+		  		
+		  		June 21, 2010 at 6:37 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>great tutorial but i had to keep redoing it because blender 2.5 is glitchy and crashes and i never save  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=4724#respond" onclick='return addComment.moveForm("comment-4724", "4724", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-4934">
+ 	<div id="comment-4934" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa7db9ccd8a5c23b80401f6c093adf03?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://blendercookie" rel="external nofollow" class="url">Tiffany Liu</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-4934">
+		  		
+		  		July 2, 2010 at 8:39 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Ok, I’m a green horn when it comes to 3d modeling. I’ve followed this video step by step until I’ve reached the mirror part. I know it’s supposed to mirror the object immediately, however it doesn’t. I’m not sure why my mirror modifier isn’t working.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=4934#respond" onclick='return addComment.moveForm("comment-4934", "4934", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-4935">
+ 	<div id="comment-4935" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa7db9ccd8a5c23b80401f6c093adf03?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://blendercookie" rel="external nofollow" class="url">Tiffany Liu</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-4935">
+		  		
+		  		July 2, 2010 at 8:49 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Oh, I figured it out. It wasn’t facing the front and the mirror program only likes to add on perpendicular to the model. Because the model was on its side, it confused the program.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=4935#respond" onclick='return addComment.moveForm("comment-4935", "4935", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-4937">
+ 	<div id="comment-4937" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/fa7db9ccd8a5c23b80401f6c093adf03?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://blendercookie" rel="external nofollow" class="url">Tiffany Liu</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-4937">
+		  		
+		  		July 2, 2010 at 10:12 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Ok, I’m trying to model the shape now and it keeps messing up. (I keep messing up.) How do I view my mess like the mess in the video?At front view, Mr. Ward only sees the front edge lines and modifies them accordingly. However, I see all my pts and edges while looking at the front view. I can’t grab the edges right or as cleanly as the video. How do I make my mesh less transparent?</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=4937#respond" onclick='return addComment.moveForm("comment-4937", "4937", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-4960">
+ 	<div id="comment-4960" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/085b02c1559ec44b482e5cfda9bd39e8?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://thiagokolb.wordpress.com" rel="external nofollow" class="url">Thiago Kolb</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-4960">
+		  		
+		  		July 3, 2010 at 10:42 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>help</p>
+<p>I wonder what david shortcut that uses the part of the alien’s neck<br>that the 20:30 / 20:40 of the video?</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=4960#respond" onclick='return addComment.moveForm("comment-4960", "4960", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-5325">
+ 	<div id="comment-5325" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/0aba43a2d815105b6775ecd9792a3bca?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">JJ</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/comment-page-1/#comment-5325">
+		  		
+		  		July 24, 2010 at 2:41 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Absolutely great tutorial!Thumbs up!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/?replytocom=5325#respond" onclick='return addComment.moveForm("comment-5325", "5325", "respond", "1184")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+	</ol>
+        
+        	
+	<div class="paginated-comments"></div>
+
+ 
+
+
+<div id="respond">
+<a href="mailto:support@cgcookie.zendesk.com"><img src="http://blendercookie.com/assets/adverts/support_graphic_advert.jpg" height="75" width="322"></a>
+	<h4>留下一个回复</h4>
+
+	<div class="cancel-comment-reply">
+		<small><a rel="nofollow" id="cancel-comment-reply-link" href="/2009/12/01/box-modeling-an-alien-character-in-blender-2-5-alpha-0/#respond" style="display: none;">Click here to cancel reply.</a></small>
+	</div><!-- begin comment form -->
+
+		
+	
+	<form action="http://www.blendercookie.com/wp-comments-post.php" method="post" id="commentform">
+	
+			
+		<p><input name="author" id="author" value="Fox" tabindex="1" type="text">
+		<label for="author">Name required</label></p>
+		
+		<p><input name="email" id="email" value="idisblueflash@gmail.com" tabindex="2" type="text">
+		<label for="email">Mail (will not be published) required</label></p>
+		
+		<p><input name="url" id="url" value="http://blog.blendercn.org" tabindex="3" type="text">
+		<label for="url">网站</label></p>
+	
+		
+	<p><textarea name="comment" id="comment" cols="60" rows="10" tabindex="4"></textarea></p>	
+	
+		
+	
+	<p><input class="button" name="submit" id="submit" tabindex="5" value="提交评论" type="submit">
+	<input name="comment_post_ID" value="1184" id="comment_post_ID" type="hidden">
+<input name="comment_parent" id="comment_parent" value="0" type="hidden">
+</p>
+		<script type="text/javascript">
+	<!--
+	refJS = escape( document[ 'referrer' ] );
+	document.write("<input type='hidden' name='refJS' value='"+refJS+"'>");
+	// -->
+	</script><input name="refJS" value="http%3A//www.blendercookie.com/category/all/tutorials/modeling/page/5/" type="hidden">
+	<p style="font-size: 9px; clear: both;">Spam Protection by <a href="http://www.polepositionmarketing.com/library/wp-spamfree/" title="WP-SpamFree WordPress Anti-Spam Plugin">WP-SpamFree</a></p>
+	
+	</form><!-- end comment form -->
+	
+	
+	</div>
+	
+
+		
+	</div><!-- end #content -->
+    
+</div>
+    
+    
+	    
+ 
+
+

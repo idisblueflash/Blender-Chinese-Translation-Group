@@ -1,0 +1,552 @@
+使用Blender 2.53里面新的雕刻系统
+
+
+
+
+	<!-- begin #header -->
+	<div id="header" class="clearfix">    
+		
+<div id="advert_box">
+<a href="http://www.blendercookie.com/2010-blender-training/" target="_blank"><img src="http://blendercookie.com/assets/blend_training/2010_advert.jpg" alt="Blender练习"></a>
+<script type="text/javascript">
+Vertical1244697 = false;
+ShowAdHereBanner1244697 = false;
+RepeatAll1244697 = false;
+NoFollowAll1244697 = false;
+BannerStyles1244697 = new Array(
+    "a{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0 4px 10px 0;text-align:center;text-decoration:none;overflow:hidden;}",
+    "img{border:0;clear:right;}",
+    "a.adhere{color:#666;font-weight:bold;font-size:12px;border:1px solid #ccc;background:#e7e7e7;text-align:center;}",
+    "a.adhere:hover{border:1px solid #999;background:#ddd;color:#333;}"
+);
+document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buysellads.com/1244697/1244697.js?v="+Date.parse(new Date())+"' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+<div id="logo_box"><a href="/index.php"><img src="/wp-content/themes/bigfeature/images/common/logo.png" alt="回到Cookies首页"></a></div>
+<div id="gswb_btn">
+      <a href="http://www.blendercookie.com/getting-started-with-blender/"><img src="/wp-content/themes/bigfeature/images/gswb_btn.png" alt="Blender入门"></a>
+</div>
+<div id="topsearch"><form method="get" class="searchform" name="searchform" action="http://www.blendercookie.com/">
+<div class="searchbox">
+ <input name="s" class="searchfield" value="搜索网站..." onfocus="this.value=''" type="text">
+<a href="javascript:document.searchform.submit()" class="searchicon"></a></div>
+</form>
+</div>
+ 
+	    <script type="text/javascript" src="http://www.blendercookie.com/wp-content/themes/bigfeature/library/js/superfish/hoverIntent.js"></script>
+    <script type="text/javascript" src="http://www.blendercookie.com/wp-content/themes/bigfeature/library/js/superfish/superfish.js"></script>    
+    
+    <script type="text/javascript">
+	jQuery(document).ready(function($){					
+        $('ul.sf-menu').superfish();	 
+    });
+    </script>	
+		
+	
+           	
+	<ul id="navigation" class="sf-menu sf-js-enabled">
+    <div id="social_icons">
+    <a href="http://feeds.feedburner.com/Blendercookiecom" target="_blank"><img src="/wp-content/themes/bigfeature/images/icons_rss/rss.png" alt="RSS rocks"></a>
+    <a href="http://mavenseed.com" target="_blank"><img src="/wp-content/themes/bigfeature/images/icons_rss/ms.png" alt="Mavenseed - Private CG Tutoring"></a>    <a href="http://www.facebook.com/pages/Blender-Cookie/155360796903"><img src="/wp-content/themes/bigfeature/images/icons_rss/fb.png" alt="Blender Cookie Facebook"></a>
+    <a href="https://twitter.com/BlenderCookie" target="_blank"><img src="/wp-content/themes/bigfeature/images/icons_rss/twit.png" alt="Twitter"></a>
+    <a href="http://vimeo.com/groups/13415/" target="_blank"><img src="/wp-content/themes/bigfeature/images/icons_rss/vim.png" alt="Vimeo"></a> </div>	
+		
+                    <li class=" first"><a href="http://www.blendercookie.com">首页</a></li>
+              <li class=" "><a href="http://www.blendercookie.com/category/all/tutorials/">教程</a><ul style="display: none; visibility: hidden;">	<li class="cat-item cat-item-11"><a href="http://www.blendercookie.com/category/all/tutorials/animation/" title="查看所有 动画栏目 里的帖子">动画</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="http://www.blendercookie.com/category/all/tutorials/bundles/" title="查看所有 Bundles栏目 里的帖子">Bundles</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://www.blendercookie.com/category/all/tutorials/compositing/" title="View all posts filed under Compositing">合成</a>
+</li>
+	<li class="cat-item cat-item-164"><a href="http://www.blendercookie.com/category/all/tutorials/exclusive-tutorials-all/" title="查看所有 独家报道栏目 里的帖子">独家报道</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.blendercookie.com/category/all/tutorials/fx/" title="查看所有 FX栏目 里的帖子">FX</a>
+</li>
+	<li class="cat-item cat-item-141"><a href="http://www.blendercookie.com/category/all/tutorials/game-engine/" title="查看所有 游戏引擎栏目 里的帖子">游戏引擎</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.blendercookie.com/category/all/tutorials/interface/" title="查看所有 界面栏目 里的帖子">界面</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.blendercookie.com/category/all/tutorials/lighting/" title="查看所有 光影栏目 里的帖子">光影</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.blendercookie.com/category/all/tutorials/modeling/" title="查看所有 建模栏目 里的帖子">建模</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://www.blendercookie.com/category/all/tutorials/particles/" title="查看所有 粒子栏目 里的帖子">粒子</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="http://www.blendercookie.com/category/all/tutorials/physicsdynamics/" title="查看所有 物理/动力学栏目 里的帖子">物理/动力学</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.blendercookie.com/category/all/tutorials/rendering/" title="查看所有 渲染栏目 里的帖子">渲染</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://www.blendercookie.com/category/all/tutorials/scripts/" title="查看所有 脚本栏目 里的帖子">脚本</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.blendercookie.com/category/all/tutorials/texturing/" title="查看所有 纹理栏目 里的帖子">纹理</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.blendercookie.com/category/all/tutorials/tips/" title="查看所有 小提示栏目 里的帖子">小提示</a>
+</li>
+</ul></li><li class=" "><a href="http://www.blendercookie.com/category/articles/">文章</a><ul style="display: none; visibility: hidden;">	<li class="cat-item cat-item-398"><a href="http://www.blendercookie.com/category/articles/contests/" title="查看所有 比赛栏目 里的帖子">比赛</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.blendercookie.com/category/articles/fresh-batch/" title="查看所有 Fresh Batch栏目 里的帖子">Fresh Batch</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.blendercookie.com/category/articles/interviews/" title="查看所有 访谈栏目 里的帖子">访谈</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.blendercookie.com/category/articles/resources/" title="查看所有 资源栏目 里的帖子">资源</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.blendercookie.com/category/articles/reviews/" title="查看所有 回顾栏目 里的帖子">回顾</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="http://www.blendercookie.com/category/articles/site-news/" title="查看所有 网站新闻栏目 里的帖子">网站新闻</a>
+</li>
+</ul></li><li class=" "><a href="http://www.blendercookie.com/about-2/">关于</a><ul style="display: none; visibility: hidden;"><li class="page_item page-item-1373"><a href="http://www.blendercookie.com/about-2/instructors/" title="指导教师">指导教师</a></li>
+<li class="page_item page-item-167"><a href="http://www.blendercookie.com/about-2/advertise/" title="广告">广告</a></li>
+</ul></li><li class=" "><a href="http://www.blendercookie.com/category/free-stuff/">免费内容</a><ul style="display: none; visibility: hidden;">	<li class="cat-item cat-item-148"><a href="http://www.blendercookie.com/category/free-stuff/contribute/" title="查看所有 贡献栏目 里的帖子">贡献</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="http://www.blendercookie.com/category/free-stuff/models/" title="查看所有 模型栏目 里的帖子">模型</a>
+</li>
+	<li class="cat-item cat-item-220"><a href="http://www.blendercookie.com/category/free-stuff/reference-free-stuff/" title="查看所有 参考栏目 里的帖子">参考</a>
+</li>
+	<li class="cat-item cat-item-107"><a href="http://www.blendercookie.com/category/free-stuff/textures/" title="查看所有 纹理栏目 里的帖子">纹理</a>
+</li>
+</ul></li><li class=" "><a href="http://cgcookiecitizen.com">Citizen</a><ul style="display: none; visibility: hidden;"><li class="page_item page-item-1121"><a href="http://www.cgcookiecitizen.com/amember/login.php" title="登录">登录</a></li>
+<li class="page_item page-item-1124"><a href="http://cgcookiecitizen.com/amember/signup.php" title=" 注册"> 注册</a></li>
+</ul></li><li class=" last"><a href="http://www.blendercookie.com/support/">支持</a><ul style="display: none; visibility: hidden;"><li class="page_item page-item-822"><a href="http://www.blendercookie.com/2009/11/24/contribute/" title="贡献">贡献</a></li>
+<li class="page_item page-item-274"><a href="http://www.blendercookie.com/support/f-a-q/" title="常见问题">常见问题</a></li>
+</ul></li>        
+	</ul><div class="clear"></div>
+    </div><!-- end #header -->
+    <div id="feature"><a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/"><img src="http://www.blendercookie.com/wp-content/themes/bigfeature/library/timthumb/timthumb.php?src=/wp-content/uploads/2010/07/253_sculpting_feature.jpg&amp;w=846&amp;zc=1" alt="帖子的默认图片 " height="346" width="846"></a></div><!-- begin #content -->
+	
+	<div id="content">
+    <div id="video_wrap"><!-- begin post -->
+    	
+		<div id="page-3527" class="post video feature">
+			            <div class="post-title"><a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/" rel="bookmark" title="Permanent Link to Using the New Sculpting System in Blender 2.53">使用Blender 2.53里面新的雕刻系统</a></div>            <script type="text/javascript"> Cufon.refresh(); </script>			    	<div class="meta">July 23, 2010 &nbsp;|&nbsp; by Jonathan Williamson &nbsp;|&nbsp; <a href="http://www.blendercookie.com/category/difficulty/beginner/" title="View all posts in Beginner" rel="category tag">Beginner</a>,  <a href="http://www.blendercookie.com/category/featured/" title="View all posts in Featured" rel="category tag">Featured</a>,  <a href="http://www.blendercookie.com/category/all/tutorials/modeling/" title="查看 建模专栏 里的所有帖子" rel="category tag">Modeling</a>,  <a href="http://www.blendercookie.com/category/all/tutorials/" title="在 教程专栏 里查看所有帖子" rel="category tag">Tutorials</a>  </div>
+              <div class="tweetmeme_button" style="float: right; height: 50px; padding-bottom: 10px; margin-left: 10px; margin-right: 10px; margin-bottom: 10px; position: relative;"><iframe src="http://api.tweetmeme.com/button.js?url=http%3A%2F%2Fwww.blendercookie.com%2F2010%2F07%2F23%2Fsculpting-blender-2-53%2F&amp;style=normal" frameborder="0" height="61" scrolling="no" width="50"></iframe></div>
+<p>在这个Blender2.53的视频教程里，让我们来看看Blender最新版中，刚刚重构过的雕刻系统。新系统在雕刻工具集里，增加了许多新的笔刷和功能，从而提供了一个更加流畅，功能更丰富的工作流程。</p>
+<p>别忘记来下载崭新的<a href="http://www.blender.org/development/release-logs/blender-250/"> Blender 2.53。</a></p>
+<div class="support_box">
+<h6>支持网站 - 下载包内有：</h6>
+<ul class="checklist">
+<li>高分辨率.mov视频</li>
+</ul>
+<div class="support_purchase"><a href="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=779927&amp;cl=82580&amp;ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onclick="javascript:return EJEJC_lc(this);"><img class="alignnone" title="购买源文件" src="http://cgcookie.com/assets/network/cgc_purchase_4usd.jpg" alt="" height="140" width="180"></a></div>
+<div class="support_or"><img class="alignnone" title="或" src="http://cgcookie.com/assets/network/cgc_or_text.jpg" alt="" height="47" width="81"></div>
+<div class="support_citizen"><a href="http://www.cgcookiecitizen.com/amember/login.php" target="_blank"><img class="alignnone" title="CG Cookie Citizen" src="http://cgcookie.com/assets/network/cgc_citizenLogin.jpg" alt="" height="140" width="180"></a></div>
+</div>
+<p><!-- End of Support Box --><br>
+<object height="675" width="900"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=13565782&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff9933&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=13565782&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff9933&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" height="675" width="900"></object></p>
+ 
+   <span class="" style=""><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/&amp;layout=standard&amp;show_faces=false&amp;width=&amp;action=recommend&amp;colorscheme=light&amp;font=" allowtransparency="true" style="border: medium none ; overflow: hidden;" frameborder="0" scrolling="no"></iframe></span>            
+			<div class="pagelink"></div>            
+			<div id="after-article">    	<div class="clear"></div>
+		<div class="adspace clearfix"> 
+		<li id="text-2" class="widget widget_text">			<div class="textwidget">请订阅我们的<a href="http://feeds.feedburner.com/Blendercookiecom">Blender RSS</a> Feed以接受到Blender Cookie的最新文章和培训消息。
+
+<a href="http://www.blendercookie.com/2009/11/20/cg-cookie-citizen-program-created/" target="_blank"><img src="http://cgcookie.com/assets/network/cgc_citizen_graphic.jpg" alt="成为Citizen会员"></a></div>
+		</li>
+        </div>       
+</div>
+		</div><!-- end post -->
+        
+	
+		
+<hr class="comsep">
+	<h4>图十八Comments</h4><hr>
+			
+	<ol class="commentlist">
+		   	<li class="comment even thread-even depth-1" id="li-comment-5272">
+ 	<div id="comment-5272" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/f8f4a6d34390cd2e915057c233519706?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://oruchuban.ru" rel="external nofollow" class="url">sid350</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5272">
+		  		
+		  		July 23, 2010 at 1:42 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>This is amazing new features that open new horizons to sculpting in Blender!Thank you.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5272#respond" onclick='return addComment.moveForm("comment-5272", "5272", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-5273">
+ 	<div id="comment-5273" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/acad666c9d84462eda7f336ae9826cdf?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Amani</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5273">
+		  		
+		  		July 23, 2010 at 1:48 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>It is enlighting, thank you very much Jonathan.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5273#respond" onclick='return addComment.moveForm("comment-5273", "5273", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-5274">
+ 	<div id="comment-5274" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/47c7722ea6e4fe16c75dc8f258c0bbc2?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">snee</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5274">
+		  		
+		  		July 23, 2010 at 3:52 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>you guys got this up FAST!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5274#respond" onclick='return addComment.moveForm("comment-5274", "5274", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment byuser comment-author-jonathanwilliamson bypostauthor odd alt depth-2" id="li-comment-5289">
+ 	<div id="comment-5289" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/676090349a291eaba81209fbe68b13aa?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://blendercookie.com" rel="external nofollow" class="url">Jonathan Williamson</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5289">
+		  		
+		  		July 23, 2010 at 9:10 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>That was partially the idea  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5289#respond" onclick='return addComment.moveForm("comment-5289", "5289", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-5275">
+ 	<div id="comment-5275" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/110451a57cc334041b0a2c57629aa559?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">axel</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5275">
+		  		
+		  		July 23, 2010 at 3:52 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>I am one of the first.<br>wow the brand new blender 2.53<br>I love the sculpting features.</p>
+<p>thx Jonathan!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5275#respond" onclick='return addComment.moveForm("comment-5275", "5275", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-5277">
+ 	<div id="comment-5277" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/c86bed12653955e18384beccae9a6419?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">john leigh London UK</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5277">
+		  		
+		  		July 23, 2010 at 6:55 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>amazing stuff – i have barely tried sculpting before but this now looks far more intuitive and an exciting addition to our digital toolset – incredible work by those Blender developers and thanks jonathon for jumping in already and showing us all this fabulous update to our favourite 3D app</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5277#respond" onclick='return addComment.moveForm("comment-5277", "5277", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-5278">
+ 	<div id="comment-5278" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/55c45e190ecd0ed7796e748b9f19965c?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://jvillella.wordpress.com" rel="external nofollow" class="url">Julian</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5278">
+		  		
+		  		July 23, 2010 at 7:37 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>I love the new Blender 2.53 Sculpting brushes and features.<br>Its much faster.<br>Go Blender!<br>Thanks for the Video Jonathan Williamson<br>Though, I’m not a fan of the Splash Screen</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5278#respond" onclick='return addComment.moveForm("comment-5278", "5278", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-5285">
+ 	<div id="comment-5285" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/b33bba13f344ea1f9c5f5244169dc63c?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://imppao.free.fr" rel="external nofollow" class="url">imppao</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5285">
+		  		
+		  		July 23, 2010 at 8:18 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>great, very good video, thanks a lot</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5285#respond" onclick='return addComment.moveForm("comment-5285", "5285", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-5287">
+ 	<div id="comment-5287" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/d2822503691af16e82b3405c4327bbe6?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">kacper</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5287">
+		  		
+		  		July 23, 2010 at 8:47 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>awesome tutorial and also great website, thanks for blender guys, we appreciate your work !</p>
+<p>Greetings from Poland!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5287#respond" onclick='return addComment.moveForm("comment-5287", "5287", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-5290">
+ 	<div id="comment-5290" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/7ba14c5df575cf00bc96b43dd5c8eda4?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Equal</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5290">
+		  		
+		  		July 23, 2010 at 9:15 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>A realy nice show, learnd alot thx</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5290#respond" onclick='return addComment.moveForm("comment-5290", "5290", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-5291">
+ 	<div id="comment-5291" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/57c47011a2586a03d05b6fa99a78da51?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://blendernewbies.blogspot.com" rel="external nofollow" class="url">kernond</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5291">
+		  		
+		  		July 23, 2010 at 9:53 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Good demo, thanks!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5291#respond" onclick='return addComment.moveForm("comment-5291", "5291", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-5295">
+ 	<div id="comment-5295" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/f9c92e8f6c74d85e02e073cbb9ed235c?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">haqzaf</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5295">
+		  		
+		  		July 23, 2010 at 11:00 am</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Hi,Jonathan  </p>
+<p>Thanks for this informative video about new sculpting tools.I have this new version now installed.<br>For sculpting, I imported a low res mesh.Mesh breaks, when multires modifier is applied.Any suggestion, how to keep the mesh intact before sculpt process to begin.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5295#respond" onclick='return addComment.moveForm("comment-5295", "5295", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-5298">
+ 	<div id="comment-5298" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/02fb1dc5c06a6a334cce203b286249b3?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://catheads.net" rel="external nofollow" class="url">dannykneip</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5298">
+		  		
+		  		July 23, 2010 at 12:43 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>sweet!and i heard about 2.5 beta here first!  <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley"> </p>
+<p>great tutorial as well.  thanks a bunch!</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5298#respond" onclick='return addComment.moveForm("comment-5298", "5298", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment odd alt thread-even depth-1" id="li-comment-5299">
+ 	<div id="comment-5299" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/6d81573c66d452e184535445ec62435d?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Richard</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5299">
+		  		
+		  		July 23, 2010 at 1:19 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>A small word of caution:</p>
+<p>Holding shift will use whatever your pre-sets are for the smooth brush, not the smooth tool.  If you have changed the pre-set to grab, for example, then holding shift will use the grab tool.  Useful for if you want to switch between two brush types quickly and easily, not useful if you wanted to smooth out your mesh.</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5299#respond" onclick='return addComment.moveForm("comment-5299", "5299", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+<ul class="children">
+   	<li class="comment byuser comment-author-jonathanwilliamson bypostauthor even depth-2" id="li-comment-5300">
+ 	<div id="comment-5300" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/676090349a291eaba81209fbe68b13aa?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://blendercookie.com" rel="external nofollow" class="url">Jonathan Williamson</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5300">
+		  		
+		  		July 23, 2010 at 1:23 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>Great point, thanks for bringing this to mind.</p>
+<p>-Jonathan</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5300#respond" onclick='return addComment.moveForm("comment-5300", "5300", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+</ul>
+</li>
+   	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-5301">
+ 	<div id="comment-5301" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/085b02c1559ec44b482e5cfda9bd39e8?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn"><a href="http://thiagokolb.wordpress.com" rel="external nofollow" class="url">Thiago Kolb</a></cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5301">
+		  		
+		  		July 23, 2010 at 1:49 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>thx Jonathan</p>
+<p> <img src="http://www.blendercookie.com/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley"> </p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5301#respond" onclick='return addComment.moveForm("comment-5301", "5301", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+   	<li class="comment even thread-even depth-1" id="li-comment-5306">
+ 	<div id="comment-5306" class="comment">
+	<div class="comment-author vcard clearfix">
+		<img alt="" src="http://www.gravatar.com/avatar/99c282a7171a77ee27f3cb0ee52d5eb7?s=48&amp;d=%3Cpath_to_url%3E&amp;r=G" class="avatar avatar-48 photo" height="48" width="48">		<div class="comment-meta">
+			<cite class="fn">Michael R.</cite>			<div class="comment-date">
+		  		<a href="http://www.blendercookie.com/2010/07/23/sculpting-blender-2-53/comment-page-1/#comment-5306">
+		  		
+		  		July 23, 2010 at 6:29 pm</a>
+							</div>
+		</div>
+	</div>
+			  
+      <p>that is so cool!=D</p>
+<p>never really used the sculpting tools all that much, but when I did it always felt like something was lacking. it’s good to see that they have (from what I saw here) vastly improved it.</p>
+<p>now, if you don’t mind, I’m off to go download the latest build!=]</p>
+
+      <div class="reply">
+         <a rel="nofollow" class="comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/?replytocom=5306#respond" onclick='return addComment.moveForm("comment-5306", "5306", "respond", "3527")'>Reply</a>      </div>
+	 </div>
+    
+</li>
+	</ol>
+        
+        	
+	<div class="paginated-comments"></div>
+
+ 
+
+
+<div id="respond">
+<a href="mailto:support@cgcookie.zendesk.com"><img src="http://blendercookie.com/assets/adverts/support_graphic_advert.jpg" height="75" width="322"></a>
+	<h4>留下一个回复</h4>
+
+	<div class="cancel-comment-reply">
+		<small><a rel="nofollow" id="cancel-comment-reply-link" href="/2010/07/23/sculpting-blender-2-53/#respond" style="display: none;">Click here to cancel reply.</a></small>
+	</div><!-- begin comment form -->
+
+		
+	
+	<form action="http://www.blendercookie.com/wp-comments-post.php" method="post" id="commentform">
+	
+			
+		<p><input name="author" id="author" value="Fox" tabindex="1" type="text">
+		<label for="author">Name required</label></p>
+		
+		<p><input name="email" id="email" value="idisblueflash@gmail.com" tabindex="2" type="text">
+		<label for="email">Mail (will not be published) required</label></p>
+		
+		<p><input name="url" id="url" value="http://blog.blendercn.org" tabindex="3" type="text">
+		<label for="url">网站</label></p>
+	
+		
+	<p><textarea name="comment" id="comment" cols="60" rows="10" tabindex="4"></textarea></p>	
+	
+		
+	
+	<p><input class="button" name="submit" id="submit" tabindex="5" value="提交评论" type="submit">
+	<input name="comment_post_ID" value="3527" id="comment_post_ID" type="hidden">
+<input name="comment_parent" id="comment_parent" value="0" type="hidden">
+</p>
+		<script type="text/javascript">
+	<!--
+	refJS = escape( document[ 'referrer' ] );
+	document.write("<input type='hidden' name='refJS' value='"+refJS+"'>");
+	// -->
+	</script><input name="refJS" value="http%3A//www.blendercookie.com/category/all/tutorials/modeling/" type="hidden">
+	<p style="font-size: 9px; clear: both;">Spam Protection by <a href="http://www.polepositionmarketing.com/library/wp-spamfree/" title="WP-SpamFree WordPress Anti-Spam Plugin">WP-SpamFree</a></p>
+	
+	</form><!-- end comment form -->
+	
+	
+	</div>
+	
+
+		
+	</div><!-- end #content -->
+    
+</div>
+    
+    <div class="clear"></div>
+	    
+ 
+<div class="clear"></div>
+
