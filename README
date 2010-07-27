@@ -7,5 +7,23 @@ This project helps Chinese reading latest News, Tutorials and Books from Blender
 If you want to help, please contact us.
 如果您也想帮忙，请联络我们。
 
-Fox/idisblueflash
+Fox/idisblueflash@gmail.com
+
+协作翻译流程范例
+
+新人Jessica 要开始这个项目的翻译
+    # Jessica's Machine
+    $ git clone git@github.com:idisblueflash/Blender-Chinese-Translation-Group.git J-git
+    ...
+    $ cd J-git                          （Jessica的本地工作目录）
+
+    $ git branch BAM#9                  (新建一个分支用来处理BAM#9的翻译项目)
+    $ git checkout BAM#9                (切换到这个分支，开始工作)
+    $ vim README                        (修改一些内容）
+    $ git commit -am '加入了翻译词汇。'  （填写修改日志）
+
+
+
+
+
 
