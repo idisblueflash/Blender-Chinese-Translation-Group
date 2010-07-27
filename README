@@ -22,6 +22,10 @@ Fox/idisblueflash@gmail.com
     $ vim README                        (修改一些内容）
     $ git commit -am '加入了翻译词汇。'  （填写修改日志）
 
+    $ git checkout master               (返回主分支)
+    $ git merge BAM#9                   (把BAM#9分支并入主分支)
+
+
 
 
 
