@@ -1,17 +1,17 @@
-7/27/10 11:37 AM
+7/27/10 11:47 AM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	
 Total:           	    3590	32734	                     180897	                       204098	
-Remaining:       	    2832	27723	                     155347	                       174243	
+Remaining:       	    2831	27694	                     155218	                       174086	
 Unique:          	    2421	27758	                     142221	                       163441	
-Unique Remaining:	    2111	24812	                     127365	                       145948	
+Unique Remaining:	    2110	24783	                     127236	                       145791	
 
 
 Individual File Statistics:
 
 File Name                                                                                   	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
-NeedTranslate/BAM/blenderart_mag-9_resource.odt                                             	      18501	          16810	                            82749	                                74150	                              99732	                                  89569	
+NeedTranslate/BAM/blenderart_mag-9_resource.odt                                             	      18501	          16781	                            82749	                                74021	                              99732	                                  89412	
 NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                                       	         99	             90	                              440	                                  395	                                526	                                    473	
 NeedTranslate/cookie/2010/07/12-Modeling a Palm Tree.html                                   	        252	            119	                             1680	                                 1052	                               1831	                                   1084	
 NeedTranslate/cookie/2010/07/13-Topology Review: Hand.html                                  	        239	            139	                             1738	                                 1231	                               1862	                                   1269	

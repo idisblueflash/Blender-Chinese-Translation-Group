@@ -8095,6 +8095,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are going for a realistic render, chances are your scene would look rather poorly lit or blown out, depending on where you choose to stage your scene.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T033914Z" changeid="flash">
+        <seg>如果你正想实现一个写实的渲染，那么你是有机会造出那种暗淡光线或者像吹出来的效果的，当然这取决于你在哪里取景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you choose a positive value the dark values will become raised.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100708T011703Z" changeid="flash">
