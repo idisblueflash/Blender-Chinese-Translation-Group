@@ -17,3 +17,7 @@ some sentence that I'm not sure:
     Guess:
         Whatever your interest in Space is high or low, our magazine can cover them all.
         Whatever your interest in Space is high or low, our magazine will make you satisfied.
+
+    If you are going for a realistic render, chances are your scene would look rather poorly lit or blown out, depending on where you choose to stage your scene.
+    on Page 5
+    Guess:

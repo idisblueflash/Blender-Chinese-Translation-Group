@@ -4400,6 +4400,14 @@ for issue number 29, and they need your contribution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But in between those areas of over-abundant light, there is a whole lot of darkness; serious, inky, black darkness where you can’t even see your hand in front of your face.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T033719Z" changeid="flash">
+        <seg>但在这些耀眼的光源之间，充斥着大片的黑暗，在严重的时候，墨水一般的黑暗，黑得让你伸手不见五指。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But sorry ; no picture of my recent work for Sintel at the moment, 3D artist will show the result soon.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -9712,6 +9720,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let’s face it, space is filled with random areas of faint to intense light from stars and reflected light from planets and moons.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T033519Z" changeid="flash">
+        <seg>让我们来直面它，宇宙空间里面充满了来自恒星强光及反射光行星和卫星的淡淡的随机区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighting</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100720T235213Z" changeid="flash">
@@ -11175,6 +11191,14 @@ well!</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100720T231329Z" changeid="flash">
         <seg>我们第三届 &lt;s0&gt;科罗拉多Blender用户组 (CBUG)&lt;/s0&gt;聚会已经排好日期了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outer space scenes can be one of the most challenging areas to light properly.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T033358Z" changeid="flash">
+        <seg>外层空间场景可能是对于照明来说最具挑战性的领域之一。</seg>
       </tuv>
     </tu>
     <tu>
