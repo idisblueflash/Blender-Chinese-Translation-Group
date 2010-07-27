@@ -25,6 +25,28 @@ Fox/idisblueflash@gmail.com
     $ git checkout master               (返回主分支)
     $ git merge BAM#9                   (把BAM#9分支并入主分支)
 
+    $ git push origin master            (把本地修改同步到服务器)
+
+注：
+    $ git branch -d BAM#9 可以删除不再需要的分支。
+
+
+难题：
+    如果你在BAM#9上面上工作了半天，然后push的时候出现了这个：
+    $ git push origin master
+    To john@githost:simplegit.git
+    ! [rejected] master ->master (non-fast forward)
+    error: failed to push some refs to 'john@githost:simplegit.git'
+
+    说明在你前面有人push过了。那么：
+    $ git fetch origin                  (取回那些别人的改进) 所以每次开始工作前，做这个动作很必要。
+    $ git log --no-merges origin/master ^BAM#9  (合并前看看别人都修改了哪些内容)
+    
+    $ git merge origin/master$          (合并在一起)
+    $ git push origin master            (再提交)
+
+
+
 
 
 
