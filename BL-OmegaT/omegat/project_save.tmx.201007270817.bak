@@ -166,14 +166,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>(or &lt;a0&gt;Click here to view Part 1 first&lt;/a0&gt;)</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003055Z" changeid="flash">
-        <seg>(或者 &lt;a0&gt;点击这里来观看教程的第一部分&lt;/a0&gt;)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(picture by &lt;a0&gt;Mauro Terzi&lt;/a0&gt;)</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100706T231541Z" changeid="flash">
@@ -744,6 +736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:P</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>:P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>; Objects
 ; Meshes</seg>
       </tuv>
@@ -1002,14 +1002,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;a0&gt;Apartment Complex&lt;/a0&gt; by Scotchtapeworm</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002743Z" changeid="flash">
-        <seg>&lt;a0&gt;公寓大楼&lt;/a0&gt; Scotchtapeworm制作</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&lt;a0&gt;BarCamp&lt;/a0&gt; is an international network of user-generated conferences (or unconferences).</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100727T000700Z" changeid="flash">
@@ -1162,26 +1154,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;a0&gt;Destruction&lt;/a0&gt; by Matt</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002626Z" changeid="flash">
-        <seg>&lt;a0&gt;毁坏&lt;/a0&gt; Matt制作</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Durian Finals Party&lt;/a0&gt; »</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>&lt;a0&gt;榴莲项目散伙饭&lt;/a0&gt; »</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;a0&gt;Epic city&lt;/a0&gt; by Kewl Luser</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002722Z" changeid="flash">
-        <seg>&lt;a0&gt;史诗般的城市&lt;/a0&gt;Kewl Luser制作</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,23 +1174,6 @@
       </tuv>
       <tuv lang="ZH">
         <seg>&lt;a0&gt;Justa-Cluster&lt;/a0&gt; (1x Intel i7 930 2.80GHz, 4核, 6gig 内存)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;a0&gt;Last week&lt;/a0&gt; I showed you &lt;a1&gt;how to model a high rise building&lt;/a1&gt; and this week we will be applying &lt;s2&gt;materials, lighting &lt;/s2&gt;and &lt;s3&gt;compositing &lt;/s3&gt;to produce a final image that we can send to the (imaginary) client.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003007Z" changeid="flash">
-        <seg>&lt;a0&gt;上周&lt;/a0&gt;我给你展示了&lt;a1&gt;如何
-创建一个高分辨率建筑&lt;/a1&gt; 本周将展示如何给它赋予&lt;s2&gt;材质，灯光 &lt;/s2&gt;还有&lt;s3&gt;图像的合成技术&lt;/s3&gt;，来制作一个可以交给客户（虚拟的客户）的最终效果图。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;a0&gt;Late Afternoon&lt;/a0&gt; by Bryan Vivas</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003211Z" changeid="flash">
-        <seg>&lt;a0&gt;午后黄昏&lt;/a0&gt;Bryan Vivas制作</seg>
       </tuv>
     </tu>
     <tu>
@@ -1287,14 +1246,6 @@
       </tuv>
       <tuv lang="ZH">
         <seg>&lt;a0&gt;有用Yafaray设置和技巧&lt;/a0&gt; »</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;a0&gt;Weird Architecture&lt;/a0&gt; by Manu</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002607Z" changeid="flash">
-        <seg>&lt;a0&gt;怪异的建筑&lt;/a0&gt; Manu制作</seg>
       </tuv>
     </tu>
     <tu>
@@ -2551,14 +2502,6 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A clever trick to make outdoor lighting more realistic</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003035Z" changeid="flash">
-        <seg>一个让户外照明更真实的聪明技巧</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>A commercial spring water outlet</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100722T002917Z" changeid="flash">
@@ -3079,14 +3022,6 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>An easy glowing lighting setup</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002213Z" changeid="flash">
-        <seg>一个简单的发光照明器的设置</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>An event such as this is always an opportunity for me to meet some of my old Blender friends and I was glad to see so many people made the trip for this special occasion.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100720T002814Z" changeid="flash">
@@ -3483,14 +3418,6 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH" changedate="20100708T012355Z" changeid="flash">
         <seg>一如既往地，我很高兴能看到你们作品，所以请随意张贴在下面！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>As always I’m keen to see whatever you guys produce from this tutorial, so don’t be shy to drop a link in the comment section below!</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002438Z" changeid="flash">
-        <seg>一如既往地，我很想看到你们作品，所以请随意张贴在下面！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5137,14 +5064,6 @@ chart to hand covering the basics?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Create a High Rise Building – Part 2 of 2</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T001803Z" changeid="flash">
-        <seg>创建一个高分辨率建筑 - 第2/2部分</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Create a Realistic Kitchen – Part 1 of 2</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100722T002433Z" changeid="flash">
@@ -6038,14 +5957,6 @@ Project » Animation done, sort of Comments Feed</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100725T013251Z" changeid="flash">
         <seg>Enrico Valenza - ' 黄金船'</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ensure lighting passes through glass</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002159Z" changeid="flash">
-        <seg>确保光线可以穿过玻璃</seg>
       </tuv>
     </tu>
     <tu>
@@ -7031,14 +6942,6 @@ Project » Animation done, sort of Comments Feed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>G’day and welcome to Week 2 of the architectural tutorial series!</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T001834Z" changeid="flash">
-        <seg>大家好，欢迎来到第二周的建筑教程特辑。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Happy Blending!</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100725T012414Z" changeid="flash">
@@ -7196,14 +7099,6 @@ where&amp;nbsp;the hotkeys are for Blender 2.5?</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>这是一些可以参考的思路：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Here are the best renders from the Blender Guru community after following this tutorial:</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002540Z" changeid="flash">
-        <seg>下面是Blender Guru 社区里面，看过这个教程后的最佳渲染作品</seg>
       </tuv>
     </tu>
     <tu>
@@ -8712,14 +8607,6 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>In this tutorial you will learn:</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003013Z" changeid="flash">
-        <seg>在本教程里你将学到：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>In this tutorial, I show you a few basics of Blender 2.5, and cover how to use the box-modeling technique to create a full character.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100725T222348Z" changeid="flash">
@@ -9332,14 +9219,6 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100706T225112Z" changeid="flash">
         <seg>2010年7月&lt;a0&gt;Andrew Price&lt;/a0&gt; 在&lt;a1&gt;Architecture&lt;/a1&gt;中发布</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Jul, 2010 by &lt;a0&gt;Andrew Price&lt;/a0&gt; in &lt;a1&gt;Architecture&lt;/a1&gt;, &lt;a2&gt;Lighting&lt;/a2&gt;, &lt;a3&gt;Materials&lt;/a3&gt;, &lt;a4&gt;Tutorials&lt;/a4&gt;</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002854Z" changeid="flash">
-        <seg>2010年7月 &lt;a0&gt;Andrew Price&lt;/a0&gt; 在 &lt;a1&gt;Architecture&lt;/a1&gt;, &lt;a2&gt;Lighting&lt;/a2&gt;, &lt;a3&gt;Materials&lt;/a3&gt;, &lt;a4&gt;Tutorials&lt;/a4&gt;中发布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10724,14 +10603,6 @@ well!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Now go forth and create cities</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002354Z" changeid="flash">
-        <seg>现在动手，创造城市吧。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Now it’s finished!</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100708T010250Z" changeid="flash">
@@ -11777,14 +11648,6 @@ trenches!</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100706T225035Z" changeid="flash">
         <seg>6日发布</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Posted on 12.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002902Z" changeid="flash">
-        <seg>12日发布</seg>
       </tuv>
     </tu>
     <tu>
@@ -13911,14 +13774,6 @@ tips on improving the quality of your Yafaray renders.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>要感谢我们的强大JUSTACLUSTER（TM），它有很多渲染任务正在进行，它强到能够调整这么多的渲染/灯光舞台！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>That concludes the two part tutorial series!</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003111Z" changeid="flash">
-        <seg>这两部分就是系列教程的全部！</seg>
       </tuv>
     </tu>
     <tu>
@@ -17150,14 +17005,6 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Watch the Tutorial</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002221Z" changeid="flash">
-        <seg>观看教程</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Watch the tutorial:</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100706T230056Z" changeid="flash">
@@ -18474,14 +18321,6 @@ Now parent the circle surface to the circle curve (the link’s outline) as a {{
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>[update] Featured Community Pics</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003137Z" changeid="flash">
-        <seg>[更新] 社区图片精选</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>adjustable later to the dimension of the car bodies that you will use.&lt;br23&gt;</seg>
       </tuv>
       <tuv lang="ZH">
@@ -19191,6 +19030,14 @@ Blender e-shop</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>http://www.blenderguru.com/wp-includes/images/smilies/icon_biggrin.gif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.blenderguru.com/wp-includes/images/smilies/icon_razz.gif</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>http://www.blenderguru.com/wp-includes/images/smilies/icon_razz.gif</seg>
       </tuv>
     </tu>
     <tu>

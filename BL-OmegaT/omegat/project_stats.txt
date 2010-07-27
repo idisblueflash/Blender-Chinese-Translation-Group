@@ -1,11 +1,11 @@
-7/26/10 10:35 PM
+7/27/10 8:32 AM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	
-Total:           	    2152	13667	                      94655	                       100519	
-Remaining:       	    1606	10660	                      79270	                        82665	
-Unique:          	    1069	 9120	                      58301	                        62578	
-Unique Remaining:	     908	 7773	                      51520	                        54609	
+Total:           	    2215	14134	                      97708	                       103840	
+Remaining:       	    1632	10823	                      80802	                        84201	
+Unique:          	    1124	 9539	                      61109	                        65614	
+Unique Remaining:	     931	 7929	                      52958	                        56051	
 
 
 Individual File Statistics:
@@ -27,5 +27,7 @@ NeedTranslate/cookie/2010/07/22-Exclusive: Modeling the Female Head 03.html     
 NeedTranslate/cookie/2010/07/23-Playing with the Array modifier, AO and Tangent Normals.html	       1544	           1225	                            10778	                                 9095	                              11439	                                   9525	
 NeedTranslate/cookie/2010/07/24-Using the New Sculpting System in Blender 2.53.html         	       1927	           1597	                            13267	                                11528	                              13978	                                  11998	
 NeedTranslate/cookie/2010/07/25-Creating a Burlap Teddy Bear – part 1.html                  	       1555	           1251	                            11462	                                 9869	                              12007	                                  10193	
-NeedTranslate/cookie/2010/07/26-Box Modeling an Alien Character in Blender 2.5 alpha 0.html 	       4701	           4567	                            31237	                                30596	                              33029	                                  32277	
+NeedTranslate/cookie/2010/07/26-Box Modeling an Alien Character in Blender 2.5 alpha 0.html 	       4701	           4568	                            31237	                                30598	                              33029	                                  32279	
 NeedTranslate/cookie/2010/07/26-Free Textures on TextureMate.com.html                       	        112	             21	                              727	                                  218	                                807	                                    218	
+NeedTranslate/guru/2010/07/27-Create a High Rise Building – Part 2 of 2.html                	        366	            109	                             2294	                                 1071	                               2521	                                   1075	
+NeedTranslate/nation/2010/07/27-Blender at Barcamp, Guayaquil, Ecuador.html                 	        101	             53	                              759	                                  459	                                800	                                    459	
