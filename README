@@ -7,5 +7,49 @@ This project helps Chinese reading latest News, Tutorials and Books from Blender
 If you want to help, please contact us.
 如果您也想帮忙，请联络我们。
 
-Fox/idisblueflash
+Fox/idisblueflash@gmail.com
+
+协作翻译流程范例
+
+新人Jessica 要开始这个项目的翻译
+    # Jessica's Machine
+    $ git clone git@github.com:idisblueflash/Blender-Chinese-Translation-Group.git J-git
+    ...
+    $ cd J-git                          （Jessica的本地工作目录）
+
+    $ git branch BAM#9                  (新建一个分支用来处理BAM#9的翻译项目)
+    $ git checkout BAM#9                (切换到这个分支，开始工作)
+    $ vim README                        (修改一些内容）
+    $ git commit -am '加入了翻译词汇。'  （填写修改日志）
+
+    $ git checkout master               (返回主分支)
+    $ git merge BAM#9                   (把BAM#9分支并入主分支)
+
+    $ git push origin master            (把本地修改同步到服务器)
+
+注：
+    $ git branch -d BAM#9 可以删除不再需要的分支。
+
+
+难题：
+    如果你在BAM#9上面上工作了半天，然后push的时候出现了这个：
+    $ git push origin master
+    To john@githost:simplegit.git
+    ! [rejected] master ->master (non-fast forward)
+    error: failed to push some refs to 'john@githost:simplegit.git'
+
+    说明在你前面有人push过了。那么：
+    $ git fetch origin                  (取回那些别人的改进) 所以每次开始工作前，做这个动作很必要。
+    $ git log --no-merges origin/master ^BAM#9  (合并前看看别人都修改了哪些内容)
+    
+    $ git merge origin/master$          (合并在一起)
+    $ git push origin master            (再提交)
+
+
+
+
+
+
+
+
 
