@@ -1,31 +1,44 @@
-7/26/10 10:35 PM
-Project Statistics
+项目状态
 
-                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
-Total:           	    2152	13667	                      94655	                       100519	
-Remaining:       	    1606	10660	                      79270	                        82665	
-Unique:          	    1069	 9120	                      58301	                        62578	
-Unique Remaining:	     908	 7773	                      51520	                        54609	
+总共：
+	片段	2152
+	词汇	13667
+	字符（不含空白字符）	94655
+	字符（含空白）	100519
+剩余：
+	片段	1606
+	词汇	10660
+	字符（不含空白字符）	79270
+	字符（含空白）	82665
+独特：
+	片段	1069
+	词汇	9120
+	字符（不含空白字符）	58301
+	字符（含空白）	62578
+剩余独特：
+	片段	908
+	词汇	7773
+	字符（不含空白字符）	51520
+	字符（含空白）	54609
 
+单个文件状态：
 
-Individual File Statistics:
-
-File Name                                                                                   	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
-NeedTranslate/cookie/2010/07/12-Modeling a Palm Tree.html                                   	        252	            119	                             1680	                                 1052	                               1831	                                   1084	
-NeedTranslate/cookie/2010/07/13-Topology Review: Hand.html                                  	        239	            139	                             1738	                                 1231	                               1862	                                   1269	
-NeedTranslate/cookie/2010/07/14-Topology Review – The Foot.html                             	        220	            124	                             1572	                                 1085	                               1691	                                   1119	
-NeedTranslate/cookie/2010/07/15-Topology Overview: The Head.html                            	        230	            135	                             1692	                                 1204	                               1812	                                   1242	
-NeedTranslate/cookie/2010/07/16-Topology Review: Shoulder.html                              	        227	            134	                             1682	                                 1194	                               1799	                                   1231	
-NeedTranslate/cookie/2010/07/17-Modeling a Rope.html                                        	        218	            126	                             1516	                                 1073	                               1632	                                   1108	
-NeedTranslate/cookie/2010/07/18-Exclusive: Modeling the Female Head 02.html                 	        459	            178	                             2880	                                 1508	                               3183	                                   1553	
-NeedTranslate/cookie/2010/07/18-Tip: Using the Snapping Tool.html                           	        153	             86	                             1070	                                  744	                               1160	                                    775	
-NeedTranslate/cookie/2010/07/19-Modeling Feathery Wings.html                                	        247	            149	                             1727	                                 1234	                               1863	                                   1285	
-NeedTranslate/cookie/2010/07/20-Creating a Wooden Barrel.html                               	        262	            146	                             1858	                                 1248	                               2001	                                   1289	
-NeedTranslate/cookie/2010/07/21-Creating a CG Cookie Coffee Cup.html                        	        645	            343	                             5118	                                 3538	                               5357	                                   3551	
-NeedTranslate/cookie/2010/07/21-Tip: Creating a Rounded-off Square Form.html                	        158	             96	                             1193	                                  874	                               1284	                                    911	
-NeedTranslate/cookie/2010/07/22-Exclusive: Modeling the Female Head 03.html                 	        518	            224	                             3458	                                 1979	                               3784	                                   2037	
-NeedTranslate/cookie/2010/07/23-Playing with the Array modifier, AO and Tangent Normals.html	       1544	           1225	                            10778	                                 9095	                              11439	                                   9525	
-NeedTranslate/cookie/2010/07/24-Using the New Sculpting System in Blender 2.53.html         	       1927	           1597	                            13267	                                11528	                              13978	                                  11998	
-NeedTranslate/cookie/2010/07/25-Creating a Burlap Teddy Bear – part 1.html                  	       1555	           1251	                            11462	                                 9869	                              12007	                                  10193	
-NeedTranslate/cookie/2010/07/26-Box Modeling an Alien Character in Blender 2.5 alpha 0.html 	       4701	           4567	                            31237	                                30596	                              33029	                                  32277	
-NeedTranslate/cookie/2010/07/26-Free Textures on TextureMate.com.html                       	        112	             21	                              727	                                  218	                                807	                                    218	
+文件名	总共词汇量	剩余词汇	总字符（不含空白）	剩余字符（不含空白）	总字符（含空白）	保留字符（含空白）
+NeedTranslate/cookie/2010/07/12-Modeling a Palm Tree.html	252	119	1680	1052	1831	1084
+NeedTranslate/cookie/2010/07/13-Topology Review: Hand.html	239	139	1738	1231	1862	1269
+NeedTranslate/cookie/2010/07/14-Topology Review – The Foot.html	220	124	1572	1085	1691	1119
+NeedTranslate/cookie/2010/07/15-Topology Overview: The Head.html	230	135	1692	1204	1812	1242
+NeedTranslate/cookie/2010/07/16-Topology Review: Shoulder.html	227	134	1682	1194	1799	1231
+NeedTranslate/cookie/2010/07/17-Modeling a Rope.html	218	126	1516	1073	1632	1108
+NeedTranslate/cookie/2010/07/18-Exclusive: Modeling the Female Head 02.html	459	178	2880	1508	3183	1553
+NeedTranslate/cookie/2010/07/18-Tip: Using the Snapping Tool.html	153	86	1070	744	1160	775
+NeedTranslate/cookie/2010/07/19-Modeling Feathery Wings.html	247	149	1727	1234	1863	1285
+NeedTranslate/cookie/2010/07/20-Creating a Wooden Barrel.html	262	146	1858	1248	2001	1289
+NeedTranslate/cookie/2010/07/21-Creating a CG Cookie Coffee Cup.html	645	343	5118	3538	5357	3551
+NeedTranslate/cookie/2010/07/21-Tip: Creating a Rounded-off Square Form.html	158	96	1193	874	1284	911
+NeedTranslate/cookie/2010/07/22-Exclusive: Modeling the Female Head 03.html	518	224	3458	1979	3784	2037
+NeedTranslate/cookie/2010/07/23-Playing with the Array modifier, AO and Tangent Normals.html	1544	1225	10778	9095	11439	9525
+NeedTranslate/cookie/2010/07/24-Using the New Sculpting System in Blender 2.53.html	1927	1597	13267	11528	13978	11998
+NeedTranslate/cookie/2010/07/25-Creating a Burlap Teddy Bear – part 1.html	1555	1251	11462	9869	12007	10193
+NeedTranslate/cookie/2010/07/26-Box Modeling an Alien Character in Blender 2.5 alpha 0.html	4701	4567	31237	30596	33029	32277
+NeedTranslate/cookie/2010/07/26-Free Textures on TextureMate.com.html	112	21	727	218	807	218
