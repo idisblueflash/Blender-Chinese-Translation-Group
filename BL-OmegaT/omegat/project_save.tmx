@@ -1565,8 +1565,16 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Izzy Speaks&lt;/f0&gt;&lt;f1&gt; – Space Scenes&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100724T005933Z" changeid="flash">
-        <seg>&lt;f0&gt;Izzy Speaks&lt;/f0&gt;&lt;f1&gt; – 宇宙场景&lt;/f1&gt;</seg>
+      <tuv lang="ZH" changedate="20100728T013519Z" changeid="flash">
+        <seg>&lt;f0&gt;Izzy小贴士&lt;/f0&gt;&lt;f1&gt; – 宇宙场景&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Level:&lt;/f0&gt; &lt;f1&gt;Beginner to Intermediate&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022827Z" changeid="flash">
+        <seg>&lt;f0&gt;适阅级别： &lt;/f0&gt;&lt;f1&gt;从初级到中级&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1581,8 +1589,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Meet the Blenderhead &lt;/f0&gt;&lt;f1&gt;– &lt;/f1&gt;&lt;f2&gt;Jean-Sébastien Guillemette&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100724T014638Z" changeid="flash">
-        <seg>&lt;f0&gt;Blender高手访谈 &lt;/f0&gt;&lt;f1&gt;– &lt;/f1&gt;&lt;f2&gt;Jean-Sébastien Guillemette&lt;/f2&gt;</seg>
+      <tuv lang="ZH" changedate="20100728T013311Z" changeid="flash">
+        <seg>&lt;f0&gt;Blender用户访谈 &lt;/f0&gt;&lt;f1&gt;– &lt;/f1&gt;&lt;f2&gt;Jean-Sébastien Guillemette&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2567,6 +2575,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A blue nebula isn't going to cast white studio light.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021933Z" changeid="flash">
+        <seg>比如，一个蓝色的星云不可能投射出白色的光线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A clever trick to make outdoor lighting more realistic</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100727T003035Z" changeid="flash">
@@ -3031,6 +3047,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also remember that some of your space elements should cast shadows, like planets, moons asteroids, and space debris.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022352Z" changeid="flash">
+        <seg>还不要忘记了，你的宇宙元素也应该投射阴影，比如行星，小卫星和太空碎片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also remember that this is the version that ‘Sintel’ was produced with.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100723T001938Z" changeid="flash">
@@ -3051,6 +3075,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH">
         <seg>另外，请尽情欣赏我们使用的这个惊人的高科技进度条：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, my running lights now appear to actually be helping the scene by lighting up areas that aren’t receiving any reflected light from the nebula or nearby stars.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021227Z" changeid="flash">
+        <seg>而且，我的航行灯现在看起只是帮助照亮一部分区域，却没有收到任何来自星云或附近星空的反射光亮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3791,6 +3823,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Back on Earth at our computer, let’s discuss what we learned from our research.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021258Z" changeid="flash">
+        <seg>回到地球上我们的电脑里，让我们讨论一下我们刚才研究的心得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back to the matter of materials to propose some research into some of the features that you can give them.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100721T140000Z" changeid="flash">
@@ -3875,6 +3915,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH" changedate="20100711T135535Z" changeid="flash">
         <seg>成为Citizen会员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beep, beep; there it is.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015210Z" changeid="flash">
+        <seg>哔，哔; 开了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,6 +4376,17 @@ for issue number 29, and they need your contribution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+<<<<<<< HEAD
+=======
+        <seg>Blenderhead</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T013703Z" changeid="flash">
+        <seg>Blender用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+>>>>>>> news0728
         <seg>Blenderheads will be meeting this Wednesday at 6pm.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100728T004351Z" changeid="flash">
@@ -4448,6 +4507,14 @@ for issue number 29, and they need your contribution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But since my spaceship and spacesuit are on back order, we will have to take an imaginary trip to check out our lighting options.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014601Z" changeid="flash">
+        <seg>不过因为我们的太空船和太空服还没到位，那么我们得设想一下我们的照明方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But sorry ; no picture of my recent work for Sintel at the moment, 3D artist will show the result soon.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -4524,6 +4591,14 @@ for issue number 29, and they need your contribution.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>按钮面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Kostis Karvouniaris</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022646Z" changeid="flash">
+        <seg>由Kostis Karvouniaris创作</seg>
       </tuv>
     </tu>
     <tu>
@@ -5281,6 +5356,14 @@ chart to hand covering the basics?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating A Heatwave Exhaust Effect With The Displace Node</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022624Z" changeid="flash">
+        <seg>通过Displace Node创建热浪排气效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating Volumetric Clouds</seg>
       </tuv>
       <tuv lang="ZH">
@@ -5613,6 +5696,14 @@ chart to hand covering the basics?</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100724T000951Z" changeid="flash">
         <seg>别忘记来下载崭新的&lt;a0&gt; Blender 2.53。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don’t forget, when adding your light-source space elements, to set your lamps to match the color of the space element.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021821Z" changeid="flash">
+        <seg>别忘了，当你加入宇宙照明元素的时候，要设置你的灯的颜色符合宇宙中的元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6557,6 +6648,14 @@ Project » Animation done, sort of Comments Feed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For quite some time, a question has been circulating through forums and mail columns about an uncommon effect in 3d applications: How do I simulate the distortion caused by hot air masses?</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T023105Z" changeid="flash">
+        <seg>在相当一段时间，一个问题一直流传于论坛和邮件列表之间，那就是这个不常见的3D效果：如何模拟由热空气导致的扭曲效果？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For that there is a command line &lt;i0&gt;View / Align View / Align Active Camera&lt;/i0&gt; to &lt;i1&gt;View&lt;/i1&gt; or &lt;i2&gt;Control + Alt + Numpad 0 &quot;</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100716T080748Z" changeid="flash">
@@ -6681,6 +6780,14 @@ Project » Animation done, sort of Comments Feed</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>不要尝试旋转渲染出来的场景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fortunately, or unfortunately (depending on how you look at it), Hollywood has set the standard for space scenes to appear well lit no matter where the scene is staged.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014135Z" changeid="flash">
+        <seg>幸运/不幸的是（取决于你怎么看它），好莱坞已经为宇宙场景订立了标准，有了这个标准不管你如何设置场景，场景都可以足够明亮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7069,6 +7176,14 @@ Project » Animation done, sort of Comments Feed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guess:</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T013726Z" changeid="flash">
+        <seg>竞猜：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guide to Volumetric Shading in Blender 2.50</seg>
       </tuv>
       <tuv lang="ZH">
@@ -7220,6 +7335,14 @@ where&amp;nbsp;the hotkeys are for Blender 2.5?</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100710T141057Z" changeid="flash">
         <seg>热变形发生时，地面变得特别热，以至于升起来的热浪会扭曲你的看到的东西和视力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hehe, well now I can see my hands, but I still can’t see my spaceship.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014947Z" changeid="flash">
+        <seg>嘿嘿，现在我可以看到我的手 ，但我还是看不到我的飞船。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7474,6 +7597,14 @@ Ceci est un exemple (NdT&amp;nbsp;: phrase originale&amp;nbsp;: “''This is an 
       </tuv>
       <tuv lang="ZH" changedate="20100719T225549Z" changeid="flash">
         <seg>光速高品质渲染</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hmmm, it’s awfully dark out here.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014854Z" changeid="flash">
+        <seg>嗯，这儿真是超级黑暗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7799,6 +7930,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I know it’s over there somewhere.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015020Z" changeid="flash">
+        <seg>我知道飞船就在那儿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I know.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100716T084315Z" changeid="flash">
@@ -7843,6 +7982,14 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>我本人3个月前，才参加入这个团队，并很渴望在Blender社区，分享我们作品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I parked my spaceship in the first empty sector of space I came to (wouldn’t want to interfere with anyone else’s lighting research), climbed into my spacesuit and went outside for a look.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014836Z" changeid="flash">
+        <seg>我把飞船停靠在宇宙空间的一处（当然是为了不让别人打扰我的照明研究），穿上我的太空服，然后去太空里瞧瞧去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8416,6 +8563,22 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In fact, I can’t see anything.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014908Z" changeid="flash">
+        <seg>实际情况是，我啥也看不到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact, this is going to make a nice background for my image; back into the spacesuit.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015941Z" changeid="flash">
+        <seg>其实，这是在为我们的图片创建一个漂亮的背景；回到太空服的问题上来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In his userpage, click on the link “Discussion” and let the message.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -8888,6 +9051,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022713Z" changeid="flash">
+        <seg>介绍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction to Blender at the Northwest Film Forum</seg>
       </tuv>
       <tuv lang="ZH">
@@ -9088,6 +9259,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will end up being harder to convincingly light your spaceship.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022457Z" changeid="flash">
+        <seg>那将很难另你的飞船得到令人信服的照明效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will take place in less than a month in Eislingen/Fils, Baden-Württemberg.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -9204,6 +9383,14 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>这和分层渲染场景很像，之后它会被后期处理，在合成的时候组合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Izzy Speaks</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T013547Z" changeid="flash">
+        <seg>Izzy 小贴士</seg>
       </tuv>
     </tu>
     <tu>
@@ -9576,6 +9763,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just my luck, I didn’t purchase the “light it up perfectly” add-on package for my ship.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015403Z" changeid="flash">
+        <seg>真走运，幸好我没买“完美照明”附加包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just scroll down and each section is listed.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100711T123716Z" changeid="flash">
@@ -9905,6 +10100,14 @@ Durian blog: Premiere: Netherlands Film Festival</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Location is very important when staging a space scene; make sure there are logical reasons for the lights you are going to add.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021556Z" changeid="flash">
+        <seg>在设置宇宙场景的时候，位置很重要。请确保你添加的每个灯都很合理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log in</seg>
       </tuv>
       <tuv lang="ZH">
@@ -10185,6 +10388,14 @@ Durian blog: Premiere: Netherlands Film Festival</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Matching the color of the space element will tie your ship more firmly into the scene.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022034Z" changeid="flash">
+        <seg>配置好宇宙元素的光线可以让你的飞船和场景看起来结合得更紧密。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Material</seg>
       </tuv>
       <tuv lang="ZH">
@@ -10237,6 +10448,14 @@ Durian blog: Premiere: Netherlands Film Festival</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>2010年5月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maybe if I turn on my ship’s running lights.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015047Z" changeid="flash">
+        <seg>也许我得把我船上的照明灯打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10716,6 +10935,14 @@ well!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not only can I barely see my spaceship, but I can tell right away that the rendered image is going to be very boring.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015551Z" changeid="flash">
+        <seg>不但我看不清我的飞船，而且我能马上意识到，渲染出来的图像一定很没劲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not that I could relocate but it is used to working in order.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100716T084018Z" changeid="flash">
@@ -10812,6 +11039,14 @@ well!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now as a normal rule when deciding on lighting, you would go visit/investigate or do some research on the type of scene you were creating.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014433Z" changeid="flash">
+        <seg>常规做法是，当你在决定照明之前，你得研究/调查一下你要创建的场景类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now comes the tricky part.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100708T000259Z" changeid="flash">
@@ -10848,6 +11083,14 @@ well!</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100708T010250Z" changeid="flash">
         <seg>现在真的结束了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now my ship is visible, sort of.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015223Z" changeid="flash">
+        <seg>现在我的飞船有点看得清楚了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10904,6 +11147,14 @@ well!</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100721T131741Z" changeid="flash">
         <seg>我们现在不讲它的重要性，只是让您记住这一点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now where did I put that remote, ah there it is.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015123Z" changeid="flash">
+        <seg>我把遥控器放哪儿了，啊，在这儿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11004,6 +11255,14 @@ well!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Okay, now I have moved my spaceship into a nice galaxy that has a rather beautiful blue nebula.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015837Z" changeid="flash">
+        <seg>好吧，现在我把飞船开到了一个非常漂亮的星系，一个美丽的蓝色星云出现在其中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Okay, there鈥檚 been a lot going on the past few weeks.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -11048,6 +11307,14 @@ well!</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100721T124942Z" changeid="flash">
         <seg>在界面的左侧是另一组不错的按钮/选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once I have gone back outside, I notice that not only is my spaceship lit nicely, but that there are some lovely blue reflections from the nebula that will add a nice effect to my image.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T020136Z" changeid="flash">
+        <seg>当我从外面回来，我就意识到飞船变得漂亮了，如果在它上面来点蓝色星云的反射，那么我的图片会更漂亮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12294,6 +12561,14 @@ Community Reporter</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember, space is dark.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022237Z" changeid="flash">
+        <seg>记住，宇宙是黑暗的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Render Time 16 threads (hyper thread) 27min, 47sec</seg>
       </tuv>
       <tuv lang="ZH">
@@ -13273,6 +13548,14 @@ writes: It's time again to start thinking about</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So here we are, in outer space.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014621Z" changeid="flash">
+        <seg>那么，我们去外太空吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So make sure this is set to 0.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100708T004919Z" changeid="flash">
@@ -13389,6 +13672,14 @@ writes: It's time again to start thinking about</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100725T005241Z" changeid="flash">
         <seg>太空是CG艺术家和3D建模师们的热门话题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Space is very dark.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021315Z" changeid="flash">
+        <seg>宇宙非常黑暗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14055,6 +14346,14 @@ tips on improving the quality of your Yafaray renders.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>要感谢我们的强大JUSTACLUSTER（TM），它有很多渲染任务正在进行，它强到能够调整这么多的渲染/灯光舞台！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That being the case, let’s discuss how to light Hollywood’s idea of a realistic space scene.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014303Z" changeid="flash">
+        <seg>在这样的情况下，我们来讨论一下如何根据好莱坞的写实宇宙场景设置标准来实现场景照明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16623,6 +16922,22 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Try not to park your space ship fully in the shadow of large shadow casting elements.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022420Z" changeid="flash">
+        <seg>尽量不要把你的飞船停靠在其他元素的大影子下面 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turning on the running lights on your spaceship can be an effective way to light up areas that aren’t receiving any direct or reflected light, allowing the spaceship to stand out better from the space background.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021520Z" changeid="flash">
+        <seg>打开航行灯可能是照亮局部的有效方式，但是却无法收到任何直接的或者反射的照明，如果让飞船更显眼，最好添加一个背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tutorial</seg>
       </tuv>
       <tuv lang="ZH">
@@ -16711,10 +17026,26 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use just enough light to illuminate your model, but don’t light it so much that you lose all shadows.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022223Z" changeid="flash">
+        <seg>仅使用足够的光线来照亮你的模型，但不要太亮了，否则你会失去所有的阴影。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use multiple arrays and mirrors effectively to cut down on your modelling time</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100706T225946Z" changeid="flash">
         <seg>使用多个Array和Mirror有效地降低您的建模时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use stars/suns to create direct light; nebulae, moons and planets to mimic reflected light.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021719Z" changeid="flash">
+        <seg>请使用恒星/太阳来创建直接的照明效果; 星云，月亮和行星则采用反射光来模仿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17726,6 +18057,22 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well this obviously isn’t going to work.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015437Z" changeid="flash">
+        <seg>嗯，现在的照明显然不行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well with our research completed, we can add our lights and space elements to our scene and render out our beautiful Hollywood space scene &lt;f0&gt;■&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022609Z" changeid="flash">
+        <seg>那么在我们的研究完成后，我们就可以添加灯光和宇宙元素了，这会使我们渲染出美丽的好莱坞级别的宇宙场景。&lt;f0&gt; ■ &lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, actually share nothing, and I repeat: they are the same mesh.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100721T134349Z" changeid="flash">
@@ -17990,6 +18337,14 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While it wasn’t overly obvious from our research, keep in mind that shadows still play an important part in your scene.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022136Z" changeid="flash">
+        <seg>虽然在我们的研究中没有明确提到，但是请注意，影子在你的场景中同样扮演者重要的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While the &lt;a0&gt;excellent 2.50 release log&lt;/a0&gt; has been updated with 2.53 features, there’s no ‘changelog’ since the previous version available yet (this may follow later).</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100723T001757Z" changeid="flash">
@@ -18002,6 +18357,22 @@ in Videos</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100708T011750Z" changeid="flash">
         <seg>虽然它还不错，但是我宁愿要裂缝有更多的反射，并减少一点扭曲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who wants to look at a barely lit spaceship sitting in a sea of total black; time to change locations.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015734Z" changeid="flash">
+        <seg>没人愿意看一个勉强能看到的飞船停靠在一团黑色之中;该是换个位置的时候了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whoops, forgot to turn my helmet light on.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T014925Z" changeid="flash">
+        <seg>哎呀，忘了开我的头盔灯了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18710,6 +19081,14 @@ Now parent the circle surface to the circle curve (the link’s outline) as a {{
       </tuv>
       <tuv lang="ZH" changedate="20100727T003137Z" changeid="flash">
         <seg>[更新] 社区图片精选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a people who is Izzy, give some words for the magazine?</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T013655Z" changeid="flash">
+        <seg>谁是Izzy，她给我们大家写了不少的小贴士。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19707,6 +20086,22 @@ Tomo has posted some pretty neat character</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100706T230715Z" changeid="flash">
         <seg>omOne 小组介绍了雕塑： “Giganti della Strada”: 一个面向卡车司机的公众作品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on  Page 5</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T013557Z" changeid="flash">
+        <seg>第5页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on  Page 50</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T013706Z" changeid="flash">
+        <seg>第50页</seg>
       </tuv>
     </tu>
     <tu>

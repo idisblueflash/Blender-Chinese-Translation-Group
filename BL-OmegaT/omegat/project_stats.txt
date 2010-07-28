@@ -1,18 +1,33 @@
+<<<<<<< HEAD
 7/28/10 8:52 AM
+=======
+7/28/10 10:31 AM
+>>>>>>> news0728
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	
 Total:           	    3752	34144	                     189356	                       213364	
+<<<<<<< HEAD
 Remaining:       	    2957	28751	                     161922	                       181275	
 Unique:          	    2535	28953	                     149055	                       170996	
 Unique Remaining:	    2199	25701	                     132670	                       151689	
+=======
+Remaining:       	    2898	28023	                     158607	                       177307	
+Unique:          	    2535	28953	                     149055	                       170996	
+Unique Remaining:	    2150	24989	                     129489	                       147861	
+>>>>>>> news0728
 
 
 Individual File Statistics:
 
 File Name                                                                                   	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
+<<<<<<< HEAD
 NeedTranslate/BAM/blenderart_mag-9_resource.odt                                             	      18501	          16781	                            82749	                                74021	                              99732	                                  89412	
 NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                                       	        132	             94	                              582	                                  408	                                698	                                    488	
+=======
+NeedTranslate/BAM/blenderart_mag-9_resource.odt                                             	      18501	          16077	                            82749	                                70811	                              99732	                                  85566	
+NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                                       	        132	             70	                              582	                                  303	                                698	                                    366	
+>>>>>>> news0728
 NeedTranslate/cookie/2010/07/12-Modeling a Palm Tree.html                                   	        252	            119	                             1680	                                 1052	                               1831	                                   1084	
 NeedTranslate/cookie/2010/07/13-Topology Review: Hand.html                                  	        239	            139	                             1738	                                 1231	                               1862	                                   1269	
 NeedTranslate/cookie/2010/07/14-Topology Review – The Foot.html                             	        220	            124	                             1572	                                 1085	                               1691	                                   1119	
