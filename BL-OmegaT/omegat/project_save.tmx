@@ -1186,10 +1186,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Find us on facebook&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004533Z" changeid="flash">
+        <seg>请在&lt;a0&gt;facebook&lt;/a0&gt;上联络我们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Guide to Volumetric Shading in Blender 2.50&lt;/a0&gt; »</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>&lt;a0&gt;Blender 2.50 中的Volumetric Shading 入门&lt;/a0&gt; »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Here, in Minnesota&lt;/a0&gt;!</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003438Z" changeid="flash">
+        <seg>&lt;a0&gt;在明尼苏达州&lt;/a0&gt; ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3135,6 +3151,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And so we wanted to share with the community.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003154Z" changeid="flash">
+        <seg>于是我们希望能与社区分享我们的经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And what must explain is blood's effect has not used MAX to complete likely, But the drawing comes out in PS.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -3659,6 +3683,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH" changedate="20100721T141702Z" changeid="flash">
         <seg>现在其实也没什么需要知道的了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the time of the pre-production part of the team who knew Blender, proposed it as a tool for the production of characters because of its speed and efficiency.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003036Z" changeid="flash">
+        <seg>前期的工作时，一部分Blender的组员推荐采用Blender作为人物制作的工具，因为Blender很高效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4292,6 +4324,14 @@ for issue number 29, and they need your contribution.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100719T232308Z" changeid="flash">
         <seg>Blenderfarm.fi也放出了他们自己的渲染农场专用版的Blender2.52。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blenderheads will be meeting this Wednesday at 6pm.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004351Z" changeid="flash">
+        <seg>Blender用户将在本周三下午六点举办见面会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6094,6 +6134,14 @@ Project » Animation done, sort of Comments Feed</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>过去的一个月里，每周我都会做一个关于天气的教程，然后贴到Blender Guru网站上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everyone is welcome to come!</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004550Z" changeid="flash">
+        <seg>我们欢迎任何人来参加！</seg>
       </tuv>
     </tu>
     <tu>
@@ -8688,6 +8736,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this quick Blender 2.5 video tip tutorial we demonstrate how to use multiple background images.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004908Z" changeid="flash">
+        <seg>在这个Blender2.5的快速视频小提示里，我们将演示如何使用多个背景图片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this quick Blender 2.5 video tip we demonstrate how to easily model a rounded-off square form by using snapping/retopology tools.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100711T123013Z" changeid="flash">
@@ -9000,6 +9056,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was released in Spain a few weeks ago. With all that mess we just have recently put the screenshots on the web.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003315Z" changeid="flash">
+        <seg>这个游戏几周前在西班牙发布了。最近我们的工作比较混乱，所以我们只能贴几个游戏截图上来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will also clean up the user interface.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100709T234147Z" changeid="flash">
@@ -9176,6 +9240,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m writing because we want to share with you the cheerfulness of having made the game PlayEnglish using Blender and Gimp for the characters.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T002914Z" changeid="flash">
+        <seg>为了与大家分享我们的快乐，我贴了过来这条新闻。我们用Blender和Gimp制作了PlayEnglish游戏中的人物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ve added color correction, soft glow, vignette and depth of field.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100708T010228Z" changeid="flash">
@@ -9340,6 +9412,14 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>Joshua Leung - &lt;a0&gt;物理工具&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Juan Pablo Carrano writes:</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T000946Z" changeid="flash">
+        <seg>Juan Pablo Carrano 写道：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10037,6 +10117,14 @@ Durian blog: Premiere: Netherlands Film Festival</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>2010年3月&lt;a0&gt;Andrew Price&lt;/a0&gt; 在&lt;a1&gt;Materials&lt;/a1&gt;, &lt;a2&gt;Modeling&lt;/a2&gt;, &lt;a3&gt;Tutorials&lt;/a3&gt;中发布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>March 15, 2010  |  by Jonathan Williamson  |  &lt;a0&gt;Beginner&lt;/a0&gt;, &lt;a1&gt;Interface&lt;/a1&gt;, &lt;a2&gt;Jonathan Williamson&lt;/a2&gt;, &lt;a3&gt;Tips&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T005124Z" changeid="flash">
+        <seg>2010年3月15日  |  Jonathan Williamson 发布在 |  &lt;a0&gt;入门&lt;/a0&gt;, &lt;a1&gt;界面&lt;/a1&gt;, &lt;a2&gt;Jonathan Williamson&lt;/a2&gt;, &lt;a3&gt;小提示&lt;/a3&gt;中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11227,6 +11315,14 @@ well!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PSP Game: PlayEnglish</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T000721Z" changeid="flash">
+        <seg>PSP 游戏：PlayEnglish(玩英语)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page 1 of 24.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -11761,6 +11857,14 @@ trenches!</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100721T134037Z" changeid="flash">
         <seg>请您试玩一下Face和Extrusion。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PlayEnglish, by QB9</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T002752Z" changeid="flash">
+        <seg>PlayEnglish, QB9制作</seg>
       </tuv>
     </tu>
     <tu>
@@ -12386,6 +12490,14 @@ Community Reporter</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100720T235529Z" changeid="flash">
         <seg>回顾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Richard Vaudrin writes:</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004144Z" changeid="flash">
+        <seg>Richard Vaudrin 写道：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14019,6 +14131,14 @@ tips on improving the quality of your Yafaray renders.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Argentinian studio QB9 has published PlayEnglish, an educative adventure game that helps players both to learn English and develop their language skills while playing with their Sony® PSP.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T002856Z" changeid="flash">
+        <seg>阿根廷的工作室QB9发布了PlayEnglish游戏。这是一个教育冒险游戏，游戏帮助玩家在PSP上学习英语，并增强他们的语言技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Blender Foundation just released 2.53, the first ‘Beta’ of the Blender 2.5 series.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100723T001029Z" changeid="flash">
@@ -14176,6 +14296,14 @@ getting close!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>上面的图片展示了三个被选中的物体：摄像机，Suzanne和focus。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The address is 2300 4th Ave S. Suite 242A Moorhead MN, 56560</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004251Z" changeid="flash">
+        <seg>地址是2300 4th Ave S. Suite 242A Moorhead MN, 56560</seg>
       </tuv>
     </tu>
     <tu>
@@ -14372,6 +14500,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first blender user-group meeting for the Fargo-Moorhead area will be meeting on July 28th at 6pm.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004403Z" changeid="flash">
+        <seg>Fargo-Moorhead地区的第一届Blender用户组见面会将在七月二十八日下午六点举办。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first chapter of the series, is about the story of what the Yukpa people tell about the origin of mankind, and how the first man “Atancha” knew the world and found companionship, and thus the world got populated.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -14436,10 +14572,26 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The game is to learn English, as a semi-adventure game, it has a variety of cartoon-style characters.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003231Z" changeid="flash">
+        <seg>游戏是设计用来学英语的，作为一个半冒险游戏，它具有很多卡通风格的人物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goal of NEVAC is to provide quality and cost-effective career and technical education for students.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100724T013529Z" changeid="flash">
         <seg>NEVAC的目标是提供高质量和具有成本效益的学生职业技术教育。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The good thing is we could break many taboos.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003121Z" changeid="flash">
+        <seg>好处在于我们可以打破许多禁忌。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15486,6 +15638,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This feature is very useful and allows for layering images in the viewport and assigning separate images to specific viewing angles.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T005012Z" changeid="flash">
+        <seg>这个功能特别有用，而且允许在视图中分层和为不同视角的视图分配不同图片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This file is not available for download.&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH">
@@ -16019,6 +16179,14 @@ getting close!</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100711T122838Z" changeid="flash">
         <seg>小提示：创建一个圆角方形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tip: Using Multiple Background Images in 2.5</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004746Z" changeid="flash">
+        <seg>小提示：在2.5版本中使用多个背景图片</seg>
       </tuv>
     </tu>
     <tu>
@@ -16591,6 +16759,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User Meeting: Fargo-Moorhead, July 28th</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004441Z" changeid="flash">
+        <seg>使用者见面会：七月28日在Fargo-Moorhead</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the New Sculpting System in Blender 2.53</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100724T000613Z" changeid="flash">
@@ -17074,6 +17250,14 @@ in Videos</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100720T235901Z" changeid="flash">
         <seg>在 纹理栏目 里查看所有帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts in Tips</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004805Z" changeid="flash">
+        <seg>在 小提示专栏 里查看所有帖子</seg>
       </tuv>
     </tu>
     <tu>
@@ -17758,6 +17942,14 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where is Fargo-Moorhead?</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003411Z" changeid="flash">
+        <seg>Fargo-Moorhead在哪里？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where we will consider:</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100707T031000Z" changeid="flash">
@@ -17898,6 +18090,14 @@ in Videos</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>有了这个号码和您的名字，您就可以入场了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without the need for multiple viewports.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T005203Z" changeid="flash">
+        <seg>而且不需要创建多个视图。</seg>
       </tuv>
     </tu>
     <tu>
