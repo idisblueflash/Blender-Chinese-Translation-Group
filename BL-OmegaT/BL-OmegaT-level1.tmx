@@ -14,18 +14,26 @@
   <body>
     <tu>
       <tuv lang="EN-US">
-        <seg>Topology Review: Hand</seg>
+        <seg>In his past life, he was a college professor in all forms of digital media production.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T122432Z" changeid="flash">
-        <seg>Topology（布局）复习: 手</seg>
+      <tuv lang="ZH" changedate="20100724T012214Z" changeid="flash">
+        <seg>在过去，他曾是各种数字媒体形式的大学教授。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>To learn more about 3D.Sk please visit them today.</seg>
+        <seg>View all posts in Fun</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T123830Z" changeid="flash">
-        <seg>要更多的了解有关 3D.Sk 的事情，请今天就访问他们。</seg>
+      <tuv lang="ZH" changedate="20100729T003816Z" changeid="flash">
+        <seg>在 娱乐栏目 中查看所有帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also remember that some of your space elements should cast shadows, like planets, moons asteroids, and space debris.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022352Z" changeid="flash">
+        <seg>还不要忘记了，你的宇宙元素也应该投射阴影，比如行星，小卫星和太空碎片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,106 +46,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Filling in remaining parts of the head</seg>
+        <seg>I’ll post some blends with the setup of lights and comp on BlenderArtists later.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T124827Z" changeid="flash">
-        <seg>充填头部其余的部分</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This tutorial uses Blender 2.5 Alpha 2</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100706T234435Z" changeid="flash">
-        <seg>本教程使用Blender 2.5 Alpha 2制作</seg>
+      <tuv lang="ZH" changedate="20100729T004555Z" changeid="flash">
+        <seg>我稍后会把合成和灯光设置的配置贴在 BlenderArtists 上。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Thank you!</seg>
+        <seg>Are you a school counselor or administrator wishing to offer a distance learning course in 3D to your students?</seg>
       </tuv>
-      <tuv lang="ZH">
-        <seg>致谢</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This tutorial encompasses the modeling, rendering and texturing of the coffee cup.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100721T000107Z" changeid="flash">
-        <seg>本教程涵盖了咖啡杯的建模，渲染和纹理。</seg>
+      <tuv lang="ZH" changedate="20100724T014129Z" changeid="flash">
+        <seg>您是一个希望提供远程3D动画学习课程的学校辅导员/管理者么？</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Topology Review: Shoulder</seg>
+        <seg>Tim Kennedy teaches digital media arts at Cedarcrest High School in rural Duvall, Washington in the United States.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T122530Z" changeid="flash">
-        <seg>Topology（布局）复习: 肩膀</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Modeling</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235224Z" changeid="flash">
-        <seg>查看所有 建模栏目 里的帖子</seg>
+      <tuv lang="ZH" changedate="20100724T011405Z" changeid="flash">
+        <seg>Tim Kennedy在美国华盛顿Duvall乡村的Cedarcrest高中教授数字媒体艺术。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Free Stuff</seg>
+        <seg>At the time of the pre-production part of the team who knew Blender, proposed it as a tool for the production of characters because of its speed and efficiency.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235613Z" changeid="flash">
-        <seg>免费内容</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>That concludes the two part tutorial series!</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003111Z" changeid="flash">
-        <seg>这两部分就是系列教程的全部！</seg>
+      <tuv lang="ZH" changedate="20100728T003036Z" changeid="flash">
+        <seg>前期的工作时，一部分Blender的组员推荐采用Blender作为人物制作的工具，因为Blender很高效。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View all posts filed under Animation</seg>
+        <seg>Some Facts:)</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T234921Z" changeid="flash">
-        <seg>查看所有 动画栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This third section continues with the main modeling process by filling in the rest of the mesh, examining edgeloops and making some adjustments to the mesh in order to improve the edgeflow in preperation of detailing.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T123616Z" changeid="flash">
-        <seg>这个由三个小节组成的建模过程，通过剩余Mesh的填充，检测 edgeloops 和对Mesh进行一些调整，以便在细节方面增强edgeflow。</seg>
+      <tuv lang="ZH" changedate="20100729T004653Z" changeid="flash">
+        <seg>一些数据：）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View all posts filed under Bundles</seg>
+        <seg>Are you a high school student interested in studying 3D?</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T234949Z" changeid="flash">
-        <seg>查看所有 Bundles栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>G’day and welcome to Week 2 of the architectural tutorial series!</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T001834Z" changeid="flash">
-        <seg>大家好，欢迎来到第二周的建筑教程特辑。</seg>
+      <tuv lang="ZH" changedate="20100724T013944Z" changeid="flash">
+        <seg>你是对3D感兴趣的高中生么？</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The series will be taking an in-depth at the techniques needed to accurately model the subject, including accurate anatomy and topology.</seg>
+        <seg>A blue nebula isn't going to cast white studio light.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T123347Z" changeid="flash">
-        <seg>这个系列将会深入了解精确建模所需的技术，包括了精确的anatomy和topology技术。</seg>
+      <tuv lang="ZH" changedate="20100728T021933Z" changeid="flash">
+        <seg>比如，一个蓝色的星云不可能投射出白色的光线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Animation</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100720T234926Z" changeid="flash">
+        <seg>动画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, this issue brings back the popular “Meet the Blenderhead” series of articles by Derek Marsh, (BgDM), as he interviews Ecks, (Jean-Sébastien Guillemette).</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T012324Z" changeid="flash">
+        <seg>同时，本期还有Derek Marsh, (BgDM)的热门连载栏目“Blender高手访谈”，这次他采访的人物是Ecks, (Jean-Sébastien Guillemette)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everything: modelling, animation, illumination, the render is Blender Internal and all the comp is Blender too.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004444Z" changeid="flash">
+        <seg>动画里的：建模，动画，照明，illumination，渲染都是在Bender里面做的，合成也是。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All characters are based in Psl-Man MultiRig (Red-Nelb character with the rig of Psl-Man will be online in a couple weeks or so).</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004816Z" changeid="flash">
+        <seg>所有人物都基于Psl-Man MultiRig (大约几周后Red-Nelb character with the rig of Psl-Man 也会出现)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,42 +142,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>In this Blender 2.5 Video tutorial, I go over using the particle hair system to create downey feathers.</seg>
+        <seg>Learn how to create a realistic 3D model of an eye within Blender with this video guide.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T122717Z" changeid="flash">
-        <seg>在这个Blender2.5的视频教程中，我将用粒子毛发系统来创建downey的羽毛。</seg>
+      <tuv lang="ZH" changedate="20100729T005210Z" changeid="flash">
+        <seg>这个视频讲展示如何在Blender里面创建一个写实的眼睛3D模型</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View all posts in Tutorials</seg>
+        <seg>'Essential Blender', is now available for pre-sale orders.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T231201Z" changeid="flash">
+        <seg>'Essential Blender', 开始预售了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beep, beep; there it is.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015210Z" changeid="flash">
+        <seg>哔，哔; 开了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:D</seg>
       </tuv>
       <tuv lang="ZH">
-        <seg>在 教程专栏 里查看所有帖子</seg>
+        <seg>:D</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This Blender 2.5 overview tutorial takes a look at the topology of the human shoulder, examining each of the main edgeloops, poles, etc.</seg>
+        <seg>Luis Belerique is 28 yrs old and lives in Porto, Portugal.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T122557Z" changeid="flash">
-        <seg>这个Blender2.5的概述视频教程简单介绍了人类肩膀的Topology技术。检测了每个主要的edgeloops， poles等等。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Don’t forget to get the shiny new version of Blender 2.53 here.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100724T000951Z" changeid="flash">
-        <seg>别忘记来下载崭新的 Blender 2.53。</seg>
+      <tuv lang="ZH" changedate="20100724T010521Z" changeid="flash">
+        <seg>Luis Belerique28岁了，他在西班牙的波尔图生活。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Game Engine</seg>
+        <seg>Additionally, they will be presenting several completed sequences in a special session that day.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235114Z" changeid="flash">
-        <seg>游戏引擎</seg>
+      <tuv lang="ZH" changedate="20100725T231151Z" changeid="flash">
+        <seg>此外，他们将在那天的特别会议上展示一部分完成的部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An easy glowing lighting setup</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002213Z" changeid="flash">
+        <seg>一个简单的发光照明器的设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actual star fields and nebulae become the backgrounds to frame our fantastical space ships and aliens.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T005725Z" changeid="flash">
+        <seg>恒星和星云的实际领域构成了我们幻像太空飞船和外星人的背景基础。</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +214,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m happy with the work of students :)</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004501Z" changeid="flash">
+        <seg>能与学生们一起工作我感到高兴：）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – How To Make A Realistic Planet In Blender</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T010348Z" changeid="flash">
+        <seg>3D 工房 – 如何在Blender里面制作一个写实效果的行星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A clever trick to make outdoor lighting more realistic</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100727T003035Z" changeid="flash">
@@ -206,42 +238,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Leave a Reply</seg>
+        <seg>3D Workshop – Making A Sun-like Star In Blender</seg>
       </tuv>
-      <tuv lang="ZH">
-        <seg>留下一个回复</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Exclusive</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235042Z" changeid="flash">
-        <seg>独家报道</seg>
+      <tuv lang="ZH" changedate="20100724T010435Z" changeid="flash">
+        <seg>3D 工房 – 在Blender中制作类似太阳的恒星</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The snapping tool in Blender allows you to snap your mesh selection to any other vertice, edge, face, or volume.</seg>
+        <seg>The production time was 3 months, 3 students work on full time and another 3 students on spare time.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T140036Z" changeid="flash">
-        <seg>Blender中的Snapping工具允许你把你的Mesh捕捉到任何其他的vertice, edge, face, 或者 volume上。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>July 14, 2010  |  by Jonathan Williamson  |  Modeling, Texturing, Tutorials</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235917Z" changeid="flash">
-        <seg>2010年7月14日由乔纳森威廉森发表于| | 造型 ， 纹理 ， 教程</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Just scroll down and each section is listed.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T123716Z" changeid="flash">
-        <seg>只要向下滚动网页，每节都会列出来。</seg>
+      <tuv lang="ZH" changedate="20100729T004648Z" changeid="flash">
+        <seg>影片的生产时间为3个月，3名学生全职工作，另外3名学生兼职。</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,18 +262,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Reference Images were purchased and licensed from 3D.sk.</seg>
+        <seg>Find us on facebook.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T123753Z" changeid="flash">
-        <seg>参考图像由3D.sk购买和授权。</seg>
+      <tuv lang="ZH" changedate="20100728T004533Z" changeid="flash">
+        <seg>请在facebook上联络我们。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View all posts in all</seg>
+        <seg>The render is Blender internal and the render time in a i7 processor took about 3 minutes.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100723T000737Z" changeid="flash">
-        <seg>在 所有栏目 里查看所有帖子</seg>
+      <tuv lang="ZH" changedate="20100729T004951Z" changeid="flash">
+        <seg>渲染采用了Blender内部渲染器，渲染时间为3分钟（i7处理器）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After I became an adult, I got my first computer and was introduced to software animation.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T004251Z" changeid="flash">
+        <seg>之后 我长大成人了，我拥有了自己的第一台电脑，并且入了软件动画行业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* DVD Rom with all necessary files and demos</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T233723Z" changeid="flash">
+        <seg>* 所有必要的文件和演示的DVD光盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – Modeling A Low Poly Space Ship</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T014413Z" changeid="flash">
+        <seg>3D 工房 – 创建一个低模宇宙飞船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>14 Comments   Published by Bart  on July 28th, 2010 in Fun</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T003853Z" changeid="flash">
+        <seg> 14 个评论由Bart于2010年7月28日发表在工具盒栏目上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>图二十</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daniel Martinez Lara writes:</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004348Z" changeid="flash">
+        <seg>Daniel Martinez Lara 写道：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All students was working on the idea, script, style, modeling, animation, etc …</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004839Z" changeid="flash">
+        <seg>所有的学生正在创意，脚本，样式，造型，动画等方面工作...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts in Video</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004323Z" changeid="flash">
+        <seg>在 视频栏目 中查看所有帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – Displacement Mapping for Exhaust</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T010122Z" changeid="flash">
+        <seg>3D 工房 – 应用在排气口效果的Displacement Mapping（放置映射技术）</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,58 +358,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Creating a CG Cookie Coffee Cup</seg>
+        <seg>Posts by Bart</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T234648Z" changeid="flash">
-        <seg>创建一个CG的Cookie咖啡杯</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This second portion continues where the first part left off and goes through the process filling in the gaps to create the full face</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T135813Z" changeid="flash">
-        <seg>第二部分继续第一部分的进度，我们将把那些缝隙填补上，以创建一个完整的面孔。</seg>
+      <tuv lang="ZH" changedate="20100729T003759Z" changeid="flash">
+        <seg>Bart发布</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Permanent Link to Creating a CG Cookie Coffee Cup</seg>
+        <seg>Blender 2.43 released with an amazing set of new features and improvements.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235841Z" changeid="flash">
-        <seg>永久链接： 创建一个CG的Cookie咖啡杯</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This Blender 2.5 overview video tutorial takes a look at the topology of the human foot, examining each of the main edgeloops, poles, etc.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T122309Z" changeid="flash">
-        <seg>这个Blender2.5的概述视频教程简单介绍了人类脚的Topology技术。检测了每个主要的edgeloops， poles等等。</seg>
+      <tuv lang="ZH" changedate="20100725T013617Z" changeid="flash">
+        <seg>伴随着惊人的新功能和改进，Blender 2.43版本发布了。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The stock textures and any other photographs available for download on this site are completely free and may be used in commercial or non-commercial applications.</seg>
+        <seg>'Essential Blender' will get you working with modeling, materials and texturing, lighting, particle systems, several kinds of animation, and rendering.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100725T222254Z" changeid="flash">
-        <seg>该网站上的纹理和任何其他照片的下载是完全免费的，可以在商业或非商业中使用。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Creative Commons License</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T221027Z" changeid="flash">
-        <seg>创作共用许可证</seg>
+      <tuv lang="ZH" changedate="20100725T231743Z" changeid="flash">
+        <seg>'Essential Blender'将带领你在建模，材料和纹理，灯光，粒子系统，各种动画方式和渲染方面进行学习。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Here’s a useful texture repository that popped up in a comment yesterday beneath our ‘List of free texture sites‘ blogpost.</seg>
+        <seg>Big Buck Bunny Sighted at Disney</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100725T222159Z" changeid="flash">
-        <seg>这是昨天贴在我们博客‘免费纹理网站列表‘ 的回复下特别有用的纹理存储库。</seg>
+      <tuv lang="ZH" changedate="20100729T004100Z" changeid="flash">
+        <seg>大巴克班尼兔的截图出现在迪斯尼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>32 Comments   Published by Bart  on July 28th, 2010 in Video</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004341Z" changeid="flash">
+        <seg> 32 个评论由Bart于2010年7月28日发表在娱乐栏目上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cup</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004256Z" changeid="flash">
+        <seg>奖杯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As always I’m keen to see whatever you guys produce from this tutorial, so don’t be shy to drop a link in the comment section below!</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002438Z" changeid="flash">
+        <seg>一如既往地，我很想看到你们作品，所以请随意张贴在下面！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And so we wanted to share with the community.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003154Z" changeid="flash">
+        <seg>于是我们希望能与社区分享我们的经验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,42 +438,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Search the site...</seg>
+        <seg>All products and company names featured in the publication are trademark or registered trade marks of their respective owners.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T234741Z" changeid="flash">
-        <seg>搜索网站...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>On Saturday, July 31st there’s a BarCamp in Guayaquil, Ecuador.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T000738Z" changeid="flash">
-        <seg>周六，7月31日在瓜亚基尔的厄瓜多尔将举办一个 BarCamp。</seg>
+      <tuv lang="ZH" changedate="20100725T013229Z" changeid="flash">
+        <seg>出版物中所有产品和公司的名称是其各自所有者的注册商标。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Link</seg>
+        <seg>BarCamp is an international network of user-generated conferences (or unconferences).</seg>
       </tuv>
-      <tuv lang="ZH">
-        <seg>链接：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Topology Overview: The Head</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T122338Z" changeid="flash">
-        <seg>Topology（布局）概述: 头</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Reviews</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235529Z" changeid="flash">
-        <seg>回顾</seg>
+      <tuv lang="ZH" changedate="20100727T000700Z" changeid="flash">
+        <seg>BarCamp－国际研讨会网络，此类研讨会是开放、由参与者相互分享的工作方式会议。</seg>
       </tuv>
     </tu>
     <tu>
@@ -399,14 +463,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Making use of multiple modifiers and projection painting this tutorial covers the entire process of modeling and texturing an old, wooden barrel in Blender.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T140227Z" changeid="flash">
-        <seg>通过使用多个Modifier和Projection绘图技术，教程介绍了在Blender里制作一个老旧的木桶的完整过程（建模和贴图）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&gt;&gt;DOWNLOAD THE FINISHED .BLEND&lt;&lt;</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100709T003811Z" changeid="flash">
@@ -415,818 +471,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Now go forth and create cities</seg>
+        <seg>* Up to date with (upcoming) 2.44 Blender</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100727T002354Z" changeid="flash">
-        <seg>现在动手，创造城市吧。</seg>
+      <tuv lang="ZH" changedate="20100725T233552Z" changeid="flash">
+        <seg>* 升级到了 (即将) 2.44 Blender</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Posts by Andrew Price</seg>
+        <seg>February was a great month for Blender fans.</seg>
       </tuv>
-      <tuv lang="ZH">
-        <seg>Andrew Price 发布</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Instructors</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235602Z" changeid="flash">
-        <seg>指导教师</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>F.A.Q.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235800Z" changeid="flash">
-        <seg>常见问题</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>To download this tutorial please log into your citizen account here, or join the ranks today.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T123926Z" changeid="flash">
-        <seg>要下载这个教程，请登录你的会员账户，或今天就加入我们的行列。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under FX</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235059Z" changeid="flash">
-        <seg>查看所有 FX栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Note: this tutorial uses the official Blender 2.5 Alpha 2 release.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T121046Z" changeid="flash">
-        <seg>注意: 本教程使用了官方的 Blender 2.5 Alpha 2 版本。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>TextureMate.com (but you already guessed that)</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T222035Z" changeid="flash">
-        <seg>TextureMate.com（但估计你已经猜到这个地址了）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rendering</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235309Z" changeid="flash">
-        <seg>渲染</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Scripts</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235319Z" changeid="flash">
-        <seg>脚本</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The only exception is that they cannot be redistributed commercially in their unedited form.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T222312Z" changeid="flash">
-        <seg>唯一例外的是，这些素材不能在未经编辑的情况下用于商业用途。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>These images may not be redistributed by default, please visit www.cgtextures.com for more information.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T140357Z" changeid="flash">
-        <seg>这些图片默认不能随意发布，参看 www.cgtextures.com 获得详细情况。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The tutorial also demonstrates a technique for quick and dirty outdoor rendering.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T121017Z" changeid="flash">
-        <seg>教程还演示了一个快速和粗糙（dirty）的户外渲染技术。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Exclusive: Modeling the Female Head 02</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T135655Z" changeid="flash">
-        <seg>独家发布：女性头部建模 02</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Exclusive: Modeling the Female Head 03</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T123116Z" changeid="flash">
-        <seg>独家发布：女性头部建模 03</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Contribute</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235624Z" changeid="flash">
-        <seg>查看所有 贡献栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>One or more textures on this 3D model have been created with images from CGTextures.com.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T140305Z" changeid="flash">
-        <seg>在这个3D模型上的一些Texture由CGTextures.com创建。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>http://www.blenderguru.com/category/tutorials/materials/</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>http://www.blenderguru.com/category/tutorials/materials/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Jul, 2010 by Andrew Price in Architecture, Lighting, Materials, Tutorials</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002854Z" changeid="flash">
-        <seg>2010年7月 Andrew Price 在 Architecture, Lighting, Materials, Tutorials中发布。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this tutorial you will learn:</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003013Z" changeid="flash">
-        <seg>在本教程里你将学到：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Home</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T234903Z" changeid="flash">
-        <seg>首页</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Credit to texturemate for use of available textures is appreciated, but not required.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T222012Z" changeid="flash">
-        <seg>我们很赞赏您为使用过的素材付费，但这并不是必需的。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Citizen exclusive Blender 2.5 video tutorial, we begin the process of modeling a full female head.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T123238Z" changeid="flash">
-        <seg>在这次Blender2.5会员独家发放视频教程中，我们开始制作一个完整的女性头部模型。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Free Textures on TextureMate.com</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T221113Z" changeid="flash">
-        <seg>关于TextureMate.com免费纹理</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Interface</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235122Z" changeid="flash">
-        <seg>查看所有 界面栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Interface</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235127Z" changeid="flash">
-        <seg>界面</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Thank you for the support and more education is on the way!</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T124753Z" changeid="flash">
-        <seg>谢谢您的支持和更多的教材制作中！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Tips</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235359Z" changeid="flash">
-        <seg>查看所有 小提示栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Or</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T121315Z" changeid="flash">
-        <seg>或</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Apartment Complex by Scotchtapeworm</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002743Z" changeid="flash">
-        <seg>公寓大楼 Scotchtapeworm制作</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Reference</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235657Z" changeid="flash">
-        <seg>参考</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Game Engine</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235112Z" changeid="flash">
-        <seg>查看所有 游戏引擎栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Modeling</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235229Z" changeid="flash">
-        <seg>建模</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Box Modeling an Alien Character in Blender 2.5 alpha 0</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T220520Z" changeid="flash">
-        <seg>Blender2.5 alpha 0 中基于盒子的外星人物制作</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Enjoy!</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T222225Z" changeid="flash">
-        <seg>请享用！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Resources</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235513Z" changeid="flash">
-        <seg>资源</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Topology Review – The Foot</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T122440Z" changeid="flash">
-        <seg>Topology（布局）复习: 脚</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this tutorial, I show you a few basics of Blender 2.5, and cover how to use the box-modeling technique to create a full character.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T222348Z" changeid="flash">
-        <seg>在这个教程里，我会向你展示Blender2.5的一些基本知识，还会包括如何使用box-modeling(盒子建模)技术来创建一个完整的人物。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>What is Covered in this Lesson</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T124814Z" changeid="flash">
-        <seg>本课包含的内容：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Models</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235642Z" changeid="flash">
-        <seg>模型</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This new system adds many new brushes and features to the sculpting toolset, providing a much smoother and feature-rich workflow.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100724T001116Z" changeid="flash">
-        <seg>新系统在雕刻工具集里，增加了许多新的笔刷和功能，从而提供了一个更加流畅，功能更丰富的工作流程。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Create a High Rise Building – Part 2 of 2</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T001803Z" changeid="flash">
-        <seg>创建一个高分辨率建筑 - 第2/2部分</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Rendering</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235306Z" changeid="flash">
-        <seg>查看所有 渲染栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Physics/Dynamics</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235300Z" changeid="flash">
-        <seg>物理/动力学</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(or Click here to view Part 1 first)</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T003055Z" changeid="flash">
-        <seg>(或者 点击这里来观看教程的第一部分)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>They are open, participatory workshop-events, whose content is provided by participants.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T000716Z" changeid="flash">
-        <seg>议程内容由参加者提供，焦点通常放在发展初期的网际应用程式、相关开放原始码技术、社交协定思维，以及开放资料格式方面。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This overview Blender video tutorial takes a look at the topology of the human head, examining each of the main edgeloops, poles, etc.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T122511Z" changeid="flash">
-        <seg>这个Blender2.5的概述视频教程简单介绍了人类头部的Topology技术。检测了每个主要的edgeloops， poles等等。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Particles</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235242Z" changeid="flash">
-        <seg>粒子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Blender Training</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T234700Z" changeid="flash">
-        <seg>Blender练习</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Note2: We are aware of the poor audio quality on this tutorial, Jonathan just moved to a new house and is working to address it.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T121206Z" changeid="flash">
-        <seg>注2: 我们得告诉您，这次的音频质量很差，因为Jonathan刚刚搬了新家，他正在解决这个问题。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Destruction by Matt</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002626Z" changeid="flash">
-        <seg>毁坏 Matt制作</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Models</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235640Z" changeid="flash">
-        <seg>查看所有 模型栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Contests</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235427Z" changeid="flash">
-        <seg>查看所有 比赛栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Interviews</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235457Z" changeid="flash">
-        <seg>访谈</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tips</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235356Z" changeid="flash">
-        <seg>小提示</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tip: Using the Snapping Tool</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T135929Z" changeid="flash">
-        <seg>小提示：使用Snapping工具</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This tutorial takes a look at how to model a Teddy Bear in Blender.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T000339Z" changeid="flash">
-        <seg>这个教程介绍了如何在Blender中制作一个泰迪熊。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Texturing</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235334Z" changeid="flash">
-        <seg>纹理</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>From their ‘legal stuff’ statement:</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T222241Z" changeid="flash">
-        <seg>这是他们的 ‘合法声明’：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Here are the best renders from the Blender Guru community after following this tutorial:</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002540Z" changeid="flash">
-        <seg>下面是Blender Guru 社区里面，看过这个教程后的最佳渲染作品</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Exclusive</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235038Z" changeid="flash">
-        <seg>查看所有 独家报道栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The box-modeling technique is a good way to quickly visualize the shape of your character, rather than creating the detail from the beginning.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T221015Z" changeid="flash">
-        <seg>盒子建模技术是个非常好的建模方法，它能帮助你快速建立一个模型的大体形状。而不是一开始就抠细节。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Scripts</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235317Z" changeid="flash">
-        <seg>查看所有 脚本栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Watch the Tutorial</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002221Z" changeid="flash">
-        <seg>观看教程</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>To download this tutorial please log into your citizen account here, or join the ranks today.Remeber that being a citizen member not only gives you access to periodic exclusive tutorials, but access to our complete source library from Max Cookie, Modo Cookie and Blender Cookie.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T125419Z" changeid="flash">
-        <seg>要下载这个教程，请登录你的会员账户，或今天就加入我们的行列。请记住，作为会员不仅可让您使用我们定期的独家教程，还能让您进入我们的完整资源站，包括：Max Cookie, Modo Cookie 和 Blender Cookie。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts in Modeling</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看 建模专栏 里的所有帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Getting Started With Blender</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T234734Z" changeid="flash">
-        <seg>Blender入门</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Subscribe to our Blender RSS Feed to receive our latest articles and education from Blender Cookie.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T121440Z" changeid="flash">
-        <seg>请订阅我们的Blender RSS Feed以接受到Blender Cookie的最新文章和培训消息。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Animation</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T234926Z" changeid="flash">
-        <seg>动画</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Using the New Sculpting System in Blender 2.53</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100724T000613Z" changeid="flash">
-        <seg>使用Blender 2.53里面新的雕刻系统</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Reference</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235654Z" changeid="flash">
-        <seg>查看所有 参考栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Fresh Batch</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235447Z" changeid="flash">
-        <seg>查看所有 Fresh Batch栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>:D</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>:D</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>An easy glowing lighting setup</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002213Z" changeid="flash">
-        <seg>一个简单的发光照明器的设置</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>We also have a public “Male Head Modeling Series” available for view.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T123655Z" changeid="flash">
-        <seg>我们还提供一个公开的“男性头部建模系列” 。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.53 video tutorial we take a look at the newly refactored sculpting system in the latest beta release.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100724T001021Z" changeid="flash">
-        <seg>在这个Blender2.53的视频教程里，让我们来看看Blender最新版中，刚刚重构过的雕刻系统。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>default image for post</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235817Z" changeid="flash">
-        <seg>帖子的默认图片 </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Preparing for detailing</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T124854Z" changeid="flash">
-        <seg>准备细节</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Particles</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235239Z" changeid="flash">
-        <seg>查看所有 粒子栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tip: Creating a Rounded-off Square Form</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T122838Z" changeid="flash">
-        <seg>小提示：创建一个圆角方形</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Contests</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235423Z" changeid="flash">
-        <seg>比赛</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts in Materials</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看 材料专栏 里的所有帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lighting</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235213Z" changeid="flash">
-        <seg>光影</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Purchase Source Files</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T121310Z" changeid="flash">
-        <seg>购买源文件</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Due to the use of modifiers, the resulting rope is very easily modified, lengthened, etc to fit any purpose.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T135514Z" changeid="flash">
-        <seg>由于使用了Modifier，所以产生的绳子非常容易修改，延长等等，适合为任何目的修改使用。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Interviews</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235502Z" changeid="flash">
-        <seg>查看所有 访谈栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tutorials</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>教程</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Part 2 will be up soon.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100721T000117Z" changeid="flash">
-        <seg>第2部分将很快出来。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Creating a Wooden Barrel</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T140101Z" changeid="flash">
-        <seg>创建一个木桶</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[quote from Wikipedia].</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T000513Z" changeid="flash">
-        <seg>[注解来自Wikipedia的定义].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>As always I’m keen to see whatever you guys produce from this tutorial, so don’t be shy to drop a link in the comment section below!</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002438Z" changeid="flash">
-        <seg>一如既往地，我很想看到你们作品，所以请随意张贴在下面！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Sign up</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235741Z" changeid="flash">
-        <seg> 注册</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Then using the duplifaces technique to add the longer feathers, as well as their texturing and a quick rig setup.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T122806Z" changeid="flash">
-        <seg>然后利用duplifaces技术添加较长的羽毛，以及他们的Texturing(纹理)和快速组合在一起（quick rig setup）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Modeling a Rope</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T135234Z" changeid="flash">
-        <seg>绳子建模</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Don’t fret we are not finished with the Mechanic just yet, but it is winding down and wanted to present our new series.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T135903Z" changeid="flash">
-        <seg>不要担心我们尚未完成的那个Mechanic，它已经做完了，我们只是想介绍我们的新系列。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.5 video tutorial we have some fun and show you how to model a simple palm tree using a series of modifiers and linked meshes.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T120927Z" changeid="flash">
-        <seg>在这个Blender2.5的视频教程里，我们会给你展示一些好玩的方法，通过一系列的Modifier和连接在一起的Mesh，来造一个简单的棕榈树。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Contribute</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235626Z" changeid="flash">
-        <seg>贡献</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>BarCamp is an international network of user-generated conferences (or unconferences).</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T000700Z" changeid="flash">
-        <seg>BarCamp－国际研讨会网络，此类研讨会是开放、由参与者相互分享的工作方式会议。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Modeling a Palm Tree</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T120704Z" changeid="flash">
-        <seg>棕榈树建模</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Site News</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235540Z" changeid="flash">
-        <seg>网站新闻</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Playing with the Array modifier, AO and Tangent Normals…</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100723T000713Z" changeid="flash">
-        <seg>Array modifier, AO 以及 Tangent Normals试玩</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Modeling Feathery Wings</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T122631Z" changeid="flash">
-        <seg>羽状翅膀建模</seg>
+      <tuv lang="ZH" changedate="20100725T013349Z" changeid="flash">
+        <seg>二月是Blender爱好者们的好日子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1239,10 +495,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to model a realistic eyeball in Blender</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005109Z" changeid="flash">
+        <seg>如何在Blender里建立一个写实的眼球</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blender at Barcamp, Guayaquil, Ecuador</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100727T000300Z" changeid="flash">
         <seg>在厄瓜多尔 瓜亚基尔的 Blender  Barcamp（国际研讨会网络）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: this tutorial uses the official Blender 2.5 Alpha 2 release.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100711T121046Z" changeid="flash">
+        <seg>注意: 本教程使用了官方的 Blender 2.5 Alpha 2 版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1255,74 +527,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This is a very handy technique for precision modeling.</seg>
+        <seg>Izzy Speaks – Space Scenes</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T140045Z" changeid="flash">
-        <seg>这是一个非常方便的精确建模技术。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Physics/Dynamics</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235257Z" changeid="flash">
-        <seg>查看所有 物理/动力学栏目 里的帖子</seg>
+      <tuv lang="ZH" changedate="20100728T013519Z" changeid="flash">
+        <seg>Izzy小贴士 – 宇宙场景</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>In this quick Blender 2.5 video tip we demonstrate how to easily model a rounded-off square form by using snapping/retopology tools.</seg>
+        <seg>Michael wrote: “I saw a screenshot of Big Buck Bunny at the new Disney Research Institute in Zurich!</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T123013Z" changeid="flash">
-        <seg>在这个Blender2.5的快速视频小提示里，我们将演示如何简单的制作一个圆角方形，这里采用了sanpping（捕捉）/retopology工具。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>By using an Array modifier and a Curve modifier, this tutorial takes you through the process of modeling a rope in Blender.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T135339Z" changeid="flash">
-        <seg>通过使用 Array（数组） modifier 和 Curve（曲线） modifier来制作一个绳子。</seg>
+      <tuv lang="ZH" changedate="20100729T004009Z" changeid="flash">
+        <seg>Michael 写道： “我在迪斯尼苏黎世新的研究所看到了 大巴克班尼兔的截图！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>High resolution .mov Video</seg>
+        <seg>Here, in Minnesota!</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T121236Z" changeid="flash">
-        <seg>高分辨率.mov视频</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Posted on 12.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100727T002902Z" changeid="flash">
-        <seg>12日发布</seg>
+      <tuv lang="ZH" changedate="20100728T003438Z" changeid="flash">
+        <seg>在明尼苏达州 ！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Go home Cookies</seg>
+        <seg>One dropbox account (www.dropbox.com) was used like a sever to get all the project sync with the all students.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T234717Z" changeid="flash">
-        <seg>回到Cookies首页</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.5 video tutorial we give you a demonstration and overview of clean hand topology.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T121700Z" changeid="flash">
-        <seg>在这个Blender2.5的视频教程里，我们会给你演示一个干净漂亮的手模型的布局。</seg>
+      <tuv lang="ZH" changedate="20100729T005050Z" changeid="flash">
+        <seg>我们用一个dropbox账户(www.dropbox.com)来让项目中所有学生的工作同步。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View all posts filed under Reviews</seg>
+        <seg>3D Workshop – How To Make A Realistic Planet In Blender</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235524Z" changeid="flash">
-        <seg>查看所有 回顾栏目 里的帖子</seg>
+      <tuv lang="ZH" changedate="20100724T010258Z" changeid="flash">
+        <seg>3D 工房 – 如何在Blender里面制作一个写实效果的行星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Stitched binding, quality paper, full color cover</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T233702Z" changeid="flash">
+        <seg>* 线装，优质纸张，全彩封面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My first 3d animation software was 3d studio max and now it is blender </seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T004341Z" changeid="flash">
+        <seg>我的第一个三维动画是用3d studio max 制作的，但是现在我用Blender。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blender Learning Made Easy</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T005323Z" changeid="flash">
+        <seg>轻松学习Blender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back on Earth at our computer, let’s discuss what we learned from our research.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021258Z" changeid="flash">
+        <seg>回到地球上我们的电脑里，让我们讨论一下我们刚才研究的心得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plumiferos is presenting a fresh new trailer with real sequences from the film at the 22nd Mar del Plata Film Festival on March 10th.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T231048Z" changeid="flash">
+        <seg>Plumiferos在3月10日发布了一个全新的预告片，这个预告片是为第22届Mar del Plata电影节准备的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the time of writing this article, the price was still at the pre-sale amount of $26.39 USD.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T230219Z" changeid="flash">
+        <seg>在写这篇文章的时候，当时的价格仍然是26.39美元的预售价。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modeling An Alien Using Subsurf</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T003610Z" changeid="flash">
+        <seg>用Subsurf制作外星人 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1335,18 +631,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View all posts in Texturing</seg>
+        <seg>Robert Foster, I was born in Philadelphia,PA.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235901Z" changeid="flash">
-        <seg>在 纹理栏目 里查看所有帖子</seg>
+      <tuv lang="ZH" changedate="20100725T003921Z" changeid="flash">
+        <seg>Robert Foster， 我出生在宾夕法尼亚州。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View all posts in Architecture</seg>
+        <seg>3D Workshop – Making An Alien Using Subsurf</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100706T225021Z" changeid="flash">
-        <seg>在 建筑栏目 里查看所有帖子</seg>
+      <tuv lang="ZH" changedate="20100724T011119Z" changeid="flash">
+        <seg>3D 工房 – 使用Subsurf（细分）制作外星人</seg>
       </tuv>
     </tu>
     <tu>
@@ -1359,42 +655,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>[update] Featured Community Pics</seg>
+        <seg>BlenderArt wishes you and your book all the best!</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100727T003137Z" changeid="flash">
-        <seg>[更新] 社区图片精选</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Site News</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235538Z" changeid="flash">
-        <seg>查看所有 网站新闻栏目 里的帖子</seg>
+      <tuv lang="ZH" changedate="20100725T230708Z" changeid="flash">
+        <seg>BlenderArt祝你和你的新书顺利！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Textures</seg>
+        <seg>BlenderArt Magazine Issue 9 | March 2007</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235723Z" changeid="flash">
-        <seg>纹理</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Submit Comment</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>提交评论</seg>
+      <tuv lang="ZH" changedate="20100724T005306Z" changeid="flash">
+        <seg>BlenderArt 杂志 第 9 期 | 2007年3月</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Supporting Textures</seg>
+        <seg>Blender News</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100723T000853Z" changeid="flash">
-        <seg>支持纹理</seg>
+      <tuv lang="ZH" changedate="20100724T005514Z" changeid="flash">
+        <seg>Blender新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anything goes and often does.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T014510Z" changeid="flash">
+        <seg>宇宙中，任何事情都会发生，而且特别频繁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NorthEast Vocational Area Cooperative.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T012805Z" changeid="flash">
+        <seg>The NorthEast Vocational Area Cooperative -- 东北区职业领域合作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sighting is from Euronews”.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004032Z" changeid="flash">
+        <seg>这个是在欧洲新闻上看到的”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1407,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apartment Complex by Scotchtapeworm</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002743Z" changeid="flash">
+        <seg>公寓大楼 Scotchtapeworm制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjusting edgeflow where needed</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100711T124846Z" changeid="flash">
@@ -1415,106 +727,146 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Login</seg>
+        <seg>And of course, no issue on</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235748Z" changeid="flash">
-        <seg>登录</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.5 Video Mini-tutorial, I go over how to use the Array Modifier, and then go on to bake the Ambient Occlusion and Tangent Normals.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100723T000846Z" changeid="flash">
-        <seg>在这个Blender2.5的视频教程中，我将看看Array Modifier的使用，然后在介绍Ambient Occlusion和Tangent Normals。</seg>
+      <tuv lang="ZH" changedate="20100725T014918Z" changeid="flash">
+        <seg>当然，没有任</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Support</seg>
+        <seg>Everything was made in Blender 2.50.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235754Z" changeid="flash">
-        <seg>支持</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Resources</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235511Z" changeid="flash">
-        <seg>查看所有 资源栏目 里的帖子</seg>
+      <tuv lang="ZH" changedate="20100729T004857Z" changeid="flash">
+        <seg>一切由Blender2.50制作。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Normally 4USD a piece.</seg>
+        <seg>Meet the Blenderhead – Jean-Sébastien Guillemette</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100711T124733Z" changeid="flash">
-        <seg>4美元一个。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Website</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>网站</seg>
+      <tuv lang="ZH" changedate="20100728T013311Z" changeid="flash">
+        <seg>Blender用户访谈 – Jean-Sébastien Guillemette</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>You will learn various basic modeling techniques that may be applied to other objects.</seg>
+        <seg>3D Workshop – The Making Of 'Project Utopia'</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100725T000415Z" changeid="flash">
-        <seg>您可以学到各种基本造型技巧，这些技巧还可以用于其他物体的创建。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Creating a Burlap Teddy Bear – part 1</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100725T000302Z" changeid="flash">
-        <seg>创建一个麻布的泰迪熊 -- 第一部</seg>
+      <tuv lang="ZH" changedate="20100724T014444Z" changeid="flash">
+        <seg>3D 工房 – 'Project Utopia -- 乌托邦项目'的制作过程</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View all posts filed under Lighting</seg>
+        <seg>(EUR 29/34.52 USD)</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235207Z" changeid="flash">
-        <seg>查看所有 光影栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Support the site – Download includes:</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T121224Z" changeid="flash">
-        <seg>支持网站 - 下载包内有：</seg>
+      <tuv lang="ZH" changedate="20100725T231217Z" changeid="flash">
+        <seg>(欧元 29/34.52 美元)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View all posts filed under Textures</seg>
+        <seg>The same day Blender 2.43 was released, www.blender.org unveiled its new website design.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100720T235721Z" changeid="flash">
-        <seg>查看所有 纹理栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Texturing</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100720T235339Z" changeid="flash">
-        <seg>查看所有 纹理栏目 里的帖子</seg>
+      <tuv lang="ZH" changedate="20100725T224937Z" changeid="flash">
+        <seg>就在Blender 2.43发布的同一天，www.blender.org 也推出了新设计的网站。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ensure lighting passes through glass</seg>
+        <seg>Also, my running lights now appear to actually be helping the scene by lighting up areas that aren’t receiving any reflected light from the nebula or nearby stars.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100727T002159Z" changeid="flash">
-        <seg>确保光线可以穿过玻璃</seg>
+      <tuv lang="ZH" changedate="20100728T021227Z" changeid="flash">
+        <seg>而且，我的航行灯现在看起只是帮助照亮一部分区域，却没有收到任何来自星云或附近星空的反射光亮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level: Beginner to Intermediate</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022827Z" changeid="flash">
+        <seg>适阅级别： 从初级到中级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* About 350 pages B&amp;W</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T233621Z" changeid="flash">
+        <seg>* 大约 350 页黑白页面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(or Click here to view Part 1 first)</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T003055Z" changeid="flash">
+        <seg>(或者 点击这里来观看教程的第一部分)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'Essential Blender' the next book from the Blender Foundation, is your official guide to learning the fundamentals of this open and free 3D software suite.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T231354Z" changeid="flash">
+        <seg>'Essential Blender' 是Blender 基金会出版的下一本书，这是您学习开源免费3D软件套装的官方指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether you're new to the Blender Foundation's popular open-source 3D computer graphics application or are a seasoned digital artist</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005300Z" changeid="flash">
+        <seg>不管你是Blender的新手还是个经验丰富的数位艺术家，你都能学会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note2: We are aware of the poor audio quality on this tutorial, Jonathan just moved to a new house and is working to address it.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100711T121206Z" changeid="flash">
+        <seg>注2: 我们得告诉您，这次的音频质量很差，因为Jonathan刚刚搬了新家，他正在解决这个问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blender Training</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100720T234700Z" changeid="flash">
+        <seg>Blender练习</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – Texturing An Alien Using Nodes</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T011151Z" changeid="flash">
+        <seg>3D 工房 – 使用 Nodes（节点系统）为外星人做贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destruction by Matt</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002626Z" changeid="flash">
+        <seg>毁坏 Matt制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>‘BlenderArt Magazine’,‘blenderart’ and BlenderArt logo are copyright of Gaurav Nawani.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T015051Z" changeid="flash">
+        <seg>' BlenderArt杂志'，'blenderart'和BlenderArt标志属Gaurav Nawani版权所有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Shipping expected to start 2nd week May.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T233812Z" changeid="flash">
+        <seg>* 五月的第二周邮寄</seg>
       </tuv>
     </tu>
     <tu>
@@ -1527,34 +879,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>We are working though some Camtasia audio sync bugs…</seg>
+        <seg>This tutorial is one part of a series of tutorials included in NEVAC’s distance learning offering of “Introduction to 3D Animation.” Study and interactive class discussion is completed online through a Module-based class Web site.</seg>
       </tuv>
-      <tuv lang="ZH" changedate="20100721T000154Z" changeid="flash">
-        <seg>我们正在努力解决那些Camtasia音频同步的错误...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The tutorial provides tips on how to structure your mesh, including clean topology, mesh flow and edgeloop density.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100711T121855Z" changeid="flash">
-        <seg>教程给了你一些如何组织你的Mesh的建议，其中包括制作干净的topology,mesh flow（Mesh流） 和 edgeloop density（密度）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.5 video tutorial we have a bit of fun and create a CG Cookie branded coffee cup.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100721T000034Z" changeid="flash">
-        <seg>在这个Blender2.5的视频教程里，让我们玩得开心一点，我们来创建一个CG Cookie品牌的咖啡杯。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Compositing</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100708T010222Z" changeid="flash">
-        <seg>合成</seg>
+      <tuv lang="ZH" changedate="20100724T013841Z" changeid="flash">
+        <seg>本教程是收录在NEVAC远程学习提供的“Introduction to 3D Animation -- 3D动画概述”里面的一部分。课堂上的学习和互动讨论完全在一个基于建模的班级网站上完成。</seg>
       </tuv>
     </tu>
   </body>
