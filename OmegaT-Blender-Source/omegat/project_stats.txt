@@ -1,0 +1,15 @@
+7/30/10 6:27 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Total:           	     193	 1865	                       8818	                        10429	
+Remaining:       	     193	 1865	                       8818	                        10429	
+Unique:          	     187	 1835	                       8589	                        10193	
+Unique Remaining:	     187	 1835	                       8589	                        10193	
+
+
+Individual File Statistics:
+
+File Name                                                  	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
+2010/07/29-How to model a realistic eyeball in Blender.html	         56	             56	                              331	                                  331	                                379	                                    379	
+2010/07/30-Its all in the Eyes.html                        	       1809	           1809	                             8487	                                 8487	                              10050	                                  10050	

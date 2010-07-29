@@ -1,0 +1,168 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+项目状态
+
+总共：
+	片段	2152
+	词汇	13667
+	字符（不含空白字符）	94655
+	字符（含空白）	100519
+剩余：
+	片段	1606
+	词汇	10660
+	字符（不含空白字符）	79270
+	字符（含空白）	82665
+独特：
+	片段	1069
+	词汇	9120
+	字符（不含空白字符）	58301
+	字符（含空白）	62578
+剩余独特：
+	片段	908
+	词汇	7773
+	字符（不含空白字符）	51520
+	字符（含空白）	54609
+=======
+<<<<<<< HEAD
+7/28/10 8:52 AM
+=======
+7/28/10 10:31 AM
+>>>>>>> news0728
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Total:           	    3752	34144	                     189356	                       213364	
+<<<<<<< HEAD
+Remaining:       	    2957	28751	                     161922	                       181275	
+Unique:          	    2535	28953	                     149055	                       170996	
+Unique Remaining:	    2199	25701	                     132670	                       151689	
+=======
+Remaining:       	    2898	28023	                     158607	                       177307	
+Unique:          	    2535	28953	                     149055	                       170996	
+Unique Remaining:	    2150	24989	                     129489	                       147861	
+>>>>>>> news0728
+>>>>>>> origin/master
+=======
+7/29/10 8:53 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Total:           	    4076	36949	                     204016	                       230281	
+Remaining:       	    3862	35285	                     195590	                       220350	
+Unique:          	    2827	31609	                     162637	                       186768	
+Unique Remaining:	    2718	30483	                     156998	                       180098	
+>>>>>>> news0729
+=======
+7/29/10 9:50 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Total:           	    4076	36949	                     204016	                       230281	
+Remaining:       	    3273	31529	                     176470	                       198061	
+Unique:          	    2827	31609	                     162637	                       186768	
+Unique Remaining:	    2488	28348	                     146220	                       167423	
+>>>>>>> BAM#9
+
+单个文件状态：
+
+<<<<<<< HEAD
+文件名	总共词汇量	剩余词汇	总字符（不含空白）	剩余字符（不含空白）	总字符（含空白）	保留字符（含空白）
+NeedTranslate/cookie/2010/07/12-Modeling a Palm Tree.html	252	119	1680	1052	1831	1084
+NeedTranslate/cookie/2010/07/13-Topology Review: Hand.html	239	139	1738	1231	1862	1269
+NeedTranslate/cookie/2010/07/14-Topology Review – The Foot.html	220	124	1572	1085	1691	1119
+NeedTranslate/cookie/2010/07/15-Topology Overview: The Head.html	230	135	1692	1204	1812	1242
+NeedTranslate/cookie/2010/07/16-Topology Review: Shoulder.html	227	134	1682	1194	1799	1231
+NeedTranslate/cookie/2010/07/17-Modeling a Rope.html	218	126	1516	1073	1632	1108
+NeedTranslate/cookie/2010/07/18-Exclusive: Modeling the Female Head 02.html	459	178	2880	1508	3183	1553
+NeedTranslate/cookie/2010/07/18-Tip: Using the Snapping Tool.html	153	86	1070	744	1160	775
+NeedTranslate/cookie/2010/07/19-Modeling Feathery Wings.html	247	149	1727	1234	1863	1285
+NeedTranslate/cookie/2010/07/20-Creating a Wooden Barrel.html	262	146	1858	1248	2001	1289
+NeedTranslate/cookie/2010/07/21-Creating a CG Cookie Coffee Cup.html	645	343	5118	3538	5357	3551
+NeedTranslate/cookie/2010/07/21-Tip: Creating a Rounded-off Square Form.html	158	96	1193	874	1284	911
+NeedTranslate/cookie/2010/07/22-Exclusive: Modeling the Female Head 03.html	518	224	3458	1979	3784	2037
+NeedTranslate/cookie/2010/07/23-Playing with the Array modifier, AO and Tangent Normals.html	1544	1225	10778	9095	11439	9525
+NeedTranslate/cookie/2010/07/24-Using the New Sculpting System in Blender 2.53.html	1927	1597	13267	11528	13978	11998
+NeedTranslate/cookie/2010/07/25-Creating a Burlap Teddy Bear – part 1.html	1555	1251	11462	9869	12007	10193
+NeedTranslate/cookie/2010/07/26-Box Modeling an Alien Character in Blender 2.5 alpha 0.html	4701	4567	31237	30596	33029	32277
+NeedTranslate/cookie/2010/07/26-Free Textures on TextureMate.com.html	112	21	727	218	807	218
+=======
+Individual File Statistics:
+
+File Name                                                                                   	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
+<<<<<<< HEAD
+<<<<<<< HEAD
+NeedTranslate/BAM/blenderart_mag-9_resource.odt                                             	      18501	          16781	                            82749	                                74021	                              99732	                                  89412	
+<<<<<<< HEAD
+NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                                       	        132	             94	                              582	                                  408	                                698	                                    488	
+=======
+NeedTranslate/BAM/blenderart_mag-9_resource.odt                                             	      18501	          16077	                            82749	                                70811	                              99732	                                  85566	
+NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                                       	        132	             70	                              582	                                  303	                                698	                                    366	
+>>>>>>> news0728
+=======
+NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                                       	        180	            142	                              853	                                  679	                               1010	                                    800	
+>>>>>>> BAM#9
+NeedTranslate/cookie/2010/07/12-Modeling a Palm Tree.html                                   	        252	            119	                             1680	                                 1052	                               1831	                                   1084	
+NeedTranslate/cookie/2010/07/13-Topology Review: Hand.html                                  	        239	            139	                             1738	                                 1231	                               1862	                                   1269	
+NeedTranslate/cookie/2010/07/14-Topology Review – The Foot.html                             	        220	            124	                             1572	                                 1085	                               1691	                                   1119	
+NeedTranslate/cookie/2010/07/15-Topology Overview: The Head.html                            	        230	            135	                             1692	                                 1204	                               1812	                                   1242	
+NeedTranslate/cookie/2010/07/16-Topology Review: Shoulder.html                              	        227	            134	                             1682	                                 1194	                               1799	                                   1231	
+NeedTranslate/cookie/2010/07/17-Modeling a Rope.html                                        	        218	            126	                             1516	                                 1073	                               1632	                                   1108	
+NeedTranslate/cookie/2010/07/18-Exclusive: Modeling the Female Head 02.html                 	        459	            178	                             2880	                                 1508	                               3183	                                   1553	
+NeedTranslate/cookie/2010/07/18-Tip: Using the Snapping Tool.html                           	        153	             81	                             1070	                                  726	                               1160	                                    753	
+NeedTranslate/cookie/2010/07/19-Modeling Feathery Wings.html                                	        247	            149	                             1727	                                 1234	                               1863	                                   1285	
+NeedTranslate/cookie/2010/07/20-Creating a Wooden Barrel.html                               	        262	            146	                             1858	                                 1248	                               2001	                                   1289	
+NeedTranslate/cookie/2010/07/21-Creating a CG Cookie Coffee Cup.html                        	        645	            343	                             5118	                                 3538	                               5357	                                   3551	
+NeedTranslate/cookie/2010/07/21-Tip: Creating a Rounded-off Square Form.html                	        158	             91	                             1193	                                  856	                               1284	                                    889	
+NeedTranslate/cookie/2010/07/22-Exclusive: Modeling the Female Head 03.html                 	        518	            224	                             3458	                                 1979	                               3784	                                   2037	
+NeedTranslate/cookie/2010/07/23-Playing with the Array modifier, AO and Tangent Normals.html	       1544	           1225	                            10778	                                 9095	                              11439	                                   9525	
+NeedTranslate/cookie/2010/07/24-Using the New Sculpting System in Blender 2.53.html         	       1927	           1597	                            13267	                                11528	                              13978	                                  11998	
+NeedTranslate/cookie/2010/07/25-Creating a Burlap Teddy Bear – part 1.html                  	       1555	           1251	                            11462	                                 9869	                              12007	                                  10193	
+NeedTranslate/cookie/2010/07/26-Box Modeling an Alien Character in Blender 2.5 alpha 0.html 	       4701	           4568	                            31237	                                30598	                              33029	                                  32279	
+NeedTranslate/cookie/2010/07/26-Free Textures on TextureMate.com.html                       	        112	             21	                              727	                                  218	                                807	                                    218	
+NeedTranslate/cookie/2010/07/28-Tip: Using Multiple Background Images in 2.5.html           	       1071	            969	                             6569	                                 6021	                               7152	                                   6509	
+NeedTranslate/guru/2010/07/27-Create a High Rise Building – Part 2 of 2.html                	        366	            109	                             2294	                                 1071	                               2521	                                   1075	
+NeedTranslate/guru/2010/07/29-Create a Realistic Kitchen – Part 2 of 2.html                 	        583	            567	                             3701	                                 3630	                               4083	                                   4001	
+NeedTranslate/nation/2010/07/27-Blender at Barcamp, Guayaquil, Ecuador.html                 	        101	             53	                              759	                                  459	                                800	                                    459	
+NeedTranslate/nation/2010/07/28-PSP Game: PlayEnglish.html                                  	        179	             27	                              941	                                  213	                               1081	                                    213	
+NeedTranslate/nation/2010/07/28-User Meeting: Fargo-Moorhead, July 28th.html                	        127	             67	                              807	                                  493	                                861	                                    496	
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+NeedTranslate/BAM/blenderart_mag-9_resource.odt                                             	      18501	          17601	                            82749	                                78005	                              99732	                                  94134	
+NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                                       	        180	            180	                              853	                                  853	                               1010	                                   1010	
+NeedTranslate/cookie/2010/07/12-Modeling a Palm Tree.html                                   	        252	            205	                             1680	                                 1473	                               1831	                                   1581	
+NeedTranslate/cookie/2010/07/13-Topology Review: Hand.html                                  	        239	            228	                             1738	                                 1691	                               1862	                                   1806	
+NeedTranslate/cookie/2010/07/14-Topology Review – The Foot.html                             	        220	            199	                             1572	                                 1468	                               1691	                                   1569	
+NeedTranslate/cookie/2010/07/15-Topology Overview: The Head.html                            	        230	            209	                             1692	                                 1588	                               1812	                                   1690	
+NeedTranslate/cookie/2010/07/16-Topology Review: Shoulder.html                              	        227	            206	                             1682	                                 1578	                               1799	                                   1677	
+NeedTranslate/cookie/2010/07/17-Modeling a Rope.html                                        	        218	            207	                             1516	                                 1469	                               1632	                                   1576	
+NeedTranslate/cookie/2010/07/18-Exclusive: Modeling the Female Head 02.html                 	        459	            422	                             2880	                                 2690	                               3183	                                   2959	
+NeedTranslate/cookie/2010/07/18-Tip: Using the Snapping Tool.html                           	        153	            150	                             1070	                                 1056	                               1160	                                   1144	
+NeedTranslate/cookie/2010/07/19-Modeling Feathery Wings.html                                	        247	            236	                             1727	                                 1680	                               1863	                                   1807	
+NeedTranslate/cookie/2010/07/20-Creating a Wooden Barrel.html                               	        262	            251	                             1858	                                 1811	                               2001	                                   1945	
+NeedTranslate/cookie/2010/07/21-Creating a CG Cookie Coffee Cup.html                        	        645	            638	                             5118	                                 5063	                               5357	                                   5301	
+NeedTranslate/cookie/2010/07/21-Tip: Creating a Rounded-off Square Form.html                	        158	            155	                             1193	                                 1179	                               1284	                                   1268	
+NeedTranslate/cookie/2010/07/22-Exclusive: Modeling the Female Head 03.html                 	        518	            477	                             3458	                                 3240	                               3784	                                   3529	
+NeedTranslate/cookie/2010/07/23-Playing with the Array modifier, AO and Tangent Normals.html	       1544	           1525	                            10778	                                10674	                              11439	                                  11325	
+NeedTranslate/cookie/2010/07/24-Using the New Sculpting System in Blender 2.53.html         	       1927	           1915	                            13267	                                13194	                              13978	                                  13902	
+NeedTranslate/cookie/2010/07/25-Creating a Burlap Teddy Bear – part 1.html                  	       1555	           1537	                            11462	                                11360	                              12007	                                  11895	
+NeedTranslate/cookie/2010/07/26-Box Modeling an Alien Character in Blender 2.5 alpha 0.html 	       4701	           4685	                            31237	                                31180	                              33029	                                  32963	
+NeedTranslate/cookie/2010/07/26-Free Textures on TextureMate.com.html                       	        112	            112	                              727	                                  727	                                807	                                    807	
+NeedTranslate/cookie/2010/07/28-Tip: Using Multiple Background Images in 2.5.html           	       1071	           1068	                             6569	                                 6555	                               7152	                                   7136	
+NeedTranslate/guru/2010/07/27-Create a High Rise Building – Part 2 of 2.html                	        366	            255	                             2294	                                 1781	                               2521	                                   1910	
+NeedTranslate/guru/2010/07/29-Create a Realistic Kitchen – Part 2 of 2.html                 	        583	            581	                             3701	                                 3697	                               4083	                                   4079	
+NeedTranslate/nation/2010/07/27-Blender at Barcamp, Guayaquil, Ecuador.html                 	        101	             78	                              759	                                  612	                                800	                                    633	
+NeedTranslate/nation/2010/07/28-PSP Game: PlayEnglish.html                                  	        179	            141	                              941	                                  772	                               1081	                                    876	
+NeedTranslate/nation/2010/07/28-User Meeting: Fargo-Moorhead, July 28th.html                	        127	            120	                              807	                                  773	                                861	                                    822	
+NeedTranslate/nation/2010/07/29-Big Buck Bunny Sighted at Disney.html                       	        109	             55	                              773	                                  536	                                838	                                    551	
+NeedTranslate/nation/2010/07/29-The Cup.html                                                	        200	             36	                             1097	                                  325	                               1255	                                    332	
+NeedTranslate/tut/2010/07/29-How to model a realistic eyeball in Blender.html               	         56	              4	                              331	                                   73	                                379	                                     73	
+NeedTranslate/tut/2010/07/30-Its all in the Eyes.html                                       	       1809	           1809	                             8487	                                 8487	                              10050	                                  10050	
+>>>>>>> news0729
+=======
+NeedTranslate/nation/2010/07/29-Big Buck Bunny Sighted at Disney.html                       	        109	            106	                              773	                                  762	                                838	                                    825	
+NeedTranslate/nation/2010/07/29-The Cup.html                                                	        200	            192	                             1097	                                 1067	                               1255	                                   1219	
+NeedTranslate/tut/2010/07/29-How to model a realistic eyeball in Blender.html               	         56	             56	                              331	                                  331	                                379	                                    379	
+NeedTranslate/tut/2010/07/30-Its all in the Eyes.html                                       	       1809	           1809	                             8487	                                 8487	                              10050	                                  10050	
+>>>>>>> BAM#9
