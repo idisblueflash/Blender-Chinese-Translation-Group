@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.1.7_1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In his past life, he was a college professor in all forms of digital media production.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T012214Z" changeid="flash">
+        <seg>在过去，他曾是各种数字媒体形式的大学教授。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts in Fun</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T003816Z" changeid="flash">
+        <seg>在 娱乐栏目 中查看所有帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also remember that some of your space elements should cast shadows, like planets, moons asteroids, and space debris.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022352Z" changeid="flash">
+        <seg>还不要忘记了，你的宇宙元素也应该投射阴影，比如行星，小卫星和太空碎片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember that being a citizen member not only gives you access to periodic exclusive tutorials, but access to our complete source library from Max Cookie, Modo Cookie and Blender Cookie.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100711T124705Z" changeid="flash">
+        <seg>请记住，作为会员不仅可让您使用我们定期的独家教程，还能让您进入我们的完整资源站，包括：Max Cookie, Modo Cookie 和 Blender Cookie。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll post some blends with the setup of lights and comp on BlenderArtists later.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004555Z" changeid="flash">
+        <seg>我稍后会把合成和灯光设置的配置贴在 BlenderArtists 上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you a school counselor or administrator wishing to offer a distance learning course in 3D to your students?</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T014129Z" changeid="flash">
+        <seg>您是一个希望提供远程3D动画学习课程的学校辅导员/管理者么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tim Kennedy teaches digital media arts at Cedarcrest High School in rural Duvall, Washington in the United States.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T011405Z" changeid="flash">
+        <seg>Tim Kennedy在美国华盛顿Duvall乡村的Cedarcrest高中教授数字媒体艺术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the time of the pre-production part of the team who knew Blender, proposed it as a tool for the production of characters because of its speed and efficiency.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003036Z" changeid="flash">
+        <seg>前期的工作时，一部分Blender的组员推荐采用Blender作为人物制作的工具，因为Blender很高效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some Facts:)</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004653Z" changeid="flash">
+        <seg>一些数据：）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you a high school student interested in studying 3D?</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T013944Z" changeid="flash">
+        <seg>你是对3D感兴趣的高中生么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A blue nebula isn't going to cast white studio light.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021933Z" changeid="flash">
+        <seg>比如，一个蓝色的星云不可能投射出白色的光线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Animation</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100720T234926Z" changeid="flash">
+        <seg>动画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, this issue brings back the popular “Meet the Blenderhead” series of articles by Derek Marsh, (BgDM), as he interviews Ecks, (Jean-Sébastien Guillemette).</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T012324Z" changeid="flash">
+        <seg>同时，本期还有Derek Marsh, (BgDM)的热门连载栏目“Blender高手访谈”，这次他采访的人物是Ecks, (Jean-Sébastien Guillemette)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everything: modelling, animation, illumination, the render is Blender Internal and all the comp is Blender too.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004444Z" changeid="flash">
+        <seg>动画里的：建模，动画，照明，illumination，渲染都是在Bender里面做的，合成也是。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All characters are based in Psl-Man MultiRig (Red-Nelb character with the rig of Psl-Man will be online in a couple weeks or so).</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004816Z" changeid="flash">
+        <seg>所有人物都基于Psl-Man MultiRig (大约几周后Red-Nelb character with the rig of Psl-Man 也会出现)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Articles</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>文章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to create a realistic 3D model of an eye within Blender with this video guide.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005210Z" changeid="flash">
+        <seg>这个视频讲展示如何在Blender里面创建一个写实的眼睛3D模型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'Essential Blender', is now available for pre-sale orders.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T231201Z" changeid="flash">
+        <seg>'Essential Blender', 开始预售了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beep, beep; there it is.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T015210Z" changeid="flash">
+        <seg>哔，哔; 开了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:D</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>:D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luis Belerique is 28 yrs old and lives in Porto, Portugal.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T010521Z" changeid="flash">
+        <seg>Luis Belerique28岁了，他在西班牙的波尔图生活。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, they will be presenting several completed sequences in a special session that day.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T231151Z" changeid="flash">
+        <seg>此外，他们将在那天的特别会议上展示一部分完成的部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An easy glowing lighting setup</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002213Z" changeid="flash">
+        <seg>一个简单的发光照明器的设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actual star fields and nebulae become the backgrounds to frame our fantastical space ships and aliens.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T005725Z" changeid="flash">
+        <seg>恒星和星云的实际领域构成了我们幻像太空飞船和外星人的背景基础。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arguably the single most important aspect to modeling is topology.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100711T122026Z" changeid="flash">
+        <seg>可以说建模方面最重要的就数Topology（拓扑）了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m happy with the work of students :)</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004501Z" changeid="flash">
+        <seg>能与学生们一起工作我感到高兴：）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – How To Make A Realistic Planet In Blender</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T010348Z" changeid="flash">
+        <seg>3D 工房 – 如何在Blender里面制作一个写实效果的行星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A clever trick to make outdoor lighting more realistic</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T003035Z" changeid="flash">
+        <seg>一个让户外照明更真实的聪明技巧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – Making A Sun-like Star In Blender</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T010435Z" changeid="flash">
+        <seg>3D 工房 – 在Blender中制作类似太阳的恒星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The production time was 3 months, 3 students work on full time and another 3 students on spare time.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004648Z" changeid="flash">
+        <seg>影片的生产时间为3个月，3名学生全职工作，另外3名学生兼职。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>18</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>图十八</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find us on facebook.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T004533Z" changeid="flash">
+        <seg>请在facebook上联络我们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The render is Blender internal and the render time in a i7 processor took about 3 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004951Z" changeid="flash">
+        <seg>渲染采用了Blender内部渲染器，渲染时间为3分钟（i7处理器）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After I became an adult, I got my first computer and was introduced to software animation.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T004251Z" changeid="flash">
+        <seg>之后 我长大成人了，我拥有了自己的第一台电脑，并且入了软件动画行业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* DVD Rom with all necessary files and demos</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T233723Z" changeid="flash">
+        <seg>* 所有必要的文件和演示的DVD光盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – Modeling A Low Poly Space Ship</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T014413Z" changeid="flash">
+        <seg>3D 工房 – 创建一个低模宇宙飞船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>14 Comments   Published by Bart  on July 28th, 2010 in Fun</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T003853Z" changeid="flash">
+        <seg> 14 个评论由Bart于2010年7月28日发表在工具盒栏目上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>图二十</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daniel Martinez Lara writes:</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004348Z" changeid="flash">
+        <seg>Daniel Martinez Lara 写道：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All students was working on the idea, script, style, modeling, animation, etc …</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004839Z" changeid="flash">
+        <seg>所有的学生正在创意，脚本，样式，造型，动画等方面工作...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts in Video</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004323Z" changeid="flash">
+        <seg>在 视频栏目 中查看所有帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – Displacement Mapping for Exhaust</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T010122Z" changeid="flash">
+        <seg>3D 工房 – 应用在排气口效果的Displacement Mapping（放置映射技术）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Andres Nader will host a session on Blender.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T000751Z" changeid="flash">
+        <seg>Andres Nader将会主持一个Blender主题会话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Posts by Bart</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T003759Z" changeid="flash">
+        <seg>Bart发布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blender 2.43 released with an amazing set of new features and improvements.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T013617Z" changeid="flash">
+        <seg>伴随着惊人的新功能和改进，Blender 2.43版本发布了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'Essential Blender' will get you working with modeling, materials and texturing, lighting, particle systems, several kinds of animation, and rendering.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T231743Z" changeid="flash">
+        <seg>'Essential Blender'将带领你在建模，材料和纹理，灯光，粒子系统，各种动画方式和渲染方面进行学习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Big Buck Bunny Sighted at Disney</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004100Z" changeid="flash">
+        <seg>大巴克班尼兔的截图出现在迪斯尼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>32 Comments   Published by Bart  on July 28th, 2010 in Video</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004341Z" changeid="flash">
+        <seg> 32 个评论由Bart于2010年7月28日发表在娱乐栏目上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cup</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004256Z" changeid="flash">
+        <seg>奖杯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As always I’m keen to see whatever you guys produce from this tutorial, so don’t be shy to drop a link in the comment section below!</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002438Z" changeid="flash">
+        <seg>一如既往地，我很想看到你们作品，所以请随意张贴在下面！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And so we wanted to share with the community.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003154Z" changeid="flash">
+        <seg>于是我们希望能与社区分享我们的经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Late Afternoon by Bryan Vivas</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T003211Z" changeid="flash">
+        <seg>午后黄昏Bryan Vivas制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.blend file at the state of the tutorial</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100711T121302Z" changeid="flash">
+        <seg>教程的状态文件 .blend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All products and company names featured in the publication are trademark or registered trade marks of their respective owners.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T013229Z" changeid="flash">
+        <seg>出版物中所有产品和公司的名称是其各自所有者的注册商标。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BarCamp is an international network of user-generated conferences (or unconferences).</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T000700Z" changeid="flash">
+        <seg>BarCamp－国际研讨会网络，此类研讨会是开放、由参与者相互分享的工作方式会议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last week I showed you how to model a high rise building and this week we will be applying materials, lighting and compositing to produce a final image that we can send to the (imaginary) client.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T003007Z" changeid="flash">
+        <seg>上周我给你展示了如何
+创建一个高分辨率建筑 本周将展示如何给它赋予材质，灯光 还有图像的合成技术，来制作一个可以交给客户（虚拟的客户）的最终效果图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt;&gt;DOWNLOAD THE FINISHED .BLEND&lt;&lt;</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100709T003811Z" changeid="flash">
+        <seg>&gt;&gt;下载完成后的 .blend文件&lt;&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Up to date with (upcoming) 2.44 Blender</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T233552Z" changeid="flash">
+        <seg>* 升级到了 (即将) 2.44 Blender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>February was a great month for Blender fans.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T013349Z" changeid="flash">
+        <seg>二月是Blender爱好者们的好日子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Epic city by Kewl Luser</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002722Z" changeid="flash">
+        <seg>史诗般的城市Kewl Luser制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to model a realistic eyeball in Blender</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005109Z" changeid="flash">
+        <seg>如何在Blender里建立一个写实的眼球</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blender at Barcamp, Guayaquil, Ecuador</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T000300Z" changeid="flash">
+        <seg>在厄瓜多尔 瓜亚基尔的 Blender  Barcamp（国际研讨会网络）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: this tutorial uses the official Blender 2.5 Alpha 2 release.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100711T121046Z" changeid="flash">
+        <seg>注意: 本教程使用了官方的 Blender 2.5 Alpha 2 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advertise</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>广告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Izzy Speaks – Space Scenes</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T013519Z" changeid="flash">
+        <seg>Izzy小贴士 – 宇宙场景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Michael wrote: “I saw a screenshot of Big Buck Bunny at the new Disney Research Institute in Zurich!</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004009Z" changeid="flash">
+        <seg>Michael 写道： “我在迪斯尼苏黎世新的研究所看到了 大巴克班尼兔的截图！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here, in Minnesota!</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T003438Z" changeid="flash">
+        <seg>在明尼苏达州 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One dropbox account (www.dropbox.com) was used like a sever to get all the project sync with the all students.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005050Z" changeid="flash">
+        <seg>我们用一个dropbox账户(www.dropbox.com)来让项目中所有学生的工作同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – How To Make A Realistic Planet In Blender</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T010258Z" changeid="flash">
+        <seg>3D 工房 – 如何在Blender里面制作一个写实效果的行星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Stitched binding, quality paper, full color cover</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T233702Z" changeid="flash">
+        <seg>* 线装，优质纸张，全彩封面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My first 3d animation software was 3d studio max and now it is blender </seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T004341Z" changeid="flash">
+        <seg>我的第一个三维动画是用3d studio max 制作的，但是现在我用Blender。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blender Learning Made Easy</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T005323Z" changeid="flash">
+        <seg>轻松学习Blender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back on Earth at our computer, let’s discuss what we learned from our research.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021258Z" changeid="flash">
+        <seg>回到地球上我们的电脑里，让我们讨论一下我们刚才研究的心得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plumiferos is presenting a fresh new trailer with real sequences from the film at the 22nd Mar del Plata Film Festival on March 10th.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T231048Z" changeid="flash">
+        <seg>Plumiferos在3月10日发布了一个全新的预告片，这个预告片是为第22届Mar del Plata电影节准备的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the time of writing this article, the price was still at the pre-sale amount of $26.39 USD.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T230219Z" changeid="flash">
+        <seg>在写这篇文章的时候，当时的价格仍然是26.39美元的预售价。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modeling An Alien Using Subsurf</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T003610Z" changeid="flash">
+        <seg>用Subsurf制作外星人 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>关于</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Robert Foster, I was born in Philadelphia,PA.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T003921Z" changeid="flash">
+        <seg>Robert Foster， 我出生在宾夕法尼亚州。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – Making An Alien Using Subsurf</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T011119Z" changeid="flash">
+        <seg>3D 工房 – 使用Subsurf（细分）制作外星人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Become a Citizen</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100711T135535Z" changeid="flash">
+        <seg>成为Citizen会员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BlenderArt wishes you and your book all the best!</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T230708Z" changeid="flash">
+        <seg>BlenderArt祝你和你的新书顺利！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BlenderArt Magazine Issue 9 | March 2007</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T005306Z" changeid="flash">
+        <seg>BlenderArt 杂志 第 9 期 | 2007年3月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blender News</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T005514Z" changeid="flash">
+        <seg>Blender新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anything goes and often does.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T014510Z" changeid="flash">
+        <seg>宇宙中，任何事情都会发生，而且特别频繁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NorthEast Vocational Area Cooperative.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T012805Z" changeid="flash">
+        <seg>The NorthEast Vocational Area Cooperative -- 东北区职业领域合作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sighting is from Euronews”.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004032Z" changeid="flash">
+        <seg>这个是在欧洲新闻上看到的”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weird Architecture by Manu</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002607Z" changeid="flash">
+        <seg>怪异的建筑 Manu制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apartment Complex by Scotchtapeworm</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002743Z" changeid="flash">
+        <seg>公寓大楼 Scotchtapeworm制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjusting edgeflow where needed</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100711T124846Z" changeid="flash">
+        <seg>在需要的地方调整edgeflow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And of course, no issue on</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T014918Z" changeid="flash">
+        <seg>当然，没有任</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everything was made in Blender 2.50.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004857Z" changeid="flash">
+        <seg>一切由Blender2.50制作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meet the Blenderhead – Jean-Sébastien Guillemette</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T013311Z" changeid="flash">
+        <seg>Blender用户访谈 – Jean-Sébastien Guillemette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – The Making Of 'Project Utopia'</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T014444Z" changeid="flash">
+        <seg>3D 工房 – 'Project Utopia -- 乌托邦项目'的制作过程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(EUR 29/34.52 USD)</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T231217Z" changeid="flash">
+        <seg>(欧元 29/34.52 美元)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The same day Blender 2.43 was released, www.blender.org unveiled its new website design.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T224937Z" changeid="flash">
+        <seg>就在Blender 2.43发布的同一天，www.blender.org 也推出了新设计的网站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, my running lights now appear to actually be helping the scene by lighting up areas that aren’t receiving any reflected light from the nebula or nearby stars.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T021227Z" changeid="flash">
+        <seg>而且，我的航行灯现在看起只是帮助照亮一部分区域，却没有收到任何来自星云或附近星空的反射光亮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level: Beginner to Intermediate</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100728T022827Z" changeid="flash">
+        <seg>适阅级别： 从初级到中级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* About 350 pages B&amp;W</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T233621Z" changeid="flash">
+        <seg>* 大约 350 页黑白页面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(or Click here to view Part 1 first)</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T003055Z" changeid="flash">
+        <seg>(或者 点击这里来观看教程的第一部分)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'Essential Blender' the next book from the Blender Foundation, is your official guide to learning the fundamentals of this open and free 3D software suite.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T231354Z" changeid="flash">
+        <seg>'Essential Blender' 是Blender 基金会出版的下一本书，这是您学习开源免费3D软件套装的官方指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether you're new to the Blender Foundation's popular open-source 3D computer graphics application or are a seasoned digital artist</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005300Z" changeid="flash">
+        <seg>不管你是Blender的新手还是个经验丰富的数位艺术家，你都能学会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note2: We are aware of the poor audio quality on this tutorial, Jonathan just moved to a new house and is working to address it.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100711T121206Z" changeid="flash">
+        <seg>注2: 我们得告诉您，这次的音频质量很差，因为Jonathan刚刚搬了新家，他正在解决这个问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blender Training</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100720T234700Z" changeid="flash">
+        <seg>Blender练习</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D Workshop – Texturing An Alien Using Nodes</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T011151Z" changeid="flash">
+        <seg>3D 工房 – 使用 Nodes（节点系统）为外星人做贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destruction by Matt</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100727T002626Z" changeid="flash">
+        <seg>毁坏 Matt制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>‘BlenderArt Magazine’,‘blenderart’ and BlenderArt logo are copyright of Gaurav Nawani.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T015051Z" changeid="flash">
+        <seg>' BlenderArt杂志'，'blenderart'和BlenderArt标志属Gaurav Nawani版权所有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Shipping expected to start 2nd week May.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100725T233812Z" changeid="flash">
+        <seg>* 五月的第二周邮寄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally 4USD a piece.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100719T015737Z" changeid="flash">
+        <seg>4美元一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This tutorial is one part of a series of tutorials included in NEVAC’s distance learning offering of “Introduction to 3D Animation.” Study and interactive class discussion is completed online through a Module-based class Web site.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100724T013841Z" changeid="flash">
+        <seg>本教程是收录在NEVAC远程学习提供的“Introduction to 3D Animation -- 3D动画概述”里面的一部分。课堂上的学习和互动讨论完全在一个基于建模的班级网站上完成。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
