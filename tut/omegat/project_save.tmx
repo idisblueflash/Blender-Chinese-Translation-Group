@@ -3,7 +3,7 @@
 <tmx version="1.1">
   <header
     creationtool="OmegaT"
-    creationtoolversion="2.0.5_4"
+    creationtoolversion="2.1.7_1"
     segtype="sentence"
     o-tmf="OmegaT TMX"
     adminlang="EN-US"
@@ -12,1294 +12,6 @@
   >
   </header>
   <body>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>default image for post</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>帖子的默认图片 </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Modeling a Palm Tree</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>棕榈树建模</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts in Modeling</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看 建模专栏 里的所有帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.5 video tutorial we have some fun and show you how to model a simple palm tree using a series of modifiers and linked meshes.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这个Blender2.5的视频教程里，我们会给你展示一些好玩的方法，通过一系列的Modifier和连接在一起的Mesh，来造一个简单的棕榈树。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The tutorial also demonstrates a technique for quick and dirty outdoor rendering.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>教程还演示了一个快速和粗糙（dirty）的户外渲染技术。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;s0&gt;Note&lt;/s0&gt;: this tutorial uses the official Blender 2.5 Alpha 2 release.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>&lt;s0&gt;注意&lt;/s0&gt;: 本教程使用了官方的 Blender 2.5 Alpha 2 版本。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;s0&gt;Note2&lt;/s0&gt;: We are aware of the poor audio quality on this tutorial, Jonathan just moved to a new house and is working to address it.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>&lt;s0&gt;注2&lt;/s0&gt;: 我们得告诉您，这次的音频质量很差，因为Jonathan刚刚搬了新家，他正在解决这个问题。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Support the site – Download includes:</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>支持网站 - 下载包内有：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>High resolution .mov Video</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>高分辨率.mov视频</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>.blend file at the state of the tutorial</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>教程的状态文件 .blend</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Purchase Source Files</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>购买源文件</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Or</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>或</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Become a Citizen</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>成为Citizen会员</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Subscribe to our &lt;a0&gt;Blender RSS&lt;/a0&gt; Feed to receive our latest articles and education from Blender Cookie.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>请订阅我们的&lt;a0&gt;Blender RSS&lt;/a0&gt; Feed以接受到Blender Cookie的最新文章和培训消息。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Topology Review: Shoulder</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>Topology（布局）复习: 肩膀</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts in Tutorials</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在 教程专栏 里查看所有帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Arguably the single most important aspect to modeling is topology.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>可以说建模方面最重要的就数Topology（拓扑）了。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This Blender 2.5 overview tutorial takes a look at the topology of the human shoulder, examining each of the main edgeloops, poles, etc.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这个Blender2.5的概述视频教程简单介绍了人类肩膀的Topology技术。检测了每个主要的edgeloops， poles等等。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Topology Review – The Foot</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>Topology（布局）复习: 脚</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This Blender 2.5 overview video tutorial takes a look at the topology of the human foot, examining each of the main edgeloops, poles, etc.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这个Blender2.5的概述视频教程简单介绍了人类脚的Topology技术。检测了每个主要的edgeloops， poles等等。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Free Textures on TextureMate.com</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>关于TextureMate.com免费纹理</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Home</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>首页</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Here’s a useful texture repository that popped up in a comment yesterday beneath our ‘&lt;a0&gt;List of free texture sites&lt;/a0&gt;‘ blogpost.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这是昨天贴在我们博客‘&lt;a0&gt;免费纹理网站列表&lt;/a0&gt;‘ 的回复下特别有用的纹理存储库。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Enjoy!</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>请享用！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>From their ‘legal stuff’ statement:</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这是他们的 ‘合法声明’：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The stock textures and any other photographs available for download on this site are completely free and may be used in commercial or non-commercial applications.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>该网站上的纹理和任何其他照片的下载是完全免费的，可以在商业或非商业中使用。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The only exception is that they cannot be redistributed commercially in their unedited form.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>唯一例外的是，这些素材不能在未经编辑的情况下用于商业用途。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Credit to texturemate for use of available textures is appreciated, but not required.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>我们很赞赏您为使用过的素材付费，但这并不是必需的。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Link</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>链接：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>TextureMate.com (but you already guessed that)</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>TextureMate.com（但估计你已经猜到这个地址了）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Modeling a Rope</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>绳子建模</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>By using an Array modifier and a Curve modifier, this tutorial takes you through the process of modeling a rope in Blender.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>通过使用 Array（数组） modifier 和 Curve（曲线） modifier来制作一个绳子。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Due to the use of modifiers, the resulting rope is very easily modified, lengthened, etc to fit any purpose.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>由于使用了Modifier，所以产生的绳子非常容易修改，延长等等，适合为任何目的修改使用。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Topology Overview: The Head</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>Topology（布局）概述: 头</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This overview Blender video tutorial takes a look at the topology of the human head, examining each of the main edgeloops, poles, etc.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这个Blender2.5的概述视频教程简单介绍了人类头部的Topology技术。检测了每个主要的edgeloops， poles等等。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Creating a Burlap Teddy Bear – part 1</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>创建一个麻布的泰迪熊 -- 第一部</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Blender Training</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>Blender练习</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Go home Cookies</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>回到Cookies首页</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Getting Started With Blender</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>Blender入门</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Search the site...</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>搜索网站...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tutorials</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>教程</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Animation</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 动画栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Animation</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>动画</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Bundles</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 Bundles栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Compositing</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>合成</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Exclusive</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 独家报道栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Exclusive</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>独家报道</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under FX</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 FX栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Game Engine</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 游戏引擎栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Game Engine</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>游戏引擎</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Interface</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 界面栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Interface</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>界面</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Lighting</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 光影栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lighting</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>光影</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Modeling</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 建模栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Modeling</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>建模</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Particles</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 粒子栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Particles</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>粒子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Physics/Dynamics</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 物理/动力学栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Physics/Dynamics</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>物理/动力学</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Rendering</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 渲染栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rendering</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>渲染</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Scripts</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 脚本栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Scripts</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>脚本</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Texturing</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 纹理栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Texturing</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>纹理</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Tips</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 小提示栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tips</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>小提示</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Articles</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>文章</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Contests</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 比赛栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Contests</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>比赛</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Fresh Batch</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 Fresh Batch栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Interviews</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 访谈栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Interviews</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>访谈</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Resources</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 资源栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Resources</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>资源</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Reviews</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 回顾栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Reviews</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>回顾</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Site News</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 网站新闻栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Site News</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>网站新闻</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>About</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>关于</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Instructors</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>指导教师</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Advertise</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>广告</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Free Stuff</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>免费内容</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Contribute</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 贡献栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Contribute</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>贡献</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Models</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 模型栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Models</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>模型</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Reference</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 参考栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Reference</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>参考</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts filed under Textures</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>查看所有 纹理栏目 里的帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Textures</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>纹理</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Login</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>登录</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Sign up</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg> 注册</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Support</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>支持</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>F.A.Q.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>常见问题</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This tutorial takes a look at how to model a Teddy Bear in Blender.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这个教程介绍了如何在Blender中制作一个泰迪熊。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You will learn various basic modeling techniques that may be applied to other objects.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>您可以学到各种基本造型技巧，这些技巧还可以用于其他物体的创建。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Leave a Reply</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>留下一个回复</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Website</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>网站</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Submit Comment</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>提交评论</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Exclusive: Modeling the Female Head 03</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>独家发布：女性头部建模 03</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts in all</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在 所有栏目 里查看所有帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Citizen exclusive Blender 2.5 video tutorial, we begin the process of modeling a full female head.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这次Blender2.5会员独家发放视频教程中，我们开始制作一个完整的女性头部模型。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The series will be taking an in-depth at the techniques needed to accurately model the subject, including accurate anatomy and topology.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这个系列将会深入了解精确建模所需的技术，包括了精确的anatomy和topology技术。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This third section continues with the main modeling process by filling in the rest of the mesh, examining edgeloops and making some adjustments to the mesh in order to improve the edgeflow in preperation of detailing.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这个由三个小节组成的建模过程，通过剩余Mesh的填充，检测 edgeloops 和对Mesh进行一些调整，以便在细节方面增强edgeflow。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>We also have a public “&lt;a0&gt;Male Head Modeling Series&lt;/a0&gt;” available for view.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>我们还提供一个公开的“&lt;a0&gt;男性头部建模系列&lt;/a0&gt;” 。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Just scroll down and each section is listed.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>只要向下滚动网页，每节都会列出来。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Reference Images were purchased and licensed from 3D.sk.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>参考图像由3D.sk购买和授权。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>To learn more about&lt;a1&gt; 3D.Sk&lt;/a1&gt; please visit them today.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>要更多的了解有关&lt;a1&gt; 3D.Sk &lt;/a1&gt;的事情，请今天就访问他们。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>To download this tutorial please log into your &lt;a0&gt;citizen account here&lt;/a0&gt;, or &lt;a1&gt;join the ranks today&lt;/a1&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>要下载这个教程，请登录你的&lt;a0&gt;会员账户&lt;/a0&gt;，或&lt;a1&gt;今天就加入我们的行列&lt;/a1&gt;。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;e2&gt;&lt;s3&gt;Remember that being a citizen member not only gives you access to periodic exclusive tutorials, but access to our complete source library from Max Cookie, Modo Cookie and Blender Cookie.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>&lt;e2&gt;&lt;s3&gt;请记住，作为会员不仅可让您使用我们定期的独家教程，还能让您进入我们的完整资源站，包括：Max Cookie, Modo Cookie 和 Blender Cookie。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Normally 4USD a piece.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>4美元一个。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Thank you for the support and more education is on the way!</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>谢谢您的支持和更多的教材制作中！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>What is Covered in this Lesson</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>本课包含的内容：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Filling in remaining parts of the head</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>充填头部其余的部分</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Adjusting edgeflow where needed</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在需要的地方调整edgeflow</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Preparing for detailing</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>准备细节</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>To download this tutorial please log into your &lt;a0&gt;citizen account here&lt;/a0&gt;, or &lt;a1&gt;join the ranks today&lt;/a1&gt;.&lt;e2&gt;Remeber that being a citizen member not only gives you access to periodic exclusive tutorials, &lt;s3&gt;but access to our complete source library from Max Cookie, Modo Cookie and Blender Cookie.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>要下载这个教程，请登录你的&lt;a0&gt;会员账户&lt;/a0&gt;，或&lt;a1&gt;今天就加入我们的行列&lt;/a1&gt;。&lt;e2&gt;请记住，作为会员不仅可让您使用我们定期的独家教程，&lt;s3&gt;还能让您进入我们的完整资源站，包括：Max Cookie, Modo Cookie 和 Blender Cookie。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;/s3&gt;Normally 4USD a piece.&lt;/e2&gt;</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>&lt;/s3&gt;4美元一个。&lt;/e2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tip: Using the Snapping Tool</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>小提示：使用Snapping工具</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The snapping tool in Blender allows you to snap your mesh selection to any other vertice, edge, face, or volume.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>Blender中的Snapping工具允许你把你的Mesh捕捉到任何其他的vertice, edge, face, 或者 volume上。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This is a very handy technique for precision modeling.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这是一个非常方便的精确建模技术。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Exclusive: Modeling the Female Head 02</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>独家发布：女性头部建模 02</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This second portion continues where the first part left off and goes through the process filling in the gaps to create the full face</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>第二部分继续第一部分的进度，我们将把那些缝隙填补上，以创建一个完整的面孔。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Don’t fret we are not finished with the Mechanic just yet, but it is winding down and wanted to present our new series.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>不要担心我们尚未完成的那个Mechanic，它已经做完了，我们只是想介绍我们的新系列。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tip: Creating a Rounded-off Square Form</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>小提示：创建一个圆角方形</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this quick Blender 2.5 video tip we demonstrate how to easily model a rounded-off square form by using snapping/retopology tools.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这个Blender2.5的快速视频小提示里，我们将演示如何简单的制作一个圆角方形，这里采用了sanpping（捕捉）/retopology工具。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Using the New Sculpting System in Blender 2.53</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>使用Blender 2.53里面新的雕刻系统</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.53 video tutorial we take a look at the newly refactored sculpting system in the latest beta release.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这个Blender2.53的视频教程里，让我们来看看Blender最新版中，刚刚重构过的雕刻系统。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This new system adds many new brushes and features to the sculpting toolset, providing a much smoother and feature-rich workflow.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>新系统在雕刻工具集里，增加了许多新的笔刷和功能，从而提供了一个更加流畅，功能更丰富的工作流程。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Don’t forget to get the shiny new version of&lt;a0&gt; Blender 2.53 here.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>别忘记来下载崭新的&lt;a0&gt; Blender 2.53。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>18</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>图十八</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>:D</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>:D</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Topology Review: Hand</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>Topology（布局）复习: 手</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.5 video tutorial we give you a demonstration and overview of clean hand topology.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这个Blender2.5的视频教程里，我们会给你演示一个干净漂亮的手模型的布局。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The tutorial provides tips on how to structure your mesh, including clean topology, mesh flow and edgeloop density.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>教程给了你一些如何组织你的Mesh的建议，其中包括制作干净的topology,mesh flow（Mesh流） 和 edgeloop density（密度）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Creating a Wooden Barrel</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>创建一个木桶</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts in Texturing</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在 纹理栏目 里查看所有帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Making use of multiple modifiers and projection painting this tutorial covers the entire process of modeling and texturing an old, wooden barrel in Blender.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>通过使用多个Modifier和Projection绘图技术，教程介绍了在Blender里制作一个老旧的木桶的完整过程（建模和贴图）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>One or more textures on this 3D model have been created with images from CGTextures.com.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这个3D模型上的一些Texture由CGTextures.com创建。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>These images may not be redistributed by default, please visit &lt;a0&gt;www.cgtextures.com&lt;/a0&gt; for more information.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>这些图片默认不能随意发布，参看 &lt;a0&gt;www.cgtextures.com&lt;/a0&gt; 获得详细情况。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Modeling Feathery Wings</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>羽状翅膀建模</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.5 Video tutorial, I go over using the particle hair system to create downey feathers.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这个Blender2.5的视频教程中，我将用粒子毛发系统来创建downey的羽毛。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Then using the duplifaces technique to add the longer feathers, as well as their texturing and a quick rig setup.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>然后利用duplifaces技术添加较长的羽毛，以及他们的Texturing(纹理)和快速组合在一起（quick rig setup）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Creating a CG Cookie Coffee Cup</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>创建一个CG的Cookie咖啡杯</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Permanent Link to Creating a CG Cookie Coffee Cup</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>永久链接： 创建一个CG的Cookie咖啡杯</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>July 14, 2010  |  by Jonathan Williamson  |  &lt;a0&gt;Modeling&lt;/a0&gt;, &lt;a1&gt;Texturing&lt;/a1&gt;, &lt;a2&gt;Tutorials&lt;/a2&gt;</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>2010年7月14日由乔纳森威廉森发表于| | &lt;a0&gt;造型&lt;/a0&gt; ， &lt;a1&gt;纹理&lt;/a1&gt; ， &lt;a2&gt;教程&lt;/a2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.5 video tutorial we have a bit of fun and create a CG Cookie branded coffee cup.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这个Blender2.5的视频教程里，让我们玩得开心一点，我们来创建一个CG Cookie品牌的咖啡杯。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This tutorial encompasses the modeling, rendering and texturing of the coffee cup.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>本教程涵盖了咖啡杯的建模，渲染和纹理。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Part 2 will be up soon.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>第2部分将很快出来。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>We are working though some Camtasia audio sync bugs…</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>我们正在努力解决那些Camtasia音频同步的错误...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Box Modeling an Alien Character in Blender 2.5 alpha 0</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>Blender2.5 alpha 0 中基于盒子的外星人物制作</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this tutorial, I show you a few basics of Blender 2.5, and cover how to use the box-modeling technique to create a full character.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这个教程里，我会向你展示Blender2.5的一些基本知识，还会包括如何使用box-modeling(盒子建模)技术来创建一个完整的人物。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The box-modeling technique is a good way to quickly visualize the shape of your character, rather than creating the detail from the beginning.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>盒子建模技术是个非常好的建模方法，它能帮助你快速建立一个模型的大体形状。而不是一开始就抠细节。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Creative Commons License</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>创作共用许可证</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>:P</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>:P</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Thank you!</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>致谢</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Playing with the Array modifier, AO and Tangent Normals…</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>Array modifier, AO 以及 Tangent Normals试玩</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In this Blender 2.5 Video Mini-tutorial, I go over how to use the Array Modifier, and then go on to bake the Ambient Occlusion and Tangent Normals.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>在这个Blender2.5的视频教程中，我将看看Array Modifier的使用，然后在介绍Ambient Occlusion和Tangent Normals。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Supporting Textures</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>支持纹理</seg>
-      </tuv>
-    </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&quot;&quot; I'll tell you the &lt;i0&gt;Add&lt;/i0&gt; menu and add a new &lt;i1&gt;Mesh&lt;/i1&gt;.</seg>
@@ -1720,6 +432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.blend file at the state of the tutorial</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>教程的状态文件 .blend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>01-07-2010-01_files/scene-mix-141x300.jpg</seg>
       </tuv>
       <tuv lang="ZH">
@@ -1796,6 +516,14 @@
       </tuv>
       <tuv lang="ZH">
         <seg>图十七</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>18</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>图十八</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,6 +744,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:P</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>:P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>; Objects
 ; Meshes</seg>
       </tuv>
@@ -2110,6 +846,14 @@
       </tuv>
       <tuv lang="ZH">
         <seg>&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/s3&gt;Normally 4USD a piece.&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>&lt;/s3&gt;4美元一个。&lt;/e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2731,6 +1475,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e2&gt;&lt;s3&gt;Remember that being a citizen member not only gives you access to periodic exclusive tutorials, but access to our complete source library from Max Cookie, Modo Cookie and Blender Cookie.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>&lt;e2&gt;&lt;s3&gt;请记住，作为会员不仅可让您使用我们定期的独家教程，还能让您进入我们的完整资源站，包括：Max Cookie, Modo Cookie 和 Blender Cookie。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;'&lt;/f0&gt;&lt;f1&gt;Essential Blender', is now available for pre-sale orders.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -2807,6 +1559,14 @@
       </tuv>
       <tuv lang="ZH">
         <seg>&lt;f0&gt;3D 工房 &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; 如何在Blender里面制作一个写实效果的行星&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;As 3d artists we have the ability to create photo real images.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T213005Z" changeid="flash">
+        <seg>&lt;f0&gt;作为3D艺术家，我们有能力创建具有照片真实感的图像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3209,10 +1969,26 @@ results in “--12:34, 1 February 2008 (UTC)”.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;Note2&lt;/s0&gt;: We are aware of the poor audio quality on this tutorial, Jonathan just moved to a new house and is working to address it.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>&lt;s0&gt;注2&lt;/s0&gt;: 我们得告诉您，这次的音频质量很差，因为Jonathan刚刚搬了新家，他正在解决这个问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;Note: &lt;/s0&gt;This tutorial uses a recent Blender 2.5 build from Graphicall.org</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>&lt;s0&gt;注意&lt;/s0&gt;: 本教程使用了Graphicall.org的 Blender 2.5 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;Note&lt;/s0&gt;: this tutorial uses the official Blender 2.5 Alpha 2 release.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>&lt;s0&gt;注意&lt;/s0&gt;: 本教程使用了官方的 Blender 2.5 Alpha 2 版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3991,6 +2767,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>关于</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actual star fields and nebulae become the backgrounds to frame our fantastical space ships and aliens.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -4127,10 +2911,26 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting edgeflow where needed</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在需要的地方调整edgeflow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Admission fee: $150/WigglyWorld members (whatever THAT means!), $180/general</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>入场费： 每个WigglyWorld 成员 (whatever THAT means!)150美元，每个普通学员 180美元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advertise</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>广告</seg>
       </tuv>
     </tu>
     <tu>
@@ -4311,6 +3111,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also the eyes will kind of stare at something symbolizing a more focused inner thought.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212758Z" changeid="flash">
+        <seg>眼球也可以盯着某一物体来表明它正在关注一样东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, a ‘finals screening’ will be organised at the 18th of July.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -4371,6 +3179,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH">
         <seg>在众多的选项里，将会出现一个文件浏览器，它是用来获取图像的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An artist can model a photo realistic head in 3d but it will look lifeless if the eyes lacks depth.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T214700Z" changeid="flash">
+        <seg>艺术家可以建造一个具有照片真实感的3D头部，但是如果没有深度刻画眼睛，那么这个人看起来也是没有生命的。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4483,6 +3299,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH">
         <seg>制作一个汽车沿着直线道路运动的动画容易，但是如果你想让一辆或多辆汽车&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Animation</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>动画</seg>
       </tuv>
     </tu>
     <tu>
@@ -4683,6 +3507,22 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH">
         <seg>请问，您是在找一本基本的指南：它能让您有种可以快速学会的感觉，对么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arguably the single most important aspect to modeling is topology.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>可以说建模方面最重要的就数Topology（拓扑）了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Articles</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>文章</seg>
       </tuv>
     </tu>
     <tu>
@@ -4923,6 +3763,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH">
         <seg>因为至少我不会带着您一头扎进Blender乱转。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At some level we read the eye ball without even knowing how or why certain looks evoke an emotion.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212157Z" changeid="flash">
+        <seg>在某种程度上，我们甚至不用知道眼球和感情的关系就能读懂它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5183,6 +4031,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before we look at the eye.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215957Z" changeid="flash">
+        <seg>不过在我们关注眼睛之前，我要插几句。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before we start texturing the plane, we need to set up an environment so that the plane has something to reflect.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -5227,6 +4083,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH">
         <seg>由于生在澳大利亚，我必须得承认，做雪不是我的强项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Believe it or not this is all common sense, your mind knows all of these things.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212908Z" changeid="flash">
+        <seg>不管你信不信，这都是常识，你的脑子知道如何处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5656,6 +4520,14 @@ for issue number 29, and they need your contribution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Box Modeling an Alien Character in Blender 2.5 alpha 0</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>Blender2.5 alpha 0 中基于盒子的外星人物制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brecht needs your input: if you see something on the list that you really do need for your work, let him know by posting a comment below.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -5784,6 +4656,14 @@ for issue number 29, and they need your contribution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But we can further more tell that they are sad by the way their eyes look and move.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212443Z" changeid="flash">
+        <seg>但是眼睛的关注点和移动则可以把这一点表现得更清楚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But when I was stuck at Brisbane airport for 3 hours, I thought I might try my hand at...</seg>
       </tuv>
       <tuv lang="ZH">
@@ -5812,6 +4692,14 @@ for issue number 29, and they need your contribution.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>按钮面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Adam Baroody</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T211836Z" changeid="flash">
+        <seg>由Adam Baroody创作</seg>
       </tuv>
     </tu>
     <tu>
@@ -5860,6 +4748,14 @@ for issue number 29, and they need your contribution.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>顺便说一下，你应该始终保持界面项目（控件名称，菜单项，。。。）的英语版本，原因同上所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By using an Array modifier and a Curve modifier, this tutorial takes you through the process of modeling a rope in Blender.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>通过使用 Array（数组） modifier 和 Curve（曲线） modifier来制作一个绳子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5920,139 +4816,10 @@ for issue number 29, and they need your contribution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Call for Content: Blenderart Magazine #29 Comments Feed</seg>
-        <seg>Daniel Martinez Lara writes:</seg>
+        <seg>Call for Content: Blenderart Magazine #29 Comments FeedDaniel Martinez Lara writes:</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100729T004348Z" changeid="flash">
         <seg>Daniel Martinez Lara 写道：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Everything was made in Blender 2.50.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004857Z" changeid="flash">
-        <seg>一切由Blender2.50制作。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Everything: modelling, animation, illumination, the render is Blender Internal and all the comp is Blender too.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004444Z" changeid="flash">
-        <seg>动画里的：建模，动画，照明，illumination，渲染都是在Bender里面做的，合成也是。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>How to model a realistic eyeball in Blender</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T005109Z" changeid="flash">
-        <seg>如何在Blender里建立一个写实的眼球</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>I’ll post some blends with the setup of lights and comp on &lt;a0&gt;BlenderArtists&lt;/a0&gt; later.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004555Z" changeid="flash">
-        <seg>我稍后会把合成和灯光设置的配置贴在&lt;a0&gt; BlenderArtists &lt;/a0&gt;上。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>I’m happy with the work of students :)</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004501Z" changeid="flash">
-        <seg>能与学生们一起工作我感到高兴：）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Learn how to create a realistic 3D model of an eye within Blender with this video guide.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T005210Z" changeid="flash">
-        <seg>这个视频讲展示如何在Blender里面创建一个写实的眼睛3D模型</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Michael wrote: “I saw a &lt;a0&gt;screenshot of Big Buck Bunny&lt;/a0&gt; at the new Disney Research Institute in Zurich!</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004009Z" changeid="flash">
-        <seg>Michael 写道： “我在迪斯尼苏黎世新的研究所看到了 &lt;a0&gt;大巴克班尼兔的截图&lt;/a0&gt;！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>One dropbox account (&lt;a0&gt;www.dropbox.com&lt;/a0&gt;) was used like a sever to get all the project sync with the all students.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T005050Z" changeid="flash">
-        <seg>我们用一个dropbox账户(&lt;a0&gt;www.dropbox.com&lt;/a0&gt;)来让项目中所有学生的工作同步。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Posts by Bart</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T003759Z" changeid="flash">
-        <seg>Bart发布</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Some Facts:)</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004653Z" changeid="flash">
-        <seg>一些数据：）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The Cup</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004256Z" changeid="flash">
-        <seg>奖杯</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The production time was 3 months, 3 students work on full time and another 3 students on spare time.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004648Z" changeid="flash">
-        <seg>影片的生产时间为3个月，3名学生全职工作，另外3名学生兼职。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The render is Blender internal and the render time in a i7 processor took about 3 minutes.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004951Z" changeid="flash">
-        <seg>渲染采用了Blender内部渲染器，渲染时间为3分钟（i7处理器）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The sighting is from Euronews”.</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004032Z" changeid="flash">
-        <seg>这个是在欧洲新闻上看到的”。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts in Fun</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T003816Z" changeid="flash">
-        <seg>在 娱乐栏目 中查看所有帖子</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>View all posts in Video</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T004323Z" changeid="flash">
-        <seg>在 视频栏目 中查看所有帖子</seg>
       </tuv>
     </tu>
     <tu>
@@ -6337,6 +5104,14 @@ made in Venezuela (Trailer!)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compositing</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>合成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concept art Speedpainting</seg>
       </tuv>
       <tuv lang="ZH">
@@ -6385,10 +5160,26 @@ made in Venezuela (Trailer!)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contests</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>比赛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continuing on the recent beta release of the Blender 2.5A2 rendering clients (Mac OSX, Windows, Linux 32 and 64bit), we’re super excited to announce that we’ve finished work on the new version of the Renderfarm.fi build of Blender 2.5 with the new and improved Renderfarm.fi uploader script in them.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>对于目前beta版本的Blender 2.5A2 渲染用户来说(Mac OSX, Windows, Linux 32 和 64bit)，我们超级兴奋的宣布：我们已经完成了该农场的新版本制作，我们加入了一些新功能，并且对农场的上传脚本作了一些改进。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contribute</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>贡献</seg>
       </tuv>
     </tu>
     <tu>
@@ -6562,6 +5353,38 @@ chart to hand covering the basics?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a Burlap Teddy Bear – part 1</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>创建一个麻布的泰迪熊 -- 第一部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a CG Cookie Coffee Cup</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>创建一个CG的Cookie咖啡杯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a Wooden Barrel</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>创建一个木桶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a character is one thing but creating a character in 3d that has depth is another.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T211928Z" changeid="flash">
+        <seg>创建一个角色是一回事，但在3D里面创建一个角色则完全是另一回事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating an environment</seg>
       </tuv>
       <tuv lang="ZH">
@@ -6574,6 +5397,22 @@ chart to hand covering the basics?</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>创建凹凸贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creative Commons License</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>创作共用许可证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credit to texturemate for use of available textures is appreciated, but not required.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>我们很赞赏您为使用过的素材付费，但这并不是必需的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6962,6 +5801,14 @@ chart to hand covering the basics?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to the use of modifiers, the resulting rope is very easily modified, lengthened, etc to fit any purpose.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>由于使用了Modifier，所以产生的绳子非常容易修改，延长等等，适合为任何目的修改使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DupliFrames stands for “''Dupli''cation at ''Frames''” and is a very useful modeling technique for objects which are repeated along a path, such as the wooden sleepers in a railroad, the boards in a fence or the links in a chain, but also for modeling complex curve objects like corkscrews, seashells and spirals.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -7299,6 +6146,14 @@ Project » Animation done, sort of Comments Feed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enjoy!</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>请享用！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enjoy.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -7379,6 +6234,14 @@ Project » Animation done, sort of Comments Feed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Everything was made in Blender 2.50.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004857Z" changeid="flash">
+        <seg>一切由Blender2.50制作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everything was then composited in After Effects.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -7387,10 +6250,66 @@ Project » Animation done, sort of Comments Feed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Everything: modelling, animation, illumination, the render is Blender Internal and all the comp is Blender too.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004444Z" changeid="flash">
+        <seg>动画里的：建模，动画，照明，illumination，渲染都是在Bender里面做的，合成也是。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exciting times!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>激动人心的时刻！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclusive</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>独家报道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclusive: Modeling the Female Head 02</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>独家发布：女性头部建模 02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclusive: Modeling the Female Head 03</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>独家发布：女性头部建模 03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eyes</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215119Z" changeid="flash">
+        <seg>眼睛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eyes show inner thought because they have depth to them.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215232Z" changeid="flash">
+        <seg>眼睛可以表明内心想法（原文：Eyes show inner thought because they have depth to them.）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F.A.Q.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>常见问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -7471,6 +6390,14 @@ Project » Animation done, sort of Comments Feed</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>请在场景中，随意旋转和orbit这个物体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filling in remaining parts of the head</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>充填头部其余的部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -7902,6 +6829,22 @@ Project » Animation done, sort of Comments Feed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free Stuff</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>免费内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free Textures on TextureMate.com</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>关于TextureMate.com免费纹理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh Blender News, Every Day</seg>
       </tuv>
       <tuv lang="ZH">
@@ -7938,6 +6881,22 @@ Project » Animation done, sort of Comments Feed</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>在Texture类型的下拉菜单中，选择 &lt;s0&gt;Image or Movie&lt;/s0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From their ‘legal stuff’ statement:</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这是他们的 ‘合法声明’：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From this we can assume that they didn't use a simple sphere with a texture map.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215219Z" changeid="flash">
+        <seg>有此我们可以看出来，他们没有使用简单的球贴图方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7994,6 +6953,14 @@ Project » Animation done, sort of Comments Feed</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>画廊图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Engine</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>游戏引擎</seg>
       </tuv>
     </tu>
     <tu>
@@ -8078,6 +7045,14 @@ Project » Animation done, sort of Comments Feed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Getting Started With Blender</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>Blender入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giganti della Strada (Giants of the Road) is a statue whose intial conception was done using Blender.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -8098,6 +7073,14 @@ Project » Animation done, sort of Comments Feed</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>返回到第1帧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go home Cookies</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>回到Cookies首页</seg>
       </tuv>
     </tu>
     <tu>
@@ -8535,6 +7518,14 @@ Ceci est un exemple (NdT&amp;nbsp;: phrase originale&amp;nbsp;: “''This is an 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here’s a useful texture repository that popped up in a comment yesterday beneath our ‘&lt;a0&gt;List of free texture sites&lt;/a0&gt;‘ blogpost.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这是昨天贴在我们博客‘&lt;a0&gt;免费纹理网站列表&lt;/a0&gt;‘ 的回复下特别有用的纹理存储库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here’s a zip with original un-touched 4k renders.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -8719,10 +7710,26 @@ Ceci est un exemple (NdT&amp;nbsp;: phrase originale&amp;nbsp;: “''This is an 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to model a realistic eyeball in Blender</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005109Z" changeid="flash">
+        <seg>如何在Blender里建立一个写实的眼球</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to select the light bulb, for example?</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>例如，怎样选中一个灯泡？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However looking at Pixar's &quot;A Bugs Life, we see a lot of depth in the eyeball.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215103Z" changeid="flash">
+        <seg>但是请看看Pixar的电影&quot;A Bugs Life(虫虫危机)&quot;, 我们就会在里面看到很多的对眼球的细节刻画。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8739,6 +7746,14 @@ Ceci est un exemple (NdT&amp;nbsp;: phrase originale&amp;nbsp;: “''This is an 
       </tuv>
       <tuv lang="ZH">
         <seg>尽管如此，我的Texture里面Tile很亮，所以我会用一个负值来反转它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However you may have never thought about it consciously.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212926Z" changeid="flash">
+        <seg>然而，你自己可能从来没有想过这个问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9164,6 +8179,14 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>我为Nodepad ++写了一个xml文件，这个文件包含全部Blender 2.5 Python API 模块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm an artist so I'll fake it.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215545Z" changeid="flash">
+        <seg>我是一个艺术家，所以我会模仿着做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9601,6 +8624,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In fact this suggests they've modeled the eye more physically correct.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215423Z" changeid="flash">
+        <seg>事实上，这表明他们做的眼睛物理准确度很高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In fact, I can’t see anything.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100728T014908Z" changeid="flash">
@@ -9621,6 +8652,14 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>在他的用户页，点击链接“Discussion（讨论）”，然后留言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In life, the eye is a window to the soul.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T211940Z" changeid="flash">
+        <seg>在生活中，眼睛是灵魂的窗户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9673,10 +8712,26 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some small cases this is enough such as background extras, or characters that will be shaded in a special way etc. (click &lt;/f0&gt;&lt;b1&gt;&lt;a2&gt;here&lt;/a2&gt;&lt;/b1&gt;&lt;f3&gt; for an example of a sphere and texture map eye created by me) However I tend to subscribe to the Pixar's belief that the eye needs a lot of attention in order to convey life.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215319Z" changeid="flash">
+        <seg>在一些不常见的情况下，这么做是可以的，比如：作为背景的时候，或者人物被某种方式遮挡的时候等等。 (点击&lt;/f0&gt;&lt;b1&gt;&lt;a2&gt;这里&lt;/a2&gt;&lt;/b1&gt;&lt;f3&gt; 可以看到我做的球帖图实现的眼睛)但是我还是倾向于Pixar（皮克斯动画工厂）的说法：想表达得栩栩如生，就得在眼睛上多下功夫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In terms of character animation there’s only one, maybe two, shots left to do – most of us have moved to other tasks, such as making final tweaks, and doing non-character based animation.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>在角色动画方面只剩下一个或两个镜头， - 我们大多数人已迁往其他任务，比如做最后的调整，做非角色的动画工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that case we must pay great attention to detail when it comes to relating the thought, or emotion that we're trying to convey to our audience.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T213133Z" changeid="flash">
+        <seg>在这种情况下，我们必须高度重视每个细节，尤其是它和我们试图传达给观众的想法和情感相关的时候。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,6 +8884,62 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>在这样的3D世界至少得有一个摄像机，来告诉Blender拍摄哪里的场景，从而获得图像（jpg，png。。）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this Blender 2.5 Video Mini-tutorial, I go over how to use the Array Modifier, and then go on to bake the Ambient Occlusion and Tangent Normals.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在这个Blender2.5的视频教程中，我将看看Array Modifier的使用，然后在介绍Ambient Occlusion和Tangent Normals。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this Blender 2.5 Video tutorial, I go over using the particle hair system to create downey feathers.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在这个Blender2.5的视频教程中，我将用粒子毛发系统来创建downey的羽毛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this Blender 2.5 video tutorial we give you a demonstration and overview of clean hand topology.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在这个Blender2.5的视频教程里，我们会给你演示一个干净漂亮的手模型的布局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this Blender 2.5 video tutorial we have a bit of fun and create a CG Cookie branded coffee cup.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在这个Blender2.5的视频教程里，让我们玩得开心一点，我们来创建一个CG Cookie品牌的咖啡杯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this Blender 2.5 video tutorial we have some fun and show you how to model a simple palm tree using a series of modifiers and linked meshes.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在这个Blender2.5的视频教程里，我们会给你展示一些好玩的方法，通过一系列的Modifier和连接在一起的Mesh，来造一个简单的棕榈树。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this Blender 2.53 video tutorial we take a look at the newly refactored sculpting system in the latest beta release.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在这个Blender2.53的视频教程里，让我们来看看Blender最新版中，刚刚重构过的雕刻系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this Citizen exclusive Blender 2.5 video tutorial, we begin the process of modeling a full female head.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在这次Blender2.5会员独家发放视频教程中，我们开始制作一个完整的女性头部模型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9997,6 +9108,14 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>相反，将举办两个‘茶话会’。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instructors</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>指导教师</seg>
       </tuv>
     </tu>
     <tu>
@@ -10369,6 +9488,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll post some blends with the setup of lights and comp on &lt;a0&gt;BlenderArtists&lt;/a0&gt; later.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004555Z" changeid="flash">
+        <seg>我稍后会把合成和灯光设置的配置贴在&lt;a0&gt; BlenderArtists &lt;/a0&gt;上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m also taking advantage of Vimeo’s HD uploads now, so the tutorials will slowly be updated across the backlog to a better quality image.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -10389,6 +9516,14 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>直到稳定版出来以前，我都会继续更新这个文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m happy with the work of students :)</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004501Z" changeid="flash">
+        <seg>能与学生们一起工作我感到高兴：）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10605,6 +9740,14 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>Julius Tuomisto 写道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>July 14, 2010  |  by Jonathan Williamson  |  &lt;a0&gt;Modeling&lt;/a0&gt;, &lt;a1&gt;Texturing&lt;/a1&gt;, &lt;a2&gt;Tutorials&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>2010年7月14日由乔纳森威廉森发表于| | &lt;a0&gt;造型&lt;/a0&gt; ， &lt;a1&gt;纹理&lt;/a1&gt; ， &lt;a2&gt;教程&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10873,6 +10016,22 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn how to create a realistic 3D model of an eye within Blender with this video guide.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005210Z" changeid="flash">
+        <seg>这个视频讲展示如何在Blender里面创建一个写实的眼睛3D模型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave a Reply</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>留下一个回复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leave all the options as default for now.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -10961,6 +10120,14 @@ material but only wanted to include only the best</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lets look at the eye</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T220158Z" changeid="flash">
+        <seg>我们来看这个眼睛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Let’s face it, space is filled with random areas of faint to intense light from stars and reflected light from planets and moons.</seg>
       </tuv>
       <tuv lang="ZH" changedate="20100727T033519Z" changeid="flash">
@@ -11005,6 +10172,14 @@ material but only wanted to include only the best</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>闪电参考视频：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Link</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>链接：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11059,6 +10234,14 @@ Durian blog: Premiere: Netherlands Film Festival</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>Log in</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Login</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>登录</seg>
@@ -11222,6 +10405,14 @@ Durian blog: Premiere: Netherlands Film Festival</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>“微小武士”短片的制作过程 --匈牙利文版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Making use of multiple modifiers and projection painting this tutorial covers the entire process of modeling and texturing an old, wooden barrel in Blender.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>通过使用多个Modifier和Projection绘图技术，教程介绍了在Blender里制作一个老旧的木桶的完整过程（建模和贴图）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11410,6 +10601,14 @@ Durian blog: Premiere: Netherlands Film Festival</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Michael wrote: “I saw a &lt;a0&gt;screenshot of Big Buck Bunny&lt;/a0&gt; at the new Disney Research Institute in Zurich!</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004009Z" changeid="flash">
+        <seg>Michael 写道： “我在迪斯尼苏黎世新的研究所看到了 &lt;a0&gt;大巴克班尼兔的截图&lt;/a0&gt;！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mike Erwin – &lt;a0&gt;Input Device improvements&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH">
@@ -11459,10 +10658,50 @@ visualization - a strange and mesmerising world.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modeling</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>建模</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modeling A Low Poly Space Ship</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>创建一个低模宇宙飞船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modeling Feathery Wings</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>羽状翅膀建模</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modeling a Palm Tree</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>棕榈树建模</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modeling a Rope</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>绳子建模</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Models</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>模型</seg>
       </tuv>
     </tu>
     <tu>
@@ -11813,6 +11052,14 @@ well!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normally 4USD a piece.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>4美元一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not lying when I say that in this introductory manual has not been developed even 1% of the program.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -11921,6 +11168,14 @@ well!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>2009年11月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now I'm no surgeon so I'm not going to chart out the entire structure of an eye.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215516Z" changeid="flash">
+        <seg>不过，我不是医生，因此也不打算画出眼睛的完整结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12273,6 +11528,14 @@ well!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One dropbox account (&lt;a0&gt;www.dropbox.com&lt;/a0&gt;) was used like a sever to get all the project sync with the all students.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005050Z" changeid="flash">
+        <seg>我们用一个dropbox账户(&lt;a0&gt;www.dropbox.com&lt;/a0&gt;)来让项目中所有学生的工作同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One is named Empty Rear .</seg>
       </tuv>
       <tuv lang="ZH">
@@ -12297,6 +11560,14 @@ well!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One or more textures on this 3D model have been created with images from CGTextures.com.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在这个3D模型上的一些Texture由CGTextures.com创建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One possible outcome:</seg>
       </tuv>
       <tuv lang="ZH">
@@ -12313,10 +11584,26 @@ well!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One thing to remember is that if it looks good... its good enough.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215639Z" changeid="flash">
+        <seg>有一点要记住的是，如果它看起来很不错...就足够了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One tip is that the sum of the three sources is about 1.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>这里有个建议：三个光源的数值总和大约为1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One way to do this is to pay great attention to the eye ball.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T213631Z" changeid="flash">
+        <seg>做到这一点的方法是对眼球要赋予极大的关注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12357,6 +11644,14 @@ well!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>操作系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>或</seg>
       </tuv>
     </tu>
     <tu>
@@ -12520,6 +11815,22 @@ well!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>Parker 图书馆&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 2 will be up soon.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>第2部分将很快出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Particles</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>粒子</seg>
       </tuv>
     </tu>
     <tu>
@@ -12724,6 +12035,14 @@ series made in Venezuela (Trailer!)&amp;quot;</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>永久链接到 &amp;quot;“Historias Nativas”--委内瑞拉制作的电视连续剧（预告片！）&amp;quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permanent Link to Creating a CG Cookie Coffee Cup</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>永久链接： 创建一个CG的Cookie咖啡杯</seg>
       </tuv>
     </tu>
     <tu>
@@ -12942,6 +12261,14 @@ trenches!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physics/Dynamics</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>物理/动力学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pinging is currently not allowed.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -13119,6 +12446,14 @@ Community Reporter</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preparing for detailing</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>准备细节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;s0&gt;T&lt;/s0&gt; to bring up the toolbar, and under the shading options hit &lt;s1&gt;Smooth&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -13187,6 +12522,14 @@ Community Reporter</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>Blender2.6版本前建议删除的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Purchase Source Files</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>购买源文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -13291,6 +12634,22 @@ Community Reporter</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>作品集 2010 – Philip Aigner | BlenderNation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>参考</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference Images were purchased and licensed from 3D.sk.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>参考图像由3D.sk购买和授权。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13479,10 +12838,26 @@ Community Reporter</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rendering</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>渲染</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resosution X, Y:&lt;/i0&gt; dimensions in pixels of the render &lt;u1&gt; %: Percentage size in which is rendered.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>Resosution（分辨率） X, Y:&lt;/i0&gt; 渲染的像素尺寸&lt;u1&gt; %: 渲染的百分比大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -13785,10 +13160,26 @@ writes: It's time again to start thinking about</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search the site...</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>搜索网站...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14089,6 +13480,14 @@ writes: It's time again to start thinking about</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sign up</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg> 注册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple Normal Mapping Tutorial</seg>
       </tuv>
       <tuv lang="ZH">
@@ -14226,6 +13625,14 @@ writes: It's time again to start thinking about</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Site News</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>网站新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sky Texture</seg>
       </tuv>
       <tuv lang="ZH">
@@ -14314,6 +13721,14 @@ writes: It's time again to start thinking about</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So how do we create depth?</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T214732Z" changeid="flash">
+        <seg>那么，我们如何深度刻画呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So make sure this is set to 0.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -14374,6 +13789,14 @@ writes: It's time again to start thinking about</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>Soft Size 决定模糊的大小 &lt;u1&gt; Samples 是Blender需要计算的影子从开始到最后模糊的影子数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some Facts:)</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004653Z" changeid="flash">
+        <seg>一些数据：）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14812,10 +14235,26 @@ tips on improving the quality of your Yafaray renders.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Submit Comment</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>提交评论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submit News</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>提交新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subscribe to our &lt;a0&gt;Blender RSS&lt;/a0&gt; Feed to receive our latest articles and education from Blender Cookie.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>请订阅我们的&lt;a0&gt;Blender RSS&lt;/a0&gt; Feed以接受到Blender Cookie的最新文章和培训消息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14844,10 +14283,34 @@ tips on improving the quality of your Yafaray renders.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support the site – Download includes:</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>支持网站 - 下载包内有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Support us</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>支持我们</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supporting Textures</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>支持纹理</seg>
       </tuv>
     </tu>
     <tu>
@@ -14964,6 +14427,22 @@ tips on improving the quality of your Yafaray renders.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TextureMate.com (but you already guessed that)</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>TextureMate.com（但估计你已经猜到这个地址了）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Textures</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>纹理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TexturesOff</seg>
       </tuv>
       <tuv lang="ZH">
@@ -14972,10 +14451,34 @@ tips on improving the quality of your Yafaray renders.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Texturing</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>纹理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Texturing An Alien Using Nodes</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>使用Nodes（节点系统）为外星人做贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you for the support and more education is on the way!</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>谢谢您的支持和更多的教材制作中！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you!</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>致谢</seg>
       </tuv>
     </tu>
     <tu>
@@ -15084,6 +14587,14 @@ tips on improving the quality of your Yafaray renders.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That's what we do.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215610Z" changeid="flash">
+        <seg>这就是我们要做的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 3D environment has become evident.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -15152,6 +14663,14 @@ tips on improving the quality of your Yafaray renders.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>底盘不会被渲染，并仅用于连接像车轮和车身这类的部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cup</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004256Z" changeid="flash">
+        <seg>奖杯</seg>
       </tuv>
     </tu>
     <tu>
@@ -15325,6 +14844,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The box-modeling technique is a good way to quickly visualize the shape of your character, rather than creating the detail from the beginning.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>盒子建模技术是个非常好的建模方法，它能帮助你快速建立一个模型的大体形状。而不是一开始就抠细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The button that you must do is click on the named &lt;i0&gt;Smooth&lt;/i0&gt;.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -15433,6 +14960,14 @@ getting close!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>经验将会让您明白很多事，不过您还是要注意Render面板本身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The eyes of this sad subject may be more wet because of tears and their movement may be slowed, maybe even timid.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212643Z" changeid="flash">
+        <seg>悲伤的眼睛看起来应该是湿乎乎的布满泪水，移动缓慢甚至还有点胆怯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15669,6 +15204,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most simplest form is a texture map on a sphere.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T213719Z" changeid="flash">
+        <seg>最简单的方法是一给球物体贴图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most used are the views of &lt;i0&gt;Wireframe&lt;/i0&gt; and &lt;i1&gt;Solid&lt;/i1&gt; .</seg>
       </tuv>
       <tuv lang="ZH">
@@ -15729,6 +15272,14 @@ getting close!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>唯一不同的是，DupliFrames让物体沿着曲线排列，而不是根据Mesh的Vertex排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The only exception is that they cannot be redistributed commercially in their unedited form.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>唯一例外的是，这些素材不能在未经编辑的情况下用于商业用途。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15797,6 +15348,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The production time was 3 months, 3 students work on full time and another 3 students on spare time.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004648Z" changeid="flash">
+        <seg>影片的生产时间为3个月，3名学生全职工作，另外3名学生兼职。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The project uses the BURP (Big and Ugly Rendering Project) code base, extending on it for a more accessible rendering service.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -15837,6 +15396,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The render is Blender internal and the render time in a i7 processor took about 3 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004951Z" changeid="flash">
+        <seg>渲染采用了Blender内部渲染器，渲染时间为3分钟（i7处理器）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second Empty is named Empty Front.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -15861,6 +15428,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The series will be taking an in-depth at the techniques needed to accurately model the subject, including accurate anatomy and topology.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这个系列将会深入了解精确建模所需的技术，包括了精确的anatomy和topology技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The shortest way is &lt;i0&gt;&quot;F12&quot;&lt;/i0&gt;... and tachaaaaaannnnnn!!</seg>
       </tuv>
       <tuv lang="ZH">
@@ -15877,6 +15452,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sighting is from Euronews”.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004032Z" changeid="flash">
+        <seg>这个是在欧洲新闻上看到的”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The site from the “Passeport Vacances”</seg>
       </tuv>
       <tuv lang="ZH">
@@ -15889,6 +15472,22 @@ getting close!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>直到7月11日,该网站对soccer packages（足球包？）有50％的折扣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The snapping tool in Blender allows you to snap your mesh selection to any other vertice, edge, face, or volume.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>Blender中的Snapping工具允许你把你的Mesh捕捉到任何其他的vertice, edge, face, 或者 volume上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The stock textures and any other photographs available for download on this site are completely free and may be used in commercial or non-commercial applications.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>该网站上的纹理和任何其他照片的下载是完全免费的，可以在商业或非商业中使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15963,6 +15562,22 @@ getting close!</seg>
       <tuv lang="ZH">
         <seg>翻译者应该把它替换成
 &lt;pre&gt;:Capturas de tela - [[Doc:Manual/Vitals/Screenshots|eng]]&lt;/pre&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tutorial also demonstrates a technique for quick and dirty outdoor rendering.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>教程还演示了一个快速和粗糙（dirty）的户外渲染技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tutorial provides tips on how to structure your mesh, including clean topology, mesh flow and edgeloop density.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>教程给了你一些如何组织你的Mesh的建议，其中包括制作干净的topology,mesh flow（Mesh流） 和 edgeloop density（密度）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16043,6 +15658,14 @@ getting close!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>随着酒吧的打烊，我们的活动也结束了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then using the duplifaces technique to add the longer feathers, as well as their texturing and a quick rig setup.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>然后利用duplifaces技术添加较长的羽毛，以及他们的Texturing(纹理)和快速组合在一起（quick rig setup）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16279,6 +15902,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These images may not be redistributed by default, please visit &lt;a0&gt;www.cgtextures.com&lt;/a0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这些图片默认不能随意发布，参看 &lt;a0&gt;www.cgtextures.com&lt;/a0&gt; 获得详细情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These two entities have only one center &lt;u1&gt; You can not dispose of them separately in &lt;i0&gt;Object Mode&lt;/i0&gt; for when you want to select the area to be selected once the cube (and vice versa):</seg>
       </tuv>
       <tuv lang="ZH">
@@ -16387,6 +16018,22 @@ getting close!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>在这个&lt;s0&gt;46 分钟的教程&lt;/s0&gt;里面，包含了很多建模技巧/技法，有助于您创建自己的室内装饰造型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Blender 2.5 overview tutorial takes a look at the topology of the human shoulder, examining each of the main edgeloops, poles, etc.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这个Blender2.5的概述视频教程简单介绍了人类肩膀的Topology技术。检测了每个主要的edgeloops， poles等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Blender 2.5 overview video tutorial takes a look at the topology of the human foot, examining each of the main edgeloops, poles, etc.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这个Blender2.5的概述视频教程简单介绍了人类脚的Topology技术。检测了每个主要的edgeloops， poles等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16608,6 +16255,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a very handy technique for precision modeling.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这是一个非常方便的精确建模技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is all material from the last year.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -16768,6 +16423,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This new system adds many new brushes and features to the sculpting toolset, providing a much smoother and feature-rich workflow.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>新系统在雕刻工具集里，增加了许多新的笔刷和功能，从而提供了一个更加流畅，功能更丰富的工作流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This number is full of tutorials and making of.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -16780,6 +16443,14 @@ getting close!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>这个也将在渲染的时候隐形，但对于动画设置来说却非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This overview Blender video tutorial takes a look at the topology of the human head, examining each of the main edgeloops, poles, etc.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这个Blender2.5的概述视频教程简单介绍了人类头部的Topology技术。检测了每个主要的edgeloops， poles等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16808,6 +16479,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This second portion continues where the first part left off and goes through the process filling in the gaps to create the full face</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>第二部分继续第一部分的进度，我们将把那些缝隙填补上，以创建一个完整的面孔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This series is an on going project that is made of 12 chapters of 3-4 minutes long each.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -16832,10 +16511,34 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This third section continues with the main modeling process by filling in the rest of the mesh, examining edgeloops and making some adjustments to the mesh in order to improve the edgeflow in preperation of detailing.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这个由三个小节组成的建模过程，通过剩余Mesh的填充，检测 edgeloops 和对Mesh进行一些调整，以便在细节方面增强edgeflow。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This tutorial encompasses the modeling, rendering and texturing of the coffee cup.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>本教程涵盖了咖啡杯的建模，渲染和纹理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This tutorial is an adaptation of the idea presented in Matt Ebb’s &lt;a0&gt;displace node tutorial&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>这个教程是Matt Ebb的 &lt;a0&gt;放置node（节点）教程&lt;/a0&gt;的修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This tutorial takes a look at how to model a Teddy Bear in Blender.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这个教程介绍了如何在Blender中制作一个泰迪熊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17120,6 +16823,22 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To download this tutorial please log into your &lt;a0&gt;citizen account here&lt;/a0&gt;, or &lt;a1&gt;join the ranks today&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>要下载这个教程，请登录你的&lt;a0&gt;会员账户&lt;/a0&gt;，或&lt;a1&gt;今天就加入我们的行列&lt;/a1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To download this tutorial please log into your &lt;a0&gt;citizen account here&lt;/a0&gt;, or &lt;a1&gt;join the ranks today&lt;/a1&gt;.&lt;e2&gt;Remeber that being a citizen member not only gives you access to periodic exclusive tutorials, &lt;s3&gt;but access to our complete source library from Max Cookie, Modo Cookie and Blender Cookie.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>要下载这个教程，请登录你的&lt;a0&gt;会员账户&lt;/a0&gt;，或&lt;a1&gt;今天就加入我们的行列&lt;/a1&gt;。&lt;e2&gt;请记住，作为会员不仅可让您使用我们定期的独家教程，&lt;s3&gt;还能让您进入我们的完整资源站，包括：Max Cookie, Modo Cookie 和 Blender Cookie。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To ensure the texture uses the UV coordinates, select &lt;s0&gt;UV&lt;/s0&gt; from the mapping options drop down menu.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -17168,6 +16887,14 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To learn more about&lt;a1&gt; 3D.Sk&lt;/a1&gt; please visit them today.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>要更多的了解有关&lt;a1&gt; 3D.Sk &lt;/a1&gt;的事情，请今天就访问他们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To make it look smoother, add a &lt;s0&gt;Subsurf&lt;/s0&gt; modifier &lt;e1&gt;underneath &lt;/e1&gt;the displacement modifier.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -17188,6 +16915,14 @@ getting close!</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>为了使云变得蓬松，我们将使用displacement modifiers（位移修改器）的combination（组合）功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To me, a lifeless eye can ruin an image.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T214342Z" changeid="flash">
+        <seg>对我来说，一个没有生命的眼睛足足可以毁掉整幅作品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17384,6 +17119,38 @@ getting close!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Topology Overview: The Head</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>Topology（布局）概述: 头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Topology Review – The Foot</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>Topology（布局）复习: 脚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Topology Review: Hand</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>Topology（布局）复习: 手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Topology Review: Shoulder</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>Topology（布局）复习: 肩膀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Townsville lightning strike</seg>
       </tuv>
       <tuv lang="ZH">
@@ -17417,6 +17184,22 @@ getting close!</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>Tutorial</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tutorial: Its all in the Eyes</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215115Z" changeid="flash">
+        <seg>教程：眼睛建模合集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tutorials</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>教程</seg>
@@ -17759,10 +17542,202 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View all posts filed under Animation</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 动画栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Bundles</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 Bundles栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Contests</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 比赛栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Contribute</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 贡献栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View all posts filed under Directorial Address</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>查看所有 导演地址栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Exclusive</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 独家报道栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under FX</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 FX栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Fresh Batch</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 Fresh Batch栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Game Engine</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 游戏引擎栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Interface</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 界面栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Interviews</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 访谈栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Lighting</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 光影栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Modeling</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 建模栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Models</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 模型栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Particles</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 粒子栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Physics/Dynamics</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 物理/动力学栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Reference</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 参考栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Rendering</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 渲染栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Resources</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 资源栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Reviews</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 回顾栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Scripts</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 脚本栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Site News</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 网站新闻栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Textures</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 纹理栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Texturing</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 纹理栏目 里的帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts filed under Tips</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看所有 小提示栏目 里的帖子</seg>
       </tuv>
     </tu>
     <tu>
@@ -17831,10 +17806,26 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View all posts in Fun</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T003816Z" changeid="flash">
+        <seg>在 娱乐栏目 中查看所有帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View all posts in Materials</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>查看 材料专栏 里的所有帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts in Modeling</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>查看 建模专栏 里的所有帖子</seg>
       </tuv>
     </tu>
     <tu>
@@ -17871,6 +17862,14 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View all posts in Tutorials</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在 教程专栏 里查看所有帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View all posts in Video</seg>
       </tuv>
       <tuv lang="ZH">
@@ -17891,6 +17890,14 @@ in Videos</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>在 天气栏目 里查看所有帖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all posts in all</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在 所有栏目 里查看所有帖子</seg>
       </tuv>
     </tu>
     <tu>
@@ -17983,6 +17990,14 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We also have a public “&lt;a0&gt;Male Head Modeling Series&lt;/a0&gt;” available for view.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>我们还提供一个公开的“&lt;a0&gt;男性头部建模系列&lt;/a0&gt;” 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We also have the following to give away:</seg>
       </tuv>
       <tuv lang="ZH">
@@ -18031,10 +18046,34 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We are working though some Camtasia audio sync bugs…</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>我们正在努力解决那些Camtasia音频同步的错误...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can compare this to body language.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212221Z" changeid="flash">
+        <seg>我们可以那它和肢体语言做个对比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We can see how having selected the bright spot has appeared a new icon to edit its parameters:</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>我们能发现，如果选中了那个发亮的Spot（光源），我们就能看到一个新图标出现，点击那个图标，就能编辑这些参数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can tell when a human is feeling sad by looking at their &quot;pose&quot; and the way they move slowly and kind of careless.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212334Z" changeid="flash">
+        <seg>通过看一个人的“姿态”我们可以发现他现在很悲伤，这种姿态可以是移动缓慢，还有点漫不经心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18255,6 +18294,14 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Website</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>网站</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to &lt;s0&gt;Week 1&lt;/s0&gt; of the Architecture tutorial special.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -18283,6 +18330,14 @@ in Videos</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>Tony干得真棒！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well like i sad, a sphere with texture map works for some scenes especially if its a more cartoony or stylized character, and its even better if there's a bump map as well.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T214948Z" changeid="flash">
+        <seg>那么，比如我想表达伤心，球贴图的方式表现得还可以，尤其是在一些卡通/典型的人物上的话。当然，如果有个凹凸贴图效果更好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18399,6 +18454,14 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What is Covered in this Lesson</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>本课包含的内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What other weather effects do you want to learn?</seg>
       </tuv>
       <tuv lang="ZH">
@@ -18435,6 +18498,14 @@ in Videos</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>当我长到少年的时候，我的绘画变得更好了，而且有人带我入了音乐的门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When I set out to figure out how to make a better eye for my characters i thought about dolls and the way their eyes were shaped and how they looked.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T220047Z" changeid="flash">
+        <seg>当我着手为我的人物创建一个更棒的眼睛时，我想起了那些洋娃娃的眼睛形状和观感。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19055,6 +19126,14 @@ in Videos</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may find that this eye reminds you of older style dolls.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T220148Z" changeid="flash">
+        <seg>你会发现，这种眼睛会让你想起老式的洋娃娃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may have noticed that in the previous examples there was an excess of shadows cast.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -19083,6 +19162,14 @@ in Videos</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>您可以从显示器看到场景，但是Blender软件如何看到呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will learn various basic modeling techniques that may be applied to other objects.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>您可以学到各种基本造型技巧，这些技巧还可以用于其他物体的创建。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19480,6 +19567,14 @@ Blender e-shop</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>也可以使用一个空物体（Empty）甚至是骨头（Bone），但是一个扁平立方体会在视觉上有更好的帮助。 &lt;br26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>default image for post</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>帖子的默认图片 </seg>
       </tuv>
     </tu>
     <tu>
@@ -21059,13 +21154,7 @@ Tomo has posted some pretty neat character</seg>
         <seg>鈥揅olin</seg>
       </tuv>
       <tuv lang="ZH">
-        <seg>-Colin</seg>
-=======
-        <seg>Whether you're new to the Blender Foundation's popular open-source 3D computer graphics application or are a seasoned digital artist</seg>
-      </tuv>
-      <tuv lang="ZH" changedate="20100729T005300Z" changeid="flash">
-        <seg>不管你是Blender的新手还是个经验丰富的数位艺术家，你都能学会。</seg>
->>>>>>> news0729
+        <seg>-ColinWhether you're new to the Blender Foundation's popular open-source 3D computer graphics application or are a seasoned digital artist</seg>
       </tuv>
     </tu>
   </body>
