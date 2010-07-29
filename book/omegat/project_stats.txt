@@ -1,23 +1,15 @@
-7/30/10 4:10 AM
+7/30/10 4:27 AM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	
-Total:           	    1861	22815	                     106308	                       126441	
-Remaining:       	    1844	22724	                     105829	                       125883	
-Unique:          	    1748	22256	                     103076	                       122769	
-Unique Remaining:	    1732	22166	                     102599	                       122213	
+Total:           	     193	 1865	                       8818	                        10429	
+Remaining:       	     193	 1865	                       8818	                        10429	
+Unique:          	     187	 1835	                       8589	                        10193	
+Unique Remaining:	     187	 1835	                       8589	                        10193	
 
 
 Individual File Statistics:
 
-File Name                                                                        	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
-NeedTranslate/BAM/blenderart_mag-9_resource.odt                                  	      18501	          18448	                            82749	                                82451	                              99732	                                  99382	
-NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                            	        180	            180	                              853	                                  853	                               1010	                                   1010	
-NeedTranslate/cookie/2010/07/28-Tip: Using Multiple Background Images in 2.5.html	       1071	           1042	                             6569	                                 6421	                               7152	                                   6981	
-NeedTranslate/guru/2010/07/29-Create a Realistic Kitchen – Part 2 of 2.html      	        583	            575	                             3701	                                 3672	                               4083	                                   4050	
-NeedTranslate/nation/2010/07/28-PSP Game: PlayEnglish.html                       	        179	            178	                              941	                                  937	                               1081	                                   1077	
-NeedTranslate/nation/2010/07/28-User Meeting: Fargo-Moorhead, July 28th.html     	        127	            127	                              807	                                  807	                                861	                                    861	
-NeedTranslate/nation/2010/07/29-Big Buck Bunny Sighted at Disney.html            	        109	            109	                              773	                                  773	                                838	                                    838	
-NeedTranslate/nation/2010/07/29-The Cup.html                                     	        200	            200	                             1097	                                 1097	                               1255	                                   1255	
-NeedTranslate/tut/2010/07/29-How to model a realistic eyeball in Blender.html    	         56	             56	                              331	                                  331	                                379	                                    379	
-NeedTranslate/tut/2010/07/30-Its all in the Eyes.html                            	       1809	           1809	                             8487	                                 8487	                              10050	                                  10050	
+File Name                                                  	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
+2010/07/29-How to model a realistic eyeball in Blender.html	         56	             56	                              331	                                  331	                                379	                                    379	
+2010/07/30-Its all in the Eyes.html                        	       1809	           1809	                             8487	                                 8487	                              10050	                                  10050	
