@@ -1,18 +1,18 @@
-7/28/10 8:52 AM
+7/29/10 9:50 AM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	
-Total:           	    3752	34144	                     189356	                       213364	
-Remaining:       	    2957	28751	                     161922	                       181275	
-Unique:          	    2535	28953	                     149055	                       170996	
-Unique Remaining:	    2199	25701	                     132670	                       151689	
+Total:           	    4076	36949	                     204016	                       230281	
+Remaining:       	    3273	31529	                     176470	                       198061	
+Unique:          	    2827	31609	                     162637	                       186768	
+Unique Remaining:	    2488	28348	                     146220	                       167423	
 
 
 Individual File Statistics:
 
 File Name                                                                                   	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
 NeedTranslate/BAM/blenderart_mag-9_resource.odt                                             	      18501	          16781	                            82749	                                74021	                              99732	                                  89412	
-NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                                       	        132	             94	                              582	                                  408	                                698	                                    488	
+NeedTranslate/BAM/blenderart_mag-9_resource.toAsk.txt                                       	        180	            142	                              853	                                  679	                               1010	                                    800	
 NeedTranslate/cookie/2010/07/12-Modeling a Palm Tree.html                                   	        252	            119	                             1680	                                 1052	                               1831	                                   1084	
 NeedTranslate/cookie/2010/07/13-Topology Review: Hand.html                                  	        239	            139	                             1738	                                 1231	                               1862	                                   1269	
 NeedTranslate/cookie/2010/07/14-Topology Review – The Foot.html                             	        220	            124	                             1572	                                 1085	                               1691	                                   1119	
@@ -33,6 +33,11 @@ NeedTranslate/cookie/2010/07/26-Box Modeling an Alien Character in Blender 2.5 a
 NeedTranslate/cookie/2010/07/26-Free Textures on TextureMate.com.html                       	        112	             21	                              727	                                  218	                                807	                                    218	
 NeedTranslate/cookie/2010/07/28-Tip: Using Multiple Background Images in 2.5.html           	       1071	            969	                             6569	                                 6021	                               7152	                                   6509	
 NeedTranslate/guru/2010/07/27-Create a High Rise Building – Part 2 of 2.html                	        366	            109	                             2294	                                 1071	                               2521	                                   1075	
+NeedTranslate/guru/2010/07/29-Create a Realistic Kitchen – Part 2 of 2.html                 	        583	            567	                             3701	                                 3630	                               4083	                                   4001	
 NeedTranslate/nation/2010/07/27-Blender at Barcamp, Guayaquil, Ecuador.html                 	        101	             53	                              759	                                  459	                                800	                                    459	
 NeedTranslate/nation/2010/07/28-PSP Game: PlayEnglish.html                                  	        179	             27	                              941	                                  213	                               1081	                                    213	
 NeedTranslate/nation/2010/07/28-User Meeting: Fargo-Moorhead, July 28th.html                	        127	             67	                              807	                                  493	                                861	                                    496	
+NeedTranslate/nation/2010/07/29-Big Buck Bunny Sighted at Disney.html                       	        109	            106	                              773	                                  762	                                838	                                    825	
+NeedTranslate/nation/2010/07/29-The Cup.html                                                	        200	            192	                             1097	                                 1067	                               1255	                                   1219	
+NeedTranslate/tut/2010/07/29-How to model a realistic eyeball in Blender.html               	         56	             56	                              331	                                  331	                                379	                                    379	
+NeedTranslate/tut/2010/07/30-Its all in the Eyes.html                                       	       1809	           1809	                             8487	                                 8487	                              10050	                                  10050	
