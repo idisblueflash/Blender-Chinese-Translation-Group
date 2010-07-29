@@ -1,0 +1,342 @@
+
+
+<dl>
+  <dt><img src="title.jpg" naturalsizeflag="3" border="0" height="59" width="494" align="TOP"><br>
+  <hr align="LEFT">
+  </dt><dt><center>&nbsp;</center>
+  </dt><dt><center><b><font size="+3">Tutorial: Its all in the Eyes</font></b></center>
+  </dt><dt><center><b><font size="+3">By Adam Baroody</font></b></center>
+  </dt><dt><center>&nbsp;</center>
+</dt></dl>
+
+<p></p><center><table border="0" cellpadding="0" cellspacing="2" height="4333" width="767">
+  <tbody><tr>
+    <td height="4273" width="15">
+    &nbsp;</td>
+    <td valign="TOP" width="668">
+    <p><b><u>Eyes</u></b></p>
+
+    <p><font size="-1">Creating a character is one thing but creating
+    a character in 3d that has depth is another. In life, the eye
+    is a window to the soul. Eyes show inner thought because they
+    have depth to them. At some level we read the eye ball without
+    even knowing how or why certain looks evoke an emotion. We can
+    compare this to body language. We can tell when a human is feeling
+    sad by looking at their "pose" and the way they move
+    slowly and kind of careless. But we can further more tell that
+    they are sad by the way their eyes look and move. The eyes of
+    this sad subject may be more wet because of tears and their movement
+    may be slowed, maybe even timid. Also the eyes will kind of stare
+    at something symbolizing a more focused inner thought. Believe
+    it or not this is all common sense, your mind knows all of these
+    things. However you may have never thought about it consciously.</font></p>
+
+    <p><font size="-1">As 3d artists we have the ability to create
+    photo real images. In that case we must pay great attention to
+    detail when it comes to relating the thought, or emotion that
+    we're trying to convey to our audience. One way to do this is
+    to pay great attention to the eye ball. The most simplest form
+    is a texture map on a sphere. In some small cases this is enough
+    such as background extras, or characters that will be shaded
+    in a special way etc. (click </font><b><a href="http://www.3dluvr.com/rogueldr/tutorials/eye/fathead.jpg">here</a></b><font size="-1"> for an example of a sphere and texture map eye created
+    by me) However I tend to subscribe to the Pixar's belief that
+    the eye needs a lot of attention in order to convey life. To
+    me, a lifeless eye can ruin an image. An artist can model a photo
+    realistic head in 3d but it will look lifeless if the eyes lacks
+    depth.</font></p>
+
+    <p><font size="-1">So how do we create depth? Well like i sad,
+    a sphere with texture map works for some scenes especially if
+    its a more cartoony or stylized character, and its even better
+    if there's a bump map as well. However looking at Pixar's "A
+    Bugs Life, we see a lot of depth in the eyeball. From this we
+    can assume that they didn't use a simple sphere with a texture
+    map. In fact this suggests they've modeled the eye more physically
+    correct. Now I'm no surgeon so I'm not going to chart out the
+    entire structure of an eye. I'm an artist so I'll fake it. That's
+    what we do. One thing to remember is that if it looks good...
+    its good enough.</font></p>
+
+    <p><font size="-1">Before we look at the eye. When I set out
+    to figure out how to make a better eye for my characters i thought
+    about dolls and the way their eyes were shaped and how they looked.
+    You may find that this eye reminds you of older style dolls.</font></p>
+
+    <p><b><u>Lets look at the eye</u></b></p>
+
+    <p></p><center><b><u><img src="eye01.jpg" naturalsizeflag="3" border="0" height="315" width="359" align="BOTTOM"></u></b></center><p></p>
+
+    <p></p><center>&nbsp;</center><p></p>
+
+    <p><font size="-1">Here's the eye. This eye is more of a "Pixar'ish"
+    kind of eye in that its clean looking. Additional texture maps
+    can make this eye more photo real, such as a pinkish map with
+    some small vein like lines. I like the Pixar look so that's the
+    inspiration for this eye and its shaders.</font></p>
+
+    <p><font size="-1">How real this eye looks depends on 3 factors:
+    the actual geometry, shaders, and lighting. First we'll examine
+    the geometry...</font></p>
+
+    <p><b><u>Geometry</u></b></p>
+
+    <p></p><center><img src="eye_wire01.gif" naturalsizeflag="3" border="0" height="252" width="300" align="BOTTOM"> <img src="eye_wire02.gif" naturalsizeflag="3" border="0" height="245" width="270" align="BOTTOM"></center><p></p>
+
+    <p></p><center><img src="eye_parts02.gif" naturalsizeflag="3" border="0" height="293" width="479" align="BOTTOM"></center><p></p>
+
+    <p><font size="-1">The eye is modeled in 4 parts. They are:</font></p>
+
+    <ul>
+      <li><font size="-1">The actual circular structure of the eye
+      white</font>
+      </li><li><font size="-1">Pupil</font>
+      </li><li><font size="-1">Cornea</font>
+      </li><li><font size="-1">Iris</font>
+    </li></ul>
+
+    <p><img src="eye_parts03.gif" naturalsizeflag="3" border="0" height="270" width="400" align="BOTTOM"></p>
+
+    <p><font size="-1">Each of these 4 parts are modeled individually.
+    As you can see I've modeled the eye ball more physically correct
+    in that the iris (the color of the eye) bends inward. This is
+    very important to properly simulate the highlight and diffuse
+    illumination that the iris has in real life. This angle allows
+    the iris to literally catch light.</font></p>
+
+    <p><font size="-1">The Pupil is a simple flat black 2d circle
+    that sits in the iris.</font></p>
+
+    <p><font size="-1">The Cornea is a key component to the eye.
+    It allows us to catch sharp highlights and it gives the eye depth.
+    Actually the combination of the cornea, iris and pupil are what
+    give the appearance of depth but without the cornea this eye
+    would look flat. The cornea is transparent and has a light reflection
+    map. Its main purpose is to catch a sharp highlight</font></p>
+
+    <p><font size="-1">So far our example as been a polygon object.
+    The same thing can be accomplished just fine in b-spline patch
+    surfaces and nurbs. Lets look out a regular b-spline patch version
+    of the eye made in 3dsmax (not a nurbs version)</font></p>
+
+    <p></p><center><font size="-1"><img src="eye_patch01.jpg" naturalsizeflag="3" border="0" height="287" width="400" align="BOTTOM"></font></center><p></p>
+
+    <p></p><center><font size="-1"><img src="eye_patch02.jpg" naturalsizeflag="3" border="0" height="322" width="400" align="BOTTOM"></font></center><p></p>
+
+    <p></p><center><font size="-1">As you can see the same thing is easily
+    accomplished. Its just a different surface type. I prefer this
+    surface type because it is very resolution independent. The polygon
+    version is a meshsmooth object so i can acheive higher detail
+    levels with the polygon one. The patch one allows me to tesselate
+    down to a very small amount of polys, thus increasing viewport
+    speed when animating interactivly.<img src="eye_patch04.jpg" naturalsizeflag="3" border="0" height="303" width="400" align="BOTTOM"></font></center><p></p>
+
+    <p></p><center><font size="-1"><img src="eye_patch03.jpg" naturalsizeflag="3" border="0" height="249" width="400" align="BOTTOM"></font></center><p></p>
+
+    <p><font size="-1">Above you can see that i've turned down the
+    patch surface tesselation parameters to 5. this allows realtime
+    interactivity while retaining the ability the eyeballs perfectly
+    smooth with a higher tesselation value. So if i was doing film
+    res stuff... i could easily turn up the step setting so that
+    my eyes dont have any poly facets in them.</font></p>
+
+    <p><font size="-1">The Good and Bad of patch eye ball surfaces.</font></p>
+
+    <blockquote>
+      <p><i><u><font size="-1">GOOD:</font></u></i></p>
+      <ul>
+        <li><font size="-1">Resolution independent</font>
+        </li><li><font size="-1">Fast interactivity</font>
+      </li></ul>
+      <p><i><u><font size="-1">BAD:</font></u></i></p>
+      <ul>
+        <li><font size="-1">Doesnt work well with FFD's unless you have
+        a lot of patch crossections. Mesh objects have no problem with
+        FFD lattices</font>
+        </li><li><font size="-1">Max has mapping issues with patches in r3
+        that prevent propper mapping of patches. The only way to get
+        around this is to meshselect above the patch modifier and then
+        map it as a polygon. This works fine as a work around but its
+        not a desired work flow.</font>
+      </li></ul>
+    </blockquote>
+
+    <p><font size="-1">Now that we've examined the geometry. We must
+    look further into what makes the eye more real such as lighting.
+    The key to lighting the eye properly is partially in the structure
+    but shaders are just as important.</font></p>
+
+    <p></p><center><img src="eyes01.jpg" naturalsizeflag="3" border="0" height="450" width="600" align="BOTTOM"></center><p></p>
+
+    <p><b><u>The Shaders</u></b></p>
+
+    <p><font size="-1">Shaders and lighting go hand in hand, so in
+    order for the eye to light properly we need to have proper shaders.</font></p>
+
+    <p><font size="-1">Each part of the eye contains a separate shader.
+    There are 4 shaders in all.</font></p>
+
+    <ul>
+      <li><b><i>The Eye White shader</i></b>
+      <ul>
+        <dl>
+          <dt><font size="-1"><img src="eyewhite_shader.jpg" naturalsizeflag="3" border="0" height="161" width="160" align="BOTTOM"></font>
+          </dt><dt><font size="-1">The eye white shader simulates a fresnel
+          like reflection where the reflection is more visible around the
+          sides of the object and is less visible head on (although it
+          doesn't look like it, there's is). It has a very high specularity
+          value in order to create a sharp specular reflection.</font>
+        </dt></dl>
+      </ul>
+      </li><li><b><i>Pupil shader</i></b>
+      <ul>
+        <dl>
+          <dt><font size="-1"><img src="pupil_shader.jpg" naturalsizeflag="3" border="0" height="158" width="160" align="BOTTOM"></font>
+          </dt><dt><font size="-1">The pupil shader is very simple. Its a flat
+          black color. There is no specularity or shininess settings. It
+          doesn't have an ambient value either. This way it will be black
+          when</font>
+          </dt><dt><font size="-1">responding to light.</font>
+          </dt><dt>&nbsp;
+        </dt></dl>
+      </ul>
+      </li><li><b><i>Iris shader</i></b>
+      <ul>
+        <dl>
+          <dt><i><img src="iris_shader.jpg" naturalsizeflag="3" border="0" height="162" width="160" align="BOTTOM"></i>
+          </dt><dt><font size="-1">The iris shader has a texture map for color.
+          The specular color is a map as well so it lights in a realistic
+          manner. The specular settings are set in a way that you get a
+          wide highlight but not a sharp one.</font>
+          </dt><dt>&nbsp;
+        </dt></dl>
+      </ul>
+      </li><li><b><i>Cornea shader</i></b>
+      <ul>
+        <dl>
+          <dt><img src="cornea_shader.jpg" naturalsizeflag="3" border="0" height="162" width="160" align="BOTTOM">
+          </dt><dt><font size="-1">The cornea shader is almost completely transparent.
+          It has the same specular and shininess settings that the eye
+          white shader has. It also has the same frensel reflection of
+          the eye white shader. This is because they should appear to be
+          all one structure and the highlights and reflections need to
+          behave the same on both surfaces.</font>
+        </dt></dl>
+      </ul>
+    </li></ul>
+
+    <p><b><u>Other things to consider</u></b></p>
+
+    <p><font size="-1">This is very important. If you are using a
+    shadow maps you need to tell the cornea object to not cast a
+    shadow and to not receive them. Its transparent anyway so its
+    ok that it doesn't cast a shadow. If you don't do this the cornea
+    will black out the iris and you wont see the inner eye at all.
+    If you are using ray tracing i suppose you don't have to worry.</font></p>
+
+    <p><b><u>Lighting the Eye</u></b></p>
+
+    <p><font size="-1">Modeling the eye is only a part of creating
+    the illusion of depth. Lighting is the final touch. One must
+    always have at least 1 specular highlight in the eyes. You can
+    usually do this in most rendering software by defining a light
+    source that only effects the eyeballs and further more this light
+    source should only cast specular light. In other words this light
+    will only effect the specularity of the eyeballs. In 3D-Studio
+    Max you can easily do this by creating a light source and toggling
+    the diffuse check box off, in the light source parameters. And
+    don't forget to do "INCLUDE the eyeball objects only"
+    in the light sources exclude/include parameter box</font></p>
+
+    <p><b><u>Animating the Eyeballs</u></b></p>
+
+    <p></p><center><font size="-1">Animating the eye is fairly simple.
+    If your in 3D-Studio Max i suggest using the tape measure helper
+    to animate the eye. A very good friend of mine and animation
+    partner, Boris Ustaev came up with this. Its actually a lot better
+    than using the Look at controller in Max. If you're a Maya user,
+    just go ahead and aim constraint the eyes to a null. I suggest
+    constraining each eyeball to its own null, and then constrain
+    those 2 nulls to one. That way you have the ability to animate
+    each eye separately if you need to.</font><b><u><img src="eye_wire03.gif" naturalsizeflag="3" border="0" height="244" width="400" align="BOTTOM"></u></b></center><p></p>
+
+    <p></p><center><font size="-1">If you'd like to dilate the pupils
+    you can setup a linked xform in Max. This linked xform would
+    be assigned to the vertecies around the inner edge of the iris.
+    You will need to assign the vertecies around the outer part of
+    the pupil as well to a linked xform. And then create a dummy
+    in the middle of the pupil, and use that dummy to control both
+    linked xform modifiers.</font></center><p></p>
+
+    <p>&nbsp;</p>
+
+    <p><b><u>Additional Images showing the Eyes in action</u></b></p>
+
+    <blockquote>
+      <p><i><font size="-1">(Note: The eyeballs used on the character
+      in the images are a different version of the eye but it uses
+      a similar concept. The brown eye used in this example is a more
+      detailed version. And its shaders are more refined.)</font></i></p>
+    </blockquote>
+
+    <p></p><center><table border="0" cellpadding="0" cellspacing="2" height="342" width="680">
+      <caption align="TOP"><blockquote>
+  The following are all example images done by me. Click on them
+  to see a bigger version.</blockquote>
+</caption>
+      <tbody><tr>
+        <td height="166" width="33%">
+        &nbsp;<font size="-1"><a href="animo_amazement.jpg"><img src="thumb_animo_amazement.jpg" naturalsizeflag="3" border="0" height="154" width="205" align="BOTTOM"></a></font></td> 
+        <td width="33%">
+        &nbsp;<font size="-1"><a href="animo_smiling.jpg"><img src="thumb_animo_smiling.jpg" naturalsizeflag="3" border="0" height="154" width="205" align="BOTTOM"></a></font></td> 
+        <td width="34%">
+        &nbsp;<font size="-1"><a href="animo_thinking_awe.jpg"><img src="thumb_animo_thinking_awe.jpg" naturalsizeflag="3" border="0" height="154" width="205" align="BOTTOM"></a></font></td> 
+      </tr>
+      <tr>
+        <td height="169" width="33%">
+        &nbsp;<font size="-1"><a href="animo_disbeleif.jpg"><img src="thumb_animo_disbeleif.jpg" naturalsizeflag="3" border="0" height="154" width="205" align="BOTTOM"></a></font></td> 
+        <td width="33%">
+        &nbsp;<font size="-1"><a href="animo_thinking.jpg"><img src="thumb_animo_thinking.jpg" naturalsizeflag="3" border="0" height="154" width="205" align="BOTTOM"></a></font></td> 
+        <td width="34%">
+        &nbsp;<font size="-1"><a href="eyeballexampleimage01.jpg"><img src="thumb_eyeballexampleimage01.jpg" naturalsizeflag="0" border="0" height="157" width="210" align="BOTTOM"></a></font></td> 
+      </tr>
+    </tbody></table></center><p></p>
+
+    <p></p><center>&nbsp;</center><p></p>
+
+    <p></p><center><table border="0" cellpadding="0" cellspacing="0" height="195" width="593">
+      <tbody><tr>
+        <td height="190" width="26%" align="CENTER">
+        <font size="-1"><a href="http://www.3dluvr.com/rogueldr/info.html"><img src="floursackhappy.jpg" naturalsizeflag="3" border="0" height="140" width="129" align="BOTTOM"></a></font><br>
+        <a href="http://www.3dluvr.com/rogueldr/info.html"><font size="+1">I</font>nfo</a></td> 
+        <td width="25%" align="CENTER">
+        <a href="../../gallery/gallery.html"><img src="floursackguard.jpg" naturalsizeflag="3" border="0" height="140" width="120" align="BOTTOM"></a><br>
+        <a href="../../gallery/gallery.html"><font size="+1">G</font>allery</a></td> 
+        <td width="24%">
+        <p></p><center><a href="http://www.3dluvr.com/rogueldr/tutorials.html"><img src="floursacklookup.jpg" naturalsizeflag="3" border="0" height="140" width="120" align="BOTTOM"></a><br>
+        <a href="http://www.3dluvr.com/rogueldr/tutorials.html"><font size="+1">T</font>utorials</a></center></td>
+        <td width="25%" align="CENTER">
+        <font size="-1"><a href="http://www.3dluvr.com/rogueldr/links.html"><img src="floursackplayfull.jpg" naturalsizeflag="3" border="0" height="140" width="120" align="BOTTOM"></a></font><br>
+        <a href="http://www.3dluvr.com/rogueldr/links.html"><font size="+1">L</font>inks</a></td> 
+      </tr>
+    </tbody></table><table border="0" cellpadding="0" cellspacing="2" height="188" width="154">
+      <tbody><tr>
+        <td width="100%">
+        <p></p><center>&nbsp;<a href="http://www.3dluvr.com/rogueldr/index.html"><img src="home.jpg" naturalsizeflag="3" border="0" height="140" width="120" align="BOTTOM"></a><br>
+        <a href="http://www.3dluvr.com/rogueldr/index.html"><font size="+1">H</font>ome</a></center></td>
+      </tr>
+    </tbody></table></center></td>
+    <td width="15">
+    &nbsp;</td>
+  </tr>
+</tbody></table></center><p></p>
+
+<dl>
+  <dt><center><hr></center>
+  </dt><dd><center><font size="-1">1998 Adam Baroody</font></center>
+</dd></dl>
+
+<p></p><center><br>
+<br>
+</center>
+
+
