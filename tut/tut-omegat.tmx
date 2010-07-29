@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.1.7_1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;As 3d artists we have the ability to create photo real images.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T213005Z" changeid="flash">
+        <seg>&lt;f0&gt;作为3D艺术家，我们有能力创建具有照片真实感的图像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An artist can model a photo realistic head in 3d but it will look lifeless if the eyes lacks depth.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T214700Z" changeid="flash">
+        <seg>艺术家可以建造一个具有照片真实感的3D头部，但是如果没有深度刻画眼睛，那么这个人看起来也是没有生命的。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may find that this eye reminds you of older style dolls.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T220148Z" changeid="flash">
+        <seg>你会发现，这种眼睛会让你想起老式的洋娃娃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm an artist so I'll fake it.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215545Z" changeid="flash">
+        <seg>我是一个艺术家，所以我会模仿着做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets look at the eye</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T220158Z" changeid="flash">
+        <seg>我们来看这个眼睛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tutorial: Its all in the Eyes</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215115Z" changeid="flash">
+        <seg>教程：眼睛建模合集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now I'm no surgeon so I'm not going to chart out the entire structure of an eye.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215516Z" changeid="flash">
+        <seg>不过，我不是医生，因此也不打算画出眼睛的完整结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can compare this to body language.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212221Z" changeid="flash">
+        <seg>我们可以那它和肢体语言做个对比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One way to do this is to pay great attention to the eye ball.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T213631Z" changeid="flash">
+        <seg>做到这一点的方法是对眼球要赋予极大的关注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However you may have never thought about it consciously.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212926Z" changeid="flash">
+        <seg>然而，你自己可能从来没有想过这个问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So how do we create depth?</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T214732Z" changeid="flash">
+        <seg>那么，我们如何深度刻画呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In some small cases this is enough such as background extras, or characters that will be shaded in a special way etc. (click &lt;/f0&gt;&lt;b1&gt;&lt;a2&gt;here&lt;/a2&gt;&lt;/b1&gt;&lt;f3&gt; for an example of a sphere and texture map eye created by me) However I tend to subscribe to the Pixar's belief that the eye needs a lot of attention in order to convey life.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215319Z" changeid="flash">
+        <seg>在一些不常见的情况下，这么做是可以的，比如：作为背景的时候，或者人物被某种方式遮挡的时候等等。 (点击&lt;/f0&gt;&lt;b1&gt;&lt;a2&gt;这里&lt;/a2&gt;&lt;/b1&gt;&lt;f3&gt; 可以看到我做的球帖图实现的眼睛)但是我还是倾向于Pixar（皮克斯动画工厂）的说法：想表达得栩栩如生，就得在眼睛上多下功夫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To me, a lifeless eye can ruin an image.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T214342Z" changeid="flash">
+        <seg>对我来说，一个没有生命的眼睛足足可以毁掉整幅作品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From this we can assume that they didn't use a simple sphere with a texture map.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215219Z" changeid="flash">
+        <seg>有此我们可以看出来，他们没有使用简单的球贴图方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eyes show inner thought because they have depth to them.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215232Z" changeid="flash">
+        <seg>眼睛可以表明内心想法（原文：Eyes show inner thought because they have depth to them.）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eyes</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215119Z" changeid="flash">
+        <seg>眼睛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can tell when a human is feeling sad by looking at their &quot;pose&quot; and the way they move slowly and kind of careless.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212334Z" changeid="flash">
+        <seg>通过看一个人的“姿态”我们可以发现他现在很悲伤，这种姿态可以是移动缓慢，还有点漫不经心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At some level we read the eye ball without even knowing how or why certain looks evoke an emotion.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212157Z" changeid="flash">
+        <seg>在某种程度上，我们甚至不用知道眼球和感情的关系就能读懂它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The eyes of this sad subject may be more wet because of tears and their movement may be slowed, maybe even timid.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212643Z" changeid="flash">
+        <seg>悲伤的眼睛看起来应该是湿乎乎的布满泪水，移动缓慢甚至还有点胆怯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One thing to remember is that if it looks good... its good enough.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215639Z" changeid="flash">
+        <seg>有一点要记住的是，如果它看起来很不错...就足够了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also the eyes will kind of stare at something symbolizing a more focused inner thought.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212758Z" changeid="flash">
+        <seg>眼球也可以盯着某一物体来表明它正在关注一样东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact this suggests they've modeled the eye more physically correct.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215423Z" changeid="flash">
+        <seg>事实上，这表明他们做的眼睛物理准确度很高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Adam Baroody</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T211836Z" changeid="flash">
+        <seg>由Adam Baroody创作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that case we must pay great attention to detail when it comes to relating the thought, or emotion that we're trying to convey to our audience.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T213133Z" changeid="flash">
+        <seg>在这种情况下，我们必须高度重视每个细节，尤其是它和我们试图传达给观众的想法和情感相关的时候。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When I set out to figure out how to make a better eye for my characters i thought about dolls and the way their eyes were shaped and how they looked.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T220047Z" changeid="flash">
+        <seg>当我着手为我的人物创建一个更棒的眼睛时，我想起了那些洋娃娃的眼睛形状和观感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most simplest form is a texture map on a sphere.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T213719Z" changeid="flash">
+        <seg>最简单的方法是一给球物体贴图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a character is one thing but creating a character in 3d that has depth is another.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T211928Z" changeid="flash">
+        <seg>创建一个角色是一回事，但在3D里面创建一个角色则完全是另一回事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well like i sad, a sphere with texture map works for some scenes especially if its a more cartoony or stylized character, and its even better if there's a bump map as well.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T214948Z" changeid="flash">
+        <seg>那么，比如我想表达伤心，球贴图的方式表现得还可以，尤其是在一些卡通/典型的人物上的话。当然，如果有个凹凸贴图效果更好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But we can further more tell that they are sad by the way their eyes look and move.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212443Z" changeid="flash">
+        <seg>但是眼睛的关注点和移动则可以把这一点表现得更清楚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In life, the eye is a window to the soul.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T211940Z" changeid="flash">
+        <seg>在生活中，眼睛是灵魂的窗户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However looking at Pixar's &quot;A Bugs Life, we see a lot of depth in the eyeball.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215103Z" changeid="flash">
+        <seg>但是请看看Pixar的电影&quot;A Bugs Life(虫虫危机)&quot;, 我们就会在里面看到很多的对眼球的细节刻画。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Believe it or not this is all common sense, your mind knows all of these things.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T212908Z" changeid="flash">
+        <seg>不管你信不信，这都是常识，你的脑子知道如何处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's what we do.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215610Z" changeid="flash">
+        <seg>这就是我们要做的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before we look at the eye.</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T215957Z" changeid="flash">
+        <seg>不过在我们关注眼睛之前，我要插几句。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
