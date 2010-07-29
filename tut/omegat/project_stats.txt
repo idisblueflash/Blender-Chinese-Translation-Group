@@ -1,0 +1,14 @@
+7/30/10 6:02 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Total:           	     188	 2007	                       9972	                        11535	
+Remaining:       	     154	 1501	                       7899	                         8990	
+Unique:          	     183	 1985	                       9779	                        11342	
+Unique Remaining:	     149	 1479	                       7706	                         8797	
+
+
+Individual File Statistics:
+
+File Name                          	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
+2010/07/30-Its all in the Eyes.html	       2007	           1501	                             9972	                                 7899	                              11535	                                   8990	
