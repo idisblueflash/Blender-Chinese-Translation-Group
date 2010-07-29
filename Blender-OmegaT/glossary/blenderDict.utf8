@@ -1,0 +1,6660 @@
+Image to use as background for rendering	渲染时作为背景使用的图片
+Backbuf	后台缓存
+Enable/Disable use of Backbuf image	开启/关闭使用后台缓存图片
+Image to use with FTYPE Image type	Image to use with FTYPE Image type
+Ftype	Ftype
+Scene to link as a Set	作为布景链接到场景
+Remove Set link	移除布景链接
+Set	布景
+Edge Settings	边的设置
+Display edge settings	显示边的设置
+Edge	边
+Render window placement on screen	渲染窗口在屏幕上的位置
+DispView	视图显示
+DispWin	窗口显示
+Extensions	扩展名
+Adds extensions to the output when rendering animations	逐帧输出渲染动画时，给输出的文件加上扩展名
+Start the rendering	开始渲染
+OSA	抗锯齿
+Sets oversample level to 5	设置采样级别为5
+Sets oversample level to 11	设置采样级别为11
+Sets oversample level to 16	设置采样级别为16
+MBLUR	运动模糊
+Enables Motion Blur calculation	开启计算运动模糊
+Sets motion blur factor	设置运动模糊值大小
+Xparts:	x格数
+"Sets the number of horizontal parts to render image in (For panorama sets 
+"number of camera slices)	设置渲染图像时水平分配的格数(作为全景渲染时为相机切片数目)
+Yparts:	Y格数
+Sets the number of vertical parts to render image in	设置渲染图像时垂直分配的格数
+Sky	天空
+Fill background with sky	以天空填充背景
+Premul	预乘
+Render Preview...	预览渲染...
+Multiply alpha in advance	在先前的上面叠加alpha
+KEY	关键帧
+Alpha and colour values remain unchanged	Alpha和颜色值保留不变
+Shadows	影子
+Enable shadow calculation	允许计算影子
+Set render size to defined size	使用定义的尺寸渲染图像
+Enable panorama rendering (output width is multiplied by Xparts)	允许渲染成全景图（输出图象的宽度放大Xparts倍）
+Set render size to 3/4 of defined size	使用定义尺寸的3/4渲染图像
+Set render size to 1/2 of defined size	使用定义尺寸的1/2渲染图像
+Set render size to 1/4 of defined size	使用定义尺寸的1/4渲染图像
+Enables field rendering	开启场渲染
+Odd	奇数
+Enables Odd field first rendering (Default: Even field)	先渲染奇数场（默认：偶数场）
+Disables time difference in field calculations	在场计算中忽略时间差异
+Border	边框
+Render a small cut-out of the image	渲染图片的局部
+Gamma	Gamma
+Enable gamma correction	允许Gamma校正
+ANIM	动画
+Anim	动画
+Start rendering a sequence	开始渲染动画序列
+Do Sequence	序列渲染
+Enables sequence output rendering (Default: 3D rendering)	开启序列输出渲染(默认：3D渲染)
+Render Daemon	网络渲染
+Let external network render current scene	使用外部网络渲染当前场景
+PLAY	播放
+Play animation of rendered images/avi (searches Pics: field)	播放渲染的图像/avi(searches Pics: field)
+rt:	rt：
+General testing/debug button	通用的测试/调试按钮
+Sta:	首：
+The start frame of the animation	动画的开始帧
+End:	尾：
+The end  frame of the animation	动画的结束帧
+Game framing settings	游戏取景设置
+Display game framing settings	显示游戏帧的设置
+SizeX:	宽:
+The image width in pixels	以象素为单位的图像宽
+AspX:	X比例:
+The horizontal aspect ratio	图像的水平比率
+SizeY:	高:
+The image height in scanlines	以扫描线为单位的图像高
+AspY:	Y比例：
+The vertical aspect ratio	图像的垂直比率
+Images are saved in this file format	用此格式保存渲染的图像
+Quality	质量
+Quality setting for JPEG images, AVI Jpeg and SGI movies	JPEG图像、Jpeg压缩的AVI以及SGI的电影的质量
+Frs/sec: 	帧/秒：
+Crop	裁剪
+Exclude border rendering from total image	切除局部渲染以外的部分
+BW	黑白
+Images are saved with BW (grayscale) data	图像将以黑白(灰度)图被保存
+Images are saved with RGB (color) data	图像将以RGB彩色图被保存
+Images are saved with RGB and Alpha data (if supported)	保存为带Alpha信息的RGB彩色图像(如果支持)
+PAL	PAL
+Size preset: Image size - 720x576, Aspect ratio - 54x51, 25 fps	图像尺寸-720x576,高宽比-54x51,25帧/秒
+NTSC	NTSC
+Size preset: Image size - 720x480, Aspect ratio - 10x11, 30 fps	图像尺寸-720x480,高宽比-10x11,30帧/秒
+Default	缺省的
+Same as PAL, with render settings (OSA, Shadows, Fields)	与PAL相同，但是打开了OSA、影子、Fields
+Preview	预览
+Size preset: Image size - 640x512, Render size 50%	图像尺寸-640x512，缩小50%渲染
+PC	PC
+Size preset: Image size - 640x480, Aspect ratio - 100x100	图像尺寸-640x480，高宽比-100x100
+PAL 16:9	PAL 16:9
+Size preset: Image size - 720x576, Aspect ratio - 64x45	图像尺寸-720x576，高宽比-64x45
+Pano	全景
+Standard panorama settings	标准全景图设置
+FULL	全尺寸
+Size preset: Image size - 1280x1024, Aspect ratio - 1x1	图像尺寸-1280x1024，高宽比-1x1
+Unified Renderer	统一渲染
+Use the unified renderer.	使用统一渲染
+ADD	添加
+Add	添加
+FILE	文件
+File	文件
+EDIT	编辑
+Edit	编辑
+OBJECT	物体
+Object	物体
+object	物体
+MESH	网格
+MESH	网格
+Mesh	网格
+mesh	网格
+CURVE	 曲线
+CURVE	曲线
+Curve	曲线
+curve	曲线
+VIEW	视图
+View	视图
+RENDER	渲染
+Render	渲染
+Sequence	序列
+Quit Blender	退出Blender
+Not allowed	不允许
+ERASE ALL	删除所有
+OK?	OK?
+Save File	保存文件
+Cancel	取消
+Surface	表面
+Text	文字
+text	文字
+Empty	空物体
+Camera	相机
+camera	相机
+Lamp	灯
+lamp	灯
+Armature	骨架
+Lattice	晶格
+>Plane	>平面
+>Cube	>立方体
+>UVsphere	>UV球
+>Icosphere	>Ico球
+>Cylinder	>圆柱体
+>Tube	>管子
+>Cone	>圆锥
+>Grid	>格子
+>Monkey	>齐天大圣
+Monkey	齐天大圣
+>Bezier Curve	>Bezier曲线
+>Bezier Circle	>Bezier圆
+>Nurbs Curve	>Nurbs曲线
+>Nurbs Circle	>Nurbs圆
+>Path	>路径
+NURBS Surface	NURBS表面
+NURBS Tube	NURBS管子
+NURBS Sphere	NURBS球
+NURBS Donut	NURBS圆环
+Hides pulldown menus	隐藏下拉菜单
+Enables display of pulldown menus	显示下拉菜单
+New	新建
+Open	打开
+Reopen Last	打开上次使用的文件
+Append	添加
+Append/Link	添加/连接
+Save As	另存为
+Save	保存
+Save Runtime	保存为可执行文件（无需动态连接库）
+Save Dynamic Runtime	保存为可执行文件（需要动态连接库）
+Save Image	保存图象
+Save Image...	保存图象...
+Save VRML	保存为VRML1.0格式
+Save DXF	保存为DXF格式
+Save VideoScape	保存为VideoScape格式
+Save UserPrefs	保存用户设置
+Quit	退出
+Move to the parent directory (PKEY)	到上级目录（P键）
+Toggles Blender to fullscreen mode	切换是否全屏显示Blender
+Sorts files alphabetically	按字母顺序排序
+Sorts files by time	按时间顺序排序
+Sorts files by size	按文件大小排序
+Toggles long info	显示更多文件信息
+Hides dot files	隐藏只有扩展名的文件/目录
+Load Library	载入素材库
+Copies selected data into current project	把选择的数据添加到当前的项目里面
+Link	连接
+Creates a link to selected data from current project	只在当前项目里面添加指向所选择数据的连接(可以减小项目文件大小)
+Two Sided	双面
+Compress File	压缩文件
+Enables file compression	允许压缩文件
+Size options:	画面尺寸选项
+Displays current X screen/window resolution. Click to change.	当前X方向的分辨率，点击可以修改
+Displays current Y screen/window resolution. Click to change.	当前Y方向的分辨率，点击可以修改
+Fullscreen options:	全屏显示选项
+Fullscreen	全屏
+Starts player in a new fullscreen display	以全屏方式打开新的播放器
+Freq:	刷新频率：
+Displays clock frequency of fullscreen display. Click to change.	全屏显示时的显示器刷新频率，点击可以修改
+Bits: 	色深
+Displays bit depth of full screen display. Click to change.	全屏显示时的色深，点击可以修改
+Stereo options	立体声选项
+no stereo	无立体声
+Disables stereo	禁用立体声
+h/w pageflip	硬件pageflip
+Enables hardware pageflip stereo method	使用硬件的pageflip立体声模式
+syncdoubling	syncdoubling模式
+Enables syncdoubling stereo method	使用syncdoubling立体声模式
+Save PNG	存成PNG格式
+Save Targa	存成Targa格式
+Save Raw Targa	存成Targa原始格式
+Save IRIS	存成IRIS格式
+Save HAMX	存成HAMX格式
+Save Ftype	存成Ftype格式
+Save JPEG	存成JPEG格式
+No image rendered	你还没有渲染
+Select an image type in DisplayButtons(F10)	在渲染按键（F10）中选择一种图像类型
+ERROR: Can't save VRML. Press TAB to leave EditMode	错误：不能保存成VRML，请先按TAB键离开编辑模式
+ERROR: Can't save DXF. Press TAB to leave EditMode	错误：不能保存成DXF，请先按TAB键离开编辑模式
+ERROR: Can't save Videoscape. Press TAB to leave EditMode	错误：不能保存成Videoscape，请先按TAB键离开编辑模式
+(De)Select All	选/不选全部
+Hide Selected	隐藏选择的物体
+Border Select	框选
+Duplicate	复制
+Delete	删除
+Edit Mode	编辑模式
+Edit Mode 	编辑模式 
+Grabber	抓取
+Rotate	旋转
+Scale	缩放
+Shrink/Fatten	收缩/膨胀
+Shear	斜错
+Warp/Bend	扭曲/弯曲
+Snap Menu	捕捉菜单
+Clear Size	清除缩放
+Clear Rotation	清除旋转
+Clear Location	清除定位
+Clear Scale	清除缩放
+Clear Origin	清除设定原点
+Make Parent	创建父子关系
+Clear Parent	清除父子关系
+Make Track	创建跟踪
+Clear Track	清除跟踪
+Image Displist	图像显示列表
+Image aspect	图像长宽比
+Vect Paint	矢量绘制
+Move To Layer	移到层：
+Delete All	删除所有
+Apply Size/Rot	应用缩放/旋转
+Apply Deform	应用变形
+Join	結合
+Make Local	局部化
+Select Linked	选择连接的
+Make Links	创建连接
+Copy Menu	拷贝操作菜单
+Convert Menu	转换操作菜单
+Boolean Op	布尔运算
+Deselect Linked	不选择连接的
+Extrude	挤压
+Delete Menu	删除菜单
+Make edge/face	创建边/面
+Fill	填充
+Split	分离
+Undo/reload	重新载入
+Calc Normals	计算法线
+Write Videosc	Write Videosc
+Make Segment	分段
+Cyclic	循环
+Select Row	选择列
+Calc Handle	计算手柄
+Auto Handle	自动手柄
+Vect Handle	矢量手柄
+Specials	特殊的
+Insert	插入
+Show	显示
+Next	下一个
+Prev	上一个
+Show+Sel	显示并且选择
+Render Window	渲染窗口
+Set Border	设置边界
+Image Zoom	图象缩放
+Center	所选物体居中
+Home	Home
+Z-Buffer	Z-Buffer
+Add Strip	添加片段
+Change Str	更改片段
+Delete Str	删除片段
+Make Meta	创建融合
+Str Params	片段参数
+Timeline	时间线
+Game	游戏
+Help	帮助
+SCR:	自定义屏幕：
+SCE:	场景：
+MetaBall	融合体球
+Metaball	融合体球
+Plane	平面
+Cube	立方体
+Circle	圆
+UVsphere	UV球
+IcoSphere	Ico球
+Cylinder	圆柱体
+Tube	管子
+Cone	圆锥
+Grid	网格物体
+Bezier Curve	Bezier曲线
+Bezier Circle	Bezier圆
+NURBS Curve	NURBS曲线
+NURBS Circle	NURBS圆
+PATH	路径
+Path	路径
+path	路径
+Front	前
+RIGHT	右
+right	右
+Top	顶
+Zoom In	放大
+Zoom Out	缩小
+View All	显示全部
+Start Game	开始游戏
+Enable All Frames	显示所有的帧
+Show Framerate and Profile	显示帧频数和性能参数
+Show Debug Properties	显示调试属性
+Autostart	自动开始
+Pack Data	打包数据
+Unpack Data to current dir	把数据解压到当前目录
+Removes all packed files from the project and saves them to the current directory	把当前项目包含的所有文件解压到当前目录、并从项目中删除
+No packed files. Autopack disabled	没有打包的文件。“自动打包”被禁止
+Toggles display of directory information	切换是否显示目录信息
+Toggles display of selected image information	切换是否显示选择图像的信息
+Toggles magnified view of thumbnail of images under mouse pointer	切换是否放大显示鼠标下面的缩略图
+Displays Current Window Type. Click for menu of available types.	显示/切换当前视窗的类型
+Zooms window to home view showing all items (HOMEKEY)	显示全部（Home键）
+Makes current window full screen (CTRL+Down arrow)	全屏显示当前窗口（CTRL＋下箭头）
+Returns to multiple views window (CTRL+Up arrow)	返回多视图显示方式（CTRL＋上箭头）
+World buttons	环境
+Radiosity buttons	光能传递
+Browses existing choices or adds NEW	显示当前选择或者添加新的选择
+Displays current Datablock name. Click to change.	显示当前数据块的名字，点击可以修改。
+Deletes link to this Datablock	删除与当前数据块的连接
+Saves this datablock even if it has no users	即使没有使用，也保存这个数据块
+Displays Current Frame of animation. Click to change.	显示当前的动画帧，点击可以修改。
+Zooms view (Ctrl MiddleMouse)	缩放视图（CTRL＋鼠标中键）
+Zooms view to area	缩放框选的区域
+View & Controls	视图和控制
+Display:	显示
+Tooltips	工具提示
+Object Info	物体信息
+Global Scene	全局场景
+Forces the current Scene to be displayed in all Screens	在所有的场景中显示当前的场景
+Snap to grid:	捕捉到网格
+Size	大小
+Trackball	轨迹球模式
+Turntable	转盘模式
+Middle Mouse Button:	鼠标中键
+Rotate View	旋转视图
+Default action for the Middle Mouse Button	鼠标中键的默认动作
+Pan View	平移视图
+Scroll Lines:	滚动行数:
+The number of lines scrolled at a time with the mouse wheel	鼠标滚轮滚动一次移动的行数
+Edit Methods	编辑方式
+Material linked to:	材质连接到：
+ObData	物体数据
+Link new objects' material to the obData block	把新物体的材质连接到物体数据（obData）块
+Link new objects' material to the object block	把新物体的材质连接到物体（object）块
+Auto keyframe	自动关键帧
+Action	动作
+Automatic keyframe insertion in Action Ipo curve	在动作Ipo曲线上插入自动关键帧
+Automatic keyframe insertion in Object Ipo curve	在物体Ipo曲线上插入自动关键帧
+Duplicate with object:	随物体一起复制：
+Causes mesh data to be duplicated with Shift+D	Shift+D复制Mesh网格的数据
+Causes armature data to be duplicated with Shift+D	Shift+D复制骨骼地数据
+Causes surface data to be duplicated with Shift+D	Shift+D复制表面的数据
+Causes lamp data to be duplicated with Shift+D	Shift+D复制灯的数据
+Causes curve data to be duplicated with Shift+D	Shift+D复制曲线的数据
+Material	材质
+Material 	材质 
+Causes material data to be duplicated with Shift+D	Shift+D复制材质的数据
+Causes text data to be duplicated with Shift+D	Shift+D复制文字的数据
+Texture	纹理
+Texture 	纹理
+Causes texture data to be duplicated with Shift+D	Shift+D复制纹理的数据
+Causes metaball data to be duplicated with Shift+D	Shift+D复制变形球的数据
+Ipo	Ipo
+Causes ipo data to be duplicated with Shift+D	Shift+D复制ipo的数据
+Language & Font	语言和字体
+Interface Font: 	界面字体
+International Fonts	国际化
+Activate international interface	使用国际化的界面
+SELECT FONT	选择字体
+Select Font	选择字体
+Select a new font for the interface	为界面选择一个新字体
+Font Size:   8 	字体大小:  8 
+Font Size:   9 	字体大小:  9 
+Font Size:  10 	字体大小: 10 
+Font Size:  11 	字体大小: 11 
+Font Size:  12 	字体大小: 12
+Font Size:  13 	字体大小: 13
+Font Size:  14 	字体大小: 14
+Font Size:  15 	字体大小: 15
+Font Size:  16 	字体大小: 16
+Current interface font size (points)	当前界面的字体大小（单位：点阵）
+Select interface language	选择界面语言
+Translate tooltips	翻译工具提示
+Buttons	按钮
+Translate button labels	翻译按钮标签
+Toolbox	工具箱
+Translate toolbox menu	翻译工具箱菜单
+Auto Save	自动保存
+Auto Save Temp Files	自动保存临时文件
+Enables automatic saving of temporary files	允许自动保存临时文件
+Open Recent	打开最近的文件
+Minutes:	分钟：
+The time (in minutes) to wait between automatic temporary saves	每多少分钟保存一个临时文件
+Save Versions:	保存数目
+The number of old versions to maintain when saving	指定临时文件的数目
+File Paths	文件路径
+Fonts: 	字体：
+The default directory to search for loading fonts	搜索字体的缺省路径
+Select the default font directory	请选择字体的缺省路径
+Textures: 	纹理：
+The default directory to search for textures	搜索纹理的缺省路径
+Select the default texture location	请选择纹理的缺省路径
+Tex Plugins: 	纹理插件：
+The default directory to search for texture plugins	搜索纹理插件的缺省路径
+Select the default texture plugin location	请选择纹理插件的缺省路径
+Seq Plugins: 	序列插件
+The default directory to search for sequence plugins	搜索序列插件的缺省路径
+Select the default sequence plugin location	请选择选择序列插件的缺省路径
+Render: 	渲染：
+The default directory for rendering output	渲染输出的缺省路径
+Select the default render output location	请选择渲染输出的缺省路径
+Python: 	Python: 
+The default directory to search for Python scripts	搜索Python脚本的缺省路径
+Select the default Python script location	请选择Python脚本的缺省路径
+Sounds: 	声音：
+The default directory to search for sounds	搜索声音文件的缺省路径
+Select the default sound location	请选择声音文件的缺省路径
+Temp: 	Temp: 
+The directory for storing temporary save files	保存自动保存文件的缺省路径
+Select the default temporary save file location	请选择保存自动保存文件的缺省路径
+System & OpenGL	系统和OpenGL
+Win Codecs:	Windows的视频编码：
+Enable all codecs	允许使用所有编码
+Allows all codecs for rendering (not guaranteed)	渲染时可以选择所有的编码（不保证可用）
+Keyboard:	键盘：
+Emulate Numpad	模拟小键盘
+Causes the 1 to 0 keys to act as the numpad (useful for laptops)	让数字键1～0起小键盘对应键的作用（对本本有用）
+Disable Caps Lock	关闭大写
+Disables the Caps Lock key when entering text	输入文字时关闭大写
+System:	系统：
+Filter File Extensions	过滤文件扩展名
+Display only files with extensions in the image select window	在图像选择窗口里面只显示有扩展名的文件
+OpenGL:	OpenGL:
+Mipmaps	
+Toggles between mipmap textures on (beautiful) and off (fast)	在打开mipmap纹理（画面靓）和关闭mipmap纹理（速度快）之间切换
+Vertex Arrays	顶点数组
+Toggles between vertex arrays on (less reliable) and off (more reliable)	在开启顶点数组（不大可靠）和关闭顶点数组（教可靠）之间切换
+Log Events to Console	控制台事件日志
+Display a list of input events in the console	显示控制台输入事件的列表
+Select console output method	选择控制台输出方式
+Lines:	行:
+Maximum number of internal console lines	控制台最大行数
+Displays line numbers	显示程序行数
+Browses Datablock	浏览数据块
+Displays available fonts	可供选择的字体大小
+SAVE TEXT FILE	保存文本文件
+Unable to save file	无法保存文件
+Jump to line:	跳到行：
+SELECT WAV FILE	选择WAV文件
+Toggles image display	切换显示图像
+Zooms view to fit area	缩放至框选的区域
+Clear	清除
+Toggles constraining UV polygons to squares while editing	编辑时保证UV多边形是正方形的
+Toggles clipping UV with image size	根据图像大小裁减UV
+Toggles packed status of this Image	把图像打包近当前项目
+Load	加载
+Replace	替换
+Uses this image as a reflection map (Ignores UV Coordinates)	把这幅图用作反射贴图（忽略UV坐标）
+Sets the degree of repetition in the X direction	X方向重复的频度
+Sets the degree of repetition in the Y direction	Y方向重复的频度
+Toggles use of animated texture	是否使用动画纹理
+Displays the start frame of an animated texture. Click to change.	动画纹理的起始帧，点击可以修改
+Displays the end frame of an animated texture. Click to change.	动画纹理的结束帧，点击可以修改
+Speed	速度
+Displays Speed of the animation in frames per second. Click to change.	动画的速度（帧/秒），点击可以修改
+SELECT IMAGE	选择图像
+Cycle	周期
+Saves image	保存图像
+Toggles forced redraw of other windows to reflect changes in real time	允许重画其他的窗口，以便实时反映变化
+Sliders	滑杆
+Bake	烘培
+BAKE	烘培
+Keeps this view displaying the current data regardless of what object is selected	无论选择什么物体，都显示当前的数据
+Displays number of users of this data. Click to make a single-user copy.	使用这个数据的用户数目。单击可以使它只有一个用户
+Can't change because of pinned data	数据锁定，无法修改
+Can't edit library data	无法编辑库的数据
+Copies the selected curves to the buffer	拷贝选择的曲线到缓存
+Pastes the curves from the buffer	复制缓存里面的曲线
+Toggles Layer visibility	显示/隐藏层
+Locks layers and used Camera to Scene	锁定场景之间的层和使用的相机
+Copies the current pose to the buffer	把当前的pose拷贝到缓存
+Pastes the pose from the buffer	粘贴缓存里的pose
+Pastes the mirrored pose from the buffer	粘贴缓存里pose的镜像
+SURF	表面
+"Automatically switch between orthographic and perspective when changing from 
+"top/front/side views	当切换到顶视图/前视图/侧视图时自动使用使用正交视图，当旋转视图时，自动启用用到透视图
+>Circle	>圆
+>Curve	>曲线
+>Donut	>圆环
+>Sphere	>球体
+>Surface	>表面
+ADD property	添加属性
+About Blender...	关于Blender...
+Act	激活
+Active Object name	当前激活物体的名字
+Actuator name	执行器名称
+Actuator settings	执行器设置
+Actuator type	执行器类型
+Actuators	执行器
+Add a Background Scene	添加背景场景
+Add a new Actuator	添加一个执行器
+Add a new Controller	添加一个控制器
+Add a new Script link	链接一个脚本
+Add a new Sensor	添加一个传感器
+Add this Object	添加这个物体
+Add:	相加:
+Align	对齐
+Align View	对齐视图
+All keys	所有关键帧
+Anim settings	动画设置
+Anim/playback buttons	动画/回放
+Armature Data|Ctrl L, 3	骨骼数据|Ctrl L, 3
+Assign	指定
+BLOCKS	块区
+Background Image...	背景图片...
+Ball	球体
+BaseColor	基本色
+Benchmark	基准
+Bright	亮度
+CLASSES	类
+Camera Data|Ctrl L, 3	摄影机数据|Ctrl L, 3
+Camera|NumPad 0	摄影机|NumPad 0
+Can't make segment	分段失败
+Can't pack painted image. Save image first.	请先保存图片，以确保程序能打包你所绘制的图片
+Can't read file	读取文件失败
+Can't spin	不能旋转
+Can't write file	写入文件失败
+Center New	自动指定重心
+Choose rendering engine	选择渲染器
+Clear/Apply	清除/施加
+Codec: not set	编码:未指定
+Codec: not set.	编码:未指定.
+Controller name	控制器名称
+Controller settings	控制器设置
+Controller type	控制器类型
+Controllers	控制器
+Copy Attributes	复制属性
+Curve Data|Ctrl L, 3	曲线 数据|Ctrl L, 3
+Del	删除
+Delete Actuator	删除执行器
+Delete Controller	删除控制器
+Delete Sensor	删除传感器
+Delete...|X	删除...|X
+Drawtype	绘制类型
+Edges	边
+Editing	编辑
+Editing (F9) 	编辑 (F9)
+Enable Gaussian sampling filter for antialiasing	在渲染中激活高斯消剧齿采样
+Enable environment map rendering	开启环境贴图渲染
+Enable radiosity rendering	开启光能传递渲染
+Enable ray tracing	开启光线追踪
+Enables Oversampling (Anti-aliasing)	开启超采样(抗锯齿)
+End frame	结束帧
+Erase selected	删除选择
+Erase selected channels	删除选择的通道
+Erase selected keys	删除选择关键帧
+Export	导出
+FIRST_IMAGE	第一张图
+FaceSet	面设置
+Faces	面
+File has no scene	无场景存在
+File has no screen	无自定界面
+File incomplete	文件不完整
+File is locked	文件被锁定
+File is not a Blender file	这不是Blender文件
+File: 	文件:
+FileData	文件数据
+Font	字体
+Format	格式
+Found no data	没有数据
+Frames per second	帧每秒
+Free	释放
+Front|NumPad 1	前视图|NumPad 1
+Gauss	高斯
+Group	成组
+Grouped	组
+Horizontal	水平
+Import	导入
+In EditMode, sets the active material index from selected faces	在编辑模式中,将当前选中的面设置成激活的材质编号
+Key code	键盘代码
+KeyBlock	关键块
+Knife Subdivide...|Shift K	刀细分...|Shift K
+LEFT	剩余
+LIST	列表
+Lamp Data|Ctrl L, 3	灯光数据|Ctrl L, 3
+Lamp buttons	灯按钮
+Lattice Data|Ctrl L, 3	晶格数据|Ctrl L, 3
+Left	剩余
+Link and Materials	链接和材质
+Linked	连接的
+Load this file	加载这个文件
+Logic (F4) 	逻辑(F4)
+Look at this Object	看这个物体
+MBall	融合球
+META	融合体
+MOVIE	视频
+Make Edge/Face|F	建边/面
+Make Single User	单一使用
+Material buttons	材质按钮
+Materials|Ctrl L, 4	材质|Ctrl L, 4
+Mball	融合球
+MenuData	菜单数据
+Mesh Data|Ctrl L, 3	网格数据|Ctrl L, 3
+Meshes	网格
+Meta	融合体
+Meta Ball	变形球
+Meta Cube	融合立方体
+Meta Ellipsoid	融合椭圆体
+Meta Plane	融合体平面
+Meta Tube	融合体管子
+Middle	居中
+Mirror	镜像
+NAME	名称
+Name	名称
+Name of the Set	设置名称
+New:	新建:
+Next Frame|RightArrow	下一帧|右箭头
+No active object	无激活物体
+No error	未出错
+Not an anim	不是动画
+OBJECTS	物体
+Object (F7) 	物体 (F7) 
+Object name, click to show/hide actuators	物体名称, 点击显示/隐藏执行器
+Object name, click to show/hide sensors	物体名称, 点击显示/隐藏传感器
+Only Curve Objects	仅曲线物体
+Open Fileselect to get Backbuf image	打开文件选择对话框，获取背景图象
+Open Fileselect to get Ftype image	打开文件选择对话框，获取Ftype指定的图象
+Open Fileselect to get Pics dir/name	打开文件选择对话框，获取图象文件名字/路径
+Open Text File	打开文本文件
+Open...	打开...
+Output	输出
+PackedFile	打包文件
+Panels	面板
+Parent	父子
+Play Back Animation	回放动画
+Play Back Rendered Animation	回放动画的渲染
+Post process	后期处理
+Properties	选项
+QuicktimeExport	导出为Quicktime
+Radio	光传
+Radiosity	光能传递
+Read error	读取错误
+Redo Editing|Shift U	重做|Shift U
+Render Animation	渲染动画
+Render buttons 	渲染按钮
+SCENE	场景
+SELECT FTYPE	选择文件类型
+Sample	采样
+Save As...	另存为...
+Save Dynamic Runtime...	保存为需要动态连接库的可执行文件...
+Save Runtime...	保存为不需要动态连接库的可执行文件...
+Scene	场景
+Scene (F10) 	场景 (F10) 
+Screen	自定义界面
+Script	脚本
+Script 	脚本
+Scripts	脚本
+Sel	选择
+Select	选择
+Select All by Layer	选择同一层物体
+Select All by Type	选择同类型物体
+Select the default yafray export directory	选择yafray输出的缺省目录
+Sensor name	传感器的名称
+Sensor settings	传感器设置
+Sensor type	传感器的类型
+Sensors	传感器
+Separate	独立
+Separate|P	独立|P
+Set Render Border|Shift B	设置渲染边界
+Set Smooth	设置平滑
+Set Solid	取消平滑
+Set codec	设置编码
+Set codec settings for AVI	AVI编码选项
+Set codec settings for Quicktime	Quicktime编码选项
+Set this Camera	设置此摄像机
+Set this Scene	设置此场景
+Sets oversample level to 8 (Recommended)	设置过采样级别为8 (推荐)
+Sets render output to display in 3D view	直接渲染到3D视图
+Sets render output to display in a seperate window	渲染到单独的窗口
+Sets the Gaussian filter size	设置高斯滤镜大小
+Shaders	Shaders
+Shading (F5) 	阴影 (F5) 
+Shadow	影子
+Show active Object	显示激活的物体
+Show all selected Objects	显示所有被选物体
+Show linked Objects to Controller	显示连接到Controller的物体
+Show linked Objects to Sensor/Actuator	显示连接到传感器/执行器的物体
+Side|NumPad 3	侧|NumPad 3
+Size:	尺寸:
+Smooth|W, 0	平滑|W, 0
+Snap	捕捉
+Sound	声音
+Sound block buttons	声音块的按钮
+Sphere	圆球
+Split Area|Join Areas|Add Header	分割区域|合并区域|显示标题栏
+Split Area	分割区域
+Join Areas	合并区域
+Add Header	显示标题栏
+Split Area|Join Areas|No Header	分割区域|合并区域|关闭标题栏
+No Header	关闭标题栏
+Start frame	开始帧
+Starts the radiosity simulation	开始光能传递模拟
+Subdivide Fractal|W, 2	不规则细分|W, 2
+Subdivide Smooth|W, 3	光滑细分|W, 3
+Subdivide|W, 1	细分|W, 1
+Surf	表面
+SurfDonut	面包圈表面
+SurfSphere	球面
+SurfTube	柱面
+Surface Data|Ctrl L, 3	表面数据|Ctrl L, 3
+System	系统
+TABLES	表
+Target Object	目标物体
+Text Data|Ctrl L, 3	文本数据|Ctrl L, 3
+Texture buttons(F6)	纹理按钮(F6)
+The default directory for yafray xml export (must exist!)	yafray输出xml的缺省目录(必须存在！)
+Themes	主题
+To Sphere	球化
+Top|NumPad 7	顶视图|NumPad 7
+Track	跟踪
+Transform	变换
+Transform Properties	变换的属性
+Unable to copy file!	不能拷贝文件！
+Unable to open	不能打开
+Unable to read	不能读取
+Undo All Changes|Ctrl U	撤销所有的改变|Ctrl U
+Undo Editing|U	撤销编辑|U
+Undo History	撤销记录
+Unknown	未知的
+Unpack Data...	解压数据...
+User	用户
+Vertical	垂直
+Vertices	顶点
+View Navigation	视图导航
+View Properties...	视图属性...
+View Selected|NumPad .	只显示选择的物体|NumPad .
+Wave	波浪
+Websites	网站
+add_curvemenu	添加曲线的菜单
+addscrarea	添加屏幕区域
+button	按钮
+can't convert	不能转换
+delNurb1	删除Nurb1
+delNurb2	删除Nurb2
+delNurb3	删除Nurb3
+delNurb4	删除Nurb4
+delNurb5	删除Nurb5
+delNurb6	删除Nurb6
+delNurb7	删除Nurb7
+delNurb8	删除Nurb8
+edge render	描边渲染
+error	错误
+gamemenu	游戏菜单
+groupkey	组关键帧
+groupmenu	组的菜单
+groupobject	组物体
+image	图象
+left	左视图
+library	库
+materials	材质
+mball	变形球
+menu	菜单
+movi	电影
+objectkey	物体关键帧
+open movie	打开电影
+packFile	压缩文件
+pathdata	压缩数据
+scene	场景
+screen	自定义界面
+sound	声音
+tex	纹理
+text_name	文本文件的名字
+textname	文本文件的名字
+too many faces	面太多
+too many vertices	顶点太多
+vertex	顶点
+warning: using software compression	警告：使用软件压缩
+wave	波浪
+Text Editor	文本编辑器
+ZTransp	Z向透明
+Global Undo History 	全局撤销历史
+-1W 	-1W 
+DataBrowse 	数据浏览
+blendfile	
+[Bone Dict: {	
+}]\n	不要去掉末尾的\n
+Outside	外侧
+[Pose Bone Dict: {	
+warning: cannot assign more than 16 materials to 1 mesh	警告:不能给一网格添加超过16种材质
+Use Clipping	使用剪辑
+Min X 	最小X
+Min Y 	最小Y
+Max X 	最大X
+Max Y 	最大Y
+Reset View	重新设置视图
+Vector Handle	矢量手柄
+Reset Curve	重置曲线
+Zoom in	放大
+Zoom out	缩小
+Delete points	删除点
+New material	新建材质
+Delete material index	删除材质索引
+Assign material index	赋予材质索引
+Select material index	选择材质索引
+Auto Smooth	自动平滑
+Treats all set-smoothed faces with angles less than Degr: as 'smooth' during render	判断所有设置为平滑的少于度数的面在渲染时是否渲染为平滑
+Degr:	度数
+Defines maximum angle between face normals that 'Auto Smooth' will operate on	通过判断两个面之间的法线的最大角度来执行'自动平滑'操作
+VertCol	顶点着色
+Make	创建
+Enables vertex color painting on active Mesh	开启在激活的网格上进行顶点着色
+Deletes vertex colors on active Mesh	删除激活网格上的顶点着色
+TexFace	面纹理
+Enables the active Mesh's faces for UV coordinate mapping	开启激活的网格的面的UV坐标贴图
+Deletes UV coordinates for active Mesh's faces	删除激活网格面的UV坐标
+Sticky	粘置
+Creates Sticky coordinates for the active Mesh from the current camera view background picture	为从当前相机看背景图的激活的网格创建粘置坐标
+Deletes Sticky texture coordinates	删除粘置的纹理坐标
+Slurph:	Slurph:
+Relative Keys	关联关键帧
+SlowerDraw	慢速绘制
+Displays the active object with all possible edges shown	尽可能的显示激活物体的所有的边
+FasterDraw	快速绘制
+Displays the active object faster by omitting some edges when drawing	当绘制时省略一些边可以加快显示
+Shifts object data to be centered about object's origin	把物体居中到物体的原点
+Shifts object's origin to center of object data	把物体的原点移到物体的中心
+Center Cursor	指针中心
+Shifts object's origin to cursor location	把物体原点移到指针位置
+Double Sided	双面
+Render/display the mesh as double or single sided	渲染/显示网格为单面或双面
+No V.Normal Flip	无顶点法线翻转
+Disables flipping of vertexnormals during render	渲染是关闭顶点法线翻转
+Add modifier	添加修改器
+Del modifier	删除修改器
+Move modifier	移动修改器
+Modifier is not first	修改器不是第一个
+Applying will delete mesh UVs and vertex colors	此应用将删除网格的UV和顶点着色
+Apply will only change CV points, not tesselated/bevel vertices	应用将只更改CV点，不会tesselated/bevel顶点
+Apply modifier	应用修改器
+Copy modifier	拷贝修改器
+Clear hook	清除钩子
+Hook cursor center	钩住指针中心
+Modifier convert to real	修改转换为实际
+Collapse/Expand Modifier	收拢/展开修改器
+Modifier name	修改器名称
+Make Real	创建实际
+Convert virtual modifier to a real modifier	转换虚的修改器为实际修改器
+Enable modifier during rendering	渲染时开启修改器
+Enable modifier during interactive display	在交互显示时开启修改器
+Enable modifier during Editmode (only if enabled for display)	在编辑模式下开启修改器(仅仅在显示时开启)
+Apply modifier to editing cage during Editmode	在编辑模式下以鸟笼方式应用修改器
+Move modifier up in stack	在堆栈里上移修改器
+Move modifier down in stack	在堆栈里下移修改器
+Delete modifier	删除修改器
+Apply	应用
+Apply the current modifier and remove from the stack	应用当前修改器并从堆栈里删除
+Copy	拷贝
+Duplicate the current modifier at the same position in the stack	在堆栈的相同位置复制当前修改器
+Selects type of subdivision algorithm.	选择细分计算类型
+Levels:	级别:
+Number subdivisions to perform	显示应用的细分次数
+Render Levels:	渲染级别:
+Number subdivisions to perform when rendering	当渲染时应用的细分次数
+Incremental	增加
+Use incremental calculation, even outside of mesh mode	使用增加算法,连贯网格的外线
+Debug	调试
+Visualize the subsurf incremental calculation, for debugging effect of other modifiers	
+Optimal Draw	最佳绘制
+Skip drawing/rendering of interior subdivided edges	跳过内部细分的边的绘制/渲染
+Subsurf UV	细分UV
+Use subsurf to subdivide UVs	使用细分表面细分UV
+VGroup: 	顶点组:
+Vertex Group name	顶点组名称
+Decimate	精简模型
+Modifier Error: There must be more than 3 input faces (triangles).	修改器错误:最少要三个面(三角).
+Build	建造
+Start:	开始:
+Specify the start frame of the effect	指定特效的起始帧
+Length:	长度:
+Specify the total time the build effect requires	指定建造特效的持续时间
+Randomize	随机
+Randomize the faces or edges during build.	随机建造面或边.
+Seed:	种子:
+Specify the seed for random if used.	如果随机开启则指定随机的种子
+Merge Limit:	合并极限:
+Distance from axis within which mirrored vertices are merged	在轴距离范围内的镜像点将被合并
+Specify the axis to mirror about	指定镜像的轴
+Do Clipping	接口保护
+Prevents during Transform vertices to go through Mirror	当移动顶点时防止脱离镜像
+Ratio:	比率
+Defines the percentage of triangles to reduce to	定义转化三角形的百分比
+Displays the current number of faces in the decimated mesh	显示在精简面后当前网格的面数
+Enable X axis motion	开启X轴运动
+Enable Y axis motion	开启Y轴运动
+Cycl	循环
+Enable cyclic wave effect	开启循环波浪特效
+Time sta:	开始时间:
+Specify startingframe of the wave	指定波浪的起始帧
+Lifetime:	寿命
+Specify the lifespan of the wave	指定波浪的生命周期
+Damptime:	阻尼时间:
+Specify the dampingtime of the wave	指定波浪的衰减时间
+Sta x:	起始X:
+Starting position for the X axis	X轴的开始位置
+Sta y:	起始Y:
+Starting position for the Y axis	Y轴的开始位置
+Speed:	速度
+Specify the wave speed	指定波浪的速度
+Specify the amplitude of the wave	指定波浪的振幅
+Width:	宽度:
+Specify the width of the wave	指定波浪的宽度
+Narrow:	尖锐:
+Specify how narrow the wave follows	指定波浪的尖锐程度
+Vert.Groups	顶点组
+Enable VertexGroups defining deform	开启顶点组定义变形
+Envelopes	封套
+Enable Bone Envelopes defining deform	开启骨骼封套定义变形
+Falloff: 	衰减:
+If not zero, the distance from hook where influence ends	故若不是零,从钩子到影响结束地的距离
+Force: 	影响力:
+Set relative force of hook	设置钩子的相对推力
+Reset	重置
+Recalculate and clear offset (transform) of hook	重新计算并清除钩子的偏移(变换)
+Recenter	回到中心
+Sets hook center to cursor position	设置钩子中心到指针位置
+Selects effected vertices on mesh	选择网格上被影响到的顶点
+Reassign	重新指定
+Reassigns selected vertices to hook	重新指定选择的顶点到钩子
+See Softbody panel.	见软体面板.
+Operation	操作
+Intersect	相交
+Union	联合
+Difference	减去
+Boolean operation to perform	选择布尔操作类型
+Array length calculation method	阵列的长度计算方法
+Array	阵列
+Length Fit	长度匹配
+Fixed Count	固定数目
+Fixed Length	固定长度
+Fit To Curve Length	匹配到曲线长度
+Count:	数目:
+Number of duplicates to make	复制数目
+Length to fit array within	匹配内部长度进行阵列
+Constant Offset	常量偏移
+Constant offset between duplicates	复制品之间的常量偏移
+Constant component for duplicate offsets	复制的常量构成偏移
+Relative Offset	相对偏移
+Offset between duplicates relative to object width	相对物体宽度进行偏移复制
+Component for duplicate offsets relative to object width	相对物体宽度进行偏移复制的构成
+Merge	合并
+Merge vertices in adjacent duplicates	临近的复制品的顶点合并
+First Last	第一最后
+Merge vertices in first duplicate with vertices in last duplicate	合并第一个复制品的顶点和最后一个复制品的顶点
+Limit:	极限:
+Limit below which to merge vertices	在极限数以下的顶点将被合并
+Object Offset	物体偏移
+Add an object transformation to the total offset	给全局偏移添加一个物体变形信息
+Modifiers	修改器
+Add Modifier	添加修改器
+Add a new modifier	添加一个新的修改器
+Object whose modifier stack is being edited	修改器堆栈正在被编辑的物体
+Shapes	形变
+Add Shape Key	添加形变关键帧
+Add new Shape Key	添加新的形变关键帧
+Relative	相对
+Makes Shape Keys relative	使形变关键帧相对
+Always show the current Shape for this Object	为此物体总显示当前形变
+Unable to perform in EditMode	在编辑模式下不计算
+Previous Shape Key	前一个形变关键帧
+Next Shape Key	下一个形变关键帧
+Current Shape Key name	当前形变关键帧名称
+Deletes current Shape Key	删除当前形变关键帧
+Min 	最小
+Minumum for slider	滑杆最小值
+Max 	最大
+Maximum for slider	滑杆最大值
+Vertex Weight Group name, to blend with Basis Shape	顶点权重组名称和基本形变混合
+Load vector font	加载矢量字体
+Disable AutoPack ?	取消自动包裹?
+Set vector font	设置矢量字体
+Char	字符
+Load Unicode Text file	加载Unicode文本文件
+Unicode Table	Unicode表格
+Select Unicode Table	选择Unicode表格
+UT	
+Select character	选择字符
+Scroll character table up	字符表格向上滚
+Scroll character table down	字符表格向下滚
+Load a new font	加载一个新字体
+Change font for object	为物体更改字体
+Pack/Unpack this font	打包/解包此字体
+Postscript name of the font	字体的后记名称
+Insert Text	插入文本
+Insert text file at cursor	在指针处插入文本文件
+Lorem	Lorem
+Insert a paragraph of Lorem Ipsum at cursor	在指针处插入一个Lorem Ipsum段落
+Left align the text from the object center	相对物体中心左对齐文本
+Middle align the text from the object center	相对物体中心居中文本
+Right	右
+Right align the text from the object center	相对物体中心右对齐文本
+Justify	整版
+Fill completed lines to maximum textframe width by expanding whitespace	扩大空白区域填充完成行到文本框最大宽度
+Flush	密接
+Fill every line to maximum textframe width, distributing space among all characters	填充每一行到文本框最大宽度,在字符中分布空白
+ToUpper	大写
+Toggle between upper and lower case in editmode	在编辑模式下转换大小写
+Fast Edit	快速编辑
+Don't fill polygons while editing	在编辑时不进行多边形填充
+Ob Family:	物体字库
+Blender uses font from selfmade objects	Blender使用来自自建物体的字体
+Size of the text	文本大小
+Linedist:	行距:
+Distance between text lines	文本行之间的距离
+Word spacing:	单词间距:
+Distance factor between words	单词之间的间距
+Spacing:	间距:
+Spacing of individual characters	字符之间的间距
+X offset:	X偏移:
+Horizontal position from object center	相对物体中心的水平位置
+UL position:	下划线位置
+Vertical position of underline	下划线的垂直位置
+Shear:	倾斜
+Italic angle of the characters	斜体字的倾斜角度
+Y offset:	Y偏移:
+Vertical position from object center	相对物体中心的垂直位置
+UL height:	下划线高
+Thickness of underline	下划线的粗细
+Textbox to show settings for	显示文本框
+Insert a new text frame after the current one	在当前上插入一个新的文本框
+Delete current text frame and shift the others up	删除当前文本框并换到其它的上
+Horizontal offset of text frame	文本框的水平偏移
+Height:	高:
+Curve Tools	曲线工具
+Make Knots	创建结点
+Convert	转换
+Poly	多边形
+Converts selected into regular Polygon vertices	把选择的转换为正多边形顶点
+Bezier	Bezier
+Converts selected to Bezier triples	把选择的转化为Bezier三角
+Nurb	Nurb
+Converts selected to Nurbs Points	把选择的转换为Nurbs顶点
+Uniform U	统一U
+Nurbs only; interpolated result doesn't go to end points in U	只用于Nurbs;
+Nurbs only; interpolated result doesn't go to end points in V	只用于Nurbs
+Endpoint U	终点U
+Nurbs only; interpolated result is forced to end points in U	只用于Nurbs
+Nurbs only; interpolated result is forced to end points in V	只用于Nurbs
+Bezier U	Bezier U
+Nurbs only; make knots array mimic a Bezier in U	只用于Nurbs
+Nurbs only; make knots array mimic a Bezier in V	只用于Nurbs
+Set Weight	设置权重
+Nurbs only; set weight for select points	只用于Nurbs;设置选择的点的权重
+Weight:	权重
+The weight you can assign	你可以指定的权重
+1.0	1.0
+sqrt(2)/4	sqrt(2)/4
+0.25	0.25
+sqrt(0.5)	sqrt(0.5)
+Order U:	
+Nurbs only; the amount of control points involved	只用于Nurbs;有关的控制点数目
+Resol U:	
+The amount of new points interpolated per control vertex pair	
+Curve Tools1	曲线工具1
+Subdivide	细分
+Subdivide selected	细分选择的
+Spin	旋转
+Spin selected 360 degrees	选择的360度旋转
+Hide	隐藏
+Hides selected faces	隐藏选择的面
+Reveal	显示
+Reveals selected faces	显示选择的面
+Select Swap	反选
+Selects unselected faces, and deselects selected faces	选择未选择的面并撤销选择面的选择
+NSize:	法线尺寸:
+Normal size for drawing	绘制法线的大小
+Curve and Surface	曲线和表面
+UV Orco	UV Orco
+Forces to use UV coordinates for texture mapping 'orco'	强制给纹理贴图使用原始UV坐标,Orco＝原始坐标
+No Puno Flip	无Puno翻转
+Don't flip vertex normals while render	在渲染时不用翻转顶点法线
+PrintLen	打印长
+PathLen:	路径长
+If no speed Ipo was set, the amount of frames of the path	如果没有设置速度Ipo,就是路径框的数量
+CurvePath	曲线路径
+Enables curve to become translation path	开启曲线转化路径
+CurveFollow	曲线跟随
+Makes curve path children to rotate along path	使曲线路径的子物体延路径旋转
+CurveStretch	曲线伸展
+Option for curve-deform: makes deformed child to stretch along entire path	曲线变形选项：使子物体延整个路径伸展
+PathDist Offs	路径距离偏移
+Children will use TimeOffs value as path distance offset	子物体将使用时间偏移值来作为路径距离偏移
+DefResolU:	默认解析U:
+Default resolution	默认解析度
+RenResolU	渲染解析U
+Set resolution for rendering. A value of zero skips this operation.	设置渲染时的解析度.如果是0就跳过此操作
+Make interpolated result thinner or fatter	使内插值结果大或小
+Extrude:	挤压
+Curve extrusion size when not using a bevel object	当不使用倒角物体挤压时曲线自身挤压尺寸
+Bevel Depth:	倒角深度:
+Bevel depth when not using a bevel object	不使用倒角物体时的倒角深度
+BevResol:	倒角精度:
+Bevel resolution when depth is non-zero and not using a bevel object	当不使用倒角物体和深度为非0时的倒角精度
+Back	后
+Draw filled back for curves	填充后面
+Draw filled front for curves	填充前面
+3D	3D
+Allow Curve Object to be 3d, it doesn't fill then	允许曲线物体为3d,它将不再填充
+Scale:	缩放:
+Specify the ortho scaling of the used camera	指定被使用的相机的平视缩放
+Lens:	焦距:
+Specify the lens of the camera	指定相机的焦距
+Orthographic	平视
+Render orthogonally	平视渲染
+Clipping:	裁切:
+Specify the startvalue of the the field of view	指定视野的起始值
+Specify the endvalue of the the field of view	指定视野的末端值
+The size that the camera is displayed in the 3D View (different to the object's scale)	在3d视图内显示的相机大小(不同于物体的缩放)
+Show:	显示:
+Limits	极限
+Draw the field of view	显示视野
+Mist	薄雾
+Draw a line that indicates the mist area	用线来指示薄雾区域(得打开环境的薄雾)
+Draw the active camera's name in camera view	在相机视图显示激活的相机的名字
+Title Safe	标题安全框
+Draw a the title safe zone in camera view	在相机视图内画出标题安全区域
+Passepartout	加深画面外围
+Draw a darkened passepartout over the off-screen area in camera view	在相机视图加暗画面以外区域的显示
+Alpha: 	透明度
+The opacity (darkness) of the passepartout	加深画面外围的透明度(暗度)
+Yafray DoF	Yafray景深
+DoFDist:	景深距离:
+Sets distance to point of focus (use camera 'ShowLimits' to make visible in 3Dview)	设置焦距点的距离(打开相机的显示极限可以在3D视图内看到十字架显示)
+Aperture:	光圈:
+Sets lens aperture, the larger, the more blur (use small values, 0 is no DoF)	设置镜头光圈,数越大模糊越厉害(使用小点的数,0是没有景深)
+Random sampling	随机采样
+Use noisy random Lens sampling instead of QMC	使用噪音随机镜头采样替代QMC
+Bokeh	焦外成像
+Sets Bokeh type	设置焦外成像类型
+Sets Bokeh bias	设置焦外成像偏值
+Rotation:	旋转
+Shape rotation amount in degrees	外形旋转值
+Wiresize:	线框大小:
+Polygonization resolution in 3d window	在3d视图中的多边形精度
+Rendersize:	渲染大小:
+Polygonization resolution in rendering	在渲染时的多边形精度
+Threshold:	极限:
+Defines influence of meta elements	定义融合物体的影响力
+Update:	更新
+Always	始终
+While editing, always updates	当编辑时,一直更新
+Half Res	一半精度
+While editing, updates in half resolution	当编辑时,以一半精度更新
+Fast	快速
+While editing, updates without polygonization	当编辑时,不用多边形更新
+Never	永不
+While editing, doesn't update	当编辑时不更新
+MetaBall tools	融合球工具
+Stiffness:	硬度:
+Stiffness for active meta	激活的融合物体的硬度
+dx:	dx:
+X size for active meta	激活的融合物体的X尺寸
+dy:	dy:
+Y size for active meta	激活的融合物体的Y尺寸
+dz:	dz:
+Z size for active meta	激活的融合物体的Z尺寸
+Draw active meta as Ball	激活的融合物体变为球
+Draw active meta as Plane	激活的融合物体变为平面
+Elipsoid	椭圆体
+Draw active meta as Ellipsoid	激活的融合物体变为椭圆体
+Draw active meta as Cube	激活的融合物体变为立方体
+Negative	负值
+Make active meta creating holes	使用激活的融合物体打洞
+Make active meta invisible	激活的融合物体不可见
+Not with VertexKeys	不用顶点关键帧
+Unable to perform function in EditMode	在编辑模式下不可用
+Points in U direction	U方向的点数
+Lin	线性
+Set Linear interpolation	设置为线性内插值
+Card	基数
+Set Cardinal interpolation	设置为基数内插值
+Set B-spline interpolation	设置为B-SPLINE内插值
+Points in V direction	V方向的点数
+Points in W direction	W方向的点数
+Make Regular	创建规则的
+Make Lattice regular	使晶格变规则
+Only draw, and take into account, the outer vertices	只显示外面的顶点
+Set time value to denote 'slurph' (sequential delay) vertices with key framing	
+Use relative keys (instead of absolute)	使用相对关键帧(替换绝对的)
+Editing Options	编辑选项
+X-Axis Mirror	X轴镜像
+Enable X-axis mirrored editing	打开X轴镜像编辑
+X-Ray	X光
+Draw armature in front of solid objects	使骨骼物体显示在其它物体的前面
+Auto IK	自动IK
+Adds temporal IK chains while grabbing Bones	当抓取骨骼时添加临时IK串
+Display Options	显示选项
+Octahedron	八面体
+Draw bones as octahedra	骨骼显示为八面体
+Stick	棍
+Draw bones as simple 2d lines with dots	骨骼显示为简单的2d线和点
+B-Bone	方体骨骼
+Draw bones as boxes, showing subdivision and b-splines	骨骼显示为方体,显示细分和b-splines
+Envelope	封套
+Draw bones as extruded spheres, showing deformation influence volume	骨骼显示为外扩的球体,显示便是变形和影响范围
+Draw Axes	显示轴
+Draw bone axes	显示骨骼的轴
+Draw Names	显示名字
+Draw bone names	显示骨骼的名字
+Ghost: 	残像:
+Draw Ghosts around current frame, for current Action	显示当前帧前后的残像,用于当前动作
+Step: 	步:
+How many frames between Ghost instances	残像之间的帧数
+Deform Options	变形选项
+Vertex Groups	顶点组
+Enable VertexGroups defining deform (not for Modifiers)	开启顶点组定义变形(不用于修改器)
+Enable Bone Envelopes defining deform (not for Modifiers)	开启骨骼封套定义变形(不用于修改器)
+Rest Position	静止位置
+Show armature rest position, no posing possible	静态位置时的骨骼位置,就是没有pose
+Delay Deform	迟缓变形
+Don't deform children when manipulating bones in pose mode	当在Pose模式下操作骨骼将不对子物体进行变形
+Armature Bones	骨架骨骼
+Selected Bones	选择的骨骼
+Only show in Armature Editmode	只在骨架编辑模式下显示
+BO:	名:
+Change the bone name	更改骨骼名字
+child of	..的子骨骼
+Con	连接
+Connect this Bone to Parent	连接此骨骼到父级
+Segm: 	细分:
+Subdivisions for B-bones	为方体骨骼的细分数
+Dist:	距离:
+Bone deformation distance	骨骼变形距离
+Bone deformation weight	骨骼变形权重
+Hinge	铰链
+Don't inherit rotation or scale from parent Bone	不继承父级骨骼的旋转或缩放
+Deform	变形
+Indicate if Bone deforms geometry	如果骨骼变形物体需要开启
+Mult	倍增
+Multiply Bone Envelope with VertexGroup	倍增骨骼封套对顶点组
+Toggles display of this bone in Edit Mode	在编辑模式下切换骨骼的显示
+Only show in Armature Editmode/Posemode	只显示在骨架编辑模式/Pose模式
+In:	进:
+First length of Bezier handle	Bezier手柄的第一个长度
+Out:	出:
+Second length of Bezier handle	Bezier手柄的第二个长度
+Lock X Rot	锁定X旋转
+Disable X DoF for IK	锁定IK的X轴自由度
+Stiff X:	僵直X:
+Resistance to bending for X axis	抵抗X轴的弯曲
+Limit X	极限X
+Limit rotation over X axis	X轴上的旋转极限
+Min X:	最小X:
+Minimum X limit	最小X极限
+Max X:	最大X:
+Maximum X limit	最大X极限
+Lock Y Rot	锁定Y旋转
+Disable Y DoF for IK	锁定IK的Y轴自由度
+Stiff Y:	僵直Y:
+Resistance to twisting over Y axis	抵抗Y轴的弯曲
+Limit Y	极限Y
+Limit rotation over Y axis	Y轴上的旋转极限
+Min Y:	最小Y:
+Minimum Y limit	最小Y极限
+Max Y:	最大Y:
+Maximum Y limit	最大Y极限
+Lock Z Rot	锁定Y旋转
+Disable Z DoF for IK	锁定IK的Z轴自由度
+Stiff Z:	僵直Z:
+Resistance to bending for Z axis	抵抗Z轴的弯曲
+Limit Z	极限Z
+Limit rotation over Z axis	Z轴上的旋转极限
+Min Z:	最小Z:
+Minimum Z limit	最小Z极限
+Max Z:	最大Z:﻿
+Maximum Z limit	最大Z极限
+Stretch:	伸展:
+Allow scaling of the bone for IK	允许骨骼缩放
+Stride Root	
+Set this PoseChannel to define the Stride distance	
+(DoF only for IK chains)	自由度只适用IK串
+Delete vertex group	删除顶点组
+Assign to vertex group	分配到顶点组
+Remove from vertex group	从顶点组移除
+Flip Normals	反转法线
+Rem Doubles	移除双点
+Rand fac:	不规则度:
+Fractal Subdivide	不规则细分
+Mesh Tools	网格工具
+FGon	FGon
+Causes 'Subdivide' To create FGon on inner edges where possible	'细分'创建FGon要有内部共享边才行
+Beauty	美化
+Causes 'Subdivide' to split faces in halves instead of quarters using long edges unless 'Short' is selected	'细分'将以长边平分替换四分进行切割面,除非'短边'开启
+Short	短边
+If Beauty is set, 'Subdivide' splits faces in halves using short edges	如果美化被设置,'细分'切割将用短边进行平分
+Splits selected faces into halves or quarters	切割选择的面为平分或四分
+Corner Cut Type 	角切割类型
+Path 	路径
+Innervert 	内点
+Fan 	扇形
+Choose Quad Corner Cut Type	选择四方内切角类型
+Noise	噪音
+Noise 	噪音
+Use vertex coordinate as texture coordinate	使用顶点坐标作为纹理坐标
+Hash	打乱
+Randomizes selected vertice sequence data	打乱选择的顶点序列数据
+Xsort	X列
+Sorts selected vertice data in the X direction	在x方向列选择的顶点顶点数据
+Fractal	不规则
+Subdivides selected faces with a random factor	使用随机数来细分选择的面
+Moves selected vertices outwards into a spherical shape	向外移动选择的点使之球化
+Smooth	平滑
+Flattens angles of selected faces	选择的面的角度变平
+Splits selected verts to separate sub-mesh.	分离选择的顶点使之成为分离的子面
+Toggles the direction of the selected face's normals	切换选择的面的法线方向
+Removes duplicates from selected vertices	移除从选择的点复制的
+Specifies the max distance 'Rem Doubles' will consider vertices as 'doubled'	定义'移除双点'的最大距离
+Converts selected edges to faces and selects the new vertices	转换选择的边为面并选择新的顶点
+Screw	螺旋
+Activates the screw tool	激活螺旋工具
+Spin Dup	旋转复制
+Creates copies of the selected vertices in a circle around the cursor in the indicated viewport	在激活的视图内创建选择顶点绕指针进行复制
+Specifies the number of degrees 'Spin' revolves	定义'旋转'的角度
+Steps:	步幅:
+Specifies the total number of 'Spin' slices	定义'旋转'片段的总数
+Turns:	旋转:
+Specifies the number of revolutions the screw turns	定义螺旋圈数
+Keep Original	保持原始物体
+Keeps a copy of the original vertices and faces after executing tools	当执行完后给原始物体的顶点和面进行拷贝备份
+Clockwise	顺时针
+Specifies the direction for 'Screw' and 'Spin'	定义'螺旋'和'旋转'的方向
+Extrude Dup	挤压复制
+Creates copies of the selected vertices in a straight line away from the current viewport	当前视图的垂直线方向复制选择的顶点
+Offset:	偏移:
+Sets the distance between each copy for 'Extrude Dup'	'挤压复制'的每个拷贝的距离
+Mesh Tools 1	网格工具-1
+Sets the length to use when displaying face normals	设置面法线的长度(如果开启显示)
+Draw Normals	显示法线
+Displays face normals as lines	以线的方式显示面法线
+Draw Faces	显示面
+Displays all faces as shades	以阴影方式显示所有面
+Draw Edges	显示边
+Displays selected edges using hilights	使用高亮显示选择的边
+Draw Creases	显示折痕
+Displays creases created for subsurf weighting	显示使用细分权重创建的折痕
+Draw Seams	显示缝合线
+Displays UV unwrapping seams	显示UV展开的缝合线
+All Edges	所有边
+Displays all edges in object mode without optimization	在物体模式下不进行优化,显示所有边
+Draw VNormals	显示顶点法线
+Displays vertex normals as lines	以线的方式显示顶点法线
+Edge Length	边长
+Displays selected edge lengths	显示选择边的边长
+Edge Angles	边角度
+Displays the angles in the selected edges in degrees	显示选择的边的角度
+Face Area	面面积
+Displays the area of selected faces	显示选择面的面积
+X-axis mirror	X轴镜像
+While using transforms, mirrors the transformation	当进行调整时,镜像调整信息
+OB:	物体:
+Displays Active Object name. Click to change.	显示激活物体的名称,点击更改
+Empty Display:	空显示:
+Empty Drawtype	空物体显示类型
+Arrows	箭头
+Plain Axes	简单轴
+Selects the Empty display type	选择空物体的显示类型
+The size to display the Empty	空物体显示的尺寸
+AutoTexSpace	自动纹理分布
+Adjusts active object's texture space automatically when transforming object	当调整激活物体时自动调整纹理分布
+Displays total number of material indices and the current index	显示材质索引的总数和当前索引
+Adds a new Material index	添加新的材质索引
+Deletes this Material index	删除材质索引
+In EditMode, selects faces that have the active index	在编辑模式下,选择有激活索引的面
+Deselect	取消选择
+Deselects everything with current indexnumber	当前索引下取消选择
+In EditMode, assigns the active index to selected faces	在编辑模式下,分配激活的索引给选择的面
+In EditMode, sets 'smooth' rendering of selected faces	在编辑模式下,选择的面设置为'平滑'渲染
+In EditMode, sets 'solid' rendering of selected faces	在编辑模式下,选择的面设置为'固体'渲染
+Browses available vertex groups	浏览可用到的顶点组
+Displays current vertex group name. Click to change. (Match bone name for deformation.)	显示当前顶点组名字,点击更改(匹配影响变形的骨骼名)
+Sets the current vertex group's bone deformation strength	设置当前顶点组的骨骼变形的强度
+Creates a new vertex group	创建一个新的顶点组
+Removes the current vertex group	移除当前顶点组
+Assigns selected vertices to the current vertex group	分配选择的顶点到当前顶点组
+Remove	移除
+Removes selected vertices from the current vertex group	从当前顶点组移除选择的顶点
+Selects vertices belonging to the current vertex group	选择属于当前顶点组的顶点
+Desel.	不选
+Deselects vertices belonging to the current vertex group	取消选择属于当前顶点组的顶点
+Copy To Linked	拷贝到链接的
+Creates identical vertex group names in other Objects using this Mesh	在其它物体使用此面时创建同样的顶点组名称
+Paint	喷绘
+1/4	1/4
+1/2	1/2
+3/4	3/4
+Opacity 	透明度
+The amount of pressure on the brush	笔刷的压力数
+1/8	1/8
+Size 	大小
+The size of the brush	笔刷大小
+Mix	混合
+Mix the vertex colors	混合顶点着色
+Add the vertex colors	添加顶点着色
+Sub	减
+Subtract from the vertex color	从顶点着色上减
+Mul	叠
+Multiply the vertex color	叠加顶点着色
+Filter	过滤
+Mix the colors with an alpha factor	使用一个透明度值来进行混合
+Lighter	亮部
+Paint over darker areas only	只在暗部喷绘
+Darker	暗部
+Paint over lighter areas only	只在两部喷绘
+All Faces	所有面
+Paint on all faces inside brush	喷绘
+Vertex Dist	顶点距离
+Use distances to vertices (instead of paint entire faces)	使用顶点距离(代替喷绘整个面)
+Normals	法线
+Applies the vertex normal before painting	喷绘前应用顶点法线
+Spray	喷溅
+Keep applying paint effect while holding mouse	当按住鼠标时仍应用喷绘效果
+X-Mirror	X镜像
+Mirrored Paint, applying on mirrored Weight Group name	镜像喷绘,应用在镜像的权重组名称
+Wire	线框
+Displays the active object's wireframe in shaded drawing modes	在喷绘模式下显示激活物体的线框
+Removes reference to this deform group from all vertices	从涉及此变形组的所有顶点移除
+The amount of red used for painting	红色值
+The amount of green used for painting	绿色值
+The amount of blue used for painting	蓝色值
+Add the vertex color	添加顶点着色
+Set VertCol	设置顶点着色
+Set Vertex color of selection to current (Shift+K)	设置选择的顶点着色到当前(Shift+K)
+Apply Mul and Gamma to vertex colors	应用叠加和Gamma到顶点着色
+Mul:	叠加
+Set the number to multiply vertex colors with	设置顶点着色的叠加数
+Gamma:	Gamma:
+Change the clarity of the vertex colors	更改顶点着色的透明度
+Texture face	纹理面
+Tex	纹理
+Render face with texture	渲染面时带纹理
+Tiles	平铺
+Use tilemode for face	为面使用平铺模式
+Light	光照
+Use light for face	选择的面使用光照
+Invisible	不可见
+Make face invisible	使面不可见
+Collision	碰撞
+Use face for collision detection	使用面碰撞检测
+Shared	共享
+Blend vertex colors across face when vertices are shared	当顶点共享时混合顶点颜色
+Twoside	双面
+Render face twosided	渲染为双面
+ObColor	物体颜色
+Use ObColor instead of vertex colors	使用物体颜色替换顶点颜色
+Halo	光晕
+Screen aligned billboard	
+Billboard	
+Billboard with Z-axis constraint	
+Face is used for shadow	面用于阴影
+Enable bitmap text on face	开启面上的位图文本
+Opaque	不透明
+Render color of textured face as color	渲染纹理的颜色作为固有色
+Render face transparent and add color of face	透明渲染并加上面的颜色
+Alpha	Alpha
+Render polygon transparent, depending on alpha channel of the texture	基于纹理的alpha通道的透明渲染
+Copy DrawMode	拷贝绘制模式
+Copy the drawmode from active face to selected faces	从激活的面拷贝绘制模式到选择的面
+Copy UV+tex	拷贝UV+纹理
+Copy UV information and textures from active face to selected faces	从激活的面拷贝UV信息和纹理到选择的面
+Copy VertCol	拷贝顶点着色
+Copy vertex colors from active face to selected faces	从激活的面拷贝顶点着色到选择的面
+UV Calculation	UV计算
+Displays edges of visible faces	显示可见面的边
+Draw Hidden Edges	绘出隐藏的边
+Displays edges of hidden faces	显示隐藏面的边
+Unwrapper	展开器
+Conformal	正形投影
+Angle Based	基于角度
+Unwrap method	展开方式
+Fill Holes	填充漏洞
+Fill holes to prevent internal overlaps	填充漏洞防止内部交叠
+Cube Size:	方体尺寸:
+Defines the cubemap size for cube mapping	定义方体映射的方体贴图尺寸
+Cyl Radius:	圆柱半径:
+Defines the radius of the UV mapping cylinder	定义UV圆柱贴图的半径
+View Aligns Face	视图对齐面
+View is on equator for cylindrical and spherical UV mapping	视图作为烟柱和球体UV贴图的赤道
+VA Top	VA顶端
+View is on poles for cylindrical and spherical UV mapping	视图作为烟柱和球体UV贴图的极点
+Al Obj	对齐物体
+Align to object for cylindrical and spherical UV mapping	为圆柱和球体UV贴图对齐到物体
+Polar ZX	极点ZX
+Polar 0 is X for cylindrical and spherical UV mapping	圆柱和球体UV贴图中X作为极点0
+Polar ZY	极点ZY
+Polar 0 is Y for cylindrical and spherical UV mapping	圆柱和球体UV贴图中Y作为极点0
+Delete property	删除属性
+Move up	上移
+Move down 	下移
+Move sensor	移动传感器
+Move controller	移动控制器
+Move actuator	移动执行器
+Add property	添加属性
+Add sensor	添加传感器
+Delete sensor	删除传感器
+Add controller	添加控制器
+Delete controller	删除控制器
+Add actuator	添加执行器
+Delete actuator	删除执行器
+Activate TRUE level triggering (pulse mode)	激活TRUE触发(脉冲模式)
+Activate FALSE level triggering (pulse mode)	激活False触发(脉冲模式)
+Delay between repeated pulses (in logic tics, 0 = no delay)	重复脉冲之间的延时(0=无延时)
+Inv	反
+Invert the level (output) of this sensor	反转传感器级别(输出)
+Property:	属性:
+Only look for Objects with this property	只通过此属性寻找物体
+Margin:	边缘:
+Extra margin (distance) for larger sensitivity	额外的边缘(距离)可有更好的敏感度
+M/P	M/P
+Toggle collision on material or property.	切换材质碰撞或者属性碰撞
+Material:	材质
+Only look for Objects with this material	只通过此材质寻找物体
+Damp:	阻尼:
+For 'damp' time don't detect another collision	'阻尼'时间不侦测另外的碰撞
+Dist	距离
+Trigger distance	触发距离
+Reset distance	重置距离
+Prop:	属性:
+Cast the cone along the object's positive x-axis	沿着物体的正X轴投射锥体
+Cast the cone along the object's positive y-axis	沿着物体的正Y轴投射锥体
+Cast the cone along the object's positive z-axis	沿着物体的正Z轴投射锥体
+Ang:	角度
+Opening angle of the radar cone.	雷达锥的开度角
+Depth of the radar cone	雷达锥的深度
+Modifier key code	修改器键盘编码
+Second Modifier key code	第二个修改器键盘编码
+Key	键
+Hold	保持
+LogToggle: 	
+Property that indicates whether to log keystrokes as a string.	
+Target: 	目标:
+Property that receives the keystrokes in case a string is logged.	接收键击的属性,万一一个字符串被套用
+Type	类型
+Prop: 	属性:
+Property name	属性名称
+Min: 	最小:
+test for min value	对最小值测试
+Max: 	最大:
+test for max value	对最大值测试
+Value: 	值:
+test for value	对值测试
+Specify the type of event this mouse sensor should trigger on.	定义事件类型鼠标传感器必须打开
+Seed: 	种子:
+Initial seed of the generator. (Choose 0 for not random)	发生器的初始化种子.(选择0为不随机)
+Range	范围
+Sense objects no farther than this distance	判断物体是否在此距离内
+Specify along which axis the ray is cast.	定义射线的轴向
+Subject: 	主题:
+Optional subject filter: only accept messages with this subjectNIL_NULL, or empty for all	可选的主题过滤:只接收此主题的消息, 或者全部为空
+The type of event this joystick sensor is triggered on.	事件类型操纵器传感器必须打开
+Number:	数:
+Specify which button to use	定义使用哪个按键
+Button pressed or released.	按键按下或释放
+Specify which axis to use	定义使用哪个轴
+Specify the precision of the axis	定义轴精度
+The direction of the axis	轴方向
+Specify which hat to use	定义使用哪个帽子
+Direction:	方向:
+Specify hat direction	定义帽子方向
+Not yet...	尚未...
+Variables	变量
+Available variables for expression	表达式可用到的变量
+Force	影响力
+Sets the force	设置影响力
+Torque	扭矩
+Sets the torque	设置扭矩
+dLoc	位置
+Sets the dLoc	设置位置
+dRot	角度
+Sets the dRot	设置角度
+linV	线速
+Sets the linear velocity	设置线速度
+angV	角速
+Sets the angular velocity	设置角速度
+Local transformation	局部转换
+add	添加
+Toggles between ADD and SET linV	切换添加还是设定线速度
+Action playback type	动作回放类型
+Use this property to define the Action position	使用此属性来定义动作(Action)位置
+Sta: 	始:
+End: 	末:
+Blendin: 	混合:
+Number of frames of motion blending	运动混合的帧数
+Priority: 	优先:
+Execution priority - lower numbers will override actions with higher numbers	执行优先级-数越小的将先于数高的
+Cycle: 	循环:
+Distance covered by a single cycle of the action	动作的单个循环的间距
+Child	子
+Add all children Objects as well	添加所有子物体
+Use this property to define the Ipo position	使用此属性定义Ipo位置
+Sta	始
+End	末
+Convert Ipo to force	转换Ipo为影响力
+Let the force-ipo act in local coordinates.	让影响力-ipo作为局部坐标
+Copy this property	拷贝此属性
+change with this value	用此值更改
+SO:	音:
+Volume:	音量:
+Sets the volume of this sound	设置声音的音量
+Pitch:	频率:
+Sets the pitch of this sound	设置声音的频率
+Use Sound window (F10) to load samples	使用声音窗口(F10)加载样本
+Track:	音轨:
+Select the track to be played	选择被播放的音轨
+Set the volume for CD playback	设置CD回放的音量
+Min:	最小:
+Camera tries to get behind the X axis	相机设法靠近X轴
+Camera tries to get behind the Y axis	相机设法靠近Y轴
+Max:	最大:
+Time:	时间:
+Duration the new Object lives	新物体的存活时间
+Velocity upon creation.	速率在创建物之上
+Velocity upon creation, x component.	速率在创建物之上,X部分
+Velocity upon creation, y component.	速率在创建物之上,Y部分
+Velocity upon creation, z component.	速率在创建物之上,Z部分
+Apply the transformation locally	局部应用变换
+Duration the tracking takes	跟踪持续时间
+Enable 3D tracking	开启3D跟踪
+Min	最小
+Max	最大
+Anim: 	动画:
+Use this loadinganimation	使用此加载动画
+Key: 	帧:
+This name defines groupkey to be set	此名字用来定义组键
+Frame:	帧:
+Set this frame	设置此帧
+Use this property to define the Group position	使用此属性来定义组的位置
+Make the object invisible or visible.	使物体可见或不可见
+Initial seed of the random generator. Use Python for more freedom.  (Choose 0 for not random)	随机发生器的初始化种子.用Python更自由(0为无随机)
+Choose the type of distribution	选择分布类型
+Assign the random value to this property	给此属性分配随机值
+Always true	永远true
+Always false or always true	永远false或永远true
+Do a 50-50 pick.	强制 50-50 更改.
+Chance	机会
+Pick a number between 0 and 1. Success if you stay below this value	在0和1之间拾取一个数,如果保持在此数以下就成功
+Always return this number	永远返回这个数
+Choose a number from a range. Lower boundary of the range.	选择一个范围内的一个数.此范围的下边界
+Choose a number from a range. Upper boundary of the range.	选择一个范围内的一个数.此范围的上边界
+Mean: 	平均:
+Expected mean value of the distribution.	分布的预期平均数
+A normal distribution. Mean of the distribution.	正态分布.平均分布
+SD: 	SD: 
+A normal distribution. Standard deviation of the distribution.	正态分布.分布的标准偏差
+Half-life time: 	半衰期:
+Negative exponential dropoff.	负指数减少
+To: 	到:
+Optional send message to objects with this name onlyNIL_NULL, or empty to broadcast	只使用这个名字可选的发送消息到物体,或者空广播
+Optional message subject. This is what can be filtered on.	可选的消息主题.就是什么将被过滤
+T/P	T/P
+Toggle message type: either Text or a PropertyName.	切换消息类型:不是文本就是属性名
+Body: 	主体:
+Optional message body Text	可选消息
+Propname: 	属性名
+The message body will be set by the Property Value	消息主体将被属性值设置
+Show Objects	显示物体
+Hide Objects	隐藏物体
+Show Sensors	显示传感器
+Hide Sensors	隐藏传感器
+Show Controllers	显示控制器
+Hide Controllers	隐藏控制器
+Show Actuators	显示执行器
+Hide Actuators	隐藏执行器
+Sector	扇区
+All game elements should be in the Sector boundbox	所有的游戏元素必须得在扇区范围框内
+Prop	属性
+An Object fixed within a sector	固定在一个扇区内的一个物体
+Actor	演员
+Objects that are evaluated by the engine 	被引擎计算的物体
+Dynamic	动力学
+Motion defined by laws of physics	物理规律定义运动
+MainActor	主演员
+Do Fh	用Fh
+Use Fh settings in Materials	使用材质里的Fh设置
+Rot Fh	面法线旋转
+Use face normal to rotate Object	使用面法线旋转物体
+Mass:	质量:
+The mass of the Object	物体的质量
+Bounding sphere size	范围球形大小
+General movement damping	常规运动阻尼
+RotDamp:	旋转阻尼:
+General rotation damping	常规旋转阻尼
+Ghost	幽灵
+Objects that don't restitute collisions (like a ghost)	物体不进行碰撞(像幽灵一样)
+Rigid Body	刚体
+Enable rolling physics	开启旋转物理计算
+No sleeping	无睡眠
+Disable auto (de)activation	关闭自动(非)激活
+Form:	形态:
+Form factor	波形因素
+Anisotropic	各向异性
+Enable anisotropic friction	开启各向异性摩擦
+x friction:	x摩擦力:
+Relative friction coefficient in the x-direction.	X方向的相对摩擦
+y friction:	y摩擦力:
+Relative friction coefficient in the y-direction.	Y方向的相对摩擦
+z friction:	z摩擦力:
+Relative friction coefficient in the z-direction.	Z方向的相对摩擦
+Bounds	范围
+Specify a bounds object for physics	为动力学定义一个范围物体
+Boundary Display	边界显示
+Box	方体
+Convex Hull Polytope	凸多边形
+Static TriangleMesh 	静态三角面
+Selects the collision type	选择碰撞类型
+Add Property	添加属性
+Name:	名字:
+True	True
+False	False
+Print Debug info	打印调试信息
+Insert Influence Key	插入影响帧
+Delete constraint	删除约束
+Move constraint	移动约束
+Collapse/Expand Constraint	收拢/展开约束
+Bone Constraint	骨骼约束
+Track To	跟踪到
+IK Solver	IK解算
+Copy Rotation	拷贝旋转
+Copy Location	拷贝位置
+Copy Scale	拷贝缩放
+Null	无
+Constraint type	约束类型
+Object Constraint	物体约束
+Constraint name	约束名
+Target:	目标:
+Subtarget Bone	子目标骨骼
+Local	局部
+Use true local rotation difference	使用局部旋转
+Key on	接通
+X Rot	X旋转
+Y Rot	Y旋转
+Z Rot	Z旋转
+Specify which transformation channel from the target is used to key the action	从被用于调节动作的目标定义变换通道
+Starting frame of the keyed motion	关键帧动作的起始帧
+Ending frame of the keyed motion	关键帧动作的末尾帧
+Minimum value for target channel range	目标通道范围的最小值
+Maximum value for target channel range	目标通道范围的最大值
+Work on a Pose's local transform	对Pose的局部变换影响
+Copy X component	拷贝X部分
+Copy Y component	拷贝Y部分
+Copy Z component	拷贝Z部分
+Rot	转
+Chain follows rotation of target	跟目标旋转的琏
+Use Tip	使用尖端
+Include Bone's tip als last element in Chain	在链里最后的元素包含骨骼的尖端
+ChainLen:	链数:
+If not zero, the amount of bones in this chain	如果不是零,就是在此链里的骨骼数
+PosW 	PosW
+For Tree-IK: weight of position control for this target	树-IK:为此目标的位置控制的权重
+RotW 	RotW
+For Tree-IK: Weight of orientation control for this target	树-IK:为此目标的方向控制的权重
+Tolerance:	容差
+Maximum distance to target after solving	当解算后得到的到目标的最大距离
+Iterations:	反复:
+Maximum number of solving iterations	反复解算的最大数
+To:	到:
+The axis that points to the target object	指向目标物体的轴
+-X	-X
+-Y	-Y
+-Z	-Z
+Up:	沿:
+The axis that points upward	指向的轴
+Offset from the position of the object center	与物体中心位置的偏移
+Immobilize object while constrained	当被约束时固定物体
+Max/Min:	最大/最小:
+Will not pass below X of target	小于目标物体X的不予通过
+Will not pass below Y of target	小于目标物体Y的不予通过
+Will not pass below Z of target	小于目标物体Z的不予通过
+Will not pass above X of target	大于目标物体X的不予通过
+Will not pass above Y of target	大于目标物体Y的不予通过
+Will not pass above Z of target	大于目标物体Z的不予通过
+Lock:	锁:
+The axis that is locked	锁定的轴
+Object will follow the heading and banking of the curve	物体将沿着曲线的路径方向
+Offset from the position corresponding to the time frame	对应时间帧的位置偏移
+Fw:	向:
+The axis that points forward along the path	沿着路径的轴向
+Recalculate RLenght	重新计算静止长度
+Rest Length:	静止长度:
+Lenght at Rest Position	静止时的长度
+Volume Variation:	体积变化:
+Factor between volume variation and stretching	体积和拉伸之间的因数
+Vol:	体积
+XZ	XZ
+Keep Volume: Scaling X & Z	保持体积:缩放X和Z
+Keep Volume: Scaling X	保持体积:缩放X
+Keep Volume: Scaling Z	保持体积:缩放Z
+NONE	无
+Ignore Volume	忽视体积
+Plane:	面:
+Keep X axis	保持X轴
+Keep Z axis	保持Z轴
+Influence 	影响力
+Amount of influence this constraint will have on the final solution	此约束的影响级别
+Show constraint's ipo in the Ipo window, adds a channel if not there	在IPO窗口中显示约束的IPO,如果没有就添加一个通道
+Add an influence keyframe to the constraint	给约束添加一个影响力变化的关键帧
+Copy Size	拷贝尺寸
+Floor	地面
+Locked Track	锁定跟踪
+Follow Path	路径跟随
+Stretch To	拉伸到
+Add constraint	添加约束
+Select Directory	选择目录
+ADD NEW	添加
+Object and Links	物体和关联
+Add to Group	添加到组
+Add Object to a new Group	添加物体到一个新组
+GR:	组:
+Displays Group name. Click to change.	显示组名称.点击可更改
+Make Group local	使组本地化
+Remove Group membership	移除组成员
+TrackX	X轨
+Specify the axis that points to another object	指定指向其它物体的轴
+UpX	上X
+Specify the axis that points up	定义强调的轴
+Draw Key	画关键帧
+Draw object as key position	在关键帧位置画出物体
+Draw Key Sel	限制画关键帧
+Limit the drawing of object keys	限制物体关键帧绘制
+Powertrack	Powertrack
+Switch objects rotation off	切断物体旋转
+SlowPar	慢于父
+Create a delay in the parent relationship	在父级关联中创建一个延时
+DupliFrames	帧复制
+Make copy of object for every frame	每帧拷贝一个物体
+DupliVerts	复制顶点
+Duplicate child objects on all vertices	在所有顶点处复制子物体
+Rotate dupli according to facenormal	依照面法线旋转复制物体
+No Speed	无速度
+Set dupliframes to still, regardless of frame	设置帧复制为静止,不管帧
+DupliGroup	复制组
+DupSta:	复制头:
+Specify startframe for Dupliframes	定义帧复制的起始帧
+DupOn:	复制始
+DupEnd	复制尾
+Specify endframe for Dupliframes	定义帧复制的最后一帧
+DupOff	复制关
+Offs Ob	偏移物体
+Let the timeoffset work on its own objectipo	让时间偏移影响到物体IPO
+Offs Par	偏移父级
+Let the timeoffset work on the parent	让时间偏移影响到父级
+Offs Particle	偏移粒子
+Let the timeoffset work on the particle effect	让时间偏移影响到粒子效果
+TimeOffset:	时间偏移:
+Specify an offset in frames	在帧中定义一个偏移量
+Automatic Time	自动安排
+Generate automatic timeoffset values for all selected frames	给所有选择的帧自动产生一个偏移值
+PrSpeed	打印速度
+Print objectspeed	打印物体速度
+Draw	绘制
+Layers	层
+Shaded	明暗
+Draw active object shaded or textured	绘制物体为带明暗关系的或带纹理的
+Solid	实体
+Draw active object in solid	显示激活物体为实体
+Draw active object in wireframe	显示激活物体为线框
+Only draw object with bounding box	只显示物体的范围框
+Draw Extra	附加显示
+Displays the active object's bounds	显示激活物体的范围框
+Displays the active object's name	显示激活物体的名字
+Polyheder	网格体
+Selects the boundary display type	选择边界显示类型
+Axis	轴
+Displays the active object's center and axis	显示激活物体的中心和轴
+TexSpace	纹理空间
+Displays the active object's texture space	显示激活物体的纹理空间
+Adds the active object's wireframe over solid drawing	在实体显示的基础上显示线框
+Transp	透明
+Enables transparent materials for the active object (Mesh only)	开启激活物体的透明材质显示(只适用于网格物体)
+X-ray	X-光
+Makes the active object draw in front of others	使激活物体显示在其它物体前面
+Constraints	约束
+Add Constraint	添加约束
+Add a new constraint	添加新的约束
+Displays Active Object or Bone name	显示激活物体或骨骼的名字
+New effect	新建特效
+Delete effect	删除特效
+Fields and Deflection	场和偏转
+Physics	物理学
+Fields	场
+MinDist: 	最小距离:
+The distance from which particles are affected fully.	到完全被影响的粒子的距离
+Fall-off: 	衰减:
+Falloff factor, between mindist and maxdist	衰减因数,最小距离和最大距离之间
+Strength: 	强度:
+Strength of force field	力场的强度
+Falloff power (real gravitational fallof = 2)	衰减力度(真实重力衰减=2)
+Use MaxDist	使用最大距离
+Use a maximum distance for the field to work	为场使用一个最大距离来工作
+MaxDist: 	最大距离:
+Maximum distance for the field to work	场工作的最大距离
+Additive	附加
+Based on distance/falloff it adds a portion of the entire path	基于距离/衰减,它添加完整距离的一部分
+Deflection	偏转
+Deflects particles based on collision	基于碰撞的偏转粒子
+Particles	粒子
+Damping: 	阻尼:
+Amount of damping during particle collision	粒子碰撞时的阻尼值
+Rnd Damping: 	随机阻尼:
+Random variation of damping	随机变化的阻尼
+Permeability: 	渗透性:
+Chance that the particle will pass through the mesh	粒子穿过网格物体的几率
+Soft Body	软体
+Damping:	阻尼
+Amount of damping during soft body collision	当软体碰撞时的阻尼值
+Inner:	内部:
+Inner face thickness	内面厚度
+Outer:	外部:
+Outer face thickness	外面厚度
+Object has Deflection,	物体已经偏转
+no Soft Body possible	没有可用的软体
+Enable Soft Body	开启软体
+Sets object to become soft body	设置物体为软体
+Bake settings	烘培设置
+To convert simulation into baked (cached) result	把模拟转换为烘培(缓存)的结果
+Soft Body is baked, free it first	软体已被烘培,先释放它
+Start frame for baking	烘培的起始帧
+End frame for baking	烘培的末尾帧
+Interval:	间隔:
+Interval in frames between baked keys	烘培关键帧之间的间隔
+Use local coordinates for baking	使用局部坐标烘培
+FREE BAKE	释放烘培
+Free baked result	释放烘培的结果
+Start baking. Press ESC to exit without baking	开始烘培,按ESC退出将无烘培
+Friction:	摩擦力:
+General media friction for point movements	点运动的常规摩擦
+Point Mass, the heavier the slower	点质量,越打越慢
+Grav:	重力:
+Apply gravitation to point movement	给点运动添加重力
+Tweak timing for physics to control frequency and speed	扭曲物理时间来控制频率和速度
+Error Limit:	错误极限:
+The Runge-Kutta ODE solver error limit, low value gives more precision	Runge-Kutta ODE解释器的错误极限,值越小精度越高
+Use Goal	使用目标
+Define forces for vertices to stick to animated position	定义点的影响来关系动画的位置
+Name of current vertex group	当前顶点组的名称
+(no group)	(没有组)
+Vertex Group doesn't exist anymore	顶点组不存在
+Disable use of vertex group	不使用顶点组
+Goal:	目标:
+Default Goal (vertex target position) value, when no Vertex Group used	当不使用顶点组时就使用默认目标(顶点目标位置)值
+Use control point weight values	使用控制顶点权重值
+G Stiff:	目标硬度:
+Goal (vertex target position) spring stiffness	目标(顶点目标位置)弹性硬度
+G Damp:	目标阻尼:
+Goal (vertex target position) friction	目标(顶点目标位置)摩擦
+G Min:	目标最小:
+Goal minimum, vertex group weights are scaled to match this range	目标最小值,顶点组权重被缩放到此范围内
+G Max:	目标最大:
+Goal maximum, vertex group weights are scaled to match this range	目标最大值,顶点组权重被缩放到此范围内
+Use Edges	使用边
+Use Edges as springs	使用边来计算弹性
+Stiff Quads	硬四边
+Adds diagonal springs on 4-gons	在4边对角线添加弹性
+E Stiff:	边硬度:
+Edge spring stiffness	边的弹性硬度
+E Damp:	边阻尼:
+Edge spring friction	边弹力的摩擦
+Particles 	粒子
+Particle Motion	粒子运动
+Keys:	帧:
+Specify the number of key positions	定义粒子位置的关键帧数
+Bspline	B样条
+Use B spline formula for particle interpolation	为粒子插补使用B样条公式
+Set an offset in the random table	在随机平台设置一个偏移
+RLife:	随机生命:
+Give the particlelife a random variation	给粒子生命期添加随机变化
+Velocity:	速率:
+Normal:	法线:
+Let the mesh give the particle a starting speed	让网格赐予粒子起始速度
+Object:	物体:
+Let the object give the particle a starting speed	让物体赐予粒子起始速度
+Random:	随机:
+Give the startingspeed a random variation	设置起始速度的随机数
+Texture:	纹理:
+Let the texture give the particle a starting speed	让纹理赐予粒子起始速度
+Specify the damping factor	定义阻尼因数
+VGroup:	顶点组:
+Name of vertex group to use for speed control	用来控制速度的顶点组名称
+Texture Emission	纹理发射
+TexEmit	纹理发射
+Use a texture to define emission of particles	使用纹理来定义粒子的发射
+Tex:	纹:
+Specify texture used for the texture emission	定义用于纹理发射的纹理
+Force:	外力:
+Specify the X axis of a continues force	指定连续施加外力的X轴
+Specify the Y axis of a continues force	指定连续施加外力的Y轴
+Specify the Z axis of a continues force	指定连续施加外力的Z轴
+Specify the texture used for force	指定用于外力的纹理
+Specify the X axis of a force, determined by the texture	指定X轴外力,纹理决定
+Specify the Y axis of a force, determined by the texture	指定Y轴外力,纹理决定
+Specify the Z axis of a force, determined by the texture	指定Z轴外力,纹理决定
+Int	强度
+Use texture intensity as a factor for texture force	使用纹理强度作为纹理外力的因数
+RGB	RGB
+Use RGB values as a factor for particle speed vector	使用RGB值作为粒子速度的因数
+Grad	渐变
+Use texture gradient as a factor for particle speed vector	使用纹理渐变作为粒子速度的因数
+Nabla:	Nabla:
+Specify the dimension of the area for gradient calculation	指定渐变计算的范围尺度
+NEW	新建
+Create a new Particle effect	创建一个新的粒子特效
+Delete the effect	删除特效
+Only Mesh Objects can generate particles	只有网格物体才能产生粒子
+RecalcAll	全部重计
+Update all particle systems	更新所有粒子系统
+Emit:	发射:
+Amount:	数量:
+The total number of particles	粒子的整体数量
+Step:	步幅:
+For static duplicators, the Step value skips particles	用于静态复制的,步幅值就是粒子跳跃值
+Frame Frame Life:	生命:
+Specify the life span of the particles	指定粒子的生存时间
+Disp:	显示:
+Percentage of particles to calculate for 3d view	在3D视图中显示粒子的百分比
+From:	从:
+Verts	顶点
+Emit particles from vertices	从顶点发射粒子
+Emit particles from faces	从面发射粒子
+Rand	随机
+Use true random distribution from faces	从面发射的分布随机
+Even	平均
+Use even distribution from faces based on face areas	使用平均分布,基于面的面积
+P/F:	P/F:
+Jitter table distribution: maximum particles per face (0=uses default)	每个面的最大粒子数(0为使用默认)
+Name of vertex group to use	使用的顶点组名称
+Static	静态
+Make static particles (deform only works with SubSurf)	创建静态粒子(只能用SubSurf细分来变形)
+Animated	动画的
+Static particles are recalculated each rendered frame	静态粒子每个渲染帧重新计算
+Specify material used for the particles	指定用于粒子的材质
+Render emitter Mesh also	也渲染网格物体
+Unborn	未出生
+Make particles appear before they are emitted	在他们发射前就显示出粒子
+Died	死亡的
+Make particles appear after they have died	在他们死亡后仍显示出粒子
+Vect	矢量
+Give the particles a direction and rotation	给粒子一个方向和转向
+The amount the Vect option influences halo size	
+Children:	孩子:
+Generation:	产生:
+Current generation of particles	当前粒子的产生
+Num:	数:
+Specify the number of generations of particles that can multiply itself	指定粒子产生次数,他们可以自我繁殖
+Prob:	概率:
+Probability \"dying\" particle spawns a new one.	死亡粒子生出新粒子的概率
+Specify the lifespan of the next generation particles	指定下次产生的粒子的寿命
+Mat:	材质
+Specify the material used for the particles	指定用于粒子的材质
+Fluid Simulation	流体模拟
+Enable	开启
+Sets object to participate in fluid simulation	设置物体参与流体模拟
+Domain	领域
+Bounding box of this object represents the computational domain of the fluid simulation.	此物体的范围框扮演流体模拟的计算范围
+Fluid	流体
+Object represents a volume of fluid in the simulation.	物体在模拟中扮演流体
+Obstacle	障碍物
+Object is a fixed obstacle.	物体为固定的障碍物
+Inflow	流入
+Object adds fluid to the simulation.	物体添加流体到模拟
+Outflow	流出
+Object removes fluid from the simulation.	物体从模拟中移除流体
+Particle	粒子
+Advanced>>	高级>>
+Show advanced domain options.	显示领域的高级选项
+Std	标准
+Show standard domain options.	显示标准的领域选项
+Adv	高级
+Bnd	边界
+Show domain boundary options.	显示领域边界选项
+Perform simulation and output and surface&preview meshes for each frame.	执行模拟并输出每帧的面和预览
+Req. BAKE Memory:	烘培需要内存:
+Resolution:	精度:
+Domain resolution in X,Y and Z direction	领域在X,Y和Z方向的精度
+Preview-Res.:	预览精度:
+Resolution of the preview meshes to generate, also in X,Y and Z direction	预览网格的精度,也是X,Y和Z方向
+Start time:	起始时间:
+Simulation time of the first blender frame.	模拟的第一个关键帧时间
+End time:	结束时间
+Simulation time of the last blender frame.	模拟的结束关键帧时间
+Disp.-Qual.:	显示精度:
+GuiDisplayMode	界面内显示模式
+Geometry 	几何
+Preview 	预览
+Final 	最终
+How to display the fluid mesh in the blender gui.	在Blender图形界面内如何显示流体网格
+RenderDisplayMode	渲染显示模式
+How to display the fluid mesh for rendering.	渲染时如何显示流体网格
+Select Directory (and/or filename prefix) to store baked fluid simulation files in	选择储存烘培流体文件的目录(/或文件名前缀)
+Enter Directory (and/or filename prefix) to store baked fluid simulation files in	输入储存烘培流体文件的目录(/或文件名前缀)
+Gravity:	重力
+Gravity in X direction	X方向的重力
+Gravity in Y direction	Y方向的重力
+Gravity in Z direction	Z方向的重力
+Viscosity	黏性
+Manual 	手动
+Water 	水
+Oil 	油
+Honey 	蜂蜜
+Set viscosity of the fluid to a preset value, or use manual input.	选择设置流体的黏性,或者手动输入
+Value:	值:
+Viscosity setting, value that is multiplied by 10 to the power of (exponent*-1).	黏性设置,乘以10的...次方(例如-1)
+Neg-Exp.:	负指数:
+Negative exponent for the viscosity value (to simplify entering small values e.g. 5*10^-6.	黏性值的负指数,例如5*10^-6
+Realworld-size:	真实世界大小:
+Size of the simulation domain in meters.	模拟领域的大小,单位米
+Gridlevels:	格子级别:
+Number of coarsened Grids to use (set to -1 for automatic selection).	变粗糙格子的数目(设为-1为自动选择)
+Compressibility:	可压缩性
+Allowed compressibility due to gravitational force for standing fluid (directly affects simulation step size).	由于重力作用的压缩变形(直接影响模拟的步幅大小)
+Domain boundary type settings:	领域边界类型设置:
+Noslip	无滑动
+Obstacle causes zero normal and tangential velocity (=sticky). Default for all. Only option for moving objects.	障碍物由于零法线和切向速度(=黏性).默认的只用于移动的物体.
+Part	粒子
+Mix between no-slip and free-slip. Non moving objects only!	混合无滑动和自由滑动,只试用于非移动物体
+Obstacle only causes zero normal velocity (=not sticky). Non moving objects only!	障碍物由于零法线和切向速度(=非黏性).只试用于非移动物体
+PartSlipValue:	粒子滑动值:
+Generate Particles:	产生粒子:
+Amount of particles to generate (0=off, 1=normal, >1=more).	产生的粒子数(0=关闭,1=常规,>1=很多)
+Generate&Use SpeedVecs:	产生并使用向量速度:
+Disable	关闭
+Default is to generate and use fluidsim vertex speed vectors, this option switches calculation off during bake, and disables loading.	默认是产生并使用流体顶点的向量速度,此选项在烘焙期间关闭计算并不能加载
+Initial velocity:	初速度:
+Inflow velocity:	流入速度:
+Fluid velocity in X direction	在X方向的流体速度
+Fluid velocity in Y direction	在Y方向的流体速度
+Fluid velocity in Z direction	在Z方向的流体速度
+Local Inflow Coords	局部流入坐标
+Use local coordinates for inflow (e.g. for rotating objects).	为流入使用局部坐标(例如旋转物体)
+No additional settings as of now...	从现在起无附加设置...
+Part.-Type:	
+Gui	Gui
+Bubble 	泡沫
+Drop 	滴
+Newparts 	新分离
+Float 	浮点数
+Which type of particles to display.	粒子显示的类型
+Drops	点滴
+Size Influence:	大小改变:
+Amount of particle size scaling: 0=off (all same size), 1=full (range 0.2-2.0), >1=stronger.	粒子尺寸缩放值:0=关闭(全部一样大小),1=完全(0.2-2.0范围),>1=更强
+Alpha Influence:	Alpha改变
+Amount of particle alpha change, inverse of size influence: 0=off (all same alpha), 1=full (large particles get lower alphas, smaller ones higher values).	粒子alpha改变的值,与大小相反:0=关闭(都一样的Alpha),1=完全(越大Alpha越小,反之)
+Select object type for simulation	为模拟选择物体类型
+Object not enabled for fluid simulation...	物体不能参与流体模拟
+Only Mesh Objects can participate	只有网格物体可以参与模拟
+Load new audio file	加载新音频文件
+Copy sound	拷贝声音
+Listener	接收器
+Game listener settings:	游戏接收器设置:
+Volume: 	音量:
+Sets the maximum volume for the overall sound	为全部音频设置最大音量
+Game Doppler effect settings:	游戏多普勒效果设置:
+Doppler: 	多普勒:
+Use this for scaling the doppler effect	使用此值来缩放多普勒效果
+Velocity: 	速率:
+Sets the propagation speed of sound	设置音频传播速度
+Sequencer	音序器
+Audio sequencer settings	音频音序器设置
+44.1 kHz	44.1 kHz
+Mix at 44.1 kHz	在44.1 kHz混合
+48.0 kHz	48.0 kHz
+Mix at 48 kHz	在48 kHz混合
+Recalc	重计算
+Recalculate samples	重新计算采样
+Sync	同步
+Use sample clock for syncing animation to audio	使音频同步动画使用采样时钟
+Scrub	擦净
+Scrub when changing frames	当更改帧时擦净
+Main mix	主体混合
+Main (dB): 	主体(dB)
+Set the audio master gain/attenuation in dB	设置音频主控增益/衰减为dB
+Mute	静音
+Mute audio from sequencer	音序器静音
+MIXDOWN	混音
+Create WAV file from sequenced audio	从序列音频创建WAV文件
+Blender Sound block	Blender声音模块
+Make another copy (duplicate) of the current sound	复制一份当前的声音
+Sample: No sample info available.	采样:无采样信息可用
+Select another loaded sample	选择另一个加载的采样
+The sample file used by this Sound	此声音使用的采样文件
+The number of users	使用数
+Pack/Unpack this sample	打包/不打包此采样
+Load sample	加载采样
+Load a different sample file	加载别的采样文件
+Play	播放
+Playback sample using settings below	使用下面的设置回放采样
+Game engine only: Set the volume of this sound	只适用游戏引擎:设置此声音的音量
+Pitch: 	频率:
+Game engine only: Set the pitch of this sound	只适用游戏引擎:设置此声音的频率
+Loop	循环
+Game engine only: Toggle between looping on/off	只适用游戏引擎:循环开关
+PingPong	乒乓
+Game engine only: Toggle between A->B and A->B->A looping	只适用游戏引擎:A->B和A->B->A循环的切换
+3D Sound	三维声音
+Game engine only: Turns 3D sound on	只适用游戏引擎:开启三维声音
+Scale: 	缩放:
+Game engine only: Sets the surround scaling factor for this sound	只适用游戏引擎:设置此声音的环绕缩放
+Change output picture directory	更改输出图的目录
+Change background picture	更改背景图
+Change set Scene	更改设置场景
+SELECT OUTPUT PICTURES	选择输出图片
+SELECT BACKBUF PICTURE	选择后缓冲图
+Set PAL	设置PAL
+Set FULL	设置完整
+Set PAL 16/9	设置PAL16/9
+Set PC	设置PC
+Set Default	设置默认
+Set Panorama	设置全景
+Set NTSC	设置NTSC
+Eint:	边强:
+Sets edge intensity for Toon shading	设置卡通材质的描边强度
+AntiShift	AntiShift
+For unified renderer: reduce intensity on boundaries with identical materials with this number.	统一渲染用:通过同样的材质和这个数缩小边界的密度
+For unified renderer: use old offsets for edges	统一渲染用:使用老偏移
+All	所有
+For unified renderer: also consider transparent faces for toon shading	统一渲染用:同样为卡通材质考虑透明面
+For unified renderer: Colour for edges in toon shading mode.	统一渲染用:卡通材质模式的描边颜色
+Hue:	色调:
+Sat:	Sat:
+Framing:	取景:
+Stretch	伸展
+Stretch or squeeze the viewport to fill the display window	伸展或压缩视图匹配显示窗口
+Expose	曝光
+Show the entire viewport in the display window, viewing more horizontally or vertically	在显示窗口完整显示视图,垂直和水平查看更多
+Letterbox	Letterbox
+Show the entire viewport in the display window, using bar horizontally or vertically	在显示窗口完整显示视图,垂直和水平使用栏
+Set the red component of the bars	设置栏的红色成份
+Set the green component of the bars	设置栏的绿色成份
+Set the blue component of the bars	设置栏的蓝色成份
+Fullscreen:	全屏:
+Bits:	位:
+No Stereo	无立体
+Pageflip	页面翻转
+Syncdouble	双同步
+Anaglyph	浮雕
+Enables anaglyph (Red-Blue) stereo method	开启浮雕(红-蓝)立体方式
+Side by Side	并排
+Enables side by side left and right images	开启并排左右图像
+V Interlace	V隔行扫描
+Enables interlaced vertical strips for autostereo display	为自动立体显示开启垂直隔行扫描
+MPEG-1	MPEG-1
+MPEG1	MPEG1
+MP2	MP2
+Frameserver	Frameserver
+OpenEXR	OpenEXR
+TIFF	TIFF
+Threads	双线程
+Enable/Disable render in two threads	开关双线程渲染
+Dither:	抖动:
+The amount of dithering noise present in the output image (0.0 = no dithering)	输出图像时的噪波抖动数(0.0=无抖动)
+Enable Toon edge shading	开启卡通描边
+Free Tex Images	释放纹理图像
+Frees all Images used by Textures after each render	每次渲染后释放所有纹理使用的图像
+Rendering Engine 	渲染引擎
+Blender Internal 	Blender内置
+YafRay 	YafRay 
+11	11
+16	16
+Bf:	BF:
+Octree resolution 	八叉树精度
+64 	64
+128 	128
+256 	256
+512 	512
+Octree resolution for ray tracing	光线追踪的八叉树精度
+EnvMap	环境图
+Ray	追踪
+Set sampling filter for antialiasing	设置抗锯齿的采样过滤
+Sets the filter size	设置过滤大小
+Do Composite	渲染合成
+Uses compositing nodes for output rendering	使用合成节点作为输出渲染
+Video	视频
+Preset	预设
+output file format	输出文件类型
+Bitrate	比特率
+Video bitrate(kb/s)	视频比特率(kb/s)
+Min Rate	最小比率
+Rate control: min rate(kb/s)	比率控制:最小比率(kb/s)
+Max Rate	最大比率
+Rate control: max rate(kb/s)	比率控制:最大比率(kb/s)
+Mux Rate	混比率
+Mux rate (bits/s(!))	混比率(位/s(!))
+Output file format preset selection	输出文件格式预设选择
+GOP Size	GOP尺寸
+Distance between key frames	关键帧之间的距离
+Buffersize	缓冲大小
+Rate control: buffer size (kb)	比率控制:缓冲大小(kb)
+Mux PSize	混包裹大小
+Mux packet size (byte)	混包裹大小(字节)
+Autosplit Output	自动切割输出
+Autosplit output at 2GB boundary.	2GB位置自动切割输出
+Codec	编码
+FFMpeg codec to use	使用FFMpeg编码
+Audio	音频
+Multiplex audio	多元音频
+Interleave audio with the output video	在输出视频内插入音频
+Audio bitrate(kb/s)	音频比特率(kb/s)
+MaxSize:	最大大小:
+Maximum size per frame to save in an SGI movie	SGI电影种保存的每帧的最大大小
+Cosmo	Cosmo
+Attempt to save SGI movies using Cosmo hardware	尝试使用Cosmo硬件保存SGI电影
+Half	一半
+Use 16 bits float 'Half' type	使用16位浮动'一半'类型
+Zbuf	Z缓冲
+Save the zbuffer as 32 bits unsigned int	作为无正负32位保存为Z缓冲
+When animation render, save JPG preview images in same directory	当动画渲染时,保存JPG预览图在相同目录
+Codec 	编码 
+None 	无 
+Pxr24 (lossy) 	Pxr24 (有损)
+ZIP (lossless) 	ZIP (无损)
+PIZ (lossless) 	PIZ (无损)
+RLE (lossless) 	RLE (无损)
+Set codec settings for OpenEXR	设置OpenEXR编码设置
+Frs/sec:	帧/秒:
+RGBA	RGBA
+PANO	全景
+YafRay GI	YafRay GI
+Method	方式
+GiMethod 	GI方式
+SkyDome 	天幕
+Full 	完全
+Global Illumination Method	全局光照方式
+GiQuality 	GI质量
+Low 	低
+Medium 	中
+High 	高
+Higher 	更高
+Best 	最好
+Use Blender AO settings 	使用Blender的AO设置
+Global Illumination Quality	全局光照质量
+EmitPwr:	发射能量:
+arealight, material emit and background intensity scaling, 1 is normal	面光源,材质发射和背景强度缩放,1是常规
+GI Pwr:	GI能量:
+GI indirect lighting intensity scaling, 1 is normal	GI间接光照强度的缩放,1是常规
+Depth:	深度:
+Number of bounces of the indirect light	间接光照的反弹数
+CDepth:	焦散深度:
+Number of bounces inside objects (for caustics)	物体内部的反弹次数(焦散用)
+Photons	光子
+Use global photons to help in GI	使用全局光子帮助GI
+Cache	缓冲
+Cache occlusion/irradiance samples (faster)	缓冲occlusion/irradiance采样(速度会快点)
+NoBump	无凹凸
+Don't use bumpnormals for cache (faster, but no bumpmapping in total indirectly lit areas)	缓冲时不使用法线凹凸(更快点,但是没有凹凸贴图产生的间接光照)
+Cache parameters:	缓冲参数:
+ShadQu:	阴影质量:
+Sets the shadow quality, keep it under 0.95 :-) 	设置阴影的质量,最好在0.95以下^_^
+Prec:	Prec:
+Maximum number of pixels without samples, the lower the better and slower	没有采样的象素的最大数量,越小越好但越慢
+Ref:	Ref:
+Threshold to refine shadows EXPERIMENTAL. 1 = no refinement	Threshold to refine shadows EXPERIMENTAL.1=无精度
+Photon parameters:	光子参数
+Number of photons to shoot	要发射的光子数量
+Radius:	半径:
+Radius to search for photons to mix (blur)	搜索粒子进行混合的半径(模糊)
+MixCount:	混合数:
+Number of photons to mix	要混合的光子数量
+Tune Photons	调节光子
+Show the photonmap directly in the render for tuning	在渲染中直接显示可调节的光子贴图
+YafRay	YafRay
+xml	xml
+Export to an xml file and call yafray instead of plugin	导出一个xml文件并执行yafray而不是插件
+Bi 	偏
+Shadow ray bias to avoid self shadowing	阴影光线的偏移避免自我投影
+Raydepth 	追踪深度
+Maximum render ray depth from the camera	从相机渲染的最大光线追踪深度
+Gam 	伽马
+Gamma correction, 1 is off	伽马修正,1是关闭
+Exp 	曝光
+Exposure adjustment, 0 is off	曝光调节,0是关闭
+Processors:	处理器:
+Number of processors to use	使用处理器的数目
+Auto AA	自动AA
+Set AA using OSA and GI quality, disable for manual control	使用OSA和GI质量设置AA(抗锯齿),手动被关闭
+Clamp RGB	Clamp RGB
+For AA on fast high contrast changes. Not advisable for Bokeh! Dulls lens shape detail.	在快速高对比变更时AA用,对于Bokeh(焦外成像)是不明智的!镜头细节变少.
+AA Passes 	AA次数
+Number of AA passes (0 is no AA)	AA(抗锯齿)次数(0是关闭AA)
+AA Samples 	AA采样数
+Number of samples per pass	每次的采样数
+Psz 	Psz 
+AA pixel filter size	AA象素过滤大小
+Thr 	极限
+AA threshold	AA(抗锯齿)极限
+Render Layers	渲染层
+Scene:	场景:
+Choose Active Render Layer	选择激活的渲染层
+Single	单个
+Only render this layer	只渲染这个层
+Deletes current Render Layer	删除当前渲染层
+Layer:	层:
+Render Solid faces in this Layer	这个层渲染为固体面
+Ztra	Z透明
+Render Z-Transparent faces in this Layer	这个层渲染为Z-Transparent(Z透明)面
+Render Halos in this Layer	这个层渲染光晕
+Strand	线
+Render Particle Strands in this Layer	这个层的粒子渲染为线
+Passes:	次数:
+Combined	组合的
+Deliver full combined RGBA buffer	Deliver full combined RGBA buffer
+Deliver Z values pass	Deliver Z values pass
+Vec	向量
+Deliver Vector pass	Deliver Vector pass
+Col	颜色
+Deliver shade-less Color pass	Deliver shade-less Color pass
+Diff	散射
+Deliver Diffuse pass	Deliver Diffuse pass
+Spec	反光
+Deliver Specular pass	Deliver Specular pass
+Shad	阴影
+Deliver Shadow pass	Deliver Shadow pass
+AO	AO
+Deliver AO pass	Deliver AO pass
+Deliver Raytraced Mirror and Transparent pass	Deliver Raytraced Mirror and Transparent pass
+Nor	法线
+Deliver Normal pass	Deliver Normal pass
+Map Old:	老贴图:
+Specify old mapping value in frames	指定帧里的老贴图值
+Map New:	新贴图:
+Specify the start frame of the animation	指定动画的起始帧
+Specify the end frame of the animation	指定动画的末尾帧
+Select Script Link	选择脚本链接
+Add scriptlink	添加脚本链接
+Delete scriptlink	删除脚本链接
+Script links for this event	此事件的脚本链接
+Total / Active Script link (LeftMouse + Drag to change)	总计/激活脚本链接(鼠标左键+拖拽来更改)
+Delete the current Script link	删除当前脚本链接
+Scene Script link	场景脚本链接
+Selected Script link	选择的脚本链接
+Scriptlinks	脚本链接
+Enable Script Links	开启脚本链接
+Enable execution of all assigned Script links	开启所有分配的脚本链接执行
+Displays Object script links	显示物体脚本链接
+Displays Material script links 	显示材质脚本链接
+Displays World script links	显示世界脚本链接
+Displays Camera script links	显示相机脚本链接
+Displays Lamp script links	显示灯光脚本连接
+Subtract	减去
+Multiply	叠加
+Overlay	覆盖
+Divide	隔开
+Darken	变暗
+Lighten	加亮
+Load image	加载图像
+Default texture vars	默认纹理值
+Browse image	浏览图像
+SELECT PLUGIN	选择插件
+Plugin	插件
+Plugin 	插件 
+Load Plugin	加载插件
+Magic	魔法
+Magic 	魔法 
+Sets the depth of the pattern	设置图案深度
+Turbulence:	紊乱度:
+Sets the strength of the pattern	设置图案的紊乱度
+Blend	混合
+Blend 	混合
+Creates a linear progresion	创建一个线性渐变
+Quad	四方
+Creates a quadratic progression	创建一个四方渐变
+Ease	减弱
+Creates a progression easing from one step to the next	创建一个渐变,从一个步幅到另一个步幅的衰减
+Flip XY	翻转XY
+Flips the direction of the progression 90 degrees	90度翻转渐变的方向
+Diag	斜角
+Use a diagonal progression	使用斜角渐变
+Use progression with the shape of a sphere	以球形渐变
+Use a quadratic progression with the shape of a sphere	使用球形进行两次渐变
+Radial	半径
+Use a polar progression	使用两极渐变
+Wood	木纹
+Wood 	木纹 
+Bands	带子
+Uses standard wood texture in bands	在带子中使用标准的木头纹理
+Rings	环状
+Uses wood texture in rings	在环状中使用标准的木头纹理
+BandNoise	带子噪波
+Adds noise to standard wood	给标准木纹添加噪波
+RingNoise	环状噪波
+Adds noise to rings	给环状添加噪波
+Sin	正弦
+Uses a sine wave to produce bands	使用一个正弦波来产生带子
+Saw	锯齿
+Uses a saw wave to produce bands	使用一个锯齿波来产生带子
+Tri	三角
+Uses a triangle wave to produce bands	使用一个三角波来产生带子
+Soft noise	软噪波
+Generates soft noise	产生软噪波
+Hard noise	硬噪波
+Generates hard noise	产生硬噪波
+NoiseSize :	噪波大小:
+Sets scaling for noise input	设置噪波输入的缩放
+Sets the turbulence of the bandnoise and ringnoise types	设置带噪波和环噪波类型的紊乱度
+Noise Basis	噪波类型
+Sets the noise basis used for turbulence	设置用于紊乱的噪波类型
+Nabla: 	Nabla: 
+Defines size of derivative offset used for calculating normal	定义用于计算法线的偏移大小
+Stucci	Stucci
+Plastic	塑料
+Uses standard stucci	使用标准stucci
+Wall In	内墙
+Creates Dimples	创建涟漪
+Wall Out	外墙
+Creates Ridges	创建山脊
+Sets the depth of the stucci	设置stucci深度
+Marble	大理石
+Marble 	大理石
+Soft	软
+Uses soft marble	使用软大理石
+Sharp	锐化
+Uses more clearly defined marble	更清晰的定义大理石
+Sharper	更锐化
+Uses very clearly defined marble	非常清晰的定义大理石
+Uses a sine wave to produce bands.	使用一个正弦波来产生带子.
+NoiseDepth:	噪波深度:
+Sets the depth of the marble calculation	设置大理石计算的深度
+Sets the turbulence of the sine bands	设置正弦带的紊乱度
+Clouds	云
+Clouds 	云
+Uses standard noise	使用标准噪波
+Color	颜色
+Lets Noise return RGB value	让噪波返回RGB值
+Sets the depth of the cloud calculation	设置云计算的深度
+Musgrave	Musgrave
+Sets Musgrave type	设置Musgrave类型
+H: 	最高
+Sets the highest fractal dimension	设置最高的不规则尺度
+Lacu: 	Lacu:
+Sets the gap between succesive frequencies	设置渐次频率之间的间隔
+Octs: 	Octs: 
+Sets the number of frequencies used	设置使用的频率数
+Ofst: 	Ofst: 
+Sets the fractal offset	设置不规则偏移
+Gain: 	Gain: 
+Sets the gain multiplier	设置增进
+iScale: 	iScale: 
+Scales intensity output	缩放输出强度
+NoiseSize: 	噪波大小:
+Distorted Noise	扭曲的噪波
+DistAmnt: 	扭曲数:
+Sets amount of distortion	设置扭曲数
+Distortion Noise	扭曲噪波
+Sets the noise basis which does the distortion	设置噪波的扭曲
+Sets the noise basis to distort	设置噪波扭曲的基本
+Voronoi	泰森多边形
+Voronoi 	泰森多边形
+Only calculate intensity	只计算强度
+Col1	色1
+Color cells by position	以位置的颜色单元
+Col2	色2
+Same as Col1 + outline based on F2-F1	和色1一样+基于F2-F1的轮廓
+Col3	色3
+Same as Col2 * intensity	和色2一样*强度
+Distance Metric	公制距离
+Sets the distance metric to be used	设置被使用的公制距离
+Exp: 	指数:
+Sets minkovsky exponent	设置minkovsky指数
+Size: 	大小: 
+W1: 	W1: 
+Sets feature weight 1	
+W2: 	W2: 
+Sets feature weight 2	
+W3: 	W3: 
+Sets feature weight 3	
+W4: 	W4: 
+Sets feature weight 4	
+Envmap	环境贴图
+Envmap 	环境贴图
+Calculates environment map only once	只计算一次环境贴图
+Calculates environment map at each rendering	每次渲染都计算环境贴图
+Loads saved environment map from disk	从盘里加载保存的环境贴图
+Selects an existing environment map or creates new	选择一个已有的环境贴图或者创建新的
+Displays environment map name: click to change	显示环境贴图名称:点击更改
+Displays number of users of environment map: click to make single user	显示环境贴图的使用数:点击成单独使用
+Reload	重载
+Reloads saved environment map	从新载入保存的环境贴图
+Toggles Packed status of this environment map	此环境贴图是否打包状态的切换
+Load Image	载入图像
+Loads saved environment map - file select	加载保存的环境贴图-文件选择
+Free Data	释放数据
+Releases all images associated with this environment map	释放所有与此环境贴图关联的图像
+Save EnvMap	保存环贴
+Saves current environment map	保存当前环境贴图
+Free all EnvMaps	释放全部环贴
+Frees all rendered environment maps for all materials	释放所有的为所有材质渲染的环境贴图
+CubeRes	CubeRes
+Sets the pixel resolution of the rendered environment map	设置渲染的环境贴图的象素精度
+Sets the number of times a map will be rendered recursively mirror effects	设置贴图在反射效果种被递归次数
+Filter :	过滤:
+Adjusts sharpness or blurriness of the reflection	调节反射的锐化度或者模糊度
+ClipEnd	剪辑末
+Sets end value for clipping beyond which objects are not visible to map	设置远处剪辑的值，使远处的物体不可见
+Don't render layer:	不渲染层:
+Toggles layer visibility to environment map	切换环境贴图在层的可见性
+Anim and Movie	动画和电影
+Copies number of frames in movie file to Frames: button	电影文件的副本帧数到帧数:按钮
+Number of frames in movie file	在电影中的帧数
+Frames :	帧数:
+Sets the number of frames of a movie to use and activates animation options	设置一个影片内使用的帧数和激活动画选项
+Offset :	偏移:
+Offsets the number of the first movie frame to use in the animation	在动画被使用的第一个电影帧的偏移数
+Fie/Ima:	Fie/Ima:
+Sets the number of fields per rendered frame	每个被渲染的帧的场数
+StartFr:	起始帧:
+Sets the starting frame of the movie to use in animation	设置在动画中被使用的开始帧
+Len:	长:
+Sets the number of movie frames to use in animation: 0=all	设置在动画中被使用的电影帧数:0=全部
+Fra:	帧:
+Montage mode: frame start	蒙太奇模式:帧开始
+Montage mode: amount of displayed frames	蒙太奇模式:显示的帧数
+Toggles looping of animated frames	循环动画的帧
+Image	图像
+Image 	图像 
+MipMap	MipMap
+Generates and uses mipmaps	生成和使用mipmap
+Enable Gauss filter to sample down mipmaps	使用高斯过滤来降低mipmap采样
+Interpol	插补
+Interpolates pixels using Area filter	在使用区域过滤时插补象素
+Rot90	转90
+Actually flips X and Y for rendering, rotates and mirrors	翻转x和y渲染，旋转和镜像
+Anti	抗锯齿
+Toggles Image anti-aliasing	图像抗锯齿
+Movie	电影
+Click to enable movie frames as Images	点击开启电影帧作为图像
+UseAlpha	用Alpha
+Click to use Image's alpha channel	点击使用图像的alpha通道
+CalcAlpha	计算Alpha
+Click to calculate an alpha channel based on Image RGB values	点击计算基于图像rgb值的alpha通道
+NegAlpha	反Alpha
+Click to invert the alpha values	点击反转alpha值
+Click to enable use of fields in Image	点击使用图像内的场
+Standard Field Toggle	标准场切换
+Selects an existing texture or creates new	选择一个已有的纹理或者创建新的
+Displays name of the Image file: click to change	显示图像文件的名字:点击更改
+Unlink Image block from Texture	不连接来自纹理的图像块
+Displays number of users of texture	显示纹理使用数
+Reloads Image	重载图像
+Toggles Packed status of this Image	是否打包此图像
+Click to load an Image	点击加载一个图像
+Sets the filter size used by mipmap and interpol	设置被mipmap 和 interpol使用的过滤大小
+Normal Map	法线贴图
+Use image RGB values for normal mapping	使用图像的RGB值作为法线贴图
+Extend	扩展
+Extends the colour of the edge pixels	扩展边缘象素的颜色
+Clip	剪辑
+Sets alpha 0.0 outside Image edges	设置图像边缘外的alpha为0.0,可以粘贴小logo到大物体哦
+立方剪辑	ClipCube
+Sets alpha to 0.0 outside cubeshaped area around Image	图像的立方形区域外围的alpha设置为0.0
+Repeat	重复
+Causes Image to repeat horizontally and vertically	设置图像水平和垂直的重复
+Checker	棋盘
+Causes Image to repeat in checker pattern	以棋盘模式重复图像
+Xrepeat:	X重复:
+Sets a repetition multiplier in the X direction	设置X方向的重复数
+Yrepeat:	Y重复:
+Sets a repetition multiplier in the Y direction	设置Y方向的重复数
+Sets odd checker tiles	设置奇数棋盘格
+Sets even checker tiles	设置偶数棋盘格
+Mortar:	Mortar:
+Set checkers distance (like mortar)	设置棋盘距离
+MinX 	MinX 
+Sets minimum X value to crop Image	设置切割图像的最小X值
+MinY 	MinY 
+Sets minimum Y value to crop Image	设置切割图像的最小Y值
+MaxX 	MaxX 
+Sets maximum X value to crop Image	设置切割图像的最大X值
+MaxY 	MaxY 
+Sets maximum Y value to crop Image	设置切割图像的最大Y值
+Add colorband	添加颜色条
+Delete colorband	删除颜色条
+Adds a new colour position to the colorband	给颜色条添加新的颜色位置
+Cur:	当前:
+Displays the active colour from the colorband	显示颜色条内激活的颜色
+Deletes the active position	删除激活的位置
+Sets interpolation type 'Ease' (quadratic) 	设置插补类型'Ease'(二次方程)
+Sets interpolation type Cardinal	设置插补类型基数
+Sets interpolation type Linear	设置插补类型线性
+Sets interpolation type B-Spline	设置插补类型B－线样条
+Pos	位置
+Sets the position of the active colour	设置激活颜色的位置
+Sets the alpha value for this position	设置此位置的alpha值
+Sets the red value for the active colour	设置激活颜色的红色值
+Sets the green value for the active colour	设置激活颜色的绿色值
+Sets the blue value for the active colour	设置激活颜色的蓝色值
+Colors	颜色
+Colorband	颜色条
+Toggles colorband operations	开关颜色条操作
+Changes the red value of the texture	更改纹理的红色值
+Changes the green value of the texture	更改纹理的绿色值
+Changes the blue value of the texture	更改纹理的蓝色值
+Changes the brightness of the colour or intensity of a texture	更改颜色亮度或者纹理强度
+Contr	对比
+Changes the contrast of the colour or intensity of a texture	更改颜色对比度或者纹理强度
+Click to select texture channel	点击选择纹理通道
+Texture Type	纹理类型
+Texture Type 	纹理类型 
+Select texture type	选择纹理类型
+Mat	材质
+Displays the textures of the active material	显示激活材质的纹理
+World	世界
+Displays the textures of the world block	显示世界模块的纹理
+Displays the textures of the selected lamp	显示选择的灯的纹理
+Default Vars	默认值
+Sets all values to defaults	设置所有值到默认
+Add radiosity	添加光能传递
+Delete radiosity	删除光能传递
+Radiosity add mesh	光能传递添加网格
+Radiosity replace mesh	光能传递替换网格
+Calculation	计算
+GO	开始
+SubSh Patch:	SubSh Patch:
+Sets the number of times the environment is tested to detect pathes	设置环境尝试探测路径的次数
+SubSh Element:	SubSh Element:
+Sets the number of times the environment is tested to detect elements	设置环境尝试探测物体的次数
+Subdiv Shoot Element	细分发射物体
+For pre-subdivision, Detects high energy changes and subdivide Elements	
+Subdiv Shoot Patch	
+For pre-subdivision, Detects high energy changes and subdivide Patches	
+MaxEl:	MaxEl:
+Sets the maximum allowed number of elements	设置允许元素的最大数量
+Max Subdiv Shoot:	Max Subdiv Shoot:
+Sets the maximum number of initial shoot patches that are evaluated	
+FaceFilter	面过滤
+Forces an extra smoothing	强制额外平滑
+Element Filter	元素过滤
+Filters elements to remove aliasing artefacts	过滤元素来减少混浊
+RemoveDoubles	移除双点
+Joins elements which differ less than 'Lim'	合并小于'Limit'距离的元素
+Lim:	Lim:
+Sets the range for removing doubles	设置移除双点的距离
+Radio Tool	辐射工具
+Collect Meshes	收集网格
+Converts selected visible meshes to patches	转换选择的可见网格为片
+Free Radio Data	释放辐射数据
+Releases all memory used by Radiosity	释放辐射所使用的全部内存
+Replace Meshes	替换网格
+Converts meshes to Mesh objects with vertex colours, changing input-meshes	把网格物体转换为定点着色的网格物体，更改输入的网格物体
+Add new Meshes	添加新网格
+Converts meshes to Mesh objects with vertex colours, unchanging input-meshes	把网格物体转换为定点着色的网格物体，不更改输入的网格物体
+Enables wireframe drawmode	开启线框绘制模式
+Enables solid drawmode	开启实体绘制模式
+Gour	高德
+Enables Gourad drawmode	开启高德阴影模式
+ShowLim	显示极限
+Draws patch and element limits	显示片和元素极限
+Draws limits differently	不同地显示极限
+ElMax:	ElMax:
+Sets maximum size of an element	设置元素的最大尺寸
+ElMin:	ElMin:
+Sets minimum size of an element	设置元素的最小尺寸
+PaMax:	PaMax:
+Sets maximum size of a patch	设置片的最大尺寸
+PaMin:	PaMin:
+Sets minimum size of a patch	设置片的最小尺寸
+Limit Subdivide	细分限制
+Subdivides patches	细分patch
+Radio Render	辐射渲染
+Hemires:	Hemires:
+Sets the size of a hemicube	设置hemicube的大小
+Max Iterations:	最大反复:
+Limits the maximum number of radiosity rounds	光能传递回环的最大次数
+Mult:	Mult:
+Mulitplies the energy values	能量值的增数
+Changes the contrast of the energy values	更改能量值的对比度
+Convergence:	集中:
+Sets the lower threshold of unshot energy	设置未射到能量区域的较低极限
+Unlink world texture	不连接世界纹理
+Paste mapping settings	粘贴贴图社火子
+Texture and Input	纹理和输入
+Map To	贴图到
+Stencil	蜡纸
+Sets the texture mapping to stencil mode	设置纹理贴图为蜡纸模式
+Neg	反
+Inverts the values of the texture to reverse its effect	反转纹理的值来达到反效果
+No RGB	无RGB
+Converts texture RGB values to intensity (gray) values	转换纹理的RGB值为亮度(灰度)值
+The default color for textures that don't return RGB	不返回RGB的纹理的默认颜色
+DVar 	DVar 
+The default value for textures to mix with values (not RGB)	和值混合的纹理的默认值(非RGB)
+Causes the texture to affect the colour progression of the background	更改纹理来影响背景颜色的级别
+Hori	地平
+Causes the texture to affect the colour of the horizon	更改纹理来影响地平线的颜色
+ZenUp	ZenUp
+Causes the texture to affect the colour of the zenith above	更改纹理来影响天顶上的颜色
+ZenDo	ZenDo
+Causes the texture to affect the colour of the zenith below	更改纹理来影响天顶下的颜色
+Texture blending mode	纹理混合模式
+Col  	色
+Sets the amount the texture affects colour values	设置纹理影响颜色值
+Nor  	法
+Sets the amount the texture affects normal values	设置纹理影响法线值
+Var  	值
+Sets the amount the texture affects other values	设置纹理影响其它值
+Texture channel	纹理通道
+TE:	TE:
+Displays name of the texture block: click to change	显示纹理的名称:点击更改
+Displays number of users of texture: click to make single user	显示纹理的用户数:点击成单独用户
+Auto-assigns name to texture	自动给纹理指定名字
+Erases link to texture	删除纹理连接
+Add New	添加新的
+Adds a new texture datablock	添加新的纹理模块
+Copies the mapping settings to the buffer	拷贝贴图设置到缓存
+Pastes the mapping settings from the buffer	从缓存粘贴贴图设置
+Uses view vector for the texture coordinates	使用视图向量来作为文理的坐标
+Global	全局
+Uses global coordinates for the texture coordinates (interior mist)	使用全局坐标作为纹理坐标(内部薄雾)
+AngMap	角度映射
+Uses 360 degree angular coordinates, e.g. for spherical light probes	使用360度角坐标,比如用于球形光照探针
+For 360 degree panorama sky, spherical mapped, only top half	用于360度全景天空,球形映射,只有顶半部份
+For 360 degree panorama sky, cylindrical mapped, only top half	用于360度全景天空,圆柱映射,只有顶半部份
+Uses linked object's coordinates for texture coordinates	使用连接的物体坐标作为纹理坐标
+dX	dX
+Fine tunes texture mapping X coordinate	
+dY	dY
+Fine tunes texture mapping Y coordinate	
+dZ	dZ
+Fine tunes texture mapping Z coordinate	
+sizeX	X大小
+Sets scaling for the texture's X size	设置纹理的X尺寸缩放
+sizeY	Y大小
+Sets scaling for the texture's Y size	设置纹理的Y尺寸缩放
+sizeZ	Z大小
+Sets scaling for the texture's Z size	设置纹理的Z尺寸缩放
+Mist / Stars / Physics	雾/星空/物理
+Grav 	重力
+Sets the gravitation constant of the game world	设置游戏引擎的重力常数
+Toggles mist simulation	切换雾效计算
+Qua	Qua
+Mist uses quadratic progression	使用二次方级数薄雾
+Mist uses linear progression	使用线性级数薄雾
+Sqr	Sqr
+Mist uses inverse quadratic progression	使用反二次方级数薄雾
+Specifies the starting distance of the mist	指定薄雾的开始距离
+Di:	Di:
+Specifies the depth of the mist	定义薄雾的深度
+Hi:	Hi:
+Specifies the factor for a less dense mist with increasing height	定义渐增高度形式薄雾的因数
+Misi 	强度 
+Sets the mist intensity	设置雾强度
+Stars	星星
+Toggles starfield generation	开关星空产生
+StarDist:	星距:
+Specifies the average distance between any two stars	指定任意两星星之间的平均距离
+MinDist:	MinDist:
+Specifies the minimum distance to the camera for stars	定义星星到相机的最小距离
+Specifies the average screen dimension of stars	定义星星的平均屏幕单元
+Colnoise:	颜色噪音:
+Randomizes starcolour	随机星星颜色
+Amb Occ	Amb Occ
+Ambient Occlusion	Ambient Occlusion
+Toggles ambient occlusion	切换ambient occlusion
+Samples:	采样:
+Sets the number of samples used for AO  (actual number: squared)	设置用于AO的采样数(实数:自乘)
+Random Sampling	随机采样
+When enabled, total random sampling will be used for an even noisier effect	当开启后，总计随机采样将被用于连贯的噪音效果
+Sets length of AO rays, defines how far away other faces give occlusion effect	设置AO线的长度,定义离使用occlusion效果的面的距离
+Use Distances	使用距离
+When enabled, distances to objects will be used to attenuate shadows	一旦使用,到物体的距离被用来削弱影子
+DistF:	DistF:
+Distance factor, the higher, the 'shorter' the shadows	距离因数,越高,影子越简短
+adds light/shadows	添加灯/阴影
+subtracts light/shadows (needs at least one normal light to make anything visible)	减去光照/影子(至少需要一盏常规灯使得物体可见)
+Both	两者
+both lightens & darkens	发亮和变暗同时
+Plain	白色
+Plain diffuse energy (white)	白色漫反射能量
+Sky Color	天空色
+Use horizon and zenith color for diffuse energy	使用地平线和天顶颜色作为漫反射能量
+Sky Texture	天空纹理
+Does full Sky texture render for diffuse energy	使用整个天空纹理渲染作为漫反射能量
+Energy:	能量
+Sets global energy scale for AO	设置AO的全局能量缩放
+Bias:	Bias:
+Sets bias to prevent smoothed faces to show banding (in radians)	设置偏移防止平滑面产生条状色(弧度)
+HoR 	HoR 
+Sets the amount of red colour at the horizon	设置地平线的红色值
+HoG 	HoG 
+Sets the amount of green colour at the horizon	设置地平线的绿色值
+HoB 	HoB 
+Sets the amount of blue colour at the horizon	设置地平线的蓝色值
+ZeR 	ZeR 
+Sets the amount of red colour at the zenith	设置天顶的红色值
+ZeG 	ZeG 
+Sets the amount of green colour at the zenith	设置天顶的绿色值
+ZeB 	ZeB 
+Sets the amount of blue colour at the zenith	设置天顶的蓝色值
+AmbR 	AmbR 
+Sets the amount of red ambient colour	设置环境色的红色值
+AmbG 	AmbG 
+Sets the amount of green ambient colour	设置环境色的绿色值
+AmbB 	AmbB 
+Sets the amount of blue ambient colour	设置环境色的蓝色值
+Sets amount of exponential color correction for light	设置光照颜色校正数
+Range 	范围
+Sets the color amount that will be mapped on color 1.0	设置将被映射的颜色值为1.0
+Real	真实
+Renders background with a real horizon	使用真实地平线渲染背景
+Renders background with natural progression from horizon to zenith	使用从地平线到顶点的自然级数渲染背景
+Paper	纸
+Flattens blend or texture coordinates	平摊混合或者纹理坐标
+The default value the textures uses to mix with	用于纹理混合的默认值
+Lets the texture affect the basic colour of the lamp	使用纹理影响灯光的基本颜色
+Glob	全局
+Uses global coordinates for the texture coordinates	使用全局坐标作为纹理坐标
+Uses view coordinates for the texture coordinates	使用视图坐标作为纹理坐标
+Shadow and Spot	影子和聚光
+Ray Shadow	光线影子
+Use ray tracing for shadow	影子使用光线追踪
+Buf.Shadow	缓冲影子
+Lets spotlight produce shadows using shadow buffer	让聚光灯使用影子缓冲产生影子
+OnlyShadow	只有影子
+Causes light to cast shadows only without illuminating objects	光照只产生的影子,不照明物体
+Square	方形
+Sets square spotbundles	设置为方形光束
+Renders spotlight with a volumetric halo	使用体积光晕渲染聚光灯
+SpotSi 	
+Sets the angle of the spotlight beam in degrees	
+SpotBl 	
+Sets the softness of the spotlight edge	
+HaloInt 	光晕强度
+Sets the intensity of the spotlight halo	设置聚光灯光晕的强度
+ShadowBufferSize:	影子缓冲大小:
+Sets the size of the shadow buffer to nearest multiple of 16	
+Apply Box filter for shadowbuffer	影子缓冲使用方形过滤
+Tent	
+Apply Tent filter for shadowbuffer	
+Apply Gauss filter for shadowbuffer	
+SubSamples: 1	
+Amount of lampbuffer subsamples, a value of larger than 1 halves the shadowbuffer size	
+Amount of lampbuffer subsamples, this halves the actual shadowbuffer size	
+Amount of lampbuffer subsamples, this halves the shadowbuffer size	
+ClipSta:	ClipSta:
+Sets the shadow map clip start: objects closer will not generate shadows	设置影子映射的起始位置:近于这个值的物体将不产生影子
+ClipEnd:	ClipEnd:
+Sets the shadow map clip end beyond which objects will not generate shadows	设置影子映射的结束位置:远于这个值的物体将不产生影子
+Sets the number of shadow map samples	设置影子映射采样数量
+Halo step:	光晕步幅:
+Sets the volumetric halo sampling frequency	设置体积光晕采样的发射频率
+Sets the shadow map sampling bias	设置影子映射采样偏移
+Soft:	Soft:
+Sets the size of the shadow sample area	设置影子采样区域的大小
+Sets the amount of samples taken extra (samp x samp)	
+Sets the amount of samples taken extra (samp x samp x samp)	
+SamplesX:	SamplesX:
+Sets the amount of X samples taken extra	
+SamplesY:	SamplesY:
+Sets the amount of Y samples taken extra	
+SamplesZ:	SamplesZ:
+Sets the amount of Z samples taken extra	
+Umbra	本影
+Emphasis parts that are fully shadowed	强调完全阴影的部分
+Dither	抖动
+Use 2x2 dithering for sampling	使用2x2抖动采样
+Use noise for sampling	采样使用噪波
+Yafray: Shadow and Photons	Yafray: 影子和光子
+Use QMC	使用QMC
+Use QMC sampling (sometimes visible patterns)	使用QMC采样(可见度提高)
+Angle 	角度
+Sets the angle of the photonlight beam in degrees	设置光子等光束的角度
+photons:	光子:
+Maximum number of photons to shoot	最大发射的光子数
+search:	搜索:
+Number of photons to mix (blur)	被混合的光子数量(模糊)
+depth:	深度:
+Maximum caustic bounce depth	最大焦散反弹深度
+Blur:	模糊:
+Amount of caustics blurring (also depends on search)	焦散模糊数(也依靠于search搜索)
+Lets light produce shadows using shadow buffer	使用影子缓存来产生影子
+GloInt:	GloInt:
+Sets light glow intensity, 0 is off	设置灯光的光辉强度,0是关闭
+GloOfs:	GloOfs:
+Sets light glow offset, the higher, the less 'peaked' the glow	设置灯光光辉偏移,越高光辉越尖锐
+GlowType:	光辉类型:
+Sets light glow type	设置灯光光辉类型
+Sets the size of the shadow buffer	设置影子缓存的尺寸
+Sets the radius of the lightsource, 0 is same as pointlight	设置光源的半径,0作为点光源
+Sets the distance value at which light intensity is half	设置灯光强度减半的距离值
+Shape 	外形
+Square 	四方
+Rect 	长方
+Cube 	方体
+Box 	盒子
+SizeX 	X大小
+Area light size X, doesn't affect energy amount	面光源的X大小，不影响能量值
+SizeY 	Y大小
+Area light size Y, doesn't affect energy amount	面光源的Y大小，不影响能量值
+SizeZ 	Z大小
+Area light size Z, doesn't affect energy amount	面光源的Z大小，不影响能量值
+Area light size, doesn't affect energy amount	面光源的大小，不影响能量值
+Uses inverse quadratic proportion for light attenuation	使用二次方比例进行灯光衰减
+Sets light intensity to zero for objects beyond the distance value	设置超过距离值的物体的灯光强度为0
+Layer	层
+Illuminates objects in the same layer as the lamp only	只照明和灯在一个层的物体
+Sets lamp to cast negative light	设置光源为投掷负灯光
+No Diffuse	无散射
+Disables diffuse shading of material illuminated by this lamp	此灯照明下的物体将不影响固有色
+No Specular	无高光
+Disables specular shading of material illuminated by this lamp	此灯照明下的物体将不产生高光
+Energy 	能量
+Sets the intensity of the light	设置光照强度
+Sets the red component of the light	设置光照的红色成份
+Sets the green component of the light	设置光照的绿色成份
+Sets the blue component of the light	设置光照的蓝色成份
+Quad1 	方1
+Set the linear distance attenuatation for a quad lamp	设置方形灯的线性距离衰减
+Quad2 	方2
+Set the quadratic distance attenuatation for a quad lamp	设置方形灯的二次方距离衰减
+Gamma 	Gamma 
+Set the light gamma correction value	设置灯光gamma校正值
+Creates an omnidirectional point light source	创建一个全方向点光源
+Area	面光源
+Creates a directional area light source	创建一个指向性面光源
+Spot	聚光灯
+Creates a directional cone light source	创建一个指向性锥形光源
+Sun	太阳光
+Creates a constant direction parallel ray light source	创建一个指向性的平行光线的光源
+Hemi	半球灯
+Creates a 180 degree constant light source	创建一个180度恒量光源
+Photon	光子
+Creates a special caustics photon 'light', not a real lightsource, use with other lights	创建一个特殊的焦散光子'光照',不是真实的光源,和其它光源配合使用
+Unlink material texture	不链接材质纹理
+The default value the texture uses to mix with (not RGB)	纹理混合的默认值(非RGB)
+Causes the texture to affect basic colour of the material	使纹理影响材质的基本色
+Causes the texture to affect the rendered normal	使纹理影响被渲染的法线
+Csp	高光
+Causes the texture to affect the specularity colour	使纹理影响高光颜色
+Cmir	反射色
+Causes the texture to affect the mirror colour	使纹理影响反射颜色
+Ref	反射率
+Causes the texture to affect the value of the materials reflectivity	使纹理影响材质的反射率值
+Causes the texture to affect the value of specularity	使纹理影响高光值
+Amb	环境
+Causes the texture to affect the value of ambient	使纹理影响环境值
+Hard	硬度
+Causes the texture to affect the hardness value	使纹理影响硬度值
+RayMir	RayMir
+Causes the texture to affect the ray-mirror value	使纹理影响镜面反射值
+Causes the texture to affect the alpha value	使纹理影响alpha值
+Emit	发射
+Causes the texture to affect the emit value	使纹理影响发射值
+TransLu	TransLu
+Causes the texture to affect the layer blending value	使纹理影响层混合值
+Disp	置换
+Let the texture displace the surface	用纹理置换表面
+Col 	颜色 
+Nor 	法线 
+Var 	Var 
+Disp 	置换 
+Sets the amount the texture displaces the surface	设置纹理置换表面的值
+Warp	扭曲
+Let the texture warp texture coordinates of next channels	使用纹理来扭曲下一个通道的贴图坐标
+fac 	fac 
+Sets the amount the texture affects texture coordinates of next channels	设置纹理来扭曲下一个通道的贴图坐标的值
+Map Input	映射输入
+UV	UV
+Uses UV coordinates for texture coordinates	使用UV坐标作为纹理坐标
+Orco	原始
+Uses the original undeformed coordinates of the object	使用物体的原始无形变坐标
+Uses normalized strand texture coordinate (1D)	使用规格化单线纹理坐标(1D)
+Uses mesh's sticky coordinates for the texture coordinates	使用物体的固定坐标作为纹理坐标
+Win	屏幕
+Uses screen coordinates as texture coordinates	使用屏幕坐标作为纹理坐标
+Uses normal vector as texture coordinates	使用法线矢量作为纹理坐标
+Refl	反射
+Uses reflection vector as texture coordinates	使用反射矢量作为纹理坐标
+Stress	压力
+Uses the difference of edge lengths compared to original coordinates of the mesh	使用边长的不同来模拟网格的原始坐标
+Tangent	正切
+Uses the optional tangent vector as texture coordinates	使用随意的正切矢量值作为纹理坐标
+Flat	平摊
+Maps X and Y coordinates directly	直接用X和Y坐标映射
+Maps using the normal vector	使用法向矢量映射
+Maps with Z as central axis (tube-like)	用Z作为中心轴映射(管状)
+Sphe	球
+Maps with Z as central axis (sphere-like)	用Z作为中心轴映射(球状)
+ofsX	ofsX
+ofsY	ofsY
+ofsZ	ofsZ
+Click to disable or enable this texture channel	开启或关闭此纹理通道
+Mirror Transp	反射透明
+Ray Mirror	追踪反射
+Enables raytracing for mirror reflection rendering	开启镜面反射
+RayMir 	反射度
+Sets the amount mirror reflection for raytrace	镜面反射强度
+Amount of inter-reflections calculated maximal 	相互反射的最大计算次数
+Fresnel 	菲涅耳
+Power of Fresnel for mirror reflection	镜面反射的菲涅耳值
+Fac 	Fac 
+Blending factor for Fresnel	菲涅耳混合度因数
+Filt:	过滤:
+Amount of filtering for transparent raytrace	透明追踪的过滤值
+Ray Transp	追踪透明
+Enables raytracing for transparency rendering	开启透明光线追踪
+IOR 	IOR 
+Sets the angular index of refraction for raytrace	设置折射率(水:1.33,玻璃:1.48)
+Amount of refractions calculated maximal 	折射的最大计算次数
+Power of Fresnel for transparency	透明的菲涅耳值
+SpecTra 	SpecTra 
+Makes specular areas opaque on transparent materials	使高光部分在透明材质上不透明
+Add 	Add 
+Sets a glow factor for transparant materials	设置透明材质的发光值
+No Mist	无雾化
+Sets the material to ignore mist values	设置材质忽视雾化值
+Env	环境
+Causes faces to render with alpha zero: allows sky/backdrop to show through	使面渲染成alpha为0:允许天空/背景穿透
+Mat.Preset	材质预设
+Basic material presets to start with	基本材质预设
+Use for objects with alphamap textures	用于带alpha映射纹理的物体
+rayMir 	rayMir 
+frsOfs 	frsOfs 
+Fresnel offset, 1 is uniform mirror, 5 is fresnel mirror (IOR>1)	菲涅耳偏移，1是同一反射，5是Fresnel反射(IOR>1)
+Absorption Color	吸收色
+transmit absorption color, white is no absorption	传递吸收色，白色是无吸收
+aR 	aR 
+aG 	aG 
+aB 	aB 
+Ds	Ds
+absorption distance scale, 1 is one blender (world) unit of distance	吸收距离缩放,1是1blender单位距离
+Dispersion	散射
+Pwr 	Pwr 
+Dispersion power, the higher, the more dispersion, 0 is no dispersion	散射能量，值越大散射越强,0是无散射
+Samples 	采样 
+Dispersion samples, minimum at least 10, unless using jitter 	散射采样,最小10,除非使用抖动
+Jitter	抖动
+Enable jittering of wavelenghts, adds noise	开启波长抖动,添加噪音
+HaloSize: 	光晕大小:
+Sets the dimension of the halo	设置光晕尺寸
+Hard 	Hard 
+Sets the hardness of the halo	设置光晕的硬度
+Add  	Add  
+Sets the strength of the add effect	设置叠加效果的强度
+Rings: 	环: 
+Sets the number of rings rendered over the halo	设置光晕外的环数
+Lines: 	线:
+Sets the number of star shaped lines rendered over the halo	设置光晕的星形线的数量
+Star: 	星: 
+Sets the number of points on the star shaped halo	设置星星光晕的角的个数
+Randomizes ring dimension and line location	随即环尺度和线位置
+FlareSize: 	光斑大小
+Sets the factor by which the flare is larger than the halo	通过比光晕大的光斑来设置因子
+Sub Size: 	Sub Size: 
+Sets the dimension of the subflares, dots and circles	设置子光斑的尺度，点和环
+Boost: 	Boost: 
+Gives the flare extra strength	给光斑的额外强度
+Fl.seed: 	Fl.seed: 
+Specifies an offset in the flare seed table	在光斑种子平台指定一个偏移量
+Flares: 	Flares: 
+Sets the number of subflares	设置子光斑数量
+Flare	镜头光
+Renders halo as a lensflare	渲染光晕为镜头光斑
+Renders rings over halo	在光晕上加圆圈
+Lines	线
+Renders star shaped lines over halo	在光晕上渲染形状线
+Star	星星
+Renders halo as a star	渲染光晕为星星
+HaloTex	光晕纹理
+Gives halo a texture	给光晕一个纹理
+HaloPuno	HaloPuno
+Uses the vertex normal to specify the dimension of th﻿e halo	使用顶点法线来指定光晕的尺度
+X Alpha	X Alpha
+Uses extreme alpha	使用极端alpha
+Lets halo receive light and shadows	让光晕接收光照和影子
+Creates a diffuse shader	创建一个漫反射shader
+Ref   	
+Sets the amount of reflection	设置光线反弹数量
+Rough:	粗糙:
+Sets Oren Nayar Roughness	设置Oren Nayar粗糙度
+Sets size of diffuse toon area	设置卡通漫反射区域大小
+Smooth:	平滑:
+Sets smoothness of diffuse toon area	设置卡通漫反射区域的平滑度
+Dark:	黑暗:
+Sets Minnaert darkness	设置Minnaert的黑暗度
+Fresnel:	菲涅耳:
+Power of Fresnel	菲涅耳能量值
+Fac:	Fac:
+Blending factor	混合因数
+Creates a specular shader	创建一个高亮shader
+Spec 	高亮 
+Sets the degree of specularity	设置高亮角度
+Hard:	硬度:
+Sets the hardness of the specularity	设置高亮的硬度
+Refr:	
+Sets the material's Index of Refraction	设置材质的折射率
+Sets the size of specular toon area	设置卡通高光区域的大小
+Sets the smoothness of specular toon area	设置卡通高光区域的平滑度
+rms:	rms:
+Sets the standard deviation of surface slope	设置表面倾斜的标准偏差
+Tralu 	Tralu 
+Translucency, amount of diffuse shading of the back side	半透明,背面漫反射度的值
+SBias 	SBias 
+Shadow bias, to prevent terminator problems on shadow boundary	影子偏移,防止明暗交接处的影子问题
+Amb 	Amb 
+Sets the amount of global ambient color the material receives	设置材质接收全局环境色的数量
+Emit 	发射
+Sets the amount of light the material emits	设置材质的发射亮度(自发光)
+Tangent V	V切线
+Use the tangent vector in V direction for shading	在V方向上使用切线矢量
+Makes material receive shadows	使材质接收影子
+TraShadow	透明影子
+Recieves transparent shadows based at material color and alpha	接受来自基于材质颜色和alpha的透明影子
+OnlyShad	只有影子
+Renders shadows on material as Alpha value	渲染影子作为alpha值
+Bias	偏移
+Prevents ray traced shadow errors with phong interpolated normals (terminator problem)	用phong内插值法线防止光线追踪影子的错误(明暗交界问题)
+Ramps	渐变
+Show Col Ramp	显示颜色渐变
+Show ramp buttons for material diffuse color	显示用于材质故有色颜色的渐变按钮
+Show Spec Ramp	显示高光渐变
+Show ramp buttons for material specular color	显示用于材质高光色颜色的渐变按钮
+Toggles colorband ramp operations	切换颜色条渐变操作
+Input	输入
+Factor	因数
+Shader 	Shader 
+Normal 	法线
+Result 	结果
+Input for Ramp	颜色条的输入
+Mix 	混合
+Subtract 	减
+Multiply 	增值
+Screen 	屏幕
+Overlay 	覆盖
+Divide 	分开
+Difference 	差值
+Darken 	变暗
+Lighten 	变亮
+Blending method for Ramp (uses alpha in Colorband)	
+Blending factor (also uses alpha in Colorband)	
+Use Tangent Shading	使用切线光照
+Uses direction of strands as normal for tangent-shading	
+Start 	开始
+Start size of strands in pixels	设置条形起始大小,单位是象素
+End 	结束
+End size of strands in pixels	设置条形尾部大小,单位是象素
+Shape of strands, positive value makes it rounder, negative makes it spiky	
+Copies Material to the buffer	拷贝材质到缓存
+Pastes Material from the buffer	粘贴缓存里的材质
+Restitut 	Restitut 
+Elasticity of collisions	碰撞弹性
+Friction 	摩擦
+Coulomb friction coefficient	静摩擦系数
+Fh Force 	Fh Force 
+Upward spring force within the Fh area	
+Fh Damp 	
+Damping of the Fh spring force	
+Fh Dist 	
+Height of the Fh area	
+Fh Norm	Fh 标准
+Add a horizontal spring force on slopes	在斜面伤添加一个水平弹力影响
+VCol Light	顶点色光照
+Adds vertex colours as extra light	添加顶点色作为额外光照
+VCol Paint	顶点色喷绘
+Replaces material's colours with vertex colours	使用顶点色替换材质的颜色
+Sets UV-Editor assigned texture as color and texture info for faces	设置UV编辑器指定纹理作为颜色和面的纹理信息
+Shadeless	平涂
+Makes material insensitive to light or shadow	使材质不受灯光和影子影响
+Sets the colour of the halo with the RGB sliders	设置光晕的颜色
+Line	线
+Sets the colour of the lines with the RGB sliders	设置线的颜色
+Ring	圈
+Sets the colour of the rings with the RGB sliders	设置圈的颜色
+Sets the diffuse colour of the material	设置材质的固有色
+Spe	高光
+Sets the specular colour of the material	设置材质的高光颜色
+Mir	反射
+Sets the mirror colour of the material	设置材质的反射的颜色
+Creates colour using red, green and blue	使用红绿蓝创建颜色
+HSV	HSV
+Creates colour using hue, saturation and value	使用色调饱和度和值创建颜色
+DYN	DYN
+Adjusts parameters for dynamics options	校正物理选项的参数
+Links and Pipeline	链接和流水线
+Nodes	节点
+Link to Object	连接到物体
+Shows the block the material is linked to	显示连接的材质块
+OB	OB
+Links material to object	链接材质到物体
+Shows the number of materials on object and the active material	显示物体上的材质数和激活材质
+Active Material Node	激活材质节点
+Render Pipeline	渲染线
+Renders material as a halo	渲染材质未光晕
+Enables Z-Buffering of transparent faces	开启透明面的Z缓冲
+Zoffs:	Zoffs:
+Gives faces an artificial offset in the Z buffer for Ztransp option	Gives faces an artificial offset in the Z buffer for Ztransp option
+Full Osa	抗锯齿
+Forces to render all OSA samples, for shading and texture antialiasing	强制渲染为全超采样,用来进行纹理抗锯齿
+Renders only the edges of faces as a wireframe	只渲染边,像线框
+Strands	条形
+Display strand settings for static particles	显示静态粒子的条形设置
+ZInvert	Z反向
+Renders material's faces with inverted Z Buffer	用反向Z缓冲渲染材质的面
+Enables material for radiosity rendering	开启辐射渲染材质
+OnlyCast	只有投影
+Makes faces only cast shadows, not rendered	使面只产生阴影,不渲染物体
+Traceable	光线追踪
+Makes material to being detected by ray tracing	通过光线追踪侦测物体
+Shadbuf	影子缓冲
+Makes material to cast shadows with shadow buffers	用阴影缓冲透射影子
+Show action window sliders	显示动作窗口滑杆
+Hide action window sliders	隐藏动作窗口滑杆
+test text	测试文本
+UV Vertex:	
+Vertex X:	
+Vertex Y:	
+Median X:	
+Median Y:	
+Displays the start frame of an animated texture	
+Displays the end frame of an animated texture	
+Displays Speed of the animation in frames per second	
+Toggles use of tilemode for faces	
+Image Paint	图像喷绘
+Fall 	衰减
+The fall off radius of the brush	笔刷半径衰减
+Stepsize 	步幅大小 
+Flow 	流量 
+Paint Flow for Air Brush	喷枪的喷绘流量
+Brush	笔刷
+AirBrush	喷枪
+Soften	软笔
+Aux AB1	Aux AB1
+Auxiliary Air Brush1	辅助喷枪1
+Aux AB2	Aux AB2
+Auxiliary Air Brush2	辅助喷枪2
+Smear	涂抹
+Clone	克隆
+Clone Brush / use RMB to drag source image	克隆笔刷/使用右键来托拽原始图像
+Blend clone image	混合克隆图像
+TD	TD
+Enables tool shape while drawing	绘画时开启工具外形
+TP	TP
+Enables tool shape while not drawing	不绘画时开启工具外形
+Wrap	
+Enables torus wrapping	
+Curves	曲线
+Reset Black/White point and curves	重置黑白点和曲线
+Min R:	Min R:
+Black level	黑色级别
+Min G:	Min G:
+Min B:	Min B:
+Max R:	Max R:
+White level	白色级别
+Max G:	Max G:
+Max B:	Max B:
+Load the selected image	
+Cancel image loading	
+Key Y:	
+Median Key Y:	
+Add/Remove Ipo driver	
+Pose	
+Remove Driver for this Ipo Channel	
+Use a one-line Python Expression as Driver	
+Python Expression	
+Bone name	
+Driver type	
+Driver channel	
+Add Driver	
+Create a Driver for this Ipo Channel	
+Visible curves	
+Xmin:	
+Xmax:	
+Ymin:	
+Ymax:	
+SET	
+NLA	
+Timeline Range:	
+Blending:	
+Options:	
+Strip Start:	
+First frame in the timeline	
+Strip End:	
+Last frame in the timeline	
+Toggles Action end/start to be automatic mapped to strip duration	
+First frame of the action to map to the playrange	
+Last frame of the action to map to the playrange	
+Action Start:	
+Action End:	
+Blendin:	
+Number of frames of ease-in	
+Blendout:	
+Number of frames of ease-out	
+Repeat:	
+Number of times the action should repeat	
+Toggles whether to continue displaying the last frame past the end of the strip	
+Toggles additive blending mode	
+Stride Path	
+Plays action based on path position & stride	
+Disable path temporally, for editing cycles	
+Offs:	
+Action offset in frames to tweak cycle of the action within the stride	
+Stri:	
+Distance covered by one complete cycle of the action specified in the Action Range	
+Dominant axis for Stride Bone	
+Stride Bone:	
+Name of Bone used for stride	
+NT:	NT:
+NodeTree name	节点树名称
+Displays number of users. Click to make a single-user copy.	
+Browse texture	
+Texture name	
+Single user material	
+Add new Material	
+MA:	
+Material name	
+Material Node outputs Diffuse	
+Material Node outputs Specular	
+Neg Normal	
+Material Node uses inverted Normal	
+Loc	
+Browses existing choices	
+Load New	
+Add new Image	
+IMA:	
+Image name	
+Enable/Disable Image animation	
+Frs:	
+Amount of images used in animation	
+SFra:	
+Start frame of animation	
+First:	
+Number in image name, used as first in animation	
+Make animation go cyclic	
+Browse Scene to use RenderLayer from	
+Choose Render Layer	选择渲染层
+Re-render this Layer	重渲染此层
+Set sampling filter for blur	设置模糊的采样过滤
+Uses circular filter, warning it's slow!	使用环形过滤，注意这个非常慢！
+Applies filter on gamma corrected values	
+Amount of samples	采样数
+MinSpeed:	
+Minimum speed for a pixel to be blurred, used to separate background from foreground	
+MaxSpeed:	
+If not zero, maximum speed in pixels	
+BlurFac:	
+Scaling factor for motion vectors, actually 'shutter speed' in frames	
+Soften 	柔和 
+Sharpen 	锐化 
+Laplace 	Laplace
+Sobel 	Sobel
+Prewitt 	Prewitt
+Kirsch 	Kirsch
+Shadow 	影子 
+ConvertPremul	
+Hue 	
+Sat 	
+Strip Properties	片段属性
+Seq	
+Type: Plugin	类型:插件
+Type: Image	类型:图像
+Name: 	名称: 
+Convert to Premul	
+Converts RGB values to become premultiplied with Alpha	
+FilterY	
+For video movies to remove fields	
+Multiply colors	
+Reverse Frames	
+Reverse frame order	
+Strobe:	
+Only display every nth frame	
+Type: Meta	
+Type: Scene	
+Type: Movie	
+Make Premul Alpha 	
+FilterY 	
+Preseek:	
+On MPEG-seeking preseek this many frames	
+Type: Audio	
+IPO Frame locked	
+Lock the IPO coordinates to the global frame counter.	
+Gain (dB):	
+Pan:	
+Type: Effect	
+What type of wipe should be performed	
+The percent width of the blur edge	
+Angle:	
+The Angle of the Edge	
+Wipe In	
+Controls Primary Direction of Wipe	
+Trigger Intensity	
+Clamp:	
+Brightness limit of intensity	
+Boost factor:	
+Brightness multiplier	
+Blur distance:	
+Radius of glow effect	
+Accuracy of the blur effect	
+Only boost	
+Show the glow buffer only	
+Save over	覆盖保存
+Create new file	创建新文件
+Find: 	查找: 
+File 	文件 
+New 	新建 
+Open... 	打开...
+Save 	保存 
+Execute Script	运行脚本
+Edit 	编辑
+Cut 	剪切
+Copy 	拷贝
+Paste 	粘贴
+Print Cut Buffer 	打印剪切缓存
+Reopen text	重打开文本
+Select 	选择 
+Select All 	选择全部 
+Select Line 	选择行 
+Jump to Line 	跳到行 
+View 	显示
+Top of File 	文件顶部
+Bottom of File 	文件底部
+Displays global values	显示全局值
+Displays local values	显示局部值
+Vertex Z:	Vertex Z:
+Vertex W:	Vertex W:
+Vertex Deform Groups	顶点变形组
+Weight value	权重值
+Current Vertex Group	当前顶点组
+Median Z:	Median Z:
+Median W:	Median W:
+Weight is used for SoftBody Goal	权重用于软件目标
+Crease W:	Crease W:
+Median Crease W:	Median Crease W:
+Transform properties	变换属性
+Bone:	骨骼:
+Protects this value from being Transformed	保护这个变形得来的值
+LocX:	LocX:
+LocY:	LocY:
+locZ:	locZ:
+RotX:	RotX:
+RotY:	RotY:
+RotZ:	RotZ:
+SizeZ:	SizeZ:
+RootX:	RootX:
+RootY:	RootY:
+RootZ:	RootZ:
+TipX:	TipX:
+TipY:	TipY:
+TipZ:	TipZ:
+Roll:	Roll:
+TipRadius:	TipRadius:
+HeadRadius:	HeadRadius:
+LocZ:	LocZ:
+Select Image	选择图像
+View3d	View3d
+OB: 	OB: 
+Background Image	背景图像
+Use Background Image	使用背景图像
+Display an image in the background of the 3D View	在3D视图背景显示一个图像
+Image:	图像:
+Open a new background image	打开一个新的背景图像
+Select a background image	选择一个背景图像
+BG: 	BG: 
+The currently selected background image	当前选择的背景图像
+Remove background image link	移除背景图像连接
+Select a texture to use as an animated background image	使用一个纹理作为一个动画的背景图像
+Remove background texture link	移除背景纹理连接
+Blend:	混合:
+Set the transparency of the background image	设置背景图像的透明度
+Set the size (width) of the background image	设置背景图像大小(宽度)
+X Offset:	X偏移:
+Set the horizontal offset of the background image	设置背景图像的水平偏移
+Y Offset:	Y偏移:
+Set the vertical offset of the background image	设置背景图像的垂直偏移
+Set the size for the width of the BackGroundPic	设置背景图的宽度尺寸
+Set the BackGroundPic transparency	设置背景图的透明度
+Center X: 	中心X:
+Set the BackGroundPic X Offset	设置背景图X偏移
+Center Y: 	中心Y:
+Set the BackGroundPic Y Offset	设置背景图Y偏移
+View Properties	视图属性
+Grid:	网格:
+Set the distance between grid lines	设置网格线之间的距离
+Set the number of grid lines	设置网格线的数量
+3D Display:	3D视图显示:
+Grid Floor	网格地面
+Show the grid floor in free camera mode	在自由相机模式瞎显示网格地面
+X Axis	X轴
+Show the X Axis line	显示X轴轴线
+Y Axis	Y轴
+Show the Y Axis line	显示Y轴轴线
+Z Axis	Z轴
+Show the Z Axis line	显示Z轴轴线
+View Camera:	视图相机:
+The lens angle in perspective view	透视视图下的透镜角
+Clip Start:	剪辑开始:
+Set the beginning of the range in which 3D objects are displayed (perspective view)	设置3d物体显示范围的起始(透视视图)
+Clip End:	剪辑结束:
+Set the end of the range in which 3D objects are displayed (perspective view)	设置3d物体显示范围的终点(透视视图)
+3D Cursor:	3D指针:
+X co-ordinate of the 3D cursor	3D指针的X坐标
+Y co-ordinate of the 3D cursor	3D指针Y坐标
+Z co-ordinate of the 3D cursor	3D指针Z坐标
+Outline Selected	选择体轮廓
+Highlight selected objects with an outline, in Solid, Shaded or Textured viewport shading modes	使用轮廓高亮显示选择的物体,在实体,阴影或者纹理显示模式下
+All Object Centers	全部物体的中心
+Draw the center points on all objects	绘制所有物体的中心点
+Relationship Lines	关系线
+Draw dashed lines indicating Parent, Constraint, or Hook relationships	绘制虚线指示父子,约束或者钩子关系
+Circle Select	圈选
+Snap 	吸附 
+Selection -> Grid	选择->网格
+Selection -> Cursor	选择->指针
+Cursor-> Grid	指针->网格
+Cursor-> Selection	指针->选择
+Selection-> Center	选择->中心
+Snap selection to grid	把选择的吸附到网格
+Snap selection to cursor	把选择的吸附到指针
+Snap selection to center	把选择的吸附到中心
+Merge 	合并
+At First 	在第一处
+At Last	在最后处
+At Center	在中心位置
+At Cursor	在指针位置
+At Last 	在最后处
+Collapse Edges	塌陷边
+Collapse Faces	塌陷面
+Merge at center	在中心处合并
+Merge at cursor	在指针处合并
+Merge at last selected	在最后选中的位置合并
+Merge at first selected	在第一选中的位置合并
+Select Action key	
+Border Select Action	
+Border select Action Key	
+Transform Action	
+Transform Action Keys	
+Delete Action keys	
+Delete Action channels	
+Set handles Action keys	
+Set handles Action channel	
+Channel Ipo Type 	
+Constant 	
+Linear 	
+Bezier 	
+Set Ipo type Action channel	
+Channel Extending Type 	
+Extrapolation 	
+Cyclic 	
+Cyclic extrapolation 	
+Snap Ipo Action channel	
+Border select Action	
+KB: 	
+Does this really need a tool tip?	
+Slider Min:	
+Slider Max:	
+Select Action	
+Set Keys to Auto Handle	
+Toggle Keys Aligned Handle	
+Snap to frame	
+Set Keys to Vector Handle	
+Select all Action	
+Top Action channel	
+Up Action channel	
+Down Action channel	
+Bottom Action channel	
+TESTOBBAKE	
+Select connected	
+Erase selected bone(s)	
+Delete bone(s)	
+Reload original data	
+Delete bone	
+Add primitive	
+Add Bone	
+Connected	
+Keep Offset	
+Connect to Parent	
+Disconnect Bone	
+Create Vertex Groups? 	
+Don't Create Groups 	
+Name Groups 	
+Create From Closest Bones 	
+Flip names	
+Add IK Constraint	添加IK约束
+To Active Bone	到激活骨骼
+To Active Object	到激活物体
+To New Empty Object	到新的空物体
+Without Target	没有目标
+Add Constraint to Active Bone	添加约束到激活的骨骼
+Add Constraint to Active Object	添加约束到激活的物体
+Add Constraint to New Empty Object	添加约束到新的空物体
+Clear Constraints	清除约束
+Clear Constraint(s)	清除约束
+Switch direction	
+Deselect all	
+Select swap	
+Set spline type	
+Add segment	
+Add vertex	
+Toggle 	切换
+cyclic U	循环 U
+cyclic V	循环 V
+Erase 	删除
+Selected	选择的
+Segment	片段
+Clear tilt	清除倾斜
+Apply Deformation now only availble in Modifier buttons	
+UV calculation	UV 计算
+Reveal UV face	展示UV面
+Hide UV face	隐藏UV面
+(De)select all UV face	(不)选择全部UV面
+Select inverse UV face	反选UV面
+Rotate 	旋转
+UV Co-ordinates 	UV坐标
+Vertex Colors 	顶点着色
+Rotate UV face	旋转UV面
+Mirror 	镜像
+Mirror UV face	镜像UV面
+Mark Seam	标记接口
+Seams	接口
+Mark Border Seam 	标记边接口
+Clear Seam 	清除接口
+Select UV face	选择UV面
+Border Select UV face	框选UV面
+End UV Faceselect	结束UV面选择
+Set UV Faceselect	设置UV面选择
+UV face draw	UV面绘制
+Get same UV	获取相同UV
+Add Text as Objects	作为物体添加文本
+Textedit	文本编辑
+Paste text	粘贴文本
+Original	原始的
+Reload original text	重加载原始文本
+To upper	大写
+Remove from Group	从组移除
+Objects of Same Type	相同类型的物体
+Objects of Same Type 	相同类型的物体
+Groups 	组
+Groups	组
+Add to existing Group 	添加到现有的组
+Add to existing Group	添加到现有的组
+Add to New Group 	添加到新的组 
+Add to New Group	添加到新的组
+Remove from all Groups 	从所有组内移除 
+Remove from all Groups	从所有组内移除
+Rename Image	重命名图像
+Scale Edit Ipo	缩放编辑Ipo
+Copy key after leaving Edit Mode	当离开编辑模式后拷贝关键帧
+Select Ipo	选择Ipo
+Select Ipo curve	选择Ipo曲线
+Add Ipo vertex	添加Ipo顶点
+Insert Curve 	插入曲线
+Default one-to-one mapping 	默认一对一映射
+Insert Key Vertices 	插入顶点关键帧
+Current Frame 	当前帧
+Selected Keys 	选择的关键帧
+Insert Key Ipo	插入关键帧IPO
+Insert Key 	插入关键帧
+Halo Size	光晕大小
+Mode 	模式
+All Color	全部颜色
+All Mirror	全部镜像
+Ofs	Ofs
+All Mapping	全部映射
+Zenith RGB	顶端RGB
+Horizon RGB	地平线RGB
+Stars 	星星
+Offset	偏移
+Energy	能量
+Spot Size	聚光大小
+Cloud	云
+Mable	Mable
+Distnoise	扭曲噪波
+ColourFilter	颜色过滤
+Surface Damping	表面阻尼
+Random Damping	随机阻尼
+Permeability	渗透性
+Force Strength	强制力度
+Force Falloff	强制衰减
+Lens	焦距
+Clipping	剪辑
+Aperture	光圈
+FocalDistance	焦距
+Volume	
+Pitch	
+Panning	
+Attennuation	
+Insert Key Buttons	插入关键帧按钮
+Insert Loc Key	插入位移关键帧
+Insert Rot Key	插入旋转关键帧
+Insert Size Key	插入大小关键
+Insert LocRot Key	插入位移旋转关键帧
+Insert LocRotSize Key	插入位移旋转大小关键帧
+Insert Layer Key	插入层关键帧
+Insert Vertex Key	插入顶点关键帧
+Insert Avail Key	插入可用关键帧
+Duplicate Ipo	复制Ipo
+Join 	结合
+All Selected 	所有选择的
+Selected Doubles 	选择的双重点
+Join Ipo	IPO结合
+Horizontal 	水平的
+To Next 	到下一个
+To Frame 	到帧
+To Current Frame	到当前帧
+Snap Ipo	吸附Ipo
+Delete Ipo	删除Ipo
+Paste Ipo curves	粘贴Ipo曲线
+Set speed IPO	设置速度IPO
+Move Key	移动关键帧
+Transform Ipo	IPO变换
+Record Mouse 	记录鼠标
+Still 	静止
+Play Animation 	播放动画
+Mouse Recording. Use Ctrl to start. LeftMouse or Space to end	鼠标记录.使用Ctrl开始.左键或者空格结束
+Ipo Record	Ipo录制
+Set frame to selected Ipo vertex	设置帧到选择的Ipo顶点
+Toggle show key Ipo	
+Swap select all Ipo	
+Swap Visible Ipo	
+(De)select all Ipo	
+Set handles Ipo	
+Key Type 	关键帧类型
+Cardinal 	Cardinal
+B Spline 	B线样条
+Ipo Type 	Ipo类型
+Ipo type:	Ipo类型:
+Ipo type: 	Ipo类型: 
+Set ipo type	设置ipo类型
+Border select Ipo	框选Ipo
+Set extrapolation Ipo	设置外插Ipo
+original	原始
+Reload original	重加载原始的
+(De)select all	(不)选择全部
+Add MetaElem	
+Deselect MetaElem	
+Delete MetaElem	
+Hide MetaElems	
+Unhide MetaElems	
+Undo all changes	撤销全部更改
+Separate 	分离
+All Loose Parts	
+Add vertex/edge/face	添加顶点/边/面
+FGon 	FGon 
+Clear FGon	清除FGon
+Make FGon	创建FGon
+Add edge	添加边
+Add face	添加面
+Vertices:	顶点:
+X res:	X res:
+Y res:	Y res:
+Segments:	段数:
+Rings:	环:
+Subdivision:	细分:
+Loopcut Begin	
+Cut Type 	切割类型
+Exact Line	精确线
+Midpoints	中点
+Multicut	多重切割
+Number of Cuts:	切割数:
+Knife	刀
+Loop/Cut Menu 	环/切割菜单
+Loop Cut (CTRL-R)	环切(CTRL-R)
+Knife (Exact) 	刀(精确)
+Knife (Midpoints)	刀(中点)
+Knife (Multicut)	刀(多重切割)
+Edge Ring Multi-Select	
+Edge Loop Multi-Select	
+Select Connected (All)	
+Select Triangles	
+Select Quads	
+Select non-Triangles/Quads	
+Max Angle:	
+Select Sharp Edges	
+Min Angle:	
+Select Linked Flat Faces	
+Select Non Manifold	
+Deselect All	
+Select All	
+Select More	扩大选择
+Select Less	缩小选择
+Percentage:	
+Select Random: Vertices	
+Select Random:Edges	
+Select Random:Faces	
+Select Mode	选择模式
+Selectmode Set: Vertex	选择模式设置:顶点
+Selectmode Set: Edge	选择模式设置:边
+Clear Seam	清除接口
+Edge Specials	边专用
+Mark Seam 	标记接口
+Rotate Edge CW	正时针转边
+Rotate Edge CCW	逆时针转边
+Loopcut	圈状切割
+Edge Slide	滑动边
+Edge Loop Select	圈状选择边
+Edge Ring Select	环状选择边
+EdgeSlide	滑动边
+Loopcut New	环切新的
+Vertex Smooth	顶点平滑
+Vertex Noise	顶点噪波
+Convert Quads to Triangles	转换四边为三角
+Extrude 	挤压
+Only Edges	只对边
+Only Vertices	只对顶点
+Region 	区域
+Individual Faces 	独立面
+Split 	分离
+Extrude Repeat	重复挤压
+Edges & Faces	边和面
+Only Faces	仅面
+Edge Loop	圈状边
+Beautify fill	美化填充
+Beauty Fill	完美填充
+Convert Triangles to Quads	转换三角为四边形
+Flip Triangle Edges	翻转三角边
+Rotate Edge	旋转边
+Recursion:	递归:
+Bevel	斜角
+Propagate Blendshape Verts	繁殖混合外形顶点
+Copy Blendshape Verts	拷贝混合外形顶点
+Distance Method? 	距离方式?
+Topological	拓扑
+Editmode Undo History 	编辑模式撤销历史
+Undo All Changes	撤销全部更改
+Shift NLA strip	
+Shift NLA strips	
+Reset NLA strips	
+Snap NLA strips	
+Convert NLA	
+Add NLA strip	
+Select all NLA	
+Erase selected strips and/or keys	
+Delete NLA keys	
+Duplicate NLA	
+Border select NLA	
+(De)select all NLA	
+Bake All To Action	
+Action Strip Scale	动作片段缩放
+Clear Strip Size	清除片段大小
+Remap Start/End	重测开始/结束
+Snap Strips to Frame	吸附片段到帧
+Make Group Local	创建组局部
+Deselect all nodes	取消全部节点的选择
+Add Node	添加节点
+Scale Node	缩放节点
+Hide/Unhide sockets	
+Border select nodes	框选节点
+Add link	添加连接
+Delete nodes	删除节点
+Hide nodes	隐藏节点
+Erase links	删除连接
+Make Node Group	创建节点组
+Make Group	创建组
+Ungroup	解组
+Add Empty	添加空对象
+Add Lamp	添加灯
+Add Lattice	添加晶格
+Add Camera	添加相机
+Erase selected Object(s)	删除选择的物体
+Delete object(s)	删除物体
+Hooks 	钩子
+Add, To New Empty 	添加,到新空白对象
+Add, To Selected Object 	添加,到选择的物体
+Remove... 	移除...
+Reassign... 	重新指定...
+Select... 	选择...
+Clear Offset...	清除偏移...
+Add, New Empty 	添加,新空白对象
+Add hook	添加钩子
+Make Track 	创建跟踪
+TrackTo Constraint 	跟踪到约束
+LockTrack Constraint 	锁定跟踪约束
+Old Track 	老跟踪
+OK? 	OK? 
+Clear Parent 	清除父子关系
+Clear and Keep Transformation (Clear Track) 	清除并保留变形(清除跟踪)
+Clear Parent Inverse 	清除父子关系反转
+Clear Track 	清除跟踪
+Clear Track and Keep Transform 	清除跟踪并保留变形
+Set slow parent	设置慢于父级
+Slow parent	慢于父级
+Make vertex parent	创建顶点父子
+Make Parent 	创建父子关系
+Normal Parent 	常规父子
+Lattice Deform 	晶格变形
+Follow Path 	跟随路径
+Curve Deform 	曲线变形
+Path Constraint 	路径约束
+make Parent	创建父子关系
+Make Parent To	创建父子关系到
+Bone 	骨骼
+Armature 	骨架
+Object 	物体
+Make Parent To 	创建父子关系到
+Make parent without inverse	创建父级但无反转
+Make parent	创建父级
+Erased Baked SoftBody	清除烘培的软体
+Editmode	编辑模式
+Do Center	
+Move from localview	从局部视图移动
+Move to layer	移到层
+Set     Tex	设置纹理
+Shared	    共享
+Light	    光照
+Invisible	    隐形
+Collision	    碰撞
+TwoSide	    双面
+Clr     Tex	清除纹理
+Change texture face	更改面纹理
+Shared VertexCol	共享的顶点色
+Apply Bone Envelopes to VertexGroups 	应用骨骼封套到顶点组
+Boolean Tools	布尔工具
+Add Intersect Modifier	添加交叉法修改器
+Add Union Modifier	添加联合法修改器
+Add Difference Modifier	添加减法修改器
+Boolean	布尔
+Add Boolean modifier	添加布尔修改器
+Split 	分裂
+Characters	字母
+Subdivide Multi	多重细分
+Subdivide Multi Fractal	不规则多重细分
+Subdivide Smooth	平滑细分 
+Remove Doubles	移除双点
+Flip Normals 	反转法线 
+Smooth 	平滑 
+Bevel 	斜角 
+Set Smooth 	设置平滑
+Set Solid 	设置棱角
+Blend From Shape	从形状混合
+Propagate To All Shapes	Propagate To All Shapes
+Path Select	路径选择
+ESubdivide Single	
+ESubdivide	
+Subdivide Fractal	不规则细分
+Path Select	路径选择
+Switch Direction	切换方向
+Set Goal Weight 	设置全局权重
+Subdivide 	细分
+Flip Left-Right Names	翻转左-右边的名字
+Convert Font to	转换字体为
+Convert Metaball to	转换变形球为
+Mesh (keep original)	网格(保留原始)
+Mesh (Delete Original)	网格(删除原始)
+Convert Curve to	转换曲线为
+Convert Nurbs Surface to	转换Nurbs表面为
+Convert Modifiers to	转换修改器为
+Mesh (Keep Original)	网格(保留原始)
+Convert Object	转换物体
+Switch subsurf on/off	开关细分曲面
+Copy properties	拷贝属性
+Copy logic	拷贝逻辑
+Copy modifiers	拷贝修改器
+Create links	创建连接
+Make dupli objects real	创建真实复制物体
+Make duplicates real	创建真实复制
+Apply deformation	应用变形
+Apply size and rotation	应用大小和旋转
+Applied object	应用的物体
+Apply object	应用物体
+Object & ObData	物体和物体数据
+Object & ObData & Materials+Tex	物体和物体数据和材质+纹理
+Materials+Tex	材质+纹理
+Single user	单独用户
+Selected Objects 	选择的物体
+Selected Objects	选择的物体
+Selected Objects and Data 	选择的物体和数据
+Selected Objects and Data	选择的物体和数据
+All 	全部
+Make local	使局部
+Object Ipo	物体Ipo
+Select links	选择连接
+Show and select all keys	宣誓并选择全部关键帧
+Select keys	选择关键帧
+Total time	总计时间
+Texture Space 	纹理空间
+Grab/Move	抓取/移动
+Mirror Axis 	镜像轴
+X Local	本地X
+Y Local	本地Y
+Z Local	本地Z
+X Global	全局X
+Y Global	全局Y
+Z Global	全局Z
+X View	视图X
+Y View	视图Y
+Z View	视图Z
+Rename Object	重命名物体
+Name Object	命名物体
+Rename Linked Data	重命名链接的数据
+Rename corresponding Datablock as well	
+Rename Datablock	重命名数据块
+Header 	标题栏
+Bottom 	底
+No Header 	无标题栏
+Swapbuffers	交换缓存
+Simple	简易
+DebugSwap	调试交换
+Redraw	重画
+KillSwap	删除交换
+Blender	Blender
+Load/change Sequencer plugin	加载/更改序列编辑器插件
+(De)select all Sequencer	
+Swap select all Sequencer	
+Select Sequencer	
+Add image strip Sequencer	
+Add movie strip Sequencer	
+Add ram sound strip Sequencer	
+Add hd sound strip Sequencer	
+Add effect strip Sequencer	
+Add plugin strip Sequencer	
+Add Sequence Strip	添加序列片段
+Images	图像
+Audio (RAM)	音频 (RAM)
+Audio (HD)	音频 (HD)
+Cross	交叉
+Gamma Cross	Gamma交叉
+Alpha Over	Alpha在上
+Alpha Under	Alpha在下
+Alpha Over Drop	Alpha在上变弱
+Wipe	擦除
+Glow	发光
+Select Images	选择图像
+Select Movie	选择电影
+Add scene strip Sequencer	添加场景片段序列
+Select Plugin	选择插件
+Select Audio (RAM)	选择音频(RAM)
+Select Audio (HD)	选择音频(HD)
+Change Effect	更改特效
+Switch A <-> B 	转换 A <-> B 
+Switch B <-> C 	转换 B <-> C 
+Recalculate	重新计算
+Change effect Sequencer	更改序列特效
+Change images	更改图像
+Change Scene	更改场景
+Update Start and End	更新开始和结尾
+Delete from Sequencer	从序列编辑器删除
+Add duplicate Sequencer	添加复制的序列
+Touch and print selected movies	触动并打印选择的电影
+Set FilterY	设置Y过滤
+No gaps Sequencer	无缝隙序列
+Make Meta Strip	创建融合片段
+Make Meta Sequencer	创建融合序列
+Un Meta	非融合
+Un-make Meta Sequencer	非创建融合序列
+Exit meta strip Sequence	退出融合片段序列
+Enter meta strip Sequence	进入融合片段序列
+Transform Sequencer	转换序列
+Snap menu Sequencer	吸附菜单序列
+Border select Sequencer	框选序列
+Mirror UV	镜像UV
+Weld/Align	焊接/对齐
+Weld	焊接
+Align X	X对齐
+Align Y	Y对齐
+Weld UV	焊接UV
+Align UV	对齐UV
+Select swap UV	选择交换UV
+Select UV	选择UV
+Border select UV	框选UV
+Hide UV	隐藏UV
+Reveal UV	显示UV
+Stitch UVs	缝合UV
+Stitch UV	缝合UV
+Select linked UV	选择连接的UV
+Unlink UV selection	未连接UV选择
+Pin UV	钉住UV
+Select Pinned UVs	选择钉住的UV
+Time value	时间值
+Frames 	帧
+Seconds	秒
+Add Timeline Marker	
+Remove Timeline Marker	
+Rename Timeline Marker	
+Next/Prev Key	
+Move Markers	
+Lasso select	套索选择
+Select Inverse	反选
+Select all per type	选择每个类型的全部
+Select all per layer	选择每个层的全部
+Border select	框选
+Fly camera	相机飞行
+Directory, enter a directory and press enter to create it	
+File, increment version number with (+/-)	
+SELECT DATABLOCK	
+Append from file	
+Makedir	
+Touch	
+Rename File	重命名文件
+Fluidsim Bake Error	流体模拟烘培错误
+No frames to export - check your animation range settings. Aborted	没有帧到处-检查你的动画范围设置.失败
+There should be only one domain object! Aborted	必须得有一个领域物体!失败
+No fluid objects in scene... Aborted	场景中没有流体物体...失败
+Unable to output files... Aborted	不能导出文件...失败
+Fluidsim Bake Message	流体模拟烘培消息
+Config files exported successfully!	成功导出配置文件
+Window type:	窗口类型
+Ipo Curve Editor 	Ipo曲线编辑器
+UV/Image Editor 	UV/图像编辑器
+Video Sequence Editor 	视频序列编辑器
+User Preferences 	用户参数
+Image Browser 	图像浏览器
+Scripts Window 	脚本窗口
+Displays name of the current Indirect Library Datablock. Click to change.	显示当前间接库数据块的名称.点击更改
+Displays current Library Datablock name. Click to make local.	显示当前库数据块的名称.点击来创建局部.
+Can't make pinned data single-user	不能创建单独使用的固定数据
+Can't unlink pinned data	不能解开固定数据的链接
+Generates an automatic name	自动产生一个名称
+Add new data block	添加新数据块
+Browse Mesh	浏览网格
+Browse Material	浏览材质
+Unlink Material	解开材质链接
+Unlink Texture	解开纹理链接
+Browse Texture	浏览纹理
+Unlink Action	解开动作链接
+Browse Action	浏览动作
+Browse Ipo	浏览Ipo
+Unlink Ipo	解开Ipo链接
+Browse World	浏览世界
+Unlink World	解开世界链接
+Texture browse	纹理浏览
+Lamp browse	扥光浏览
+Texture Browse	纹理浏览
+Unlink Image	解开图像链接
+Auto name	自动名称
+SELECT YFEXPORT PATH	选择YFEXPORT路径
+SELECT FONT PATH	选择字体路径
+SELECT TEXTURE PATH	选择纹理路径
+SELECT TEX PLUGIN PATH	选择纹理插件路径
+SELECT SEQ PLUGIN PATH	选择序列插件路径
+SELECT RENDER PATH	选择BLender路径
+SELECT SCRIPT PATH	选择脚本路径
+SELECT SOUND PATH	选择声音路径
+SELECT TEMP FILE PATH	选择临时文件路径
+LOAD UI FONT	加载界面字体
+Make single user or local	创建单独使用或者局部
+Center View to Current Frame	居中视图到当前框
+Play Back Animation in 3D View	在3D视图中回放动画
+Lock Time to Other Windows	锁定时间到其它窗口
+Maximize Window	最大化窗口
+Tile Window	平铺窗口
+Select/Deselect All Keys	选/不选全部关键帧
+Select/Deselect All Channels	选/不选全部通道
+Time Slide	时间滑杆
+Auto	自动
+Aligned	对齐的
+Vector	矢量
+Constant	常量
+Linear	线性
+Extrapolation	推断
+Cyclic Extrapolation	循环外插
+Move Up	上升
+Move Down	下移
+Move to Top	移动到顶部
+Move to Bottom	移动到底部
+Snap to Frame	吸附到帧
+Bake Action to Ipo Keys	烘培动作为Ipo关键帧
+Handle Type	手柄类型
+Extend Mode	伸展模式
+Interpolation Mode	插补模式
+Interpolation Mode 	插补模式
+Interpolation Mode  	插补模式
+Interpolation Mode   	插补模式
+Interpolation Mode    	插补模式
+Channel Ordering	通道排序
+Show pulldown menus	显示折叠式菜单
+Hide pulldown menus	隐藏折叠式菜单
+Create an action with the constraint effects converted into Ipo keys	使用约束效果转换到Ipo关键帧创建一个动作
+Updates other affected window spaces automatically to reflect changes in real time	自动更新其它窗口以便实时查看更改
+Paste material settings	粘贴材质设置
+Animation	动画
+Logic	逻辑
+Shading	Shading
+Object buttons 	物体按钮
+Physics buttons	物理按钮
+Sorts files by extension	扩展名排列
+Relative Paths	相对路径
+Makes sure returned paths are relative to the current .blend file	使返回路径为当前.blend文件的相对路径
+Autosel	自动选择
+Autoselect imported objects	自动选择导入的物体
+Active Layer	激活层
+Append object(s) in active layer	在激活的层里附加物体
+Append object(s) at cursor, use centroid if more than one object is selected	在指针处附加物体,如果多个物体被选择那么使用质心
+Sync Pose	同步Pose
+If Object with Pose appended, link the Pose and Armature to all selected Objects	如果物体和Pose一起被添加,连接Pose和骨架到所有选择的物体
+Load UI	加载界面
+Load the UI setup as well as the scene data	加载场景的界面设置
+Load image UV	加载图像UV
+Replace image UV	替换图像UV
+Assign image UV	指定图像UV
+REPLACE IMAGE	替换图像
+Zoom 1:8	1:8缩放
+Zoom 1:4	1:4缩放
+Zoom 1:2	1:2缩放
+Zoom 1:1	1:1缩放
+Zoom 2:1	2:1缩放
+Zoom 4:1	4:1缩放
+Zoom 8:1	8:1缩放
+Show Properties...	显示属性...
+Show Paint Tool...	显示喷绘工具...
+Show Curves Tool...	显示曲线工具...
+Properties...	属性...
+Paint Tool...	喷绘工具...
+Curves Tool...	曲线工具...
+Composite Preview...	复合预览...
+Display Normalized Coordinates	显示规格化坐标
+Draw Shadow Mesh	绘制未选择网格
+Update Automatically	自动更新
+View Selected	显示选择的
+Active Face Select	激活面选择
+Stick Local UVs to Mesh Vertex	固定局部UV到网格顶点
+Stick UVs to Mesh Vertex	固定UV到网格顶点
+Border Select Pinned	框选钉住的
+Select/Deselect All	选/不选全部
+Unlink Selection	解开选择连接
+Pinned UVs	钉住的UV
+Linked UVs	连接的UV
+UV Co-ordinates	UV坐标
+Reflection	反射
+Open Image	打开图像
+Replace Image	替换图像
+Pack image	打包图像
+Disable AutoPack?	关闭自动打包？
+Unpack image	解包图像
+UV Test Grid	UV测试网格
+New Image	新建图像
+New...	新建...
+Save...	保存...
+Replace...	替换...
+Unpack Image...	解包图像...
+Pack Image	打包图像
+Texture Painting	纹理喷绘
+Realtime Texture Mapping	实时纹理映射
+Realtime Texture Animation	实时纹理动画
+Show Hidden Faces	显示隐藏的面
+Hide Selected Faces	隐藏选择的面
+Hide Deselected Faces	隐藏未选择的面
+Root	Root
+M, 1	M, 1
+M, 2	M, 2
+W, 1	W, 1
+W, 2	W, 2
+W, 3	W, 3
+Transform Properties...	变形属性...
+Snap to Pixels	吸附到像素
+Quads Constrained Rectangular	强制为矩形
+Layout Clipped to Image Size	限制在图像尺寸内布局
+Live Unwrap Transform	实时展开变换
+Unwrap	解开
+Unpin	去除钉
+Pin	钉住
+Minimize Stretch	最小伸展
+Limit Stitch...	缝合极限...
+Stitch	缝合
+Proportional Editing	成比例编辑
+Proportional Falloff	成比例衰减
+Show/Hide Faces	显示/隐藏面
+Current Window Type. Click for menu of available types.	当前窗口类型.点击为菜单后选择.
+UVs	UVs
+Pack/Unpack this image	打包/不打包此图像
+Enables painting textures on the image with left mouse button	开启使用左键在图像上纹理喷绘
+Draws image with alpha	连带alpha一起画
+Draws only alpha	只在alpha内画
+Draws zbuffer values	画zbuffer值
+Export Videoscape	导出Videoscape
+Export VRML 1.0	导出VRML 1.0
+Export DXF	导出DXF
+Export STL	导出STL
+Delete current screen	删除当前屏幕
+Add scene	添加场景
+Link Objects	链接物体
+Link ObData	链接物体数据
+Full Copy	完全拷贝
+Delete current scene	删除当前场景
+Some images are painted on. These changes will be lost. Continue ?	一些图像被喷绘过，这些更改将丢失.继续么?
+Import file	导入文件
+Import DXF	导入DXF
+Import VRML 1.0	导入VRML 1.0
+Import VideoScape	导入VideoScape
+Import STL	导入STL
+VRML 1.0...	VRML 1.0...
+DXF...	DXF...
+VideoScape...	VideoScape...
+STL...	TL...
+Videoscape...	Videoscape...
+Erase All	全部擦除
+Recover Last Session	重新打开最后使用的文件
+Enable file compression	开启文件压缩
+Dump Subwindow	子窗口截图
+Dump Screen	全屏截图
+Save Default Settings	保存为默认设置
+Append...	附加...
+Record Game Physics to IPO	录制游戏物理到IPO
+Use Blender Materials	使用Blender材质
+Show Keyframes	显示关键帧
+Show and Select Keyframes	显示和选择关键帧
+Select Next Keyframe	选择下一个关键帧
+Select Previous Keyframe	选择前一个关键帧
+Next Keyframe	下一个关键帧
+Previous Keyframe	前一个关键帧
+Next Frame	下一帧
+Previous Frame	上一帧
+Forward 10 Frames	前进10帧
+Back 10 Frames	后退10帧
+End Frame	末尾帧
+Start Frame	起始帧
+Render Current Frame	渲染当前帧
+Show Render Buffer	显示渲染缓存
+Set Render Border	设置局部渲染
+Render Settings	渲染设置
+Indicates this is a Packed file. See File menu.	表示此为打包的文件.看'文件'菜单.
+Click to display Splash Screen	点击显示开始启动画面
+Shift S, 1	Shift S, 1
+To Next	下一个
+Shift S, 2	Shift S, 2
+To Frame	到帧
+Shift S, 3	Shift S, 3
+Shift S, 4	Shift S, 4
+All Selected	全部选择的
+J, 1	J, 1
+Selected Doubles	选择重叠的
+J, 2	J, 2
+Cardinal	基数
+BSpline	B线样条
+Auto Clamped	自动夹住
+Edit Selected	编辑选择的
+Insert 1:1 Curve...	插入1:1曲线...
+Insert Keyframe...	插入关键帧...
+Record Mouse Movement	记录鼠标移动
+Auto Clamped Handles	自动夹住手柄
+Key Type	帧类型
+Channel Properties	通道属性
+Show Keys	显示帧
+Play Animation	播放动画
+Play Animation in 3D View	在3D视图播放动画
+Move Current Frame to Selected	移动当前帧到选择的
+Shape	形状
+Constraint	约束
+Fluidsim	流体模拟
+Point	点
+Sets Ipo to be included in an Action or not	设置Ipo是否包含进动作内
+Pose Constraint Ipo cannot be switched	Pose约束Ipo不能转换
+Ipo is connected to Pose Action	Ipo连接到Pose动作
+Pose Action Ipo cannot be switched	Pose动作Ipo不能转换
+Show IPO type	显示IPO类型
+Channel Number of the active Material texture.	激活材质纹理的通道数.
+Channel Number of the active World texture.	激活世界纹理的通道数.
+Channel Number of the active Lamp texture. 	激活灯光纹理的通道数.
+Strip Properties...	片段属性...
+Reset Strip Size	重置片段大小
+Reset Action Start/End	重置动作开始/结束
+Add Action Strip	添加动作片段
+Convert Action to NLA Strip	转换动作为NLA片段
+Strip	片段
+Zoom view (CTRL+MiddleMouse)	缩放视图(Ctrl+鼠标中键)
+Zoom view to area	缩放视图到区域
+Displays Current Window Type	显示当前窗口类型
+Material Nodes	材质节点
+Composite Nodes	合成节点
+Use Nodes	使用节点
+Show Outliner	显示大纲
+Show Dependancies	显示依赖关系
+Shuffle Selected Blocks	托拽选择的块
+Shrink Selected Blocks	收缩选择的块
+Show Oops Schematic	显示为接线示意图
+Expand One Level	展开一个级别
+Collapse One Level	收拢一个级别
+Show/Hide All	显示/隐藏全部
+Show Hierarchy	显示层次
+Show Active	显示激活
+Linked to Selected	连接到选择的
+Users of Selected	选择得用户
+Block	块
+Only show object datablocks on visible layers	在可见层上只显示物体数据块
+Displays Scene datablocks	显示场景数据块
+Displays Object datablocks	显示物体数据块
+Displays Mesh datablocks	显示网格数据块
+Displays Curve/Surface/Font datablocks	显示曲线/表面/字体数据块
+Displays Metaball datablocks	显示融合球数据块
+Displays Lattice datablocks	显示晶格数据块
+Displays Lamp datablocks	显示灯光数据块
+Displays Material datablocks	显示材质数据块
+Displays Texture datablocks	显示纹理数据块
+Displays Ipo datablocks	显示Ipo数据块
+Displays Image datablocks	显示图像数据块
+Displays Library datablocks	显示库数据块
+parent	父级
+data	数据
+track	跟踪
+cons.	约束
+constraint	约束
+hook.	钩子
+hook	钩子
+d cons.	d cons.
+d cons	d cons.
+Outliner Display	大纲显示
+All Scenes 	所有场景
+Current Scene 	当前场景
+Visible Layers 	可见层
+Same Types 	相同类型
+Selected 	选择的
+Active 	激活
+Update Menus	更新菜单
+Use when a scripts folder or its contents are modified	如果脚本文件夹或者内容被更改可以更新菜单
+Returns to previous window	返回先前的窗口
+Plugin...	插件...
+Effect	效果
+Snap to Current Frame	吸附到当前帧
+Cut at Current Frame	在当前帧切割
+Change Effect...	更换特效...
+Change Image...	更换图像...
+Change Scene...	更换场景...
+Set Filter Y	设置Y过滤
+Make Meta Strip...	创建融合片段...
+Separate Meta Strip...	分离融合片段...
+Enter/Exit Meta Strip	进入/退出融合片段
+Channel shown in 3D preview. Click to change.	在3d预览内的通道，点击更改
+Image Preview: 	图像预览:
+Sequence 	序列
+Image Preview 	图像预览
+Luma Waveform 	Luma波形
+Chroma Vectorscope 	色彩矢量显示
+Shows the sequence output image preview	显示序列输出图像预览
+Zooms view in and out (Ctrl MiddleMouse)	缩放视图(Ctrl+滚轮)
+Refresh	刷新
+Refresh 	刷新 
+Clears all buffered images in memory	清除内存里所有缓存图像
+No sample info available.	无采样信息可用
+Reopen Text	重新打开文本
+Top of File	顶行
+Bottom of File	底行
+Select Line	选择行
+To Spaces	为空格
+Converts script whitespace to spaces based on Tab:	基于Tab:转换脚本whitespace为空格
+To Tabs	为制表符(Tab)
+Converts script whitespace to tabs based on Tab:	基于Tab:转换脚本whitespace为Tab
+Indent	缩进
+Unindent	取消缩进
+Comment	注释
+Uncomment	取消注释
+Convert whitespace	转换whitespace
+One Object 	单个物体
+Alt-M	 Alt-M
+One Object Per Line	每行一个物体
+Undo	撤销
+Redo	重作
+Cut	剪切
+Paste	粘贴
+Print Cut Buffer	(在控制台)显示减切缓存
+Jump...	跳到...
+Find...	查找...
+Find Again	再次查找
+Text to 3d Object	文本转3d物体
+Reopen	重新打开
+Run Python Script	运行python脚本
+Enables Syntax Highlighting	开启语法高亮
+The text has been changed	文本已经更改
+Stores text in project file	储存文本到工程文件
+Disables storing of text in project file	不储存文本到工程文件
+Screen 12 	12屏幕大小
+Screen 15	15屏幕大小
+Tab:	Tab:
+Set spacing of Tab	设置制表间距
+Frames/Second:	帧/秒:
+Top-Left 3D Window	Top-Left 3D Window
+All 3D Windows	所有3D窗口
+Animation Windows	动画窗口
+Buttons Windows	按钮窗口
+Show Seconds	显示为秒
+Show Frames	显示为帧
+Jump To Next Marker	跳到下一个标记
+Jump To Prev Marker	跳到前一个标记
+Jump To Next Key	跳到下一个关键帧
+Jump To Prev Key	跳到前一个关键帧
+Center View	居中显示
+Add Marker	添加标记
+Duplicate Marker	复制标记
+Delete Marker	删除标记
+Name Marker	命名标记
+Grab/Move Marker	抓取/移动标记
+Set as Start	设置开始
+Set as End	设置结束
+Frame	帧
+Playback	回放
+Skip to Start frame (Shift DownArrow)	跳至起始帧(Shift+向下)
+Skip to previous keyframe (Ctrl PageDown)	跳至起前一个关键帧(Ctrl+PageDown)
+Stop Playing Timeline	停止播放时间线
+Play Timeline 	播放时间线
+Skip to next keyframe (Ctrl PageUp)	跳至下一个关键帧(Ctrl+PageUp)
+Skip to End frame (Shift UpArrow)	跳到结束帧 (Shift+向上)
+Automatically insert keyframes in Object and Action Ipo curves	在物体和动作Ipo曲线内自动插入关键帧
+Play back and sync with audio from Sequence Editor	回放并且同步序列编辑器的音频
+Camera Fly Mode	相机飞行模式
+Orbit Left	左转
+Orbit Right	右转
+Orbit Up	上转
+Orbit Down	下转
+Pan Left	左平移
+Pan Right	右平移
+Pan Up	上平移
+Pan Down	下平移
+Reset Zoom	重置缩放
+Center View to Cursor	视图居中到指针
+Center Cursor and View All	指针居中并显示全部
+Align Active Camera to View	指定激活相机到视图
+Align View to Selected (Top)	指定视图到选择体(顶)
+Align View to Selected (Front)	指定视图到选择体(前)
+Align View to Selected (Side)	指定视图到选择体(侧)
+Align View to Selected	指定视图到选择体
+None Available	无可用
+None of the texts in the Text Editor is a 3D View space handler	文本编辑器内没有文本可用
+Side	侧
+Perspective	透视
+Local View	局部显示
+Global View	全局显示
+Clear Clipping Border	清除剪辑边
+Set Clipping Border	设置剪辑边
+Space Handler Scripts	绑定空格的脚本
+10	10
+12	13
+13	13
+14	14
+15	15
+17	17
+18	18
+19	19
+20	20
+Shift L, 1	Shift L, 1
+Shift L, 2	Shift L, 2
+Shift L, 3	Shift L, 3
+Shift L, 4	Shift L, 4
+Children	子物体
+Shift G, 1	Shift G, 1
+Immediate Children	紧接子物体
+Shift G, 2	Shift G, 2
+Shift G, 3	Shift G, 3
+Objects on Shared Layers	共享层的物体
+Shift G, 4	Shift G, 4
+Objects in Same Group	同一组的物体
+Shift G, 5	Shift G, 5
+Inverse	反选
+Random...	随机...
+Non-Manifold	开口边
+Sharp Edges	锐边
+Linked flat faces	连接的平坦面
+Triangles	三角面
+Quads	四边面
+Non-Triangles/Quads	非三角/四边
+More	加大
+Less	减少
+Linked Vertices	连接的点
+Control Point Row	控制点行
+Connected Control Points	连接的控制点
+Select Constraint Target	选择约束目标
+Same UV	相同UV
+Linked Faces	连接的面
+Cursor -> Grid	指针->网格
+Cursor -> Selection	指针->选择体
+Selection -> Center	选择体->中心
+Shift S, 5	Shift S, 5
+G, X	G, X
+G, Y	G, Y
+G, Z	G, Z
+G, X, X	G, X, X
+G, Y, Y	G, Y, Y
+G, Z, Z	G, Z, Z
+R, X	R, X
+R, Y	R, Y
+R, Z	R, Z
+R, X, X	R, X, X
+R, Y, Y	R, Y, Y
+R, Z, Z	R, Z, Z
+S, X	S, X
+S, Y	S, Y
+S, Z	S, Z
+S, X, X	S, X, X
+S, Y, Y	S, Y, Y
+S, Z, Z	S, Z, Z
+Grab/Move on Axis	在轴上抓取/移动
+Rotate on Axis	在轴上旋转
+Scale on Axis	在轴上缩放
+Shrink/Fatten Along Normals	沿法线收缩/扩展
+Push/Pull	推/拉
+Scale to Image Aspect Ratio	缩放到图像纵横比
+ObData to Center	物体数据到中心点
+Apply Size/Rotation	应用尺寸/旋转
+Apply Deformation	应用变形
+Make Duplicates Real	创建真实复制体
+To Scene...	到场景...
+Mesh Data	网格数据
+Materials	材质
+Curve Data	曲线数据
+Text Data	文本数据
+Surface Data	表面数据
+Camera Data	相机数据
+Lamp Data	灯数据
+Lattice Data	晶格数据
+Armature Data	骨架数据
+U, 1	U, 1
+U, 2	U, 2
+U, 3	U, 3
+U, 4	U, 4
+Location	位置
+Rotation	旋转
+Time Offset	时间偏移
+Dupli	复制
+Mass	质量
+Damping	阻尼
+Logic Bricks	逻辑块
+Object Constraints	物体约束
+NLA Strips	NLA片段
+Texture Space	纹理空间
+Font Settings	字体设置
+Bevel Settings	斜角设置
+Curve Resolution	曲线分辨率
+Subdiv	细分
+AutoSmooth	自动平滑
+Modifiers ...	修改器...
+Particle Settings	粒子设置
+Make Parent...	创建父子关系...
+Clear Parent...	清除父子关系...
+Make Track...	创建跟踪...
+Clear Track...	清除跟踪...
+Add Constraint...	添加约束...
+Insert Keyframe	插入关键帧
+Duplicate Linked	关联复制
+Boolean Operation...	布尔操作...
+Join Objects	合并物体
+Convert Object Type...	转化物体类型...
+Move to Layer...	移到层...
+Merge...	合并...
+Rip	裂开
+W, Alt 1	W, Alt 1
+W, 6	W, 6
+Make Vertex Parent	创建顶点父子关系
+Add Hook	添加钩子
+Make Edge/Face	创建边/面
+W, Alt 2	W, Alt 2
+Loop Subdivide...	环状细分...
+Knife Subdivide...	刀细分...
+W, 4	W, 4
+Crease SubSurf	细分曲面折痕
+Slide Edge 	滑动边
+Delete Edge Loop	删除环边
+Beautify Fill	美化的填充
+W, Alt 3	W, Alt 3
+W, Alt 4	W, Alt 4
+Recalculate Outside	重新计算向外
+Recalculate Inside	重新计算向内
+Flip	翻转
+W, 0	W, 0
+Show Hidden	显示隐藏的
+Hide Deselected	隐藏未选择的
+Undo Editing	撤销编辑
+Redo Editing	重做编辑
+Delete...	删除...
+Show/Hide Vertices	显示/隐藏定点
+Tilt	倾斜
+Clear Tilt	清除倾斜
+Automatic	自动
+Toggle Free/Aligned	切换自由/对齐
+Hide Deselected Control Points	隐藏未选择的控制点
+Reload Original	重加载原始的
+Toggle Cyclic	切换循环
+Control Points	控制点
+Segments	片段
+Show/Hide Control Points	显示/隐藏控制点
+Copyright	版权
+Registered Trademark	注册商标
+Degree Sign	度数标记
+Multiplication Sign	乘法标记
+Superscript 1	上标 1
+Superscript 2	上标 2
+Superscript 3	上标 3
+Double >>	双倍 >>
+Double <<	双倍 <<
+Promillage	Promillage
+Dutch Florin	Dutch Florin
+British Pound	英镑
+Japanese Yen	日本日元
+German S	German S
+Spanish Question Mark	西班牙问号
+Spanish Exclamation Mark	西班牙感叹号
+Paste From Buffer File	从缓存文件粘贴
+Special Characters	特殊字符
+Clear Bone Roll Angle	清除骨骼转动角度
+Extrude Forked	叉状挤压
+Add IK to Bone...	给骨骼添加IK...
+Clear IK...	清除IK...
+Add Constraint to Bone...	添加约束到骨骼
+Clear Constraints...	清除约束...
+Calculate Paths	计算路径
+Clear All Paths	清除所有路径
+Clear Transform	清除边形
+Scale Envelope Distance	缩放封套距离
+Copy Current Pose	拷贝当前Pose
+Paste Pose	粘贴Pose
+Paste Flipped Pose	粘贴翻转的Pose
+Motion Paths	运动路径
+Inverse Kinematics	反向运动
+Flip L/R Names	翻转左/右名字
+Copy Attributes...	拷贝骨架...
+Show/Hide Bones	显示/隐藏骨骼
+Undo Vertex Painting	撤销顶点喷绘
+Undo Weight Painting	撤销权重喷绘
+Set Vertex Colors	设置顶点颜色
+Textured	纹理
+Tiled	平铺
+Shared Vertex Colors	共享顶点颜色
+Use Object Color	使用物体颜色
+Opaque Blend Mode	不透明混合模式
+Additive Blend Mode	添加混合模式
+Alpha Blend Mode	Alpha混合模式
+Active Draw Mode	激活绘制模式
+Copy Draw Mode	拷贝绘制模式
+Unwrap UVs	解开UV
+Rotate UVs	旋转UV
+Mirror UVs	镜像UV
+Copy UVs & Textures	拷贝UV和纹理
+Copy Vertex Colors	拷贝顶点颜色
+Mark Border Seam	编辑边界接口
+Object Mode	物体模式
+Object Mode 	物体模式 
+UV Face Select	UV面选择
+UV Face Select 	UV面选择 
+Vertex Paint	顶点喷绘
+Vertex Paint 	顶点喷绘 
+Texture Paint	纹理喷绘
+Texture Paint 	纹理喷绘 
+Weight Paint	权重喷绘
+Weight Paint 	权重喷绘 
+Pose Mode	Pose模式
+Pose Mode 	Pose模式 
+Draw type: 	绘制类型
+Bounding Box 	范围框
+Wireframe 	线框
+Solid 	实体
+Shaded 	阴影 
+Textured 	带纹理 
+Pivot: 	轴:
+Bounding Box Center 	范围框中心
+Median Point 	中央点
+3D Cursor 	3D指针
+Individual Centers 	个体中心
+Active Object 	激活物体
+Smooth Falloff	平滑衰减
+Sphere Falloff	球形衰减
+Root Falloff	鲁特衰减
+Sharp Falloff	锐利衰减
+Linear Falloff	线性衰减
+Constant, No Falloff	常量,无衰减
+Selectmode Set: Face	选择模式设置:面
+Face	面
+Mode:	模式:
+Viewport Shading (Hotkeys: Z, Shift Z, Ctrl Z, Alt Z	视图光影(快捷键:Z, Shift Z, Ctrl Z, Alt Z)
+Rotation/Scaling Pivot (Hotkeys: Comma, Period) 	旋转/缩放轴心(快捷键:逗号,句号)
+Move object centers only	只移动物体中心
+Use 3d transform manipulator (Ctrl Space)	使用3d边形操纵杆(Ctrl+Space)
+Translate manipulator mode (Ctrl Alt G)	移动操纵杆模式(Ctrl+Alt+G)
+Rotate manipulator mode (Ctrl Alt R)	旋转操纵杆模式(Ctrl+Alt+R)
+Scale manipulator mode (Ctrl Alt S)	缩放操纵杆模式(Ctrl+Alt+S)
+Orientation	方向
+Normal	法线
+Transform Orientation (Alt Space)	变性方向(Alt+Space)
+Proportional 	成比例
+Off 	关
+On 	开
+Connected 	连接的
+Proportional Edit Falloff (Hotkey: O) 	成比例编辑衰减(快捷键:O 欧)
+Proportional Edit Falloff (Hotkey: Shift O) 	成比例编辑衰减(快捷键:shift+O 欧)
+Vertex select mode	顶点选择模式
+Edge select mode	边选择模式
+Face select mode	面选择模式
+Limit selection to visible (clipped with depth buffer)	可见的选择极限(根据深度缓冲省略)
+Render this window (hold CTRL for anim)	渲染此窗口(按住CTRL是动画)
+Old color, click to restore	老的颜色,点击恢复
+Active color	激活色
+Click to choose, hold CTRL to store in palette	点击选择，按住CTRL存储到调色板
+Hex: 	Hex: 
+Hex triplet for colour (Font Size:   8	字体大小:   8
+Join Mesh	合并网格
+Sort faces in Z axis	
+Shrink oops	
+Outliner toggle visible	大纲可见切换
+Outliner toggle selected	选中的大纲切换
+Outliner show/hide one level	显示/隐藏一个级别的大纲
+Outliner click event	大纲点击事件
+Outliner show hierarchy	大纲内显示层级
+Outliner selection	大纲选择
+Scene Operations	场景操作
+Object Operations	物体操作
+Data Operations	数据操作
+Unlink 	解链
+Make Local 	创建局部
+Unlink material	解开材质链接
+Unlink texture	解开纹理链接
+Unlink group	解开组
+Localized Data	局部化数据
+PoseChannel Operations	Pose通道操作
+Unhide	显示
+PoseChannel operation	Pose通道操作
+Bone Operations	骨骼操作
+Bone operation	骨骼操作
+EditBone Operations	编辑模式操作
+EditBone operation	编辑骨骼操作
+Select constraint target	选择约束目标
+Remove IK constraint(s)	移除IK约束
+Remove Constraints	移除约束
+Remove Constraint(s)	移除约束
+Copy Pose Attributes 	拷贝Pose属性
+Copy Pose Attributes	拷贝Pose属性
+Paste Action Pose	粘贴动作Pose
+Localview 	局部显示
+Single Layer 	单独层
+Sorry, sequence scene is not yet back...\n	对不起,序列编辑器场景还不能返回...\n
+Game engine is disabled in this release!	在此版中游戏引擎不可用
+To Selected (top)	到选择的(顶部)
+To Selected (front)	到选择的(前面)
+To Selected (side)	到选择的(侧面)
+Join selected meshes	合并选中的网格
+Join selected curves	合并选中的曲线
+Join selected NURBS	合并选中的NURBS
+Join selected armatures	合并选中的骨架
+Manipulator	操纵杆
+Enable/Disable	开/关
+Translate	变化
+Combo	联合
+Bake all selected	烘焙全部选择体
+Draw mode	绘制方式
+BoundBox 	范围框
+Wire 	线框
+OpenGL Solid 	OpenGL实体
+Shaded Solid 	阴影实体
+Textured Solid 	纹理实体
+Clear location	清除位置
+Handle change	手柄更改
+Recalculate bone roll angles	重新计算骨骼转动角度
+Recalculate normals inside	重新计算法线内侧
+Recalculate normals outside	重新计算法线外侧
+Clear origin	清除原点
+Clear rotation	清除旋转
+Cut Edgeloop	环边切割
+Clear size	清除大小
+Current theme	当前主题
+Makes new copy of this theme	创建此主题的新拷贝
+Delete theme	删除主题
+Rename theme	重命名主题
+UI and Buttons 	界面和按钮
+3D View 	3D视图
+Action Editor 	动作编辑器
+NLA Editor 	NLA编辑器
+Node Editor 	节点编辑器
+Timeline 	时间线
+Audio Window 	音频窗口
+Text Editor 	文本编辑器
+Outliner 	大纲
+Buttons Window 	按钮窗口
+File Browser 	文件浏览器
+Specify theme for...	为...定义主题
+Current color	当前颜色
+Vertex size 	定点大小
+Face dot size 	面中点的大小
+Minimal	最小
+Rounded	圆形风格
+OldSkool	怀旧风格
+Copy Color	拷贝颜色
+Stores current color in buffer	在缓存中保存当前颜色
+Paste Color	粘贴颜色
+Pastes buffer color	粘贴缓冲颜色
+ToolTips	工具提示
+Display tooltips (help tags) over buttons	鼠标移到按钮上显示工具提示(帮助标签)
+Display active object name and frame number in the 3D View	在3D视图显示激活物体的名称和帧数
+Large Cursors	大指针
+Use large mouse cursors when available	当可用时使用大鼠标指针
+Plain Menus	平放菜单
+Use column layout for toolbox and do not flip contents in any menu	工具箱使用横排布局
+Menus:	菜单:
+Open on Mouse Over	鼠标划过打开
+Open menu buttons and pulldowns automatically when the mouse is hovering	当鼠标滑到菜单按钮上就自动弹出菜单
+Top Level:	顶层级别:
+Time delay in 1/10 seconds before automatically opening top level menus	在自动打开顶层菜单前延时1/10秒
+Sublevels:	子级别:
+Time delay in 1/10 seconds before automatically opening menu sublevels	在自动打开顶层菜单前延时1/10秒
+Toolbox click-hold delay:	工具箱点击按住延时：
+LMB:	左键:
+Time in 1/10 seconds to hold the Left Mouse Button before opening the toolbox	左键鼠标按钮按住多少秒打开工具箱
+RMB:	右键:
+Time in 1/10 seconds to hold the Right Mouse Button before opening the toolbox	左右键鼠标按钮按住多少秒打开工具箱
+Pin Floating Panels	固定浮动面板
+Make floating panels invoked by a hotkey (eg. N Key) open at the previous location	用快捷键调用浮动面板(如:N键)出现在先前的位置
+Global Pivot	全局中心
+Lock the same rotation/scaling pivot in all 3D Views	
+Snap objects and sub-objects to grid units when moving	
+Snap objects and sub-objects to grid units when rotating	
+Snap objects and sub-objects to grid units when scaling	
+View zoom:	视图缩放:
+Continue	持续
+Old style zoom, continues while moving mouse up or down	老的缩放方式,当向上或向下移动鼠标时连续缩放
+Dolly	推移
+Zooms in and out based on vertical mouse movement.	基于垂直鼠标移动进行缩放
+Zooms in and out like scaling the view, mouse movements relative to center.	缩放视图一样的缩放，鼠标移动是相对于中心的
+View rotation:	视图旋转
+Allow the view to tumble freely when orbiting with the Middle Mouse Button	
+Use fixed up axis for orbiting with Middle Mouse Button	
+Auto Perspective	自动转透视
+Around Active	围绕激活
+Keep the active object in place when orbiting the views (Object Mode)	当旋转视图时保持激活物体在一个位置(物体模式)
+Select with:	选择物体用:
+Left Mouse	左键
+Use the Left Mouse Button for selection	使用左键选择物体
+Right Mouse	右键
+Use the Right Mouse Button for selection	使用右键选择物体
+Cursor with: Right Mouse	指针放置用：右键
+Cursor with: Left Mouse	指针放置用：左键
+Emulate 3 Button Mouse	模拟三键鼠标
+Emulates Middle Mouse with Alt+LeftMouse (doesnt work with Left Mouse Select option)	Alt+左键模拟中键(在左键选择物体时不起作用)
+Mouse Wheel:	鼠标滚轮:
+Invert Zoom	反转缩放
+Swap the Mouse Wheel zoom direction	反转鼠标滚轮缩放方向
+3D Transform Widget:	操纵杆:
+Diameter of widget, in 10 pixel units	操纵杆直径，以10像素单位
+Handle:	柄:
+Size of widget handles as percentage of widget radius	控制杆三角的大小百分比
+Hotspot:	热区:
+Hotspot in pixels for clicking widget handles	点击控制杆三角的响应区,单位是象素
+Object center diameter	物体中心直径
+Diameter in Pixels for Object/Lamp center drawing	物体/灯光中心的大小，以象素为单位
+Undo:	撤销:
+Number of undo steps available (smaller values conserve memory)	可用的撤销步数()
+Global Undo	全局撤销数
+Global undo works by keeping a full copy of the file itself in memory, so takes extra memory	在内存里保存全局的撤销数据,因此需要额外的内存
+Action and Object	动作和物体
+Automatic keyframe insertion in Object and Action Ipo curves	在物体和动作Ipo曲线中自动关键帧插入
+Available	可用
+Automatic keyframe insertion in available curves	自动在可用的曲线中插入关键帧
+Restore to default	恢复到默认
+Restores to using the default included antialised font	恢复到使用默认内置抗锯齿字体
+Current interface font encoding	当前界面字体编码
+Translate:	翻译:
+Use Textured Fonts	使用纹理字体
+The number of old versions to maintain in the current directory, when manually saving	当手动保存后,在当前目录下自动保存备份数目
+Open the most recently saved temporary file	打开最近保存的临时文件
+Solid OpenGL light:	固定OpenGL灯:
+Light1 	灯光1
+Light2 	灯光2
+Light3 	灯光3
+On	开
+Enable this OpenGL light in Solid draw mode	在实体绘制模式下使用此OpenGL灯
+Lamp vector for OpenGL light	OpenGL光照的灯向量
+Diffuse Color for OpenGL light	OpenGL光照的表面颜色
+Specular color for OpenGL light	OpenGL光照的高光颜色
+sR 	sR 
+sG 	sG 
+sB 	sB 
+MEM Cache Limit 	内存缓存极限
+Memory cache limit in sequencer	序列编辑器内存缓存极限
+Frameserver Port 	Frameserver Port 
+Frameserver Port for Framserver-Rendering	Frameserver Port for Framserver-Rendering
+Disable Game Sound	禁止游戏声音
+Disables sounds from being played in games	当开始游戏后禁止声音
+Hide dot file/datablock	隐藏 点 文件/数据块
+Hide files/datablocks that start with a dot(.*)	从(.*)点开始隐藏文件/数据块
+Time Out 	超时
+Time since last access of a GL texture in seconds after which it is freed. (Set to 0 to keep textures allocated)	Time since last access of a GL texture in seconds after which it is freed. (Set to 0 to keep textures allocated)
+Collect Rate 	Collect Rate 
+Number of seconds between each run of the GL texture garbage collector.	Number of seconds between each run of the GL texture garbage collector.
+Audio mixing buffer:	混音缓冲:
+256	256
+Set audio mixing buffer size to 256 samples	设置音频混合缓冲大小为256采样
+512	512
+Set audio mixing buffer size to 512 samples	设置音频混合缓冲大小为512采样
+1024	1024
+Set audio mixing buffer size to 1024 samples	设置音频混合缓冲大小为1024采样
+2048	2048
+Set audio mixing buffer size to 2048 samples	设置音频混合缓冲大小为2048采样
+YFexport: 	YFexport: 
+Re-evaluate scripts registration in menus	重新评估脚本在菜单内的注册
+Selet the default sound location	选择默认声音位置
+Panel Alignment	面板排列
+Free 	自由
+Insert gaps Sequencer	序列编辑器插入间隙
+Cut strips	切割片段
+Shrink blocks	收缩块
+Shuffle blocks	Shuffle blocks
+Open File	打开文件
+Data Select	数据选择
+10 Timer	10 Timer
+draw	绘制
+draw+swap	绘制+交换
+undo	撤销
+Save user defaults	保存为用户默认设置
+Erase all	全部删除
+OK	确定
+Rotations in degrees!	以度数旋转!
+OK: Assign Values	OK:分配值
+Old:	老:
+Replace image name	替换图象名称
+global	全局
+local	局部
+normal	法线
+view	视图
+Pose edit not possible while Rest Position is enabled	当静止位置开启后Pose编辑不可用
+Select linked UV face	选择连接的UV面
+UV unwrap	展开UV
+UV stretch minimize	UV最小伸展
+UV smooth area	UV平滑区域
+Clear vertex colors	清除顶点色
+Set vertex weight	设置顶点权重
+No Vertex Group Selected	无顶点组被选中
+No Vertex Groups in Object	物体内没有顶点组
+Not supported yet	尚不支持
+undefined	未定义
+Full Frames (Uncompressed)	全帧(不压缩)
+No undo available	没有撤销可用
+No redo available	没有重作可用
+Can't read file\n	不能读取文件\n
+Found more than 16 different colors	发现大于16种不同的颜色
+Can only read Inventor 1.0 ascii	只能读取Inventor 1.0 ascii
+Unknown file type or error, check console	未知文件类型或者错误,查看控制台信息
+Unrecoverable error in SubSurf calculation, mesh is inconsistent.	细分表面计算不可重获错误，网格不一致.
+Undo limit reached, buffer cleared\n	到达撤销极限,缓存清除\n
+Undo buffer error - resetting	撤销缓存错误-重置
+Error writing audio packet	写入音频信息包错误
+Error writing frame	写入帧错误
+Couldn't allocate temporary frame	不能分配临时帧
+Couldn't initialize codec	不能初始化编码器
+Couldn't find a valid audio codec	找不到可用的音频编码器
+Couldn't initialize audio codec	不能初始化音频编码器
+No vaild formats found	找不到可用的格式
+Error opening output file	打开输出文件错误
+Error initializing video stream	初始化视频流错误
+Error initializing audio stream	初始化音频流错误
+Error setting output parameters	输出参数设置错误
+Could not open file for writing	不能打开用于写入的文件
+Can't open socket	
+Can't bind to socket	
+Can't establish listen backlog	
+This is not a valid font	这不是一个有效字体
+Selected Font has no outline data	选择的字体没有轮廓数据
+Failed to load the Freetype font library	加载自由类型字体库错误
+WARNING IN CONSOLE	警告在控制台
+Library had multiple instances, save and reload!	库里有多个实例物体,保存并重新加载
+Wrong indicated name	错误指示名
+Nothing indicated	未指定东西
+Python script error: check console	Python脚本错误:查看控制台信息
+No vertices	无顶点
+Image too small	图像太小
+No border supported for Panorama	无边界支持可用于全景
+No Ortho render possible for Panorama	无立体渲染可用于全景
+No border area selected.	没有选择的框区域
+No Nodetree in Scene	场景内没有节点树
+No Render Output Node in Scene	场景内没有渲染输出节点
+No camera	无相机
+Selected meshes must have faces to perform boolean operations	选择的物体必须有面才能执行布尔操作
+Both meshes must be closed	两网格物体必须是闭合的
+unknown internal error	未知内在错误
+You must add a texture first	你必须添加一个纹理先
+Mixed colors	混合的颜色
+Cannot move above a modifier requiring original data.	不能向上移动修改器,需要原始数据
+Cannot move beyond a non-deforming modifier.	不能移过非变形修改器
+Lattice deform object must be a lattice	晶格变形物体必须是一个晶格
+Curve deform object must be a curve	曲线变形物体必须是一曲线
+Boolean modifier object must be a mesh	布尔修改物体必须是一个网格物体
+Armature deform object must be an armature	骨架变形物体必须是一个骨架
+Modifiers cannot be applied in editmode	修改器在编辑模式不能被应用
+Modifiers cannot be applied to multi-user data	修改器由于多用户数据不能被应用
+Modifier is disabled or returned error, skipping apply	修改器已坏或者错误，跳过应用
+Modifier is disabled, skipping apply	修改器已坏,跳过应用
+Cannot apply modifier for this object type	此物体类型不能应用修改器
+Requires selected vertices or active Vertex Group	需要选择顶点或激活顶点组
+Do you really need that many text frames?	你真的需要那么多的文本帧么?
+Only in editmode!	只用于编辑模式!
+Bevel/Taper Object must be a Curve	斜角/锥化物体必须是一曲线
+Cannot Bevel/Taper own Object	不能斜角/锥化自身物体
+Unable to add: effect limit reached	不能添加:达到影响极限
+Can't change set. It would create a loop!	不能更改设置.它将创建循环
+Cannot combine fields and mipmap	不能联合视野和mipmap
+Image not available. Keeping packed image.	图像不可用.保持包裹的图像.
+Can't pack painted image. Save image from Image window first.	不能打包喷绘的图像.先在图像窗口保存.
+Camera or Lamp not allowed	相机或者灯不被允许
+No texture available	无纹理可用
+Cannot assign a Driver to own Object	不能指定驱动器到自身物体
+Python script error, check console	Python脚本错误,查看控制台
+Error in other (possibly external) file,NIL_NULLcheck console	其它文件错误(可能是外部文件),NIL_NULL查看控制台
+Could not reopen file	不能重新打开文件
+Actions can't be baked in Edit Mode	动作不能在编辑模式下烘培
+Select an armature before baking	烘培前选择一个骨架
+Not yet implemented!	尚未执行!
+Need one active and one selected bone	需要一个激活的和一个选择的骨骼
+Pose Channel already has IK	Pose通道已经有IK了
+IK root cannot be linked to IK tip	IK根部不能连接到IK顶端
+IK tip cannot be linked to IK root	IK顶端不能连接到IK根部
+Can't separate a curve with vertex keys	不能使用顶点关键帧分离一个曲线
+Not implemented yet	尚未执行
+no conversion possible	无转化的可能
+Resolution doesn't match	解析度不匹配
+Too few selections to merge	合并的选择体太少
+No vertex group is active	无激活的顶点组
+The active object is not in this layer	激活物体不在此层
+The active object does not have a mesh obData	激活物体没有网格数据
+Can't create brush	不能创建笔刷
+No active face, or active face has no UV texture	没有激活面或者激活面没有UV纹理
+Text too long	文本太长
+Command failed, see console	命令错误，看控制台
+No active Ipo curve	没有激活的Ipo曲线
+Can't key libactions	库动作不能打关键帧
+cannot copy\n	不能拷贝\n
+Copy buffer is empty	拷贝缓冲为空
+No visible channels	无可见通道
+Incompatible paste	反向粘贴
+Only works for 3 visible curves with handles	只在使用手柄的3个可见曲线才可工作
+Did not set speed	未设置速度
+Maximum 2 visible curves	最大2个可见曲线
+Select 1 or 2 channels	选择一个或者2个通道
+Eeekadoodle! An MFACE-EDGE! Tell Zr!!!!	Eeekadoodle! An MFACE-EDGE! Tell Zr!!!!
+Sticky was too small	粘置太小了
+Can't separate with vertex keys	带有顶点关键帧不能分离
+Can't separate a mesh with vertex keys	带有顶点关键帧的网格不能分离
+Cannot make polygon with interior vertices	内部顶点不能创建多边形
+No faces selected to make FGon	没有选择的面创建FGon
+Didn't find FGon to create	不能找到FGon来创建
+Incorrect number of vertices to make edge/face	错误的顶点数来创建边/面
+The selected vertices already form a face	选择的顶点已经是来自面的
+The selected vertices form a concave quad	选择的顶点在凹四边形内
+No edges are selected to operate on	无选择的边可用
+Nothing indicated 	未指定物体
+Only works in face selection mode	只在面选择模式下工作
+Doesn't work in face selection mode	不在面选择模式下工作
+No faces selected.	无选择的面.
+No faces or vertices selected.	无选择的顶点或面.
+No valid selection	无有效选择
+No valid vertices are selected	无有效选择的顶点
+Must be in Front View	必须在前视图
+No curve is selected	没有选择的曲线
+Malloc Was not happy!	Malloc不高兴了!
+Select one edge or two adjacent faces	选择一个边或者两个相邻的面
+3+ face edge	三个以上面边
+loop crosses itself	自身环状交错
+Was not a single edge loop	不是一个单独环边
+could not order loop	不能指定环
+Missing rails	Missing rails
+Can't perform ripping with faces selected this way	在此种面选择下不能执行分离
+No proper selection or faces included	未包含正确的选择或者面
+No proper edge found to start	无正确的查询面来开始
+Object Has No Key	物体没有关键帧
+Object Has No Blendshapes	物体没有混合形状
+Shape Has had Verts Added/Removed, please cycle editmode before copying	形状已经有顶点被添加/移除,请在拷贝前循环编辑模式
+Path Selection requires that exactly two vertices be selected	路径选择需要正确的两个选择的顶点
+No more steps to undo	无撤销可用
+No more steps to redo	无重作可用
+Need active Object to add NLA strips	需要激活物体来添加NLA片段
+Not a group	不是一个组
+Can't ungroup	不能解组
+Can not add a Group in a Group	组内不能添加组
+No groups available in database	数据库内无组可用
+Can not add a new Group in a Group	组内不能添加新组
+Can not add RenderResult in a Group	在组内不能添加渲染结果
+Can not make Group	不能创建组
+Cannot edit Library Data	不能编辑库数据
+Requires selected Object	需要选择物体
+Object has no hooks yet	物体还没有钩子
+Select either 1 or 3 vertices to parent to	选择不是1个就是3个顶点来创建父子关系
+Loop in parents	Loop in parents
+No active Bone	无激活骨骼
+Too many vertices	顶点太多
+Can't change the center of a mesh with vertex keys	能更改带有顶点关键帧的中心
+Unable to center new in Edit Mode	不能在编辑模式下指定新中心
+Unable to center cursor in Edit Mode	不能在编辑模式下指定中心到指针
+An internal error occurred	发生内在错误
+Both meshes must be a closed mesh	两物体必须是闭合网格物体
+Please select 2 meshes	请选择两个网格物体
+No properties in the active object to copy	激活物体无属性可拷贝
+This is the current scene	这是当前场景
+Can't apply to a multi user mesh	不能应用于多用户网格
+Can't apply to a mesh with vertex keys	不能应用于带有顶点关键帧的网格
+Can't apply to a multi user armature	不能应用于多用户骨骼
+Can't apply to a multi user curve	不能应用于多用户曲线
+Can't apply to a curve with vertex keys	不能应用于带有顶点关键帧的曲线
+Read console	读控制台
+something wrong in areafullscreen	全屏下有错误
+Can't do this! Open correct window	不能操作！打开正确窗体
+Wrong window	错误窗体
+There is no more space to add a sequence strip	没有更多的空间来添加序列片段
+The selected file is not a movie	选择的文件不是一个电影文件
+Unsupported audio format	不支持的音频格式
+Only 16 bit audio is supported	只支持16位音频
+The selected file is not a sound file	选择的文件不是一个声音文件
+Can't apply effects to audio sequence strips	不能给音频序列片段应用特效
+Need at least one selected sequence strip	至少需要选择一个序列片段
+Need 2 selected sequence strips	需要两个选择的序列片段
+Need at least one active sequence strip	至少需要一个激活的序列片段
+Can't make Meta Strip from audio	不能用音频创建融合片段
+Please select all related strips	请选择全部有关的片段
+Cannot cut Meta strips	不能切割融合片段
+No strips to cut	无片段可用于切割
+Unable to perform action in Edit Mode	不能在编辑模式下执行动作
+Select target with leftmouse	用左键选择目标
+No files selected	无选中的文件
+No second fileselect	无第二个选中的文件
+Same directories	相同目录
+No pose appended	无Pose可添加
+Not a library	不是库
+Library not loaded	库未被加载
+Cannot use current file as library	不能使用当前文件作为库
+Warn bugtracker!	Warn bugtracker!
+Invalid scripts dir: check console	错误脚本目录:查看控制台
+Can't perfom this in editmode	在编辑模式下不可用
+Nothing replaced	无取代
+Image is already packed.	图像已经被打包.
+Can't pack painted image. Save the painted image first.	不能打包喷绘的图像.先保存喷绘的图像.
+There are no packed images to unpack	没有打包的图像进行解包
+Can't save Videoscape. Press TAB to leave EditMode	不能保存Videoscape.按TAB离开编辑模式
+Can't save VRML. Press TAB to leave EditMode	不能保存VRML.按TAB离开编辑模式
+Can't save DXF. Press TAB to leave EditMode	不能保存DXF.按TAB离开编辑模式
+Can't save STL. Press TAB to leave EditMode	不能保存STL.按TAB离开编辑模式
+No file ~/.B.blend	无文件 ~/.B.blend
+Select an object before showing its keyframes	选择一个物体然后显示它的关键帧
+Select an object before showing and selecting its keyframes	Select an object before showing and selecting its keyframes
+Select an object before selecting its next keyframe	选择一个物体然后选择它的下一个关键帧
+Select an object before selecting its previous keyframe	选择一个物体然后选择它的前一个关键帧
+Select an object before going to its next keyframe	选择一个物体然后跳到它的下一个关键帧
+Select an object before going to its previous keyframe	选择一个物体然后跳到它的前一个关键帧
+Only meshes can be shrinked/fattened	只有网格物体可以收缩/扩张
+Painting in packed images not supported	不能在打包图像上喷绘
+Invalid language file	语言文件已坏
+Can't join meshes with vertex keys	不能合并带有顶点关键帧的网格物体
+Cannot edit builtin name	不能编辑内建名称
+Mixed selection	混合选区
+Not enough memory for area smoothing grid.	内存不足
+Can't pose libdata	Can't pose libdata
+No Pose	无Pose
+Can't open output file	不能打开输出文件
+No info func	无信息可用
+no (correct) camera	无(正确的)相机
+Duplicate not possible in posemode.	Pose模式下不能复制
+in console	在控制台
+Not in localview 	不在本地视图
+The active object does not have dupliverts	激活物体没有复制顶点
+.B.blend is buggy, please consider removing it.\n	.B.blend有bug,请考虑删除吧.\n
+Unable to make version backup	不能创建备份
+Cannot overwrite used library	不能覆盖使用的库
+Too many objects in select buffer	在选择缓冲内的物体太多
+Sorry,  no more than 8 localviews	炖母鸡,不能超过8个本地视图
+Unable to perform function in Edit Mode	在编辑模式下不可执行
+Active object is not in this layer	激活物体不在此层
+Codec is locked or not supported.	解码被锁或者不支持
+Wrong filename	错误的文件名
+WriteMovie: couldn't flock() moviefile. Ignoring.	WriteMovie: couldn't flock() moviefile. Ignoring.
+clCompress (software)	clCompress (software)
+mvDeleteFrames	mvDeleteFrames
+mvInsertCompressedImage	mvInsertCompressedImage
+mvFindTrackByMedium	mvFindTrackByMedium
+mvOpenFD	mvOpenFD
+Not a valid license key ! Removing installed key.	Not a valid license key ! Removing installed key.
+Can't install key	Can't install key
+\n	\n
+numbuts	numbuts
+Layers 1-5	层1-5
+Layers 6-10	层6-10
+Layers 11-15	层11-15
+Layers 16-20	层16-20
+SEPR	SEPR
+(De)select All	(不)选全部
+Linked Flat Faces	链接的面
+Row	行
+Exit Editmode	退出编辑模式
+W, 5	W, 5
+Loop Subdivide	环状细分
+Slide Edge	滑动边
+Convert to Triangles	转换为三角形
+Convert to Quads	转换为四边形
+W, 9	W, 9
+Show/Hide	显示/隐藏
+Select Next	选择下一个
+Select Prev	选择上一个
+Enter Editmode	进入编辑模式
+Object Keys	物体帧
+Show/Hide Edges	显示/隐藏边
+Show/Hide Normals	显示/隐藏边法线
+Subdivision Surface	细分表面
+Show/Hide Points	显示/隐藏点
+Make Links...	创建链接...
+Make Single User...	创建独立用户...
+Boolean Operation	布尔操作
+Join Objects...	合并物体...
+Bounding Box	范围框
+Wireframe	线框
+Viewport Shading	视图光阴
+Ortho/Perspective	平视/透视
+Local/Global View	局部/全局视图
+Proportional Edit	成比例编辑
+Icosphere	Ico球
+Bone	骨骼
+Nothing...	无...
+Inputs	输入
+Outputs	输出
+Color Ops	颜色Ops
+Vector Ops	矢量Ops
+Convertors	变化器
+Generators	产生器
+Filters	过滤器
+types menu	类型菜单
+Edit Group	编辑组
+Hide/Unhide	隐藏/显示
+Show Cyclic Dependencies	显示循环从属
+View all	显示全部
+No Groups	没有组
+group menu	组菜单
+toolbox	工具箱
+texture_panel_plugin	texture_panel_plugin
+texture_panel_magic	texture_panel_magic
+texture_panel_blend	texture_panel_blend
+texture_panel_wood	texture_panel_wood
+texture_panel_stucci	texture_panel_stucci
+texture_panel_marble	texture_panel_marble
+texture_panel_clouds	texture_panel_clouds
+texture_panel_musgrave	texture_panel_musgrave
+Multifractal 	多重不规则
+Ridged Multifractal 	Ridged Multifractal 
+Hybrid Multifractal 	Hybrid Multifractal 
+Hetero Terrain 	Hetero Terrain 
+fBm 	fBm 
+texture_panel_distnoise	texture_panel_distnoise
+texture_panel_voronoi	texture_panel_voronoi
+texture_panel_envmap	texture_panel_envmap
+Ob:	Ob:
+Displays object to use as viewpoint for environment map: click to change	
+ClipSta	
+Sets start value for clipping: objects nearer than this are not visible to map	
+texture_panel1	
+texture_panel_image	
+texture_panel_colors	
+texture_panel_texture	
+texture_panel_preview	
+radio_panel_calculation	
+radio_panel_tool	
+radio_panel_render	
+mtex	
+world_panel_mapto	
+world_panel_texture	
+ADD NEW 	添加新的
+world_panel_mistaph	
+Physics 	物理
+Sumo 	Sumo 
+Ode 	Ode 
+Bullet 	Bullet 
+Physics Engine	物理引擎
+world_panel_amb_oc	
+world_panel_world	
+world_panel_preview	
+lamp_panel_mapto	
+lamp_panel_texture	
+lamp_panel_spot	
+lamp_panel_yafray	
+lamp_panel_lamp	
+Sets area light shape	设置面光源灯外形
+lamp_panel_preview	
+material_panel_map_to	
+material_panel_map_input	
+material_panel_texture	
+material_panel_tramir	
+Material presets 	材质预设
+No Reflect/Transmit 	无反射/透射
+Clear Glass 	无色玻璃
+Color Glass 	有色玻璃
+Uniform Reflect 	统一反射
+Fresnel Reflect 	非聂耳反射
+material_panel_shading	
+Diffuse Shader	漫反射光照
+Lambert 	Lambert 
+Oren-Nayar 	Oren-Nayar 
+Toon 	卡通
+Minnaert 	Minnaert 
+Specular Shader	反光光照
+CookTorr 	CookTorr 
+Phong 	Phong 
+Blinn 	Blinn 
+WardIso 	WardIso 
+Limit Lighting to Lamps in this Group	
+material_panel_ramps	
+strand menu	条形菜单
+material_panel_material	material_panel_material
+material_panel_nodes	material_panel_nodes
+material_panel_links	material_panel_links
+material_panel_preview	material_panel_preview
+None	无
+DistortedNoise	
+CheckerOdd	
+CheckerEven	
+ColorBand	
+FlipBlend	
+InterPol	
+StField	
+NormalMap	
+CloudDefault	
+CloudColor	
+WoodBands	
+WoodRings	
+WoodBandNoise	
+WoodRingNoise	
+MarbleSoft	
+MarbleSharp	
+MarbleSharper	
+BlendLin	
+BlendQuad	
+BlendEase	
+BlendDiag	
+BlendSphere	
+BlendHalo	
+StucciPlastic	
+StucciWallIn	
+StucciWallOut	
+EnvmapStatic	
+EnvmapAnim	
+EnvmapLoad	
+MultiFractal	
+HeteroTerrain	
+RidgedMultiFractal	
+HybridMultiFractal	
+fBM	
+BlenderOriginal	
+OriginalPerlin	
+ImprovedPerlin	
+VoronoiF1	
+VoronoiF2	
+VoronoiF3	
+VoronoiF4	
+VoronoiF2-F1	
+VoronoiCrackle	
+CellNoise	
+Distance	
+DistanceSquared	
+Manhattan	
+Chebychev	
+MinkovskyHalf	
+MinkovskyFour	
+Minkovsky	
+Get	
+getExtend	
+() - Return Texture extend mode	
+getImage	
+() - Return Texture Image	
+getName	
+() - Return Texture name	
+getSType	
+() - Return Texture stype as string	
+getType	
+() - Return Texture type as string	
+getIpo	
+() - Return Texture Ipo	
+setIpo	
+(Blender Ipo) - Set Texture Ipo	
+clearIpo	
+() - Unlink Ipo from this Texture.	
+setExtend	
+(s) - Set Texture extend mode	
+setFlags	
+(f1,f2,f3,f4,f5) - Set Texture flags	
+setImage	
+(Blender Image) - Set Texture Image	
+setImageFlags	
+(s,s,s,s,...) - Set Texture image flags	
+setName	
+(s) - Set Texture name	
+setSType	
+(s) - Set Texture stype	
+setType	
+(s) - Set Texture type	
+setNoiseBasis	
+(s) - Set Noise basis	
+setDistNoise	
+(s) - Set Dist Noise	
+setDistMetric	
+(s) - Set Dist Metric	
+animFrames	
+Number of frames of a movie to use	
+animLength	
+Number of frames of a movie to use (0 for all)	
+animMontage	
+Montage mode, start frames and durations	
+animOffset	
+Offsets the number of the first movie frame to use	
+animStart	
+Starting frame of the movie to use	
+brightness	
+Changes the brightness of a texture's color	
+contrast	
+Changes the contrast of a texture's color	
+crop	
+Sets the cropping extents (for image textures)	
+distAmnt	
+Amount of distortion (for distorted noise textures)	
+distMetric	
+The distance metric (for Voronoi textures)	
+exp	
+Minkovsky exponent (for Minkovsky Voronoi textures)	
+extend	
+Texture's 'Extend' mode (for image textures)	
+fieldsPerImage	
+Number of fields per rendered frame	
+filterSize	
+The filter size (for image and envmap textures)	
+flags	
+Texture's 'Flag' bits	
+hFracDim	
+Highest fractional dimension (for Musgrave textures)	
+imageFlags	
+Texture's 'ImageFlags' bits	
+Texture's image object	
+ipo	
+Texture Ipo data	
+iScale	
+Intensity output scale (for Musgrave and Voronoi textures)	
+lacunarity	
+Gap between succesive frequencies (for Musgrave textures)	
+name	
+Texture data name	
+noiseBasis	
+Noise basis type (wood, stucci, marble, clouds, Musgrave, distorted noise)	
+noiseBasis2	
+Additional noise basis type (wood, marble, distorted noise)	
+noiseDepth	
+Noise depth (magic, marble, clouds)	
+noiseSize	
+Noise size (wood, stucci, marble, clouds, Musgrave, distorted noise, Voronoi)	
+noiseType	
+Noise type (for wood, stucci, marble, clouds textures)	
+octs	
+Number of frequencies (for Musgrave textures)	
+repeat	
+Repetition multiplier (for image textures)	
+rgbCol	
+RGB color tuple	
+stype	
+Texture's 'SType' mode	
+turbulence	
+Turbulence (for magic, wood, stucci, marble textures)	
+type	类型
+Texture's 'Type' mode	纹理的类型模式
+users	
+Number of texture users	
+weight1	
+Weight 1 (for Voronoi textures)	
+weight2	
+Weight 2 (for Voronoi textures)	
+weight3	
+Weight 3 (for Voronoi textures)	
+weight4	
+Weight 4 (for Voronoi textures)	
+sine	
+Produce bands using sine wave (marble, wood textures)	
+saw	
+Produce bands using saw wave (marble, wood textures)	
+tri	
+Produce bands using triangle wave (marble, wood textures)	
+interpol	
+Interpolate image's pixels to fit texture mapping enabled ('ImageFlags')	
+useAlpha	
+Use of image's alpha channel enabled ('ImageFlags')	
+calcAlpha	
+Calculation of image's alpha channel enabled ('ImageFlags')	
+mipmap	
+Mipmaps enabled ('ImageFlags')	
+fields	
+Use of image's fields enabled ('ImageFlags')	
+rot90	
+X/Y flip for rendering enabled ('ImageFlags')	
+cyclic	
+Looping of animated frames enabled ('ImageFlags')	
+movie	
+Movie frames as images enabled ('ImageFlags')	
+anti	
+Image anti-aliasing enabled ('ImageFlags')	
+stField	
+Standard field deinterlacing enabled ('ImageFlags')	
+normalMap	
+Use of image RGB values for normal mapping enabled ('ImageFlags')	
+<module>.<name>	
+Blender Texture	
+name_str	
+expected zero, one or two strings as arguments	
+couldn't create Texture in Blender	
+couldn't create Tex PyObject	
+expected string argument (or nothing)	
+couldn't create PyList	
+couldn't create Texture PyObject	
+CLOUDS	云
+WOOD	木纹
+MARBLE	大理石
+MAGIC	魔术
+BLEND	混合
+STUCCI	STUCCI
+NOISE	噪波
+IMAGE	图像
+PLUGIN	插件
+ENVMAP	环境映射
+MUSGRAVE	MUSGRAVE
+VORONOI	VORONOI
+DISTNOISE	DISTNOISE
+CLD_DEFAULT	CLD_DEFAULT
+CLD_COLOR	CLD_COLOR
+WOD_BANDS	WOD_BANDS
+WOD_RINGS	WOD_RINGS
+WOD_BANDNOISE	WOD_BANDNOISE
+WOD_RINGNOISE	
+MAG_DEFAULT	
+MBL_SOFT	
+MBL_SHARP	
+MBL_SHARPER	
+BLN_LIN	
+BLN_QUAD	
+BLN_EASE	
+BLN_DIAG	
+BLN_SPHERE	
+BLN_HALO	
+STC_PLASTIC	
+STC_WALLIN	
+STC_WALLOUT	
+NSE_DEFAULT	
+IMG_DEFAULT	
+PLG_DEFAULT	
+ENV_STATIC	
+ENV_ANIM	
+ENV_LOAD	
+MUS_MFRACTAL	
+MUS_RIDGEDMF	
+MUS_HYBRIDMF	
+MUS_FBM	
+MUS_HTERRAIN	
+DN_BLENDER	
+DN_PERLIN	
+DN_IMPROVEDPERLIN	
+DN_VORONOIF1	
+DN_VORONOIF2	
+DN_VORONOIF3	
+DN_VORONOIF4	
+DN_VORONOIF2F1	
+DN_VORONOICRACKLE	
+DN_CELLNOISE	
+VN_INT	
+VN_COL1	
+VN_COL2	
+VN_COL3	
+VN_TEX_DISTANCE	
+VN_TEX_DISTANCE_SQUARED	
+VN_TEX_MANHATTAN	
+VN_TEX_CHEBYCHEV	
+VN_TEX_MINKOVSKY_HALF	
+VN_TEX_MINKOVSKY_FOUR	
+VN_TEX_MINKOVSKY	
+ORCO	
+REFL	
+NOR	
+GLOB	
+WIN	
+STICK	
+COL	
+CSP	
+CMIR	
+REF	
+SPEC	
+HARD	
+ALPHA	
+EMIT	
+RAYMIR	
+AMB	
+TRANSLU	
+DISP	
+WARP	
+COLORBAND	
+FLIPBLEND	
+NEGALPHA	
+CHECKER_ODD	
+CHECKER_EVEN	
+EXTEND	
+CLIP	
+CLIPCUBE	
+REPEAT	
+INTERPOL	
+USEALPHA	
+MIPMAP	
+FIELDS	
+ROT90	
+CALCALPHA	
+STFIELD	
+CYCLIC	
+NORMALMAP	
+SINE	
+SAW	
+TRI	
+BLENDER	
+PERLIN	
+IMPROVEDPERLIN	
+VORONOIF1	
+VORONOIF2	
+VORONOIF3	
+VORONOIF4	
+VORONOIF2F1	
+VORONOICRACKLE	
+CELLNOISE	
+MIX	
+MULTIPLY	
+SUBTRACT	
+DIVIDE	
+DARKEN	
+DIFFERENCE	
+LIGHTEN	
+SCREEN	
+FLAT	
+CUBE	
+TUBE	
+SPHERE	
+Blender.Texture	
+Types	
+STypes	
+TexCo	
+MapTo	
+Flags	
+ExtendModes	
+ImageFlags	
+BlendModes	
+Mappings	
+Proj	
+MTex	
+couldn't create BPy_Texture PyObject	
+invalid internal extend mode	
+couldn't get Texture.name attribute	
+invalid texture stype internally	
+invalid texture type internally	
+(ii)(ii)(ii)(ii)	
+expected a tuple of tuples	
+ffff	ffff
+expected tuple of 4 floats	
+invalid bit(s) set in mask	
+expected an Image	
+image flags MIPMAP and FIELDS cannot be used together	
+expected string argument	
+soft	软
+hard	硬
+noise type must be 'soft' or 'hard'	
+expected int (see 'Noise' constant dictionary)	
+invalid noise type	
+expected int value of 1	
+ii	
+expected tuple of 2 ints	
+fff	
+expected tuple of 3 floats	
+expected int argument	
+invalid stype (for this type)	
+invalid dist metric type	
+expected an Ipo object	
+null ipo!	空Ipo!
+Ipo is not a texture data Ipo	
+couldn't get attribute	不能获得属性
+((i,i),(i,i),(i,i),(i,i))	
+(f,f,f,f)	
+(i,i)	
+(f,f,f)	
+(O)	
+expected a tuple of string arguments	
+unknown Texture flag argument	
+(i)	
+invalid texture type	
+invalid extend mode	
+invalid noise basis	
+invalid texture stype	
+expected tuple of string arguments	
+unknown Texture image flag name	
+sortremovedoub	
+MDeformWeight Append	
+MDeformWeight Copy	
+xsort	
+Erase	删除
+Erase Vertices	删除顶点
+Erase Edges & Faces	删除边和面
+Erase Edges	删除边
+Erase Faces	删除面
+Erase Only Faces	只删除面
+subdiv deformWeight	细分边形权重
+outside\n	外测\n
+inside\n	内侧\n
+New inner verts	
+quad-quad subdiv inner verts outer array	
+quad-quad subdiv inner verts inner array	
+tri-tri subdiv inner verts outer array	
+tri-tri subdiv inner verts inner array	
+vertlist	定点列表
+beautyfill	完美填充
+jointris	
+edgeflip	翻转边
+Hidden Vert Scratch Array for Rotate Edges	
+bevel_mesh: split\n	倒角网格:分离\n
+deformWeight	变形权重
+bevel_mesh: make edge quads\n	倒角网格:创建四边形边\n
+bevel_mesh: edge quad\n	倒角网格:四边形边\n
+bevel_mesh: error creating face\n	倒角网格:创建面错误\n
+bevel_mesh: find clusters\n	
+Found vertex cluster:\n  *\n  *\n	
+*\n	  *\n
+bevel_mesh: shrink faces\n	倒角网格:收缩面\n
+bevel_mesh: fill clusters\n	
+SlideVert	
+Copy Shape Menu Text	
+Copy Vert Positions from Shape 	
+collected edge	
+element collection	
+collected face	
+Path Select Nodes	路径选择节点
+Path Edge	路径边
+Path Select Costs	Path Select Costs
+PathNode indices	路径节点索引
+OPEN NEW 	打开新的
+add new	添加新的
+ObIpo	物体Ipo
+CoIpo	颜色Ipo
+ActIpo	动作Ipo
+MatIpo	材质Ipo
+TexIpo	纹理Ipo
+MatSeq	材质
+CuIpo	
+KeyIpo	关键帧Ipo
+WoIpo	世界Ipo
+LaIpo	型变Ipo
+CaIpo	
+SndIpo	
+noaudio	无声
+Error: no type definitions for nodes\n	错误:节点未定义类型\n
+sock	sock
+group in group, not supported yet\n	还不支持组内组\n
+group type	组类型
+bNodeSocketType	bNodeSocketType
+NodeGroup	节点组
+Removed link, cannot mix internal and external sockets in group\n	移去的连接，不能在组里混合内部和外部接口\n
+wrong stuff!\n	错误材料!\n
+wrong stuff too!\n	1个错误材料!\n
+1 wrong stuff!\n	错误材料!\n
+1 wrong stuff too!\n	1个错误材料!\n
+new node	新建节点
+node blur data	节点模糊数据
+node hue sat	节点色彩饱和
+dupli node	复制节点
+link	连接
+new node tree	新建节点树
+sorted node array	节点这列分类
+sort error in node tree	节点树内种类错误
+real	real
+node preview	节点预览
+node preview rect	node preview rect
+freed leftover buffer from stack\n	不要去掉末尾的\n
+node stack	节点堆栈
+compbuf	compbuf
+compbuf RGBA rect	compbuf RGBA rect
+compbuf Vector3 rect	compbuf Vector3 rect
+compbuf Vector2 rect	compbuf Vector2 rect
+compbuf Fac rect	compbuf Fac rect
+ImBuf_struct	ImBuf_struct
+viewer rect	viewer rect
+Viewer	查看器
+Composite	合成
+File Output	文件输出
+float rect	float rect
+NodeImageAnim	节点图像动画
+Diffuse	故有色
+Specular	高光
+Render Result	渲染结果
+Value	值
+Dot	点
+Fac	Fac
+Time	时间
+CurveMapping	曲线映射
+Vector Curves	矢量曲线
+RGB Curves	RGB曲线
+Hue Saturation	色调饱和度
+NodeHueSat	节点色调饱和
+ColorRamp	渐变颜色
+Val	值
+RGB to BW	彩色转黑白
+Separate RGBA	分离RGBA
+Separate HSVA	分离HSVA
+Set Alpha	设置Alpha
+AlphaOver	Alpha抠像
+Z Combine	Z联合
+Map Value	映射值
+TexMapping	纹理映射
+gauss	高斯
+bloom	bloom
+gauss array	高斯阵列
+filter tab	过滤标签
+Blur	模糊
+NodeBlurData	节点模糊数据
+ERROR: cannot do different sized vecbuf yet\n	错误:还不能使用不同大小的矢量缓冲\n
+ERROR: input should be vecbuf\n	错误:输入必须是矢量缓冲\n
+ERROR: input should be zbuf\n	错误:输入必须是Z缓冲\n
+ERROR: cannot do different sized zbuf yet\n	错误:还不能使用不同大小的z缓冲\n
+Vector Blur	矢量模糊
+Geometry	几何体
+Mapping	映射
+Color1	颜色1
+Color2	颜色2
+names	名称
+Near	靠近
+Keyboard	键盘
+Property	属性
+Mouse	鼠标
+Radar	雷达
+Random	随机
+Message	消息
+Joystick	手柄
+unknown	未知
+Sensors 	传感器
+Always 	永远
+Keyboard 	键盘
+Mouse 	鼠标
+Touch 	接触
+Collision 	碰撞
+Near 	靠近
+Radar 	雷达
+Property 	属性
+Random 	随机
+Ray 	射线
+Message 	消息
+Joystick 	手柄
+AND	和
+OR	或
+Expression	表达式
+Python	Python
+Controllers   	控制器
+AND 	和 
+OR 	或 
+Expression 	表达式 
+Python 	Python 
+Motion	运动
+CD	CD
+Edit Object	编辑物体
+Visibility	可见性
+Actuators  	执行器 
+Action 	动作 
+Motion 	运动 
+Constraint 	约束 
+Ipo 	Ipo 
+Camera 	相机 
+Sound 	声音 
+Edit Object 	编辑物体 
+Scene 	场景 
+CD 	CD 
+Game 	游戏 
+Visibility 	可见性 
+idar	idar
+Only look for floors with this Material	只寻找此材质的地面
+Type 	类型 
+Equal 	相等
+Not Equal 	不相等
+Interval 	间隔
+Changed 	更改
+Left button 	左键
+Middle button 	中键
+Right button 	右键
+Wheel Up 	滚轮向上
+Wheel Down 	滚轮向下
+Movement 	移动
+Mouse over 	鼠标滑上
+Mouse over any	鼠标滑上任何物体
++ X axis 	+ X轴 
++ Y axis 	+ Y轴 
++ Z axis 	+ Z轴 
+- X axis 	- X轴 
+- Y axis 	- Y轴 
+- Z axis 	- Z轴 
+Button 	按钮
+Axis 	轴
+Hat	帽
+Pressed 	按下
+Released 	释放
+Up Axis 	上轴
+Down Axis 	下轴
+Left Axis 	做轴
+Right Axis 	右轴
+Exp:	Exp:
+Script: 	脚本: 
+Action types   	动作类型
+Play 	播放
+Ping Pong 	乒乓
+Flipper 	翻转
+Loop Stop 	循环停止
+Loop End 	循环末尾
+AC: 	AC: 
+Action name	动作名称
+Ipo types   	Ipo 类型   
+Type   	类型   
+Assign   	分配   
+Copy from this Object	从此物体拷贝
+Sound files	声音文件
+Sound mode 	声音模式 
+Play Stop 	播放停止
+Play End 	播放末尾
+Loop Ping Pong Stop 	乒乓循环停止
+Loop Ping Pong 	乒乓循环
+Play all tracks 	播放所有轨
+Play one track 	播放单轨
+Stop 	停止
+Pause 	暂停
+Resume 	重开始
+ME:	ME:
+Track to this Object	跟踪此物体
+Add Object 	添加物体
+End Object 	结束物体
+Replace Mesh 	替换物体
+Track to 	追踪
+Limit 	极限
+Loc X 	X位置
+Loc Y 	Y位置
+Loc Z 	Z位置
+Rot X 	X旋转
+Rot Y 	Y旋转
+Rot Z 	Z旋转
+Add an Overlay Scene	添加一个覆盖场景
+Remove a Scene	移除一个场景
+Pause a Scene	暂停一个场景
+Unpause a Scene	继续一个场景
+Restart 	重新开始
+Set Scene 	设置场景
+Set Camera 	设置相机
+Add OverlayScene 	添加覆盖场景
+Add BackgroundScene 	添加背景场景
+Remove Scene 	移除场景
+Suspend Scene 	延缓场景
+Resume Scene 	继续场景
+Load game	加载游戏
+Start loaded game	开始加载的游戏
+Restart this game	重新开始此游戏
+Quit this game 	退出此游戏
+Start new game	开始新游戏
+GroupKey types   	组键类型
+Set Key 	设置键
+Visible 	可见
+Invisible 	不可见
+Distribution 	分配
+Bool Constant 	
+Bool Uniform 	
+Bool Bernoulli 	
+Int Constant 	
+Int Uniform 	
+Int Poisson 	
+Float Constant 	
+Float Uniform 	
+Float Normal 	
+Float Neg. Exp. 	
+filemenu	文件菜单
+Types 	类型
+Bool 	布尔
+Int 	整数
+String 	字符串
+Timer 	定时
+Basic Latin	基本拉丁
+Latin 1 Supp	
+Latin-1 Supplement	
+Latin Ext. A.	
+Latin Extended-A	
+Latin Ext. B.	
+Latin Extended-B	
+Latin Ext. Add.	
+Latin Extended Additional	
+IPA Ext	
+IPA Extensions	
+Spacing Mod.	
+Spacing Modifier Letters	
+Comb. Dia.	
+Combining Diacritical Marks	
+Greek, Coptic	
+Greek and Coptic	
+Greek Ext.	
+Greek Extended	
+Cyrillic	
+Cyrillic Supp.	
+Cyrillic Supplementary	
+Armenian	亚美尼亚
+Hebrew	希伯来
+Arabic	阿拉伯
+Syriac	叙利亚
+Thaana	塔纳
+Devanagari	梵文字母
+Bengali	孟加拉
+Gurmukhi	果鲁穆奇字母
+Gujarati	
+Oriya	
+Tamil	泰米尔语
+Tegulu	
+Kannada	
+Malayalam	
+Sinhala	僧伽罗语
+Thai	泰语
+Lao	老挝语
+Tibetan	西藏语
+Myanmar	缅甸
+Georgian	乔治亚
+Ethiopic	埃塞俄比亚
+Cherokee	切罗基族
+Unif. Canadian	
+Unified Canadian Aboriginal Syllabics	
+Ogham	欧甘文字
+Runic	古代北欧
+Tagalog	塔加路族
+Hanunoo	哈鲁喏文
+Buhid	布迪
+Tagbanwa	
+Khmer	
+Khmer Symb	
+Khmer Symbols	
+Mongolian	 蒙古语
+Limbu	
+Tai Le	
+Phon. Ext.	
+Phonetic Extensions	
+Gen. Punct.	
+General Punctutation	
+Super, Sub	
+Superscripts and Subscripts	
+Curr. Symb.	
+Currency Symbols	
+Comb. Diacrit.	
+Combining Diacritical Marks for Symbols	
+Letter Symb	
+Letterlike Symbols	
+Numb. Forms	
+Number Forms	
+Math Oper.	
+Mathematical Operators	
+Misc. Tech.	
+Miscellaneous Technical	
+Ctrl. Pict.	
+Control Pictures	
+OCR	
+Optical Character Recognition	
+Enc. Alpha	
+Enclosed Alphanumerics	
+Bow Drawing	
+Box Drawing	
+BLock Elem.	
+Block Elements	
+Geom. Shapes	
+Geometric Shapes	
+Misc. Symb.	
+Miscellaneous Symbols	
+Dingbats	
+Misc. Math A	
+Miscellaneous Mathematical Symbols-A	
+Supp. Arrows-A	
+Supplemental Arrows-A	
+Braille Pat.	
+Braille Patterns	
+Supp. Arrows-B	
+Supplemental Arrows-B	
+Misc. Math B	
+Miscellaneous Mathematical Symbols-B	
+Supp. Math Op.	
+Supplemental Mathematical Operators	
+Miscellaneous Symbols and Arrows	
+Kangxi Rad.	康熙
+Kangxi Radicals	康熙
+Ideographic	
+Ideographic Description Characters	
+Hiragana	日平假名
+Katakana	日片假名
+Katakana Ext.	
+Katakana Phonetic Extensions	
+Bopomofo	汉语拼音
+Bopomofo Ext.	
+Bopomofo Extended	
+Hangul	韩文
+Hangul Jamo	
+Hangul Comp.	
+Hangul Compatibility Jamo	
+Hangul Syll.	
+Hangul Syllables	
+Kanbun	
+Yijing Hex.	
+Yijing Hexagram Symbols	
+Yi Syllables	
+Yi Radicals	
+High Surr.	
+High Surrogate Area	
+Low Surr.	
+Low Surrogates	
+Priv. Use Area	
+Private Use Area	
+CJK Rad. Supp.	
+CJK Radicals Supplement	
+CJK Ideographs	
+CJK Unified Ideographs	
+CJK Ideog. Ext. A	
+CJK Unified Ideographs Extension A	
+CJK Ideog. Ext. B	
+CJK Unified Ideographs Extension B	
+CJK Symbols.	
+CJK Symbols and Punctuation	
+Enclosed CJK	
+Enclosed CJK Letters and Months	
+CJK Comp.	
+CJK Compatibility	
+CJK Comp. Ideog.	
+CJK Compatibility Ideographs	
+CJK Comp. Forms	
+CJK Compatibility Forms	
+CJK Comp. Supp.	
+CJK Compatibility Ideographs Supplement	
+Alpha. Pres. Forms	
+Alphabetic Presentation Forms	
+Arabic Pres. A	
+Arabic Presentation Forms-A	
+Arabic Pres. B	
+Arabic Presentation Forms-B	
+Var. Sel.	
+Variation Selectors	
+Comb. Half	
+Combining Half Marks	
+Sml. From Var.	
+Small Form Variants	
+Half, Full Forms	
+Halfwidth and Fullwidth Forms	
+Lin. B Syllab.	
+Linear B Syllabary	
+Lin. B Idog.	
+Linear B Ideograms	
+Aegean Num.	
+Aegean Numbers	
+Old Italic	
+Gothic	
+Ugaritic	
+Deseret	
+Shavian	
+Osmanya	
+Cypriot Syll	
+Cypriot Syllabary	
+Bysantine Mus.	
+Bysantine Musical Symbols	
+Music Symb.	
+Musical Symbols	
+Tai Xuan Symb	
+Tai Xuan Jing Symbols	
+Math. Alpha Symb.	
+Mathematical Alpanumeric Symbols	
+Tags	
+Var. Supp	
+Variation Selectors Supplement	
+Supp. Priv. A	
+Supplementary Private Use Area-A	
+Supp. Priv. B	
+Supplementary Private Use Area-B	
+editing_panel_mesh_type	
+TexMesh: 	
+Enter the name of a Meshblock	
+modifier_add_menu	
+Applying will delete mesh vertex colors	
+Applying will delete mesh sticky, keys, and vertex groups	
+Subsurf	细分
+Subsurf Type	细分类型
+Catmull-Clark	Catmull-Clark
+Simple Subdiv.	简单细分
+Ob: 	Ob: 
+Lattice object to deform with	用来变形的晶格物体
+Curve object to deform with	用来变形的曲线物体
+Armature object to deform with	用来变形的骨架物体
+Parent Object for hook, also recalculates and clears offset	用于钩子的父级物体,也可重新计算并清除偏移
+Mesh object to use for boolean operation	用于布尔操作的网格物体
+Curve object to fit array length to	匹配阵列长度的曲线物体
+Object from which to take offset transformation	
+editing_panel_modifiers	
+key string	
+editing_panel_shapes	
+Key value, when used it inserts an animation curve point	
+vfontbutstr	
+FONTS 	字体 
+editing_panel_char_type	
+editing_panel_font_type	
+TextOnCurve:	
+Apply a deforming curve to the text	
+editing_panel_curve_tools	
+editing_panel_curve_tools1	
+editing_panel_curve_type	
+BevOb:	evOb:
+Curve object name that defines the bevel shape	
+TaperOb:	
+Curve object name that defines the taper (width)	
+editing_panel_camera_type	
+editing_panel_camera_yafraydof	
+Bokeh Type	焦外成像类型
+Disk1	Disk1
+Disk2	Disk2
+Triangle	三角形
+Pentagon	五边形
+Hexagon	六边形
+Bokeh Bias	偏移
+Uniform	同一
+editing_panel_mball_type	
+editing_panel_mball_tools	
+editing_panel_lattice_type	
+IK	
+qsort_ptr	
+editing_panel_armature_type	
+editing_panel_armature_bones	
+Bone str	
+editing_panel_pose_bones	
+Object that defines custom draw type for this Bone	
+editing_panel_mesh_tools	
+Extrudes the selected vertices in a circle around the cursor in the indicated viewport	
+editing_panel_mesh_tools1	
+menustr	
+editing_panel_links	
+editing_panel_mesh_paint	
+editing_panel_mesh_texface	
+editing_panel_mesh_uvautocalculation	
+sound_panel_listener	
+sound_panel_sequencer	
+sound_panel_sound	
+Mono	
+Stereo	
+post render	
+framing_options	
+MPEG-2	MPEG-2
+MPEG-4	MPEG-4
+AVI	AVI
+Quicktime	Quicktime
+DV	DV
+DVD	DVD
+SVCD	SVCD
+VCD	VCD
+MPEG2	MPEG2
+MPEG4(divx)	MPEG4(divx)
+HuffYUV	HuffYUV
+MP3	MP3
+AC3	AC3
+AAC	AAC
+PCM	PCM
+FFMpeg	FFMpeg
+AVI Raw	AVI Raw
+AVI Jpeg	AVI Jpeg
+AVI Codec	AVI编码
+QuickTime	QuickTime
+Targa	Targa
+Targa Raw	Targa Raw
+PNG	PNG
+BMP	BMP
+Jpeg	Jpeg
+HamX	HamX
+Iris	Iris
+Iris + Zbuffer	Iris + Zbuffer
+Radiance HDR	Radiance HDR
+Cineon	Cineon
+DPX	DPX
+render_panel_output	render_panel_output
+render_panel_render	render_panel_render
+render_panel_anim	render_panel_anim
+render_panel_ffmpeg_video	render_panel_ffmpeg_video
+render_panel_ffmpeg_audio	渲染面板_ffmpeg_audio
+render_panel_format	渲染面板_格式
+render_panel_yafrayGI	渲染面板_yafrayGI
+render_panel_yafrayGlobal	渲染面板_yafrayGlobal
+menu layers	菜单层
+render_panel_layers	渲染面板层
+anim_panel	动画面板
+.Bpib	.Bpib
+blenderplayer	blender播放器
+.exe	.exe
+.app	.app
+Open file: 	打开文件:
+Child Of	..的子物体
+FrameChanged	更改的帧
+OnLoad	加载
+OnSave	保存
+Select Grouped	选择建组的
+Built-in	内建
+New User Theme	新建用户主题
+sensor	传感器
+cont	控制器
+act	执行器
+Add Multires	添加多精度
+Sculpt Mode	雕刻模式
+Sculpt Mode 	雕刻模式 
+Sculpt	雕刻
+Sculpt 	雕刻 
+Sculpting Tools	雕刻工具
+Brush Textures	笔刷纹理
+Pinch	收缩
+Inflate	膨胀
+Grab	抓取
+Airbrush	喷枪
+Symmetry	对称
+Multires	多精度
+Fade	淡出
+averaging	均匀度
+Add Level	添加级别
+Del Lower	删除低级别
+Del Higher	删除高级别
+Rendering	渲染
+Free Unused	释放未使用的
+Read Saved Render Results	读取保存的渲染结果
+Choose Language:	选择语言:
+Choose Language: 	选择语言: 
+Region to Loop	区域转环选
+View Name	视图名称
+Tool Tips	工具提示
+Loop to Region	环选转区域
+Generate Display Lists	生成显示列表
+Field Type	场类型
+Wind	风
+Spherical	球形
+Vortex	漩涡
+Curve Guide	引导曲线
+Choose Font Size:	选择字体大小:
+Collapse	塌陷
+Node	节点
+Convertor	转换器
+VertCo	顶点色
+Save image as:	保存图像为:
+Save image as: 	保存图像为: 
+Manual	手册
+Mode: 	模式: 
+Select Vertex Path 	选择顶点路径
+Select Vertex Path	选择顶点路径
+World 	世界 
+Wizards	精灵
+Save Buffers	保存缓冲
+Render Window 	渲染窗口
+Render Display 	渲染显示
+Image Editor 	图像编辑器
+Full Screen 	全屏幕
+Apply Scale/Rotation	应用变形/旋转
+Displace	置换
+EdgeSplit	自动平滑
+From Angle	以角度算
+From Flag	以标记算
+Rebuild	重建
+Delete cloud effect	删除云特效
+Atmosphere turbidity value	大气混浊度
+One	单一
+Use single sun object	使用单个太阳物体
+Additional angle in degs under horizon	附加地平线以下角度
+Use Date and pos	使用日期和位置
+Use date and location	使用日期和位置
+Current standart time	当前标准时间
+Current date	当前日期
+Nat	自然
+Natural sky colors	自然天空色
+Verse	Verse
+Connect to localhost	连接到localhost
+Connect ...	连接...
+Get Servers	获取服务器
+Bake Wire Image from UVs	从UV烘培线框图象
+Generate an image from the selected mesh objects UV coords and materials	从选择的网格物体UV坐标和材质烘培图象
+Bake Vertex Color Image from UVs	从UV烘培顶点着色图象
+Generate an image from the selected mesh objects vertex colors.	从选择的物体顶点色产生一个图
+Bake Texture Image from UVs	从UV烘培纹理图象
+Generate a texture image from the selected mesh objects UV coords	从选择的网格物体UV坐标烘培一个纹理图象
+Search	搜索
+Find	查找
+Find (Case Sensitive)	查找(区分大小写)
+Find Complete	全字匹配查找
+Find Complete (Case Sensitive)	全字匹配查找(区分大小写)
+Mark Sharp	标记锐角
+Clear Sharp	清除锐角
+Delete Multires	删除多精度
+Particle System	粒子系统
+Particle Visuals	粒子显示
+Particle Physics	粒子物理
+Enabled	启用
+Basic:	基本设置:
+Type:	类型:
+Emit From:	发射自:
+Emitter	发射器
+Reactor	反应器
+Keyed	Keyed
+Effector	受动器
+Verts	 顶点
+Edges	 边
+Faces	 面
+Volume	 容积
+React on	作用
+Death	死亡
+First	第一
+Magnet	磁铁
+Rotator	旋转机
+Harmonic	谐波
+Nuclear	核心
+Spherical	 球形
+Vortex	 漩涡
+Magnet	 磁铁
+Wind	 风
+Rotator	 旋转机
+Harmonic	 谐波
+Nuclear	 核心
+Visualization:	呈现:
+Nothing	无
+Cicle	圈
+Nothing	 无
+Point	 点
+Cicle	 圈
+Cross	 十字
+Axis	 轴
+Object	 物体
+Group	 组
+Path	 路径
+Vel	速度
+AngV	角速
+Baked:	烘培的:
+Render:	渲染:
+Effectors:	受动器:
+Die on collision	死于碰撞
+Size Deflect	大小偏转
+Keys	关键帧
+Kink	结
+Const	恒量
+Abs Length	绝对长度
+Absolute Time	绝对时间
+Newtonian	牛顿
+Global effects	全局影响
+Soft Body II	软体II
+CEdge	边碰撞
+CFace	面碰撞
+Self Collision	自碰撞
+All Z values	全部Z值
+Mini Axis	迷你轴
+Cameras	相机设置
+Bake-Render Meshes	烘培渲染网格物体
+Combine RGBA	联合RGBA
+Mattes	抠像
+Difference Key	差值扣像
+Color Spill	色彩溢出
+Chroma Key	色度扣像
+Chroma Key 	色度扣像
+Green	绿色
+Blue	蓝色
+Luminance Key	亮度扣像
+SplitViewer	分离查看器
+Backdrop	背景
+Math	数学
+Vector Math	向量数学
+Squeeze Value	压缩值
+Set Active Object as Active Camera	设置激活物体作为激活相机
+Camera (Active)	相机(激活)
+Image*	图象*
+Transform Snap	变换吸附
+Drawtype 	绘制类型
+Limit Scale	缩放限制
+Limit Rotation	旋转限制
+Limit Location	位移限制
