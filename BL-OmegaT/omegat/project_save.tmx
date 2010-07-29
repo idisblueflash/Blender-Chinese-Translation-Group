@@ -2133,6 +2133,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;14 &lt;s1&gt;Comments&lt;/s1&gt;&lt;/a0&gt;   &lt;s2&gt;Published by &lt;s3&gt;&lt;a4&gt;Bart&lt;/a4&gt; &lt;/s3&gt; on July 28th, 2010 in &lt;a5&gt;Fun&lt;/a5&gt;&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T003853Z" changeid="flash">
+        <seg>&lt;a0&gt; 14 &lt;s1&gt;个评论&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;由&lt;s3&gt;&lt;a4&gt;Bart&lt;/a4&gt;&lt;/s3&gt;于2010年7月28日发表在&lt;a5&gt;工具盒栏目&lt;/a5&gt;上&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;15 &lt;s1&gt;Comments&lt;/s1&gt;&lt;/a0&gt;   &lt;s2&gt;Published by &lt;s3&gt;&lt;a4&gt;Bart&lt;/a4&gt; &lt;/s3&gt; on June 21st, 2010 in &lt;a5&gt;Blender 2.5&lt;/a5&gt;&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="ZH">
@@ -2193,6 +2201,14 @@
       </tuv>
       <tuv lang="ZH">
         <seg>&lt;a0&gt; 20 &lt;s1&gt;评论&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;发布者&lt;s3&gt;&lt;a4&gt;社区记者&lt;/a4&gt;&lt;/s3&gt;于2010年6月22日在&lt;a5&gt;教程&lt;/a5&gt;&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;32 &lt;s1&gt;Comments&lt;/s1&gt;&lt;/a0&gt;   &lt;s2&gt;Published by &lt;s3&gt;&lt;a4&gt;Bart&lt;/a4&gt; &lt;/s3&gt; on July 28th, 2010 in &lt;a5&gt;Video&lt;/a5&gt;&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004341Z" changeid="flash">
+        <seg>&lt;a0&gt; 32 &lt;s1&gt;个评论&lt;/s1&gt;&lt;/a0&gt;&lt;s2&gt;由&lt;s3&gt;&lt;a4&gt;Bart&lt;/a4&gt;&lt;/s3&gt;于2010年7月28日发表在&lt;a5&gt;娱乐栏目&lt;/a5&gt;上&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4188,6 +4204,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All characters are based in Psl-Man MultiRig (Red-Nelb character with the rig of Psl-Man will be online in a couple weeks or so).</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004816Z" changeid="flash">
+        <seg>所有人物都基于Psl-Man MultiRig (大约几周后Red-Nelb character with the rig of Psl-Man 也会出现)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All graphics is potentially being updated still, and certainly will be color graded yet.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -4208,6 +4232,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
       </tuv>
       <tuv lang="ZH">
         <seg>出版物中所有产品和公司的名称是其各自所有者的注册商标。 &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All students was working on the idea, script, style, modeling, animation, etc …</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004839Z" changeid="flash">
+        <seg>所有的学生正在创意，脚本，样式，造型，动画等方面工作...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5223,6 +5255,14 @@ In general, the technical terms used in CG are quite new or even downright neolo
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Big Buck Bunny Sighted at Disney</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T004100Z" changeid="flash">
+        <seg>大巴克班尼兔的截图出现在迪斯尼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Biochemical visualization using Blender</seg>
       </tuv>
       <tuv lang="ZH">
@@ -5588,6 +5628,7 @@ for issue number 29, and they need your contribution.</seg>
     <tu>
       <tuv lang="EN-US">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         <seg>Blenderhead</seg>
       </tuv>
@@ -5903,141 +5944,185 @@ for issue number 29, and they need your contribution.</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>Call for Content: Blenderart Magazine #29 Comments Feed</seg>
+=======
+        <seg>Daniel Martinez Lara writes:</seg>
+>>>>>>> news0729
       </tuv>
-      <tuv lang="ZH">
-        <seg>第29期Blenderart杂志开始征集稿件 评论的Feed</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Call for Content: Blenderart Magazine #29 | BlenderNation</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>第29期Blenderart杂志开始征集稿件 | BlenderNation</seg>
+      <tuv lang="ZH" changedate="20100729T004348Z" changeid="flash">
+        <seg>Daniel Martinez Lara 写道：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Call for content BlenderArt #13</seg>
+        <seg>Everything was made in Blender 2.50.</seg>
       </tuv>
-      <tuv lang="ZH">
-        <seg>第13期Blenderart杂志开始征集稿件</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Camera tracking tutorial with Blender and Voodoo</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg> 用Blender和Voodoo制作摄像头跟踪教程</seg>
+      <tuv lang="ZH" changedate="20100729T004857Z" changeid="flash">
+        <seg>一切由Blender2.50制作。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Campbell suggested someone go over the commit log for every commit since alpha 2 and pick out the commits worth listing.</seg>
+        <seg>Everything: modelling, animation, illumination, the render is Blender Internal and all the comp is Blender too.</seg>
       </tuv>
+      <tuv lang="ZH" changedate="20100729T004444Z" changeid="flash">
+        <seg>动画里的：建模，动画，照明，illumination，渲染都是在Bender里面做的，合成也是。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to model a realistic eyeball in Blender</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005109Z" changeid="flash">
+        <seg>如何在Blender里建立一个写实的眼球</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll post some blends with the setup of lights and comp on &lt;a0&gt;BlenderArtists&lt;/a0&gt; later.</seg>
+      </tuv>
+<<<<<<< HEAD
       <tuv lang="ZH">
         <seg>Campbell建议，应该有个人去整理一下alpha2版本以后的日志，挑出那些值得做的列表内容。</seg>
+=======
+      <tuv lang="ZH" changedate="20100729T004555Z" changeid="flash">
+        <seg>我稍后会把合成和灯光设置的配置贴在&lt;a0&gt; BlenderArtists &lt;/a0&gt;上。</seg>
+>>>>>>> news0729
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cars Animated Automatically</seg>
+        <seg>I’m happy with the work of students :)</seg>
       </tuv>
-      <tuv lang="ZH">
-        <seg>汽车自动动画</seg>
+      <tuv lang="ZH" changedate="20100729T004501Z" changeid="flash">
+        <seg>能与学生们一起工作我感到高兴：）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cassie Merrick writes:</seg>
+        <seg>Learn how to create a realistic 3D model of an eye within Blender with this video guide.</seg>
       </tuv>
+<<<<<<< HEAD
       <tuv lang="ZH">
         <seg>Cassie Merrick 写道：</seg>
+=======
+      <tuv lang="ZH" changedate="20100729T005210Z" changeid="flash">
+        <seg>这个视频讲展示如何在Blender里面创建一个写实的眼睛3D模型</seg>
+>>>>>>> news0729
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Categories</seg>
+        <seg>Michael wrote: “I saw a &lt;a0&gt;screenshot of Big Buck Bunny&lt;/a0&gt; at the new Disney Research Institute in Zurich!</seg>
       </tuv>
-      <tuv lang="ZH">
-        <seg>分类</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Change the Render count to &lt;s2&gt;1&lt;/s2&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH">
-        <seg>把Render（渲染）数值设置成&lt;s2&gt;1&lt;/s2&gt;。</seg>
+      <tuv lang="ZH" changedate="20100729T004009Z" changeid="flash">
+        <seg>Michael 写道： “我在迪斯尼苏黎世新的研究所看到了 &lt;a0&gt;大巴克班尼兔的截图&lt;/a0&gt;！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Change the name of the texture to &lt;s0&gt;Specularity&lt;/s0&gt;, and set the type to &lt;s1&gt;Image or Movie&lt;/s1&gt;.</seg>
+        <seg>One dropbox account (&lt;a0&gt;www.dropbox.com&lt;/a0&gt;) was used like a sever to get all the project sync with the all students.</seg>
       </tuv>
+      <tuv lang="ZH" changedate="20100729T005050Z" changeid="flash">
+        <seg>我们用一个dropbox账户(&lt;a0&gt;www.dropbox.com&lt;/a0&gt;)来让项目中所有学生的工作同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Posts by Bart</seg>
+      </tuv>
+<<<<<<< HEAD
       <tuv lang="ZH">
         <seg>把Texture的名字改成 &lt;s0&gt;Specularity&lt;/s0&gt;，并把类型设置成&lt;s1&gt;Image or Movie&lt;/s1&gt;。</seg>
+=======
+      <tuv lang="ZH" changedate="20100729T003759Z" changeid="flash">
+        <seg>Bart发布</seg>
+>>>>>>> news0729
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Changes since the last release candidate are:</seg>
+        <seg>Some Facts:)</seg>
       </tuv>
+<<<<<<< HEAD
       <tuv lang="ZH">
         <seg>与上个版本相比，修改内容如下：</seg>
+=======
+      <tuv lang="ZH" changedate="20100729T004653Z" changeid="flash">
+        <seg>一些数据：）</seg>
+>>>>>>> news0729
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Check &lt;s1&gt;RGB to Intensity&lt;/s1&gt; to convert the image to B&amp;W format.</seg>
+        <seg>The Cup</seg>
       </tuv>
+<<<<<<< HEAD
       <tuv lang="ZH">
         <seg>点选&lt;s1&gt;RGB to Intensity&lt;/s1&gt;将图像转换为 B&amp;W（黑白） 格式。</seg>
+=======
+      <tuv lang="ZH" changedate="20100729T004256Z" changeid="flash">
+        <seg>奖杯</seg>
+>>>>>>> news0729
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Check &lt;s2&gt;Negative&lt;/s2&gt; to invert the texture.</seg>
+        <seg>The production time was 3 months, 3 students work on full time and another 3 students on spare time.</seg>
       </tuv>
+<<<<<<< HEAD
       <tuv lang="ZH">
         <seg>点选&lt;s2&gt;Negative&lt;/s2&gt;来反转Texture。</seg>
+=======
+      <tuv lang="ZH" changedate="20100729T004648Z" changeid="flash">
+        <seg>影片的生产时间为3个月，3名学生全职工作，另外3名学生兼职。</seg>
+>>>>>>> news0729
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Check back here &lt;s0&gt;next week&lt;/s0&gt; for Part 2!</seg>
+        <seg>The render is Blender internal and the render time in a i7 processor took about 3 minutes.</seg>
       </tuv>
+<<<<<<< HEAD
       <tuv lang="ZH">
         <seg>点击访问 &lt;s0&gt;下周&lt;/s0&gt; 的第二部分！</seg>
+=======
+      <tuv lang="ZH" changedate="20100729T004951Z" changeid="flash">
+        <seg>渲染采用了Blender内部渲染器，渲染时间为3分钟（i7处理器）。</seg>
+>>>>>>> news0729
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Check the &lt;s0&gt;Blend Sky&lt;/s0&gt; box and set the &lt;s1&gt;horizon color to a very light blue &lt;/s1&gt;and the &lt;s2&gt;Zenith Color to a light blue&lt;/s2&gt;.</seg>
+        <seg>The sighting is from Euronews”.</seg>
       </tuv>
-      <tuv lang="ZH">
-        <seg>选中 &lt;s0&gt;Blend Sky&lt;/s0&gt;框，设置&lt;s1&gt;horizon color为淡蓝 &lt;/s1&gt;然后设置&lt;s2&gt;Zenith Color 为浅蓝&lt;/s2&gt;。</seg>
+      <tuv lang="ZH" changedate="20100729T004032Z" changeid="flash">
+        <seg>这个是在欧洲新闻上看到的”。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Check the Specular &lt;s0&gt;Intensity&lt;/s0&gt;.</seg>
+        <seg>View all posts in Fun</seg>
       </tuv>
+<<<<<<< HEAD
       <tuv lang="ZH">
         <seg>选择Specular的&lt;s0&gt;Intensity&lt;/s0&gt;选择。</seg>
+=======
+      <tuv lang="ZH" changedate="20100729T003816Z" changeid="flash">
+        <seg>在 娱乐栏目 中查看所有帖子</seg>
+>>>>>>> news0729
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cheers</seg>
+        <seg>View all posts in Video</seg>
       </tuv>
-      <tuv lang="ZH">
-        <seg>干杯</seg>
+      <tuv lang="ZH" changedate="20100729T004323Z" changeid="flash">
+        <seg>在 视频栏目 中查看所有帖子</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
+<<<<<<< HEAD
         <seg>Choose &lt;i1&gt;Image or movie&lt;/i1&gt;.</seg>
       </tuv>
       <tuv lang="ZH">
@@ -21078,6 +21163,12 @@ Tomo has posted some pretty neat character</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>-Colin</seg>
+=======
+        <seg>Whether you're new to the Blender Foundation's popular open-source 3D computer graphics application or are a seasoned digital artist</seg>
+      </tuv>
+      <tuv lang="ZH" changedate="20100729T005300Z" changeid="flash">
+        <seg>不管你是Blender的新手还是个经验丰富的数位艺术家，你都能学会。</seg>
+>>>>>>> news0729
       </tuv>
     </tu>
   </body>
