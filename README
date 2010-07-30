@@ -13,19 +13,51 @@ Fox/idisblueflash@gmail.com
 
 新人Jessica 要开始这个项目的翻译
     # Jessica's Machine
-    $ git clone git@github.com:idisblueflash/Blender-Chinese-Translation-Group.git J-git
+    $ git clone git@github.com:idisblueflash/Blender-Chinese-Translation-Group.git Blender-Translation 
     ...
-    $ cd J-git                          （Jessica的本地工作目录）
+    $ cd Blender-Translation           （Jessica在本地创建工作目录）
 
-    $ git branch BAM#9                  (新建一个分支用来处理BAM#9的翻译项目)
-    $ git checkout BAM#9                (切换到这个分支，开始工作)
-    $ vim README                        (修改一些内容）
-    $ git commit -am '加入了翻译词汇。'  （填写修改日志）
+    如果她想看看有那些分支在进行：
+    $ git branch                        (会列出所有分支)
 
-    $ git checkout master               (返回主分支)
-    $ git merge BAM#9                   (把BAM#9分支并入主分支)
+      BAM#9
+    * master                            #星号代表当前Jessica所在的分支
+      news0728
+      news0729
+      notes
+      tut
+    
+    现在Jessica想继续在别人的tut项目上，翻译点文章：
+    $ git checkout tut
+    $ vim xxx                           #用她喜欢的vim文本编辑器开始工作
 
-    $ git push origin master            (把本地修改同步到服务器)
+    $ git commit -am "刚才对xxx的修改"  #用来写备注
+    $ git checkout master               #回到原来的master项目上来。
+
+    现在Jessica想，最好单独开一个news，处理以后的新闻翻译：
+    $ git branch news                   #创建一个新的分支
+    $ git checkout news
+
+    $ vim README.news                   #  .创建一个新文件...继续忙点添加修改工作。
+    $ git add README.news               #把新文件提交给系统
+    $ git commit -am "创建了一个README.news文件"
+    $ git checkout master
+    $ git merge news                    #把新分支并入主系统
+    $ git push origin master            #和服务器同步
+
+Jessica结束了一天的工作。
+
+第二天 Jessica开始了工作。这之间，Bob也在项目上工作了。
+
+Jessica有个好习惯，就是每次工作前：
+    $ git fetch origin                  #和服务器同步一下
+    $ git log                           #看看大家都有什么改进/进展
+
+    然后开始工作。
+    结束工作后，要push。
+又一天结束了：）
+
+
 
 注：
     $ git branch -d BAM#9 可以删除不再需要的分支。
