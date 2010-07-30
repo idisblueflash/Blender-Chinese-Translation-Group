@@ -1,0 +1,18 @@
+7/30/10 9:48 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Total:           	      82	  716	                       4377	                         4835	
+Remaining:       	      34	  242	                       2051	                         2079	
+Unique:          	      75	  672	                       4050	                         4500	
+Unique Remaining:	      30	  209	                       1768	                         1796	
+
+
+Individual File Statistics:
+
+File Name                                                     	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	
+nation/2010/07/27-Blender at Barcamp, Guayaquil, Ecuador.html 	        101	             53	                              759	                                  459	                                800	                                    459	
+nation/2010/07/28-PSP Game: PlayEnglish.html                  	        179	             27	                              941	                                  213	                               1081	                                    213	
+nation/2010/07/28-User Meeting: Fargo-Moorhead, July 28th.html	        127	             67	                              807	                                  493	                                861	                                    496	
+nation/2010/07/29-Big Buck Bunny Sighted at Disney.html       	        109	             55	                              773	                                  536	                                838	                                    551	
+nation/2010/07/29-The Cup.html                                	        200	             40	                             1097	                                  350	                               1255	                                    360	
